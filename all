@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2024-10-01 09:38:50 
+#更新时间: 2024-10-01 22:17:49 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:20736
+#规则数量:20745
 ##################
 
 110.43.121.13 bigota.d.miui.com
@@ -6313,7 +6313,6 @@
 127.0.0.1 aventus.pro
 127.0.0.1 avenueadventure.xyz
 127.0.0.1 average-champion.pro
-127.0.0.1 avi.onlineprestamo.click
 127.0.0.1 aviabotpl.pro
 127.0.0.1 aviplgame.pro
 127.0.0.1 avvusife.advicehigh.quest
@@ -8546,7 +8545,6 @@
 127.0.0.1 download.dackinc.com
 127.0.0.1 download.dnv.com
 127.0.0.1 download.doumaibiji.cn
-127.0.0.1 download.ebaymx.com
 127.0.0.1 download.file.co.pl
 127.0.0.1 download.filmfanatic.com
 127.0.0.1 download.forfreeminecraft.com
@@ -9623,7 +9621,6 @@
 127.0.0.1 glisteningproject.pro
 127.0.0.1 glitteringstress.pro
 127.0.0.1 glixu.click
-127.0.0.1 global-malls.pro
 127.0.0.1 globaladv.net
 127.0.0.1 globalapi.ad.xiaomi.com
 127.0.0.1 globalinformacje.click
@@ -10914,6 +10911,9 @@
 127.0.0.1 konsola-dla-ciebie.click
 127.0.0.1 konspektbilans.click
 127.0.0.1 kontaktowe24h.click
+127.0.0.1 konto-aktivieren-check.online
+127.0.0.1 konto-update-check.online
+127.0.0.1 konto-verifizieren-check.online
 127.0.0.1 kontroladowodowa.click
 127.0.0.1 kontrolapasow.click
 127.0.0.1 kontroldrogowa.click
@@ -11120,6 +11120,7 @@
 127.0.0.1 lilackymusimon.click
 127.0.0.1 lilypiu3.pro
 127.0.0.1 lim.ofishlprog1.click
+127.0.0.1 limacamposadv.online
 127.0.0.1 limaemeloadvocacia.com.br
 127.0.0.1 limuquu0.pro
 127.0.0.1 lin.open-sooursee.live
@@ -13169,6 +13170,7 @@
 127.0.0.1 pamietnikkolejarza.click
 127.0.0.1 panca.pector.click
 127.0.0.1 pancakesvap.finance-v4.pro
+127.0.0.1 pancakeswap.flnance.api-web3.top
 127.0.0.1 panda.adsame.com
 127.0.0.1 pandora-konkurs.com.pl
 127.0.0.1 pandora-konkurs.pl
@@ -14864,6 +14866,7 @@
 127.0.0.1 scdn.eclick.vn
 127.0.0.1 sceggerthingal.click
 127.0.0.1 scene.vip.xunlei.com
+127.0.0.1 schdules.opeations-pages-advetisings.com
 127.0.0.1 schematposta.click
 127.0.0.1 schematyczne.click
 127.0.0.1 schowanerzeczy.click
@@ -15142,6 +15145,7 @@
 127.0.0.1 setytio5.pro
 127.0.0.1 seure-update.fartit.com
 127.0.0.1 sevynyetox.pro
+127.0.0.1 sewagegove.click
 127.0.0.1 sexdatingsite.pro
 127.0.0.1 sezudya.pro
 127.0.0.1 sf-ads.io
@@ -15946,6 +15950,7 @@
 127.0.0.1 superyou.click
 127.0.0.1 supletcedintand.pro
 127.0.0.1 supplieradvisor.ciamlogin.com
+127.0.0.1 supporrtadverrtisingpolicy.com
 127.0.0.1 support-ads-team-874a1.firebaseapp.com
 127.0.0.1 support-ads.pages.net.br
 127.0.0.1 support-business-ads.content62.site
@@ -17015,6 +17020,7 @@
 127.0.0.1 unawarehistory.pro
 127.0.0.1 unconf.mobad.ijinshan.com
 127.0.0.1 under-click.ru
+127.0.0.1 unequaled-department.pro
 127.0.0.1 unet.ucweb.com
 127.0.0.1 unevenlyprofitable.pro
 127.0.0.1 uni-trading.pro
@@ -17079,6 +17085,7 @@
 127.0.0.1 update-mxtuelul4gzs-information.line.pm
 127.0.0.1 update-myetherwallet.com
 127.0.0.1 update-net.com
+127.0.0.1 update-newapp.xyz
 127.0.0.1 update-package.com
 127.0.0.1 update-paymentnow.ntftvcentre.website
 127.0.0.1 update-paymentnow.tvshowapp.cam
@@ -17919,6 +17926,7 @@
 127.0.0.1 weightedpremiereing.pro
 127.0.0.1 weightingpremiereed.pro
 127.0.0.1 weird-lab.pro
+127.0.0.1 weirddistribution.pro
 127.0.0.1 weishi.baidu.com
 127.0.0.1 weixin.adx1.com
 127.0.0.1 weixin.imagecdn.zhongwcs.com
@@ -18976,7 +18984,6 @@
 127.0.0.1 www.hasanae.pro
 127.0.0.1 www.hata.ero-advertising.com
 127.0.0.1 www.hazardshieldzone.click
-127.0.0.1 www.hdstreamz.click
 127.0.0.1 www.health-partner.net
 127.0.0.1 www.healthbeauty-advice.com
 127.0.0.1 www.heartixxay.click
@@ -20181,6 +20188,7 @@
 127.0.0.1 www.zonozou1.pro
 127.0.0.1 www.zostan-zwyciezca.click
 127.0.0.1 www.zrudzinski.wantaolej.pro
+127.0.0.1 www.zuescall.click
 127.0.0.1 www.zuqyryi7.pro
 127.0.0.1 www.zwariowane-to.click
 127.0.0.1 www.zww.ero-advertising.com
@@ -20676,6 +20684,7 @@
 127.0.0.1 zs7.cnzz.com
 127.0.0.1 zs8.cnzz.com
 127.0.0.1 zs9.cnzz.com
+127.0.0.1 zuescall.click
 127.0.0.1 zupelnienowe.click
 127.0.0.1 zuqyryi7.pro
 127.0.0.1 zus-update.info

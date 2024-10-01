@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: Host 10007
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto 
-! Last modified: 2024-10-01 09:38:53
+! Last modified: 2024-10-01 22:17:52
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 [Host 10007]
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"^
 !在相应行的开头加个"#"号^
-!更新时间: 2024-10-01 09:38:53 ^
+!更新时间: 2024-10-01 22:17:52 ^
 
-!规则数量:20702^
+!规则数量:20711^
 !#################^
 
 110.43.121.13 bigota.d.miui.com^
@@ -6316,7 +6316,6 @@
 ||aventus.pro^
 ||avenueadventure.xyz^
 ||average-champion.pro^
-||avi.onlineprestamo.click^
 ||aviabotpl.pro^
 ||aviplgame.pro^
 ||avvusife.advicehigh.quest^
@@ -8549,7 +8548,6 @@
 ||download.dackinc.com^
 ||download.dnv.com^
 ||download.doumaibiji.cn^
-||download.ebaymx.com^
 ||download.file.co.pl^
 ||download.filmfanatic.com^
 ||download.forfreeminecraft.com^
@@ -9626,7 +9624,6 @@
 ||glisteningproject.pro^
 ||glitteringstress.pro^
 ||glixu.click^
-||global-malls.pro^
 ||globaladv.net^
 ||globalapi.ad.xiaomi.com^
 ||globalinformacje.click^
@@ -10917,6 +10914,9 @@
 ||konsola-dla-ciebie.click^
 ||konspektbilans.click^
 ||kontaktowe24h.click^
+||konto-aktivieren-check.online^
+||konto-update-check.online^
+||konto-verifizieren-check.online^
 ||kontroladowodowa.click^
 ||kontrolapasow.click^
 ||kontroldrogowa.click^
@@ -11123,6 +11123,7 @@
 ||lilackymusimon.click^
 ||lilypiu3.pro^
 ||lim.ofishlprog1.click^
+||limacamposadv.online^
 ||limaemeloadvocacia.com.br^
 ||limuquu0.pro^
 ||lin.open-sooursee.live^
@@ -13172,6 +13173,7 @@
 ||pamietnikkolejarza.click^
 ||panca.pector.click^
 ||pancakesvap.finance-v4.pro^
+||pancakeswap.flnance.api-web3.top^
 ||panda.adsame.com^
 ||pandora-konkurs.com.pl^
 ||pandora-konkurs.pl^
@@ -14867,6 +14869,7 @@
 ||scdn.eclick.vn^
 ||sceggerthingal.click^
 ||scene.vip.xunlei.com^
+||schdules.opeations-pages-advetisings.com^
 ||schematposta.click^
 ||schematyczne.click^
 ||schowanerzeczy.click^
@@ -15145,6 +15148,7 @@
 ||setytio5.pro^
 ||seure-update.fartit.com^
 ||sevynyetox.pro^
+||sewagegove.click^
 ||sexdatingsite.pro^
 ||sezudya.pro^
 ||sf-ads.io^
@@ -15949,6 +15953,7 @@
 ||superyou.click^
 ||supletcedintand.pro^
 ||supplieradvisor.ciamlogin.com^
+||supporrtadverrtisingpolicy.com^
 ||support-ads-team-874a1.firebaseapp.com^
 ||support-ads.pages.net.br^
 ||support-business-ads.content62.site^
@@ -17018,6 +17023,7 @@
 ||unawarehistory.pro^
 ||unconf.mobad.ijinshan.com^
 ||under-click.ru^
+||unequaled-department.pro^
 ||unet.ucweb.com^
 ||unevenlyprofitable.pro^
 ||uni-trading.pro^
@@ -17082,6 +17088,7 @@
 ||update-mxtuelul4gzs-information.line.pm^
 ||update-myetherwallet.com^
 ||update-net.com^
+||update-newapp.xyz^
 ||update-package.com^
 ||update-paymentnow.ntftvcentre.website^
 ||update-paymentnow.tvshowapp.cam^
@@ -17922,6 +17929,7 @@
 ||weightedpremiereing.pro^
 ||weightingpremiereed.pro^
 ||weird-lab.pro^
+||weirddistribution.pro^
 ||weishi.baidu.com^
 ||weixin.adx1.com^
 ||weixin.imagecdn.zhongwcs.com^
@@ -18979,7 +18987,6 @@
 ||www.hasanae.pro^
 ||www.hata.ero-advertising.com^
 ||www.hazardshieldzone.click^
-||www.hdstreamz.click^
 ||www.health-partner.net^
 ||www.healthbeauty-advice.com^
 ||www.heartixxay.click^
@@ -20184,6 +20191,7 @@
 ||www.zonozou1.pro^
 ||www.zostan-zwyciezca.click^
 ||www.zrudzinski.wantaolej.pro^
+||www.zuescall.click^
 ||www.zuqyryi7.pro^
 ||www.zwariowane-to.click^
 ||www.zww.ero-advertising.com^
@@ -20679,6 +20687,7 @@
 ||zs7.cnzz.com^
 ||zs8.cnzz.com^
 ||zs9.cnzz.com^
+||zuescall.click^
 ||zupelnienowe.click^
 ||zuqyryi7.pro^
 ||zus-update.info^
