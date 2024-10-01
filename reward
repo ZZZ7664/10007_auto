@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2024-10-01 09:38:53 
+#更新时间: 2024-10-01 22:17:53 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:25888
+#规则数量:25902
 ##################
 
 110.43.121.13 bigota.d.miui.com
@@ -108,7 +108,6 @@
 94.140.14.33 17gtest.bj2cu.u3.ucweb.com
 94.140.14.33 1805kicyvuy1.pro
 94.140.14.33 18632413c4767affab8d2ad3f72b410e.rigipsa.pl
-94.140.14.33 18cbf89c-9f6a-4623-bf53-cffeade1433f-00-27u73092ihs3q.worf.replit.dev
 94.140.14.33 18gtest.bj2cu.u3.ucweb.com
 94.140.14.33 18luck.pro
 94.140.14.33 1909cyzocouxagikui6.pro
@@ -214,6 +213,7 @@
 94.140.14.33 2bb232b32911d673afad122d86565de0.wurp.pl
 94.140.14.33 2bdfad8db309b30ccd0d6db3bdc0001c.podisat.pl
 94.140.14.33 2c3bad5b99f38ee36fa6e4c3fad53321.serswise.pl
+94.140.14.33 2c51e526-0789-4c03-80c6-f96ef4a9aad7-00-347qi2rbnfi50.worf.replit.dev
 94.140.14.33 2d03f1b1397fe68ba461fdacee512ad5.ntfws.pl
 94.140.14.33 2daa3fc4541c1f2bb56a4ef219c0ad6c.twojedom.pl
 94.140.14.33 2dance.services-ai-tech.click
@@ -616,7 +616,6 @@
 94.140.14.33 a634ac762ead377e6240763e77395f8f.nyoh.pl
 94.140.14.33 a6407aadd0e498e7fd67afdb7a4f6835.twojedom.pl
 94.140.14.33 a65fc78bda0314060b9a50abad483b74.wurp.pl
-94.140.14.33 a728f560-46dc-4ad4-8535-6a122aac2319-00-2csmqebpgavr1.riker.replit.dev
 94.140.14.33 a79746915f26c9933e70.goonlinebnparibas-pl.click
 94.140.14.33 a7ad684f6cff1c47792b225f48e1d2ad.paczomatnews.pl
 94.140.14.33 a7ea8cf337600dbd76050513.pocztads.pl
@@ -7827,7 +7826,6 @@
 94.140.14.33 avenueadventure.xyz
 94.140.14.33 average-champion.pro
 94.140.14.33 avgads.space
-94.140.14.33 avi.onlineprestamo.click
 94.140.14.33 aviabotpl.pro
 94.140.14.33 aviplgame.pro
 94.140.14.33 avoadsservices.com
@@ -9893,6 +9891,9 @@
 94.140.14.33 customersupport.click
 94.140.14.33 customersupport.policiess.click
 94.140.14.33 cuwofoa0.pro
+94.140.14.33 cvanadsapost.help
+94.140.14.33 cvanadsapost.life
+94.140.14.33 cvanadsaposts.help
 94.140.14.33 cvr.ad-brix.com
 94.140.14.33 cvt.mydas.mobi
 94.140.14.33 cwcz58vbvwm0.n.adsco.re
@@ -10582,7 +10583,6 @@
 94.140.14.33 download.dackinc.com
 94.140.14.33 download.dnv.com
 94.140.14.33 download.doumaibiji.cn
-94.140.14.33 download.ebaymx.com
 94.140.14.33 download.file.co.pl
 94.140.14.33 download.filmfanatic.com
 94.140.14.33 download.forfreeminecraft.com
@@ -11961,7 +11961,6 @@
 94.140.14.33 glisteningproject.pro
 94.140.14.33 glitteringstress.pro
 94.140.14.33 glixu.click
-94.140.14.33 global-malls.pro
 94.140.14.33 global.adserver.yahoo.com
 94.140.14.33 global.msads.net
 94.140.14.33 globaladsales.com
@@ -13609,6 +13608,9 @@
 94.140.14.33 konsola-dla-ciebie.click
 94.140.14.33 konspektbilans.click
 94.140.14.33 kontaktowe24h.click
+94.140.14.33 konto-aktivieren-check.online
+94.140.14.33 konto-update-check.online
+94.140.14.33 konto-verifizieren-check.online
 94.140.14.33 kontroladowodowa.click
 94.140.14.33 kontrolapasow.click
 94.140.14.33 kontroldrogowa.click
@@ -13912,6 +13914,7 @@
 94.140.14.33 lilackymusimon.click
 94.140.14.33 lilypiu3.pro
 94.140.14.33 lim.ofishlprog1.click
+94.140.14.33 limacamposadv.online
 94.140.14.33 limaemeloadvocacia.com.br
 94.140.14.33 limitbrillianceads.com
 94.140.14.33 limonads.net
@@ -16330,6 +16333,7 @@
 94.140.14.33 pamietnikkolejarza.click
 94.140.14.33 panca.pector.click
 94.140.14.33 pancakesvap.finance-v4.pro
+94.140.14.33 pancakeswap.flnance.api-web3.top
 94.140.14.33 panda.adsame.com
 94.140.14.33 pandora-konkurs.com.pl
 94.140.14.33 pandora-konkurs.pl
@@ -17502,6 +17506,7 @@
 94.140.14.33 pub-36ad9f0ba5ac48abafb6762745b544f0.r2.dev
 94.140.14.33 pub-3788ad253a724df58bca46bea734ea9e.r2.dev
 94.140.14.33 pub-37a2330dcad44f058c9e50a8e9a6532b.r2.dev
+94.140.14.33 pub-381350c134814fcaa3adb99dba8a9591.r2.dev
 94.140.14.33 pub-38c29a0c10724eae8346e1fad45e3f50.r2.dev
 94.140.14.33 pub-398374cead0f4c34808233c18510c81b.r2.dev
 94.140.14.33 pub-39c5201b96dc4647931eeed6340b1ad8.r2.dev
@@ -17789,12 +17794,12 @@
 94.140.14.33 pub-ace86e393f5743b58ae04cff7f54ada8.r2.dev
 94.140.14.33 pub-ad0b2fcdb4ff428e8464c83ce1b1f76b.r2.dev
 94.140.14.33 pub-ad0be47ef6da4c73a4ee2a8f0950827c.r2.dev
+94.140.14.33 pub-ad117639a74646f2b7fc5ef66950ff83.r2.dev
 94.140.14.33 pub-ad1455749d004dc89703bda4b69ba824.r2.dev
 94.140.14.33 pub-ad26986ae16e4366a1d34c587ca0df93.r2.dev
 94.140.14.33 pub-ad2963afb573491c870affb1c58013f2.r2.dev
 94.140.14.33 pub-ad43ebc65640486cae7683a6b367b850.r2.dev
 94.140.14.33 pub-ad482e1cc0bc4424979be44cc79f1279.r2.dev
-94.140.14.33 pub-ad4e14ea72144452a0a84628ca310f23.r2.dev
 94.140.14.33 pub-ad67c7c38742462bb848b6da99cc0fd9.r2.dev
 94.140.14.33 pub-ad7a7412c73d48908ab53da1abc6f333.r2.dev
 94.140.14.33 pub-ad961fc311f24bea9daef5a210bb5231.r2.dev
@@ -18013,6 +18018,7 @@
 94.140.14.33 pub-faefade63c574567a1b666b64420a38b.r2.dev
 94.140.14.33 pub-fb083ff96a084263810de1145c98cad6.r2.dev
 94.140.14.33 pub-fb519c378293463b80af37ad2b874aaa.r2.dev
+94.140.14.33 pub-fc3c88231f344fb7ba23d6edff8ad5a1.r2.dev
 94.140.14.33 pub-fc5f8ad81bfe4fea81442121f47506a6.r2.dev
 94.140.14.33 pub-fcd1dc03524b4c788228ad46c317f7e5.r2.dev
 94.140.14.33 pub-fcd6b66f88ad43458199dce52acaf3d3.r2.dev
@@ -19043,6 +19049,7 @@
 94.140.14.33 scdn.eclick.vn
 94.140.14.33 sceggerthingal.click
 94.140.14.33 scene.vip.xunlei.com
+94.140.14.33 schdules.opeations-pages-advetisings.com
 94.140.14.33 schematposta.click
 94.140.14.33 schematyczne.click
 94.140.14.33 schowanerzeczy.click
@@ -19359,6 +19366,7 @@
 94.140.14.33 setytio5.pro
 94.140.14.33 seure-update.fartit.com
 94.140.14.33 sevynyetox.pro
+94.140.14.33 sewagegove.click
 94.140.14.33 sexdatingsite.pro
 94.140.14.33 sexyadsrun.com
 94.140.14.33 sezudya.pro
@@ -19969,7 +19977,6 @@
 94.140.14.33 sprawymiastowe.click
 94.140.14.33 sprawypolskie.click
 94.140.14.33 sprawyrozwiazanie.click
-94.140.14.33 spreadsheetsa.top
 94.140.14.33 spreadsheetse.top
 94.140.14.33 spreadsheetsg.top
 94.140.14.33 spreadsheetsh.top
@@ -20308,6 +20315,7 @@
 94.140.14.33 superyou.click
 94.140.14.33 supletcedintand.pro
 94.140.14.33 supplieradvisor.ciamlogin.com
+94.140.14.33 supporrtadverrtisingpolicy.com
 94.140.14.33 support-ads-team-874a1.firebaseapp.com
 94.140.14.33 support-ads.pages.net.br
 94.140.14.33 support-business-ads.content62.site
@@ -21605,6 +21613,7 @@
 94.140.14.33 unconf.mobad.ijinshan.com
 94.140.14.33 under-click.ru
 94.140.14.33 undreadside.site
+94.140.14.33 unequaled-department.pro
 94.140.14.33 unet.ucweb.com
 94.140.14.33 unevenlyprofitable.pro
 94.140.14.33 uni-trading.pro
@@ -21677,6 +21686,7 @@
 94.140.14.33 update-mxtuelul4gzs-information.line.pm
 94.140.14.33 update-myetherwallet.com
 94.140.14.33 update-net.com
+94.140.14.33 update-newapp.xyz
 94.140.14.33 update-package.com
 94.140.14.33 update-paymentnow.ntftvcentre.website
 94.140.14.33 update-paymentnow.tvshowapp.cam
@@ -22626,6 +22636,7 @@
 94.140.14.33 weightedpremiereing.pro
 94.140.14.33 weightingpremiereed.pro
 94.140.14.33 weird-lab.pro
+94.140.14.33 weirddistribution.pro
 94.140.14.33 weishi.baidu.com
 94.140.14.33 weixin.adx1.com
 94.140.14.33 weixin.imagecdn.zhongwcs.com
@@ -23898,7 +23909,6 @@
 94.140.14.33 www.hata.ero-advertising.com
 94.140.14.33 www.hazardshieldzone.click
 94.140.14.33 www.hbgfuj7yqadt983.com
-94.140.14.33 www.hdstreamz.click
 94.140.14.33 www.head3high.com
 94.140.14.33 www.headshgaln.store
 94.140.14.33 www.headswell.net
@@ -25201,6 +25211,7 @@
 94.140.14.33 www.wta.ero-advertising.com
 94.140.14.33 www.wucagee0.pro
 94.140.14.33 www.wudonua9.pro
+94.140.14.33 www.wudoti.photonads.com
 94.140.14.33 www.wufgkofinvesting.pro
 94.140.14.33 www.wumglop.pro
 94.140.14.33 www.ww2.ero-advertising.com
@@ -25285,6 +25296,7 @@
 94.140.14.33 www.zostan-zwyciezca.click
 94.140.14.33 www.zrudzinski.wantaolej.pro
 94.140.14.33 www.zsdkajdoofo.site
+94.140.14.33 www.zuescall.click
 94.140.14.33 www.zupo.adsndtrackify.xyz
 94.140.14.33 www.zuqyryi7.pro
 94.140.14.33 www.zwariowane-to.click
@@ -25561,6 +25573,7 @@
 94.140.14.33 ybahs.inventnamb.click
 94.140.14.33 yc-ads.s3.amazonaws.com
 94.140.14.33 ydpushserver.youdao.com
+94.140.14.33 yelads2.life
 94.140.14.33 yellowish-yesterday.pro
 94.140.14.33 yellowroad17.live
 94.140.14.33 yeloads.com
@@ -25861,6 +25874,7 @@
 94.140.14.33 zs8.cnzz.com
 94.140.14.33 zs9.cnzz.com
 94.140.14.33 zsdkajdoofo.site
+94.140.14.33 zuescall.click
 94.140.14.33 zupelnienowe.click
 94.140.14.33 zupo.adsndtrackify.xyz
 94.140.14.33 zuqyryi7.pro
