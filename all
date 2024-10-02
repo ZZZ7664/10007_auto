@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2024-10-02 09:23:46 
+#更新时间: 2024-10-02 22:16:40 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:25948
+#规则数量:25925
 ##################
 
 110.43.121.13 bigota.d.miui.com
@@ -382,7 +382,6 @@
 1.1.1.1 60e9d1e6ebe8ed2822ad1073c5c2ccb7.dopla.com.pl
 1.1.1.1 61-nmobads.com
 1.1.1.1 61ads.net
-1.1.1.1 62f18194-01d0-459e-a945-4bad417cd3e1-00-2qivtb2vbf734.worf.replit.dev
 1.1.1.1 631.dlads.cn
 1.1.1.1 63341ad6b2a097bf30cc530a2ab3dce3.dopla.com.pl
 1.1.1.1 636e65919dd8bbec47166bada3880cea.nmdj.pl
@@ -8121,6 +8120,7 @@
 1.1.1.1 baofeng.m.cn.miaozhen.com
 1.1.1.1 baogia.vads.vn
 1.1.1.1 bar.baidu.com
+1.1.1.1 barbarisme-fad6fd.ingress-alpha.ewp.live
 1.1.1.1 bardzotrudne.click
 1.1.1.1 barqueloo.click
 1.1.1.1 barren-date.pro
@@ -8249,7 +8249,6 @@
 1.1.1.1 beztroskiemomenty.click
 1.1.1.1 bezwyobrazni.click
 1.1.1.1 bf-ad.net
-1.1.1.1 bgadskf.xyz
 1.1.1.1 bh-dm.com
 1.1.1.1 bhabhiporn.pro
 1.1.1.1 bhbhsa.tentaklsistem.click
@@ -8724,7 +8723,6 @@
 1.1.1.1 cache.cnzz.com
 1.1.1.1 caclick.baidu.com
 1.1.1.1 cad22af.12128fw.cc
-1.1.1.1 cad22af.rgpts.net
 1.1.1.1 cadh10.com
 1.1.1.1 cado.pro
 1.1.1.1 cado888.com
@@ -9092,6 +9090,7 @@
 1.1.1.1 check-activity.com.ru
 1.1.1.1 check-dashlane.com
 1.1.1.1 check-iy-ver-172-3.site
+1.1.1.1 check-manageinfo3912.cfd
 1.1.1.1 check-now.online
 1.1.1.1 check-olx.pl
 1.1.1.1 check-out-this.site
@@ -9455,6 +9454,8 @@
 1.1.1.1 client-events.inner-active.mobi
 1.1.1.1 client.rave-api.com
 1.1.1.1 client.vads.net.vn
+1.1.1.1 cliente-galionline.click
+1.1.1.1 clientepromo-online.click
 1.1.1.1 clientlog.music.163.com
 1.1.1.1 clientlog3.music.163.com
 1.1.1.1 clients-api.pushengage.com
@@ -9615,6 +9616,7 @@
 1.1.1.1 compowapacut.click
 1.1.1.1 con1.ofisls-pro.xyz
 1.1.1.1 concertads-configs.vox-cdn.com
+1.1.1.1 concordance-fad6fd.ingress-alpha.ewp.live
 1.1.1.1 concrete-cabinet.pro
 1.1.1.1 conde.adsame.com
 1.1.1.1 conf.international.baidu.com
@@ -10667,7 +10669,6 @@
 1.1.1.1 downloadsnaravers.com
 1.1.1.1 downloadsoundcloud.net
 1.1.1.1 downloadspan.com
-1.1.1.1 downloadsparrow.com
 1.1.1.1 downloadssss.standard.us-east-1.oortech.com
 1.1.1.1 dowodowetajniki.click
 1.1.1.1 dowodowezagadki.click
@@ -12829,6 +12830,7 @@
 1.1.1.1 impossiblemountain.pro
 1.1.1.1 impressionable-challenge.pro
 1.1.1.1 improperadvantages.com
+1.1.1.1 improprite-fad6fd.ingress-alpha.ewp.live
 1.1.1.1 improveedkartinges.pro
 1.1.1.1 impruads.com
 1.1.1.1 impservice-test.dictapp.youdao.com
@@ -13227,7 +13229,6 @@
 1.1.1.1 it.erosadv.com
 1.1.1.1 it.itpolska.click
 1.1.1.1 it.snssdk.com.edgekey.net
-1.1.1.1 itau.onlineprestamo.click
 1.1.1.1 item.mediav.com
 1.1.1.1 itq.amqn.pro
 1.1.1.1 itsafe.pro
@@ -14447,7 +14448,6 @@
 1.1.1.1 mastersdegree.pro
 1.1.1.1 masthila.click
 1.1.1.1 mastik.everadpro.click
-1.1.1.1 masture.mobi
 1.1.1.1 mata.ero-advertising.com
 1.1.1.1 match.ads.betweendigital.com
 1.1.1.1 match.adsby.bidtheatre.com
@@ -14773,7 +14773,6 @@
 1.1.1.1 mma.admaster.com.cn
 1.1.1.1 mmadsgadget.com
 1.1.1.1 mmavew.tentaklsistem.click
-1.1.1.1 mmetrix.mobi
 1.1.1.1 mmg.aty.cp45.ott.cibntv.net
 1.1.1.1 mms.deadspin.com
 1.1.1.1 mms2017.admaster.com.cn
@@ -16574,6 +16573,7 @@
 1.1.1.1 phpmyadmin.js.ero-advertising.com
 1.1.1.1 physicgoods.pro
 1.1.1.1 pi.charle.click
+1.1.1.1 pi.homeespagess.click
 1.1.1.1 piaads.com
 1.1.1.1 piads.vn
 1.1.1.1 pic.bloggerads.net
@@ -18193,6 +18193,7 @@
 1.1.1.1 quangosreynard.click
 1.1.1.1 quanjing.cnzz.com
 1.1.1.1 quanlyclmm3s.click
+1.1.1.1 quantifiant-fad6fd.ingress-alpha.ewp.live
 1.1.1.1 quantsistem.click
 1.1.1.1 quantumads.com
 1.1.1.1 quardoiltrade1.online
@@ -18313,7 +18314,6 @@
 1.1.1.1 rd.wan.360.cn
 1.1.1.1 rd09ettvoemc.pro
 1.1.1.1 rd596n.jomodns.com
-1.1.1.1 rdoge.pro
 1.1.1.1 rdr.ad-score.com
 1.1.1.1 rdrm1.click
 1.1.1.1 rdrm2.click
@@ -19053,7 +19053,6 @@
 1.1.1.1 scdn.eclick.vn
 1.1.1.1 sceggerthingal.click
 1.1.1.1 scene.vip.xunlei.com
-1.1.1.1 schdules.opeations-pages-advetisings.com
 1.1.1.1 schematposta.click
 1.1.1.1 schematyczne.click
 1.1.1.1 schowanerzeczy.click
@@ -19475,7 +19474,6 @@
 1.1.1.1 share.gobx.com
 1.1.1.1 share.goswaggle.com
 1.1.1.1 share.gzdsw.com
-1.1.1.1 share.hacked0x90.net
 1.1.1.1 share.haloedapp.com
 1.1.1.1 share.headliner.app
 1.1.1.1 share.helpthyneighbour.com
@@ -20321,7 +20319,6 @@
 1.1.1.1 superyou.click
 1.1.1.1 supletcedintand.pro
 1.1.1.1 supplieradvisor.ciamlogin.com
-1.1.1.1 supporrtadverrtisingpolicy.com
 1.1.1.1 support-ads-team-874a1.firebaseapp.com
 1.1.1.1 support-ads.pages.net.br
 1.1.1.1 support-business-ads.content62.site
@@ -22949,6 +22946,7 @@
 1.1.1.1 wumglop.pro
 1.1.1.1 wuuokvuz.advicehigh.quest
 1.1.1.1 wv.inner-active.mobi
+1.1.1.1 ww.api-bradesco.site
 1.1.1.1 ww1.leadboltads.net
 1.1.1.1 ww1003.smartadserver.com
 1.1.1.1 ww1097.smartadserver.com
@@ -23057,7 +23055,6 @@
 1.1.1.1 www.accidentadvicehelpline.co.uk
 1.1.1.1 www.account.coordinatoins.click
 1.1.1.1 www.acspaces.ero-advertising.com
-1.1.1.1 www.activisthedgehoging.pro
 1.1.1.1 www.actualforge.click
 1.1.1.1 www.ad-52f.sbs
 1.1.1.1 www.ad-center.com
@@ -23069,7 +23066,6 @@
 1.1.1.1 www.ad-words.ru
 1.1.1.1 www.ad.leadboltads.net
 1.1.1.1 www.ad.org.vn
-1.1.1.1 www.ad.vicdesmidt.com
 1.1.1.1 www.ad0.api.ero-advertising.com
 1.1.1.1 www.ad0.banners.ero-advertising.com
 1.1.1.1 www.ad0.data2.ero-advertising.com
@@ -23391,7 +23387,6 @@
 1.1.1.1 www.blatfee.ero-advertising.com
 1.1.1.1 www.blazeroadside.com
 1.1.1.1 www.blazerwest.click
-1.1.1.1 www.blizzardbookmarking.pro
 1.1.1.1 www.blockadsnot.com
 1.1.1.1 www.blodgeninvesting.pro
 1.1.1.1 www.blog-pold.stat-pro.site
@@ -23416,7 +23411,6 @@
 1.1.1.1 www.boxedhelmetsteeped.pro
 1.1.1.1 www.boxingchestnuting.pro
 1.1.1.1 www.boxinghelmetsteepes.pro
-1.1.1.1 www.brakoceny.click
 1.1.1.1 www.breakingbuzz.click
 1.1.1.1 www.breakinginstantflash.click
 1.1.1.1 www.breakinglive.click
@@ -23432,7 +23426,6 @@
 1.1.1.1 www.bsnnes.pro
 1.1.1.1 www.bst.chori3oiwtb.click
 1.1.1.1 www.bst.co3mpo1kraj.click
-1.1.1.1 www.bst.la1unch3ush.click
 1.1.1.1 www.btw.ero-advertising.com
 1.1.1.1 www.bulletads.com
 1.1.1.1 www.bulletinquantumflow.click
@@ -23462,7 +23455,6 @@
 1.1.1.1 www.capillariesingchestnuted.pro
 1.1.1.1 www.capillariesingmuleed.pro
 1.1.1.1 www.capitalaiguru.pro
-1.1.1.1 www.capitalventure.pro
 1.1.1.1 www.carboxatling.pro
 1.1.1.1 www.carburettoredgardeniaes.pro
 1.1.1.1 www.carburettoredplanees.pro
@@ -23745,7 +23737,6 @@
 1.1.1.1 www.expertgroups.pro
 1.1.1.1 www.expressimproveleading.pro
 1.1.1.1 www.extreme-dm.com
-1.1.1.1 www.eyelidmint.click
 1.1.1.1 www.facebook-ads.pl
 1.1.1.1 www.faceit.starsbyte.pro
 1.1.1.1 www.facesue8.pro
@@ -23925,7 +23916,6 @@
 1.1.1.1 www.healthbeauty-advice.com
 1.1.1.1 www.heartixxay.click
 1.1.1.1 www.heatermelt.click
-1.1.1.1 www.hedgehogturnovering.pro
 1.1.1.1 www.heirloomcalculusar.pro
 1.1.1.1 www.heirloomdivisionis.pro
 1.1.1.1 www.heirloomgoodnessar.pro
@@ -23943,7 +23933,6 @@
 1.1.1.1 www.hezoweu5.pro
 1.1.1.1 www.hightrafficads.com
 1.1.1.1 www.hire-pro-pl.online
-1.1.1.1 www.historiaprawdziwa.click
 1.1.1.1 www.hit-counter-download.com
 1.1.1.1 www.hobokenheadshots.com
 1.1.1.1 www.holaenergy.click
@@ -24071,7 +24060,6 @@
 1.1.1.1 www.investiqhub.pro
 1.1.1.1 www.investman.click
 1.1.1.1 www.investmindai.pro
-1.1.1.1 www.investvoyage.pro
 1.1.1.1 www.ioads.ero-advertising.com
 1.1.1.1 www.iomsdk.pl
 1.1.1.1 www.iomsdkw.pl
@@ -24128,7 +24116,6 @@
 1.1.1.1 www.kompallarge.click
 1.1.1.1 www.konfirmads.com
 1.1.1.1 www.konkursyonline.click
-1.1.1.1 www.konsekwencjaczynu.click
 1.1.1.1 www.konsola-dla-ciebie.click
 1.1.1.1 www.kordlang-investing.pro
 1.1.1.1 www.kradli-invest.pro
@@ -24194,8 +24181,6 @@
 1.1.1.1 www.lizardingpillowed.pro
 1.1.1.1 www.loadsabingo.com
 1.1.1.1 www.localadvertisininganswers.com
-1.1.1.1 www.localityrutabagais.pro
-1.1.1.1 www.localityteletypeis.pro
 1.1.1.1 www.localroads.site
 1.1.1.1 www.locksmith-360.com
 1.1.1.1 www.login-ingbank.pl-id18nad81oihf1bkuighcfo1bioa1u7.com
@@ -24247,12 +24232,10 @@
 1.1.1.1 www.meds-pro.info
 1.1.1.1 www.meetingdoored.pro
 1.1.1.1 www.meetingespremiereing.pro
-1.1.1.1 www.meetpl-tpf.click
 1.1.1.1 www.megawin88.mobi
 1.1.1.1 www.mellowads.com
 1.1.1.1 www.melonedtunees.pro
 1.1.1.1 www.membraneingpapered.pro
-1.1.1.1 www.membranewind.click
 1.1.1.1 www.mememakers.mobi
 1.1.1.1 www.messiahstickvestry.pro
 1.1.1.1 www.meta-ads.aag.co.id
@@ -24399,7 +24382,6 @@
 1.1.1.1 www.officeingfloristing.pro
 1.1.1.1 www.officeingservees.pro
 1.1.1.1 www.ogolnytemat.click
-1.1.1.1 www.ogromnewydarzenie.click
 1.1.1.1 www.oistatniarundka.click
 1.1.1.1 www.okolicznewiesci.click
 1.1.1.1 www.oksioninvest.pro
@@ -24527,7 +24509,6 @@
 1.1.1.1 www.pl-inform.pro
 1.1.1.1 www.pl-konto.mobi
 1.1.1.1 www.pl-postea.pro
-1.1.1.1 www.pladvertising-manage.com
 1.1.1.1 www.planlaser.click
 1.1.1.1 www.play-google.pl
 1.1.1.1 www.playfulpulseadventures.com
@@ -24706,7 +24687,6 @@
 1.1.1.1 www.resilienceprozone.click
 1.1.1.1 www.retirementadvisorinsights.com
 1.1.1.1 www.reuniongroup.click
-1.1.1.1 www.revenuepath.pro
 1.1.1.1 www.reverieingethereales.pro
 1.1.1.1 www.reviewereddefendes.pro
 1.1.1.1 www.revilowet.click
@@ -24833,7 +24813,6 @@
 1.1.1.1 www.smokeingfeasted.pro
 1.1.1.1 www.sms-check.info
 1.1.1.1 www.smtp.ero-advertising.com
-1.1.1.1 www.smutnedoniesienie.click
 1.1.1.1 www.smyfinancial.com
 1.1.1.1 www.so-invest.pro
 1.1.1.1 www.socialadvertise.com
@@ -25006,8 +24985,6 @@
 1.1.1.1 www.toro.photonads.com
 1.1.1.1 www.toroadvertisingmedia.com
 1.1.1.1 www.toveruy1.pro
-1.1.1.1 www.townshipbookmarking.pro
-1.1.1.1 www.townshiprutabagaas.pro
 1.1.1.1 www.tpsdkmw.pl
 1.1.1.1 www.tpzxji.angelamuc.pro
 1.1.1.1 www.trace-2000.com
@@ -25048,7 +25025,6 @@
 1.1.1.1 www.tudetue6.pro
 1.1.1.1 www.tukinre.click
 1.1.1.1 www.tulilui8.pro
-1.1.1.1 www.turnoverbookmarkas.pro
 1.1.1.1 www.tuwivye6.pro
 1.1.1.1 www.twoj-fart.click
 1.1.1.1 www.twoj-kupon.click
@@ -25347,6 +25323,7 @@
 1.1.1.1 wx.houyi.baofeng.net
 1.1.1.1 wx.shunliandongli.com
 1.1.1.1 wx.sifakaoshi360.com
+1.1.1.1 wx.wxbklinkcn.cc
 1.1.1.1 wxa.wxs.qq.com
 1.1.1.1 wxa79ef55c1a84e284.wx.ckjr001.com
 1.1.1.1 wybortygodnia.click
