@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: Host 10007
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto 
-! Last modified: 2024-10-01 22:17:52
+! Last modified: 2024-10-02 09:23:29
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 [Host 10007]
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"^
 !在相应行的开头加个"#"号^
-!更新时间: 2024-10-01 22:17:52 ^
+!更新时间: 2024-10-02 09:23:29 ^
 
-!规则数量:20711^
+!规则数量:20721^
 !#################^
 
 110.43.121.13 bigota.d.miui.com^
@@ -3889,6 +3889,7 @@
 ||advertisingbox.com^
 ||advertisingcom.122.2o7.net^
 ||advertisingiq.com^
+||advertisingsupports24hpromax.store^
 ||advertisingvalue.info^
 ||advertjunction.com^
 ||advertlane.com^
@@ -5884,6 +5885,7 @@
 ||api.moengage.com^
 ||api.monedata.io^
 ||api.monetate.net^
+||api.moneyoyo.org^
 ||api.moogos.com^
 ||api.mouseflow.com^
 ||api.mp.uc.cn^
@@ -7984,6 +7986,7 @@
 ||currentrealtimestories.click^
 ||custardniche.click^
 ||custom-wrs.api.responsys.net^
+||customcenterpackage.dns.army^
 ||customeraccount.dns.army^
 ||customerconnect.dns.army^
 ||customersupport.click^
@@ -9186,6 +9189,7 @@
 ||fastmoney777.click^
 ||fastsnapshot.pro^
 ||fata.ero-advertising.com^
+||fategames.click^
 ||fathed.pro^
 ||fav.simba.taobao.com^
 ||favorite-option.pro^
@@ -14982,6 +14986,7 @@
 ||sdk.mediav.com^
 ||sdk.mobad.ijinshan.com^
 ||sdk.mobads.adwangmai.com^
+||sdk.moneyoyo.com^
 ||sdk.native123.com^
 ||sdk.open.amp.igexin.com^
 ||sdk.open.inc2.igexin.com^
@@ -15543,6 +15548,7 @@
 ||sohu-dtv.m.cn.miaozhen.com^
 ||sohutv.m.cn.miaozhen.com^
 ||sokmil-ad.com^
+||solfitnessadventures.com^
 ||solicitaenlineapersonalonline.loger.click^
 ||solicitudenlinea.agostoevalua.click^
 ||solidnewykonanie.click^
@@ -18400,6 +18406,7 @@
 ||www.advertise.com^
 ||www.advertisesupportpages-help.com^
 ||www.advertising365.com^
+||www.advertisingsupports24hpromax.store^
 ||www.advertlets.com^
 ||www.advertpro.com^
 ||www.adverts.dcthomson.co.uk^
@@ -18701,6 +18708,7 @@
 ||www.cujyfai0ue1.pro^
 ||www.cumuluscrest.click^
 ||www.currentrealtimestories.click^
+||www.customcenterpackage.dns.army^
 ||www.customeraccount.dns.army^
 ||www.customerconnect.dns.army^
 ||www.cuwofoa0.pro^
@@ -18851,6 +18859,7 @@
 ||www.fararchiveleading.pro^
 ||www.fast-adv.it^
 ||www.fata.ero-advertising.com^
+||www.fategames.click^
 ||www.fb-ads.aag.co.id^
 ||www.fb-ads.me^
 ||www.fb.manager-ads.usanewproducts.com^
@@ -19787,6 +19796,7 @@
 ||www.socialadvertise.com^
 ||www.softsmart.mobi^
 ||www.softwareadvice.com^
+||www.solfitnessadventures.com^
 ||www.soliloquizestandardiseis.pro^
 ||www.solsticesongbird.click^
 ||www.somuchproduct.click^

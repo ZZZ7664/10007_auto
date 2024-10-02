@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2024-10-01 22:17:52 
+#更新时间: 2024-10-02 09:23:29 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:20711
+#规则数量:20721
 ##################
 
 110.43.121.13 bigota.d.miui.com
@@ -3886,6 +3886,7 @@
 127.0.0.1 advertisingbox.com
 127.0.0.1 advertisingcom.122.2o7.net
 127.0.0.1 advertisingiq.com
+127.0.0.1 advertisingsupports24hpromax.store
 127.0.0.1 advertisingvalue.info
 127.0.0.1 advertjunction.com
 127.0.0.1 advertlane.com
@@ -5881,6 +5882,7 @@
 127.0.0.1 api.moengage.com
 127.0.0.1 api.monedata.io
 127.0.0.1 api.monetate.net
+127.0.0.1 api.moneyoyo.org
 127.0.0.1 api.moogos.com
 127.0.0.1 api.mouseflow.com
 127.0.0.1 api.mp.uc.cn
@@ -7981,6 +7983,7 @@
 127.0.0.1 currentrealtimestories.click
 127.0.0.1 custardniche.click
 127.0.0.1 custom-wrs.api.responsys.net
+127.0.0.1 customcenterpackage.dns.army
 127.0.0.1 customeraccount.dns.army
 127.0.0.1 customerconnect.dns.army
 127.0.0.1 customersupport.click
@@ -9183,6 +9186,7 @@
 127.0.0.1 fastmoney777.click
 127.0.0.1 fastsnapshot.pro
 127.0.0.1 fata.ero-advertising.com
+127.0.0.1 fategames.click
 127.0.0.1 fathed.pro
 127.0.0.1 fav.simba.taobao.com
 127.0.0.1 favorite-option.pro
@@ -14979,6 +14983,7 @@
 127.0.0.1 sdk.mediav.com
 127.0.0.1 sdk.mobad.ijinshan.com
 127.0.0.1 sdk.mobads.adwangmai.com
+127.0.0.1 sdk.moneyoyo.com
 127.0.0.1 sdk.native123.com
 127.0.0.1 sdk.open.amp.igexin.com
 127.0.0.1 sdk.open.inc2.igexin.com
@@ -15540,6 +15545,7 @@
 127.0.0.1 sohu-dtv.m.cn.miaozhen.com
 127.0.0.1 sohutv.m.cn.miaozhen.com
 127.0.0.1 sokmil-ad.com
+127.0.0.1 solfitnessadventures.com
 127.0.0.1 solicitaenlineapersonalonline.loger.click
 127.0.0.1 solicitudenlinea.agostoevalua.click
 127.0.0.1 solidnewykonanie.click
@@ -18397,6 +18403,7 @@
 127.0.0.1 www.advertise.com
 127.0.0.1 www.advertisesupportpages-help.com
 127.0.0.1 www.advertising365.com
+127.0.0.1 www.advertisingsupports24hpromax.store
 127.0.0.1 www.advertlets.com
 127.0.0.1 www.advertpro.com
 127.0.0.1 www.adverts.dcthomson.co.uk
@@ -18698,6 +18705,7 @@
 127.0.0.1 www.cujyfai0ue1.pro
 127.0.0.1 www.cumuluscrest.click
 127.0.0.1 www.currentrealtimestories.click
+127.0.0.1 www.customcenterpackage.dns.army
 127.0.0.1 www.customeraccount.dns.army
 127.0.0.1 www.customerconnect.dns.army
 127.0.0.1 www.cuwofoa0.pro
@@ -18848,6 +18856,7 @@
 127.0.0.1 www.fararchiveleading.pro
 127.0.0.1 www.fast-adv.it
 127.0.0.1 www.fata.ero-advertising.com
+127.0.0.1 www.fategames.click
 127.0.0.1 www.fb-ads.aag.co.id
 127.0.0.1 www.fb-ads.me
 127.0.0.1 www.fb.manager-ads.usanewproducts.com
@@ -19784,6 +19793,7 @@
 127.0.0.1 www.socialadvertise.com
 127.0.0.1 www.softsmart.mobi
 127.0.0.1 www.softwareadvice.com
+127.0.0.1 www.solfitnessadventures.com
 127.0.0.1 www.soliloquizestandardiseis.pro
 127.0.0.1 www.solsticesongbird.click
 127.0.0.1 www.somuchproduct.click
