@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2024-10-01 22:17:47 
+#更新时间: 2024-10-02 09:23:46 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:25936
+#规则数量:25948
 ##################
 
 110.43.121.13 bigota.d.miui.com
@@ -5255,6 +5255,7 @@
 1.1.1.1 advertisingbox.com
 1.1.1.1 advertisingcom.122.2o7.net
 1.1.1.1 advertisingiq.com
+1.1.1.1 advertisingsupports24hpromax.store
 1.1.1.1 advertisingvalue.info
 1.1.1.1 advertjunction.com
 1.1.1.1 advertlane.com
@@ -7313,6 +7314,7 @@
 1.1.1.1 api.moengage.com
 1.1.1.1 api.monedata.io
 1.1.1.1 api.monetate.net
+1.1.1.1 api.moneyoyo.org
 1.1.1.1 api.moogos.com
 1.1.1.1 api.mouseflow.com
 1.1.1.1 api.mp.uc.cn
@@ -9886,6 +9888,7 @@
 1.1.1.1 custardniche.click
 1.1.1.1 custom-wrs.api.responsys.net
 1.1.1.1 customads.co
+1.1.1.1 customcenterpackage.dns.army
 1.1.1.1 customeraccount.dns.army
 1.1.1.1 customerconnect.dns.army
 1.1.1.1 customersupport.click
@@ -11402,6 +11405,7 @@
 1.1.1.1 fasts-downloads.com
 1.1.1.1 fastsnapshot.pro
 1.1.1.1 fata.ero-advertising.com
+1.1.1.1 fategames.click
 1.1.1.1 fathed.pro
 1.1.1.1 fav.simba.taobao.com
 1.1.1.1 favorite-option.pro
@@ -19165,6 +19169,7 @@
 1.1.1.1 sdk.mediav.com
 1.1.1.1 sdk.mobad.ijinshan.com
 1.1.1.1 sdk.mobads.adwangmai.com
+1.1.1.1 sdk.moneyoyo.com
 1.1.1.1 sdk.native123.com
 1.1.1.1 sdk.open.amp.igexin.com
 1.1.1.1 sdk.open.inc2.igexin.com
@@ -19817,6 +19822,7 @@
 1.1.1.1 sohutv.m.cn.miaozhen.com
 1.1.1.1 sokmil-ad.com
 1.1.1.1 solads.media
+1.1.1.1 solfitnessadventures.com
 1.1.1.1 soliads.io
 1.1.1.1 soliads.net
 1.1.1.1 soliads.online
@@ -23222,6 +23228,7 @@
 1.1.1.1 www.advertise.com
 1.1.1.1 www.advertisesupportpages-help.com
 1.1.1.1 www.advertising365.com
+1.1.1.1 www.advertisingsupports24hpromax.store
 1.1.1.1 www.advertlets.com
 1.1.1.1 www.advertpro.com
 1.1.1.1 www.adverts.dcthomson.co.uk
@@ -23573,6 +23580,7 @@
 1.1.1.1 www.cujyfai0ue1.pro
 1.1.1.1 www.cumuluscrest.click
 1.1.1.1 www.currentrealtimestories.click
+1.1.1.1 www.customcenterpackage.dns.army
 1.1.1.1 www.customeraccount.dns.army
 1.1.1.1 www.customerconnect.dns.army
 1.1.1.1 www.cuwofoa0.pro
@@ -23749,6 +23757,7 @@
 1.1.1.1 www.fararchiveleading.pro
 1.1.1.1 www.fast-adv.it
 1.1.1.1 www.fata.ero-advertising.com
+1.1.1.1 www.fategames.click
 1.1.1.1 www.fb-ads.aag.co.id
 1.1.1.1 www.fb-ads.me
 1.1.1.1 www.fb.adsmanager.hyla.my
@@ -24831,6 +24840,7 @@
 1.1.1.1 www.softsmart.mobi
 1.1.1.1 www.softwareadvice.com
 1.1.1.1 www.sohiads.shop
+1.1.1.1 www.solfitnessadventures.com
 1.1.1.1 www.soliloquizestandardiseis.pro
 1.1.1.1 www.solsticesongbird.click
 1.1.1.1 www.somuchproduct.click
@@ -25263,6 +25273,7 @@
 1.1.1.1 www.yandex.inpost-pl-pacid273jks.abun.qhopmusic.icanmining.ru
 1.1.1.1 www.yangtarp.click
 1.1.1.1 www.yarnropes.click
+1.1.1.1 www.yayaoi.adsmadesimple.info
 1.1.1.1 www.yntragame.click
 1.1.1.1 www.yoads.net
 1.1.1.1 www.yomatapet.click
@@ -25570,6 +25581,7 @@
 1.1.1.1 yaolu.yuedu.163.com
 1.1.1.1 yardcoards.click
 1.1.1.1 yarnropes.click
+1.1.1.1 yayaoi.adsmadesimple.info
 1.1.1.1 ybahs.inventnamb.click
 1.1.1.1 yc-ads.s3.amazonaws.com
 1.1.1.1 ydpushserver.youdao.com
