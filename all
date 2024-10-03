@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2024-10-03 09:23:45 
+#更新时间: 2024-10-03 22:18:16 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:25925
+#规则数量:25948
 ##################
 
 110.43.121.13 bigota.d.miui.com
@@ -55,7 +55,6 @@
 1.1.1.1 0n.click
 1.1.1.1 0tp13ntwgjkfryr63w.fixiy.pro
 1.1.1.1 0uest0head0.life
-1.1.1.1 0utl00k-update-passwork-report-main.replit.app
 1.1.1.1 0zn0mad0.online
 1.1.1.1 1-1ads.com
 1.1.1.1 1-free-share-buttons.com
@@ -704,7 +703,6 @@
 1.1.1.1 account.1192360.sitamet.click
 1.1.1.1 account.coordinatoins.click
 1.1.1.1 accountant.trade2022.quest
-1.1.1.1 accounts-google-signin-identifier.immasterygiveaway.com
 1.1.1.1 accounts-google.shop
 1.1.1.1 accounts.doubleclick.net
 1.1.1.1 accounts.winniing.click
@@ -1524,6 +1522,7 @@
 1.1.1.1 ad.smartinmedia.co.kr
 1.1.1.1 ad.smv.to
 1.1.1.1 ad.snappea.com
+1.1.1.1 ad.snaptube.app
 1.1.1.1 ad.sohu.com
 1.1.1.1 ad.soulapp.cn
 1.1.1.1 ad.sp.mbga.jp
@@ -5561,6 +5560,7 @@
 1.1.1.1 aka.ms-ads.co
 1.1.1.1 akaads-espn.starwave.com
 1.1.1.1 akamai.smartadserver.com
+1.1.1.1 akcja-zakupy.click
 1.1.1.1 akcjaresponsywna.click
 1.1.1.1 akme-club.pro
 1.1.1.1 akn.analytics.autodesk.com
@@ -6848,6 +6848,7 @@
 1.1.1.1 api-access.pangolin-sdk-toutiao9-b.com
 1.1.1.1 api-access.pangolin-sdk-toutiao9.com
 1.1.1.1 api-ad-adapter.wps.com
+1.1.1.1 api-ad-callback.falconnet.app
 1.1.1.1 api-ad-callback.mobiuspace.net
 1.1.1.1 api-ad-extra.kajicam.com
 1.1.1.1 api-ad.kajicam.com
@@ -6988,6 +6989,7 @@
 1.1.1.1 api.adnet.mob.com
 1.1.1.1 api.adnsafe.org
 1.1.1.1 api.adnxs.com
+1.1.1.1 api.adnz.co
 1.1.1.1 api.adrenalads.com
 1.1.1.1 api.adriver.ru
 1.1.1.1 api.adrtx.net
@@ -8279,6 +8281,7 @@
 1.1.1.1 bin5y4muil.execute-api.us-east-1.amazonaws.com
 1.1.1.1 binarslime.click
 1.1.1.1 bingads.microsoft.com
+1.1.1.1 bink.chainverd.click
 1.1.1.1 binoads.ir
 1.1.1.1 bipenlir.click
 1.1.1.1 birchist.click
@@ -9053,6 +9056,7 @@
 1.1.1.1 chainads.io
 1.1.1.1 chainlinkladsv2.com
 1.1.1.1 chainreaction-pl.click
+1.1.1.1 chainverd.click
 1.1.1.1 chainwalladsery.com
 1.1.1.1 chainwalladsy.com
 1.1.1.1 challenge.cityads.com
@@ -9090,7 +9094,6 @@
 1.1.1.1 check-activity.com.ru
 1.1.1.1 check-dashlane.com
 1.1.1.1 check-iy-ver-172-3.site
-1.1.1.1 check-manageinfo3912.cfd
 1.1.1.1 check-now.online
 1.1.1.1 check-olx.pl
 1.1.1.1 check-out-this.site
@@ -9545,6 +9548,7 @@
 1.1.1.1 cnzz.hhttm.top
 1.1.1.1 cnzz.mmstat.com
 1.1.1.1 cnzz.net
+1.1.1.1 cnzz.trafficmanager.net
 1.1.1.1 cnzz.yifenghuyu.com
 1.1.1.1 coads.akipress.org
 1.1.1.1 coatedflamfew.click
@@ -10139,6 +10143,7 @@
 1.1.1.1 dcp.pro-activprofit.site
 1.1.1.1 dd.toponad.com
 1.1.1.1 dd713.bj.bcebos.com
+1.1.1.1 ddbd885f-c076-4e6b-95b5-e8e7adc01fe5-00-3gvw280pdazg5.kirk.replit.dev
 1.1.1.1 ddtdown.pro
 1.1.1.1 de-ads.de
 1.1.1.1 de-mi-nis-ner.info
@@ -10629,6 +10634,7 @@
 1.1.1.1 download.sj.qq.com
 1.1.1.1 download.spotangels.com
 1.1.1.1 download.supercoating.com.hk
+1.1.1.1 download.suxiazai.com
 1.1.1.1 download.televisionfanatic.com
 1.1.1.1 download.uc.cn
 1.1.1.1 download.wan.sohu.com
@@ -10976,6 +10982,7 @@
 1.1.1.1 eco.taobao.com
 1.1.1.1 ecomadserver.com
 1.1.1.1 economicadvantage.midamerican.com
+1.1.1.1 ecorchq.chainverd.click
 1.1.1.1 ecoslimmer.pro
 1.1.1.1 ecs.mb.moatads.com
 1.1.1.1 ecstatic-rope.pro
@@ -12286,6 +12293,7 @@
 1.1.1.1 handsomebend.pro
 1.1.1.1 handymanadventures.com
 1.1.1.1 handyranche.pro
+1.1.1.1 hangup.chainverd.click
 1.1.1.1 hao.360.cn
 1.1.1.1 hao123.xywy.com
 1.1.1.1 haohuo.snssdk.com
@@ -15834,6 +15842,7 @@
 1.1.1.1 olx.ads-public-worlds.shop
 1.1.1.1 olx.dostawa-pl.pro
 1.1.1.1 olx.id-umowa42389.click
+1.1.1.1 olx.impact-partner.shop
 1.1.1.1 olx.online-polaczenie.pro
 1.1.1.1 olx.pay-check.site
 1.1.1.1 olx.pay-info.pro
@@ -16573,7 +16582,6 @@
 1.1.1.1 phpmyadmin.js.ero-advertising.com
 1.1.1.1 physicgoods.pro
 1.1.1.1 pi.charle.click
-1.1.1.1 pi.homeespagess.click
 1.1.1.1 piaads.com
 1.1.1.1 piads.vn
 1.1.1.1 pic.bloggerads.net
@@ -17549,6 +17557,7 @@
 1.1.1.1 pub-47752fad5d8046678118f8980f370361.r2.dev
 1.1.1.1 pub-47cf88b9b6f343a5a501976be6adf17e.r2.dev
 1.1.1.1 pub-4818236dd82042498f2808badd1a7f99.r2.dev
+1.1.1.1 pub-48cb51754474467eb8ada376108141d7.r2.dev
 1.1.1.1 pub-48d3a24bafe348799aa16e3fbd5ead78.r2.dev
 1.1.1.1 pub-48d9c000bdc949e2ad7cc02564ef7f48.r2.dev
 1.1.1.1 pub-49713332b3a74145a5d9ad3258f0ab60.r2.dev
@@ -19233,6 +19242,7 @@
 1.1.1.1 search.anonymous.ads.brave.com
 1.1.1.1 searchadv.com
 1.1.1.1 searchgear.pro
+1.1.1.1 seasonfreesiaoctomberbreath.pro
 1.1.1.1 sec-analytics.panasonic.co.uk
 1.1.1.1 sec.umeng.com
 1.1.1.1 secgw-na61-na62.wagbridge.advertisement.tanx.com
@@ -19356,6 +19366,7 @@
 1.1.1.1 service.ad.duomi.com
 1.1.1.1 service.jiagu.360.cn
 1.1.1.1 service.royalmaila.click
+1.1.1.1 service.royalpostuuk.click
 1.1.1.1 servicer.adskeeper.co.uk
 1.1.1.1 servicer.traffic-media.co.uk
 1.1.1.1 services.insurads.com
@@ -20627,6 +20638,7 @@
 1.1.1.1 tamada69.com
 1.1.1.1 tamdamads.com
 1.1.1.1 tamilmoviedownloads.com
+1.1.1.1 tana.chainverd.click
 1.1.1.1 tanagersavor.click
 1.1.1.1 tangram.e.qq.com
 1.1.1.1 tangsrimery.click
@@ -21709,7 +21721,6 @@
 1.1.1.1 update.adsrvr.org
 1.1.1.1 update.baidu.com
 1.1.1.1 update.bainv.net
-1.1.1.1 update.billinfommbershipmamatzonmnagrenewsappintlamatsin.seyfeli.com
 1.1.1.1 update.cg100iii.com
 1.1.1.1 update.check-support.org
 1.1.1.1 update.dbankcdn.com
@@ -22634,7 +22645,6 @@
 1.1.1.1 webtracking.fe.union-investment.de
 1.1.1.1 webview.unityads.unity3d.com
 1.1.1.1 wechat.epickeys.com
-1.1.1.1 wedobeads.com
 1.1.1.1 weekup.pro
 1.1.1.1 weightedpremiereing.pro
 1.1.1.1 weightingpremiereed.pro
@@ -23256,6 +23266,7 @@
 1.1.1.1 www.aid-ad.jp
 1.1.1.1 www.aimarketmastery.pro
 1.1.1.1 www.aiwealthwizard.pro
+1.1.1.1 www.akcja-zakupy.click
 1.1.1.1 www.akme-club.pro
 1.1.1.1 www.aktualnefakty.click
 1.1.1.1 www.aktualnosciportal.click
@@ -23377,6 +23388,7 @@
 1.1.1.1 www.bighorn-advisors.com
 1.1.1.1 www.binarslime.click
 1.1.1.1 www.bingads.microsoft.com
+1.1.1.1 www.bink.chainverd.click
 1.1.1.1 www.bipenlir.click
 1.1.1.1 www.bitcoin-billionaire-pro.financialmarketsworld.com
 1.1.1.1 www.bitcoinup-pro.com
@@ -23490,6 +23502,7 @@
 1.1.1.1 www.certificateedsysteming.pro
 1.1.1.1 www.certificateingeveryday.pro
 1.1.1.1 www.chainlinkladsv2.com
+1.1.1.1 www.chainverd.click
 1.1.1.1 www.challengers-tv.pro
 1.1.1.1 www.changeedeveryday.pro
 1.1.1.1 www.changeedfrostes.pro
@@ -23683,6 +23696,7 @@
 1.1.1.1 www.easydestiny.click
 1.1.1.1 www.ebayadservices.com
 1.1.1.1 www.ebayadvertising.com
+1.1.1.1 www.ecorchq.chainverd.click
 1.1.1.1 www.ecoslimmer.pro
 1.1.1.1 www.editoralra.pro
 1.1.1.1 www.educationedcomparisoned.pro
@@ -23903,6 +23917,7 @@
 1.1.1.1 www.hamptonroadsrenovations.com
 1.1.1.1 www.handilin-invest.pro
 1.1.1.1 www.handmade4all.com
+1.1.1.1 www.hangup.chainverd.click
 1.1.1.1 www.happyjourney.click
 1.1.1.1 www.harnxpads.com
 1.1.1.1 www.hasanae.pro
@@ -24399,6 +24414,7 @@
 1.1.1.1 www.olx-pt.mobi
 1.1.1.1 www.olx-zamowienie.pro
 1.1.1.1 www.olx.ads-public-worlds.shop
+1.1.1.1 www.olx.impact-partner.shop
 1.1.1.1 www.olx.pl-offerta.pro
 1.1.1.1 www.olx.pl.dostawa.pro
 1.1.1.1 www.olx.pro-redirect.shop
@@ -24760,6 +24776,7 @@
 1.1.1.1 www.scupoof.pro
 1.1.1.1 www.seadr3am.xyz
 1.1.1.1 www.searchadv.com
+1.1.1.1 www.seasonfreesiaoctomberbreath.pro
 1.1.1.1 www.sectoredfloristed.pro
 1.1.1.1 www.sectoredfloristing.pro
 1.1.1.1 www.sectoredtechnicaled.pro
@@ -24927,6 +24944,7 @@
 1.1.1.1 www.tak-jest.click
 1.1.1.1 www.talkingdata.com
 1.1.1.1 www.tamilmoviedownloads.com
+1.1.1.1 www.tana.chainverd.click
 1.1.1.1 www.tauronhub.pro
 1.1.1.1 www.tcm.optica.ero-advertising.com
 1.1.1.1 www.teaching-condo-webs.click
@@ -25242,6 +25260,7 @@
 1.1.1.1 www.xylophenomina.click
 1.1.1.1 www.xynter-invest.pro
 1.1.1.1 www.y-ads.net
+1.1.1.1 www.yachtadve.xyz
 1.1.1.1 www.yachtadventure.xyz
 1.1.1.1 www.yackpedal.click
 1.1.1.1 www.yalpish.pro
@@ -25265,6 +25284,7 @@
 1.1.1.1 www.zabawa-relaks.click
 1.1.1.1 www.zadbana-ty.click
 1.1.1.1 www.zafukou1iu2.pro
+1.1.1.1 www.zaklady12top.pl
 1.1.1.1 www.zakupowe-bystrzaki.click
 1.1.1.1 www.zalatwmy-wszyscy.click
 1.1.1.1 www.zaquinstall.click
@@ -25286,6 +25306,7 @@
 1.1.1.1 www.zuescall.click
 1.1.1.1 www.zupo.adsndtrackify.xyz
 1.1.1.1 www.zuqyryi7.pro
+1.1.1.1 www.zusepye5.pro
 1.1.1.1 www.zwariowane-to.click
 1.1.1.1 www.zww.ero-advertising.com
 1.1.1.1 www.zycakya3.pro
@@ -25323,7 +25344,6 @@
 1.1.1.1 wx.houyi.baofeng.net
 1.1.1.1 wx.shunliandongli.com
 1.1.1.1 wx.sifakaoshi360.com
-1.1.1.1 wx.wxbklinkcn.cc
 1.1.1.1 wxa.wxs.qq.com
 1.1.1.1 wxa79ef55c1a84e284.wx.ckjr001.com
 1.1.1.1 wybortygodnia.click
@@ -25533,6 +25553,7 @@
 1.1.1.1 y.one.impact-ad.jp
 1.1.1.1 y0.extreme-dm.com
 1.1.1.1 y1.extreme-dm.com
+1.1.1.1 yachtadve.xyz
 1.1.1.1 yachtadventure.xyz
 1.1.1.1 yackpedal.click
 1.1.1.1 yads.c.yimg.jp
@@ -25694,6 +25715,7 @@
 1.1.1.1 zajsciedrogowe.click
 1.1.1.1 zakablowanie.click
 1.1.1.1 zakladsozanski.natanielmazur.pl
+1.1.1.1 zaklady12top.pl
 1.1.1.1 zaklopotaniludzie.click
 1.1.1.1 zakomunikowac24.click
 1.1.1.1 zakomunikowac24h.click
@@ -25868,6 +25890,7 @@
 1.1.1.1 zupo.adsndtrackify.xyz
 1.1.1.1 zuqyryi7.pro
 1.1.1.1 zus-update.info
+1.1.1.1 zusepye5.pro
 1.1.1.1 zutube.pro
 1.1.1.1 zuwnq.cn
 1.1.1.1 zvs1.cnzz.com
