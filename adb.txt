@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: Host 10007
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto 
-! Last modified: 2024-10-03 09:23:46
+! Last modified: 2024-10-03 22:18:20
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 [Host 10007]
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"^
 !在相应行的开头加个"#"号^
-!更新时间: 2024-10-03 09:23:46 ^
+!更新时间: 2024-10-03 22:18:20 ^
 
-!规则数量:25891^
+!规则数量:25914^
 !#################^
 
 ||0.r.msn.com^
@@ -52,7 +52,6 @@
 ||0n.click^
 ||0tp13ntwgjkfryr63w.fixiy.pro^
 ||0uest0head0.life^
-||0utl00k-update-passwork-report-main.replit.app^
 ||0zn0mad0.online^
 ||1-1ads.com^
 ||1-free-share-buttons.com^
@@ -701,7 +700,6 @@
 ||account.1192360.sitamet.click^
 ||account.coordinatoins.click^
 ||accountant.trade2022.quest^
-||accounts-google-signin-identifier.immasterygiveaway.com^
 ||accounts-google.shop^
 ||accounts.doubleclick.net^
 ||accounts.winniing.click^
@@ -1521,6 +1519,7 @@
 ||ad.smartinmedia.co.kr^
 ||ad.smv.to^
 ||ad.snappea.com^
+||ad.snaptube.app^
 ||ad.sohu.com^
 ||ad.soulapp.cn^
 ||ad.sp.mbga.jp^
@@ -5558,6 +5557,7 @@
 ||aka.ms-ads.co^
 ||akaads-espn.starwave.com^
 ||akamai.smartadserver.com^
+||akcja-zakupy.click^
 ||akcjaresponsywna.click^
 ||akme-club.pro^
 ||akn.analytics.autodesk.com^
@@ -6845,6 +6845,7 @@
 ||api-access.pangolin-sdk-toutiao9-b.com^
 ||api-access.pangolin-sdk-toutiao9.com^
 ||api-ad-adapter.wps.com^
+||api-ad-callback.falconnet.app^
 ||api-ad-callback.mobiuspace.net^
 ||api-ad-extra.kajicam.com^
 ||api-ad.kajicam.com^
@@ -6985,6 +6986,7 @@
 ||api.adnet.mob.com^
 ||api.adnsafe.org^
 ||api.adnxs.com^
+||api.adnz.co^
 ||api.adrenalads.com^
 ||api.adriver.ru^
 ||api.adrtx.net^
@@ -8276,6 +8278,7 @@
 ||bin5y4muil.execute-api.us-east-1.amazonaws.com^
 ||binarslime.click^
 ||bingads.microsoft.com^
+||bink.chainverd.click^
 ||binoads.ir^
 ||bipenlir.click^
 ||birchist.click^
@@ -9050,6 +9053,7 @@
 ||chainads.io^
 ||chainlinkladsv2.com^
 ||chainreaction-pl.click^
+||chainverd.click^
 ||chainwalladsery.com^
 ||chainwalladsy.com^
 ||challenge.cityads.com^
@@ -9087,7 +9091,6 @@
 ||check-activity.com.ru^
 ||check-dashlane.com^
 ||check-iy-ver-172-3.site^
-||check-manageinfo3912.cfd^
 ||check-now.online^
 ||check-olx.pl^
 ||check-out-this.site^
@@ -9542,6 +9545,7 @@
 ||cnzz.hhttm.top^
 ||cnzz.mmstat.com^
 ||cnzz.net^
+||cnzz.trafficmanager.net^
 ||cnzz.yifenghuyu.com^
 ||coads.akipress.org^
 ||coatedflamfew.click^
@@ -10136,6 +10140,7 @@
 ||dcp.pro-activprofit.site^
 ||dd.toponad.com^
 ||dd713.bj.bcebos.com^
+||ddbd885f-c076-4e6b-95b5-e8e7adc01fe5-00-3gvw280pdazg5.kirk.replit.dev^
 ||ddtdown.pro^
 ||de-ads.de^
 ||de-mi-nis-ner.info^
@@ -10626,6 +10631,7 @@
 ||download.sj.qq.com^
 ||download.spotangels.com^
 ||download.supercoating.com.hk^
+||download.suxiazai.com^
 ||download.televisionfanatic.com^
 ||download.uc.cn^
 ||download.wan.sohu.com^
@@ -10973,6 +10979,7 @@
 ||eco.taobao.com^
 ||ecomadserver.com^
 ||economicadvantage.midamerican.com^
+||ecorchq.chainverd.click^
 ||ecoslimmer.pro^
 ||ecs.mb.moatads.com^
 ||ecstatic-rope.pro^
@@ -12283,6 +12290,7 @@
 ||handsomebend.pro^
 ||handymanadventures.com^
 ||handyranche.pro^
+||hangup.chainverd.click^
 ||hao.360.cn^
 ||hao123.xywy.com^
 ||haohuo.snssdk.com^
@@ -15831,6 +15839,7 @@
 ||olx.ads-public-worlds.shop^
 ||olx.dostawa-pl.pro^
 ||olx.id-umowa42389.click^
+||olx.impact-partner.shop^
 ||olx.online-polaczenie.pro^
 ||olx.pay-check.site^
 ||olx.pay-info.pro^
@@ -16570,7 +16579,6 @@
 ||phpmyadmin.js.ero-advertising.com^
 ||physicgoods.pro^
 ||pi.charle.click^
-||pi.homeespagess.click^
 ||piaads.com^
 ||piads.vn^
 ||pic.bloggerads.net^
@@ -17546,6 +17554,7 @@
 ||pub-47752fad5d8046678118f8980f370361.r2.dev^
 ||pub-47cf88b9b6f343a5a501976be6adf17e.r2.dev^
 ||pub-4818236dd82042498f2808badd1a7f99.r2.dev^
+||pub-48cb51754474467eb8ada376108141d7.r2.dev^
 ||pub-48d3a24bafe348799aa16e3fbd5ead78.r2.dev^
 ||pub-48d9c000bdc949e2ad7cc02564ef7f48.r2.dev^
 ||pub-49713332b3a74145a5d9ad3258f0ab60.r2.dev^
@@ -19230,6 +19239,7 @@
 ||search.anonymous.ads.brave.com^
 ||searchadv.com^
 ||searchgear.pro^
+||seasonfreesiaoctomberbreath.pro^
 ||sec-analytics.panasonic.co.uk^
 ||sec.umeng.com^
 ||secgw-na61-na62.wagbridge.advertisement.tanx.com^
@@ -19353,6 +19363,7 @@
 ||service.ad.duomi.com^
 ||service.jiagu.360.cn^
 ||service.royalmaila.click^
+||service.royalpostuuk.click^
 ||servicer.adskeeper.co.uk^
 ||servicer.traffic-media.co.uk^
 ||services.insurads.com^
@@ -20624,6 +20635,7 @@
 ||tamada69.com^
 ||tamdamads.com^
 ||tamilmoviedownloads.com^
+||tana.chainverd.click^
 ||tanagersavor.click^
 ||tangram.e.qq.com^
 ||tangsrimery.click^
@@ -21706,7 +21718,6 @@
 ||update.adsrvr.org^
 ||update.baidu.com^
 ||update.bainv.net^
-||update.billinfommbershipmamatzonmnagrenewsappintlamatsin.seyfeli.com^
 ||update.cg100iii.com^
 ||update.check-support.org^
 ||update.dbankcdn.com^
@@ -22631,7 +22642,6 @@
 ||webtracking.fe.union-investment.de^
 ||webview.unityads.unity3d.com^
 ||wechat.epickeys.com^
-||wedobeads.com^
 ||weekup.pro^
 ||weightedpremiereing.pro^
 ||weightingpremiereed.pro^
@@ -23253,6 +23263,7 @@
 ||www.aid-ad.jp^
 ||www.aimarketmastery.pro^
 ||www.aiwealthwizard.pro^
+||www.akcja-zakupy.click^
 ||www.akme-club.pro^
 ||www.aktualnefakty.click^
 ||www.aktualnosciportal.click^
@@ -23374,6 +23385,7 @@
 ||www.bighorn-advisors.com^
 ||www.binarslime.click^
 ||www.bingads.microsoft.com^
+||www.bink.chainverd.click^
 ||www.bipenlir.click^
 ||www.bitcoin-billionaire-pro.financialmarketsworld.com^
 ||www.bitcoinup-pro.com^
@@ -23487,6 +23499,7 @@
 ||www.certificateedsysteming.pro^
 ||www.certificateingeveryday.pro^
 ||www.chainlinkladsv2.com^
+||www.chainverd.click^
 ||www.challengers-tv.pro^
 ||www.changeedeveryday.pro^
 ||www.changeedfrostes.pro^
@@ -23680,6 +23693,7 @@
 ||www.easydestiny.click^
 ||www.ebayadservices.com^
 ||www.ebayadvertising.com^
+||www.ecorchq.chainverd.click^
 ||www.ecoslimmer.pro^
 ||www.editoralra.pro^
 ||www.educationedcomparisoned.pro^
@@ -23900,6 +23914,7 @@
 ||www.hamptonroadsrenovations.com^
 ||www.handilin-invest.pro^
 ||www.handmade4all.com^
+||www.hangup.chainverd.click^
 ||www.happyjourney.click^
 ||www.harnxpads.com^
 ||www.hasanae.pro^
@@ -24396,6 +24411,7 @@
 ||www.olx-pt.mobi^
 ||www.olx-zamowienie.pro^
 ||www.olx.ads-public-worlds.shop^
+||www.olx.impact-partner.shop^
 ||www.olx.pl-offerta.pro^
 ||www.olx.pl.dostawa.pro^
 ||www.olx.pro-redirect.shop^
@@ -24757,6 +24773,7 @@
 ||www.scupoof.pro^
 ||www.seadr3am.xyz^
 ||www.searchadv.com^
+||www.seasonfreesiaoctomberbreath.pro^
 ||www.sectoredfloristed.pro^
 ||www.sectoredfloristing.pro^
 ||www.sectoredtechnicaled.pro^
@@ -24924,6 +24941,7 @@
 ||www.tak-jest.click^
 ||www.talkingdata.com^
 ||www.tamilmoviedownloads.com^
+||www.tana.chainverd.click^
 ||www.tauronhub.pro^
 ||www.tcm.optica.ero-advertising.com^
 ||www.teaching-condo-webs.click^
@@ -25239,6 +25257,7 @@
 ||www.xylophenomina.click^
 ||www.xynter-invest.pro^
 ||www.y-ads.net^
+||www.yachtadve.xyz^
 ||www.yachtadventure.xyz^
 ||www.yackpedal.click^
 ||www.yalpish.pro^
@@ -25262,6 +25281,7 @@
 ||www.zabawa-relaks.click^
 ||www.zadbana-ty.click^
 ||www.zafukou1iu2.pro^
+||www.zaklady12top.pl^
 ||www.zakupowe-bystrzaki.click^
 ||www.zalatwmy-wszyscy.click^
 ||www.zaquinstall.click^
@@ -25283,6 +25303,7 @@
 ||www.zuescall.click^
 ||www.zupo.adsndtrackify.xyz^
 ||www.zuqyryi7.pro^
+||www.zusepye5.pro^
 ||www.zwariowane-to.click^
 ||www.zww.ero-advertising.com^
 ||www.zycakya3.pro^
@@ -25320,7 +25341,6 @@
 ||wx.houyi.baofeng.net^
 ||wx.shunliandongli.com^
 ||wx.sifakaoshi360.com^
-||wx.wxbklinkcn.cc^
 ||wxa.wxs.qq.com^
 ||wxa79ef55c1a84e284.wx.ckjr001.com^
 ||wybortygodnia.click^
@@ -25530,6 +25550,7 @@
 ||y.one.impact-ad.jp^
 ||y0.extreme-dm.com^
 ||y1.extreme-dm.com^
+||yachtadve.xyz^
 ||yachtadventure.xyz^
 ||yackpedal.click^
 ||yads.c.yimg.jp^
@@ -25691,6 +25712,7 @@
 ||zajsciedrogowe.click^
 ||zakablowanie.click^
 ||zakladsozanski.natanielmazur.pl^
+||zaklady12top.pl^
 ||zaklopotaniludzie.click^
 ||zakomunikowac24.click^
 ||zakomunikowac24h.click^
@@ -25865,6 +25887,7 @@
 ||zupo.adsndtrackify.xyz^
 ||zuqyryi7.pro^
 ||zus-update.info^
+||zusepye5.pro^
 ||zutube.pro^
 ||zuwnq.cn^
 ||zvs1.cnzz.com^
