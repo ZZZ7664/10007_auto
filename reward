@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2024-10-03 22:18:28 
+#更新时间: 2024-10-04 09:23:44 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:25914
+#规则数量:25920
 ##################
 
 110.43.121.13 bigota.d.miui.com
@@ -9889,6 +9889,7 @@
 94.140.14.33 cujyfai0ue1.pro
 94.140.14.33 cumuluscrest.click
 94.140.14.33 cupwith.pro
+94.140.14.33 currenccybuzz.click
 94.140.14.33 currentaccountadv.com
 94.140.14.33 currentrealtimestories.click
 94.140.14.33 custardniche.click
@@ -14799,6 +14800,7 @@
 94.140.14.33 mob.adwhirl.com
 94.140.14.33 mob.adzmobi.com
 94.140.14.33 mob.beeps.digital
+94.140.14.33 mob.digitkin.top
 94.140.14.33 mob.olx-pl.club
 94.140.14.33 mob.sb-tickets.com
 94.140.14.33 mob.swif2ft.site
@@ -17276,6 +17278,7 @@
 94.140.14.33 promo.propellerads.com
 94.140.14.33 promocjawyboru.click
 94.140.14.33 promoheads.com
+94.140.14.33 promojustforyou.click
 94.140.14.33 promote.biz.weibo.cn
 94.140.14.33 promotionalads.yahoo.co.jp
 94.140.14.33 promptbase.click
@@ -20079,6 +20082,7 @@
 94.140.14.33 st.yandexadexchange.net
 94.140.14.33 st3.wagbridge.advertisement.tanx.com
 94.140.14.33 stabilityguardclick.click
+94.140.14.33 stadvip.com
 94.140.14.33 stage-uev.ad-stir.com
 94.140.14.33 staging-ads.flurry.com
 94.140.14.33 staging-e-vcdn.anthill.vn
@@ -23584,6 +23588,7 @@
 94.140.14.33 www.cs2-source.pro
 94.140.14.33 www.cujyfai0ue1.pro
 94.140.14.33 www.cumuluscrest.click
+94.140.14.33 www.currenccybuzz.click
 94.140.14.33 www.currentrealtimestories.click
 94.140.14.33 www.customcenterpackage.dns.army
 94.140.14.33 www.customeraccount.dns.army
@@ -24867,6 +24872,7 @@
 94.140.14.33 www.sprawasensacja.click
 94.140.14.33 www.sprytna-nagroda.click
 94.140.14.33 www.stabilityguardclick.click
+94.140.14.33 www.stadvip.com
 94.140.14.33 www.standardisereplenishas.pro
 94.140.14.33 www.star-advertising.com
 94.140.14.33 www.stationedforemaned.pro
