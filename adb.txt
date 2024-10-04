@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: Host 10007
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto 
-! Last modified: 2024-10-04 15:53:12
+! Last modified: 2024-10-04 22:18:01
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 [Host 10007]
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"^
 !在相应行的开头加个"#"号^
-!更新时间: 2024-10-04 15:53:12 ^
+!更新时间: 2024-10-04 22:18:01 ^
 
-!规则数量:20730^
+!规则数量:20703^
 !#################^
 
 110.43.121.13 bigota.d.miui.com^
@@ -11139,7 +11139,6 @@
 ||lilackymusimon.click^
 ||lilypiu3.pro^
 ||lim.ofishlprog1.click^
-||limacamposadv.online^
 ||limaemeloadvocacia.com.br^
 ||limuquu0.pro^
 ||lin.open-sooursee.live^
@@ -18461,9 +18460,7 @@
 ||www.allegrowork.pro^
 ||www.alleypaths.click^
 ||www.allyhealthadvocates.com^
-||www.aluminumcalculusar.pro^
 ||www.aluminumforeheades.pro^
-||www.aluminumplayroomar.pro^
 ||www.am0r0usadv6ntures.sbs^
 ||www.analytics-digit-in.cdn.ampproject.org^
 ||www.analytics.247sports.com^
@@ -18588,7 +18585,6 @@
 ||www.bright-horizon.click^
 ||www.brightportal.click^
 ||www.brodgikinvest.pro^
-||www.bronimyfaktow.click^
 ||www.browa.bipinates.click^
 ||www.bsnnes.click^
 ||www.bsnnes.pro^
@@ -18867,7 +18863,6 @@
 ||www.facesue8.pro^
 ||www.fact.mestopoland.pro^
 ||www.fajny-bon.click^
-||www.fakcikdrogowy.click^
 ||www.famdlik-invest.pro^
 ||www.fanners.ero-advertising.com^
 ||www.fararchiveleading.pro^
@@ -19015,9 +19010,6 @@
 ||www.healthbeauty-advice.com^
 ||www.heartixxay.click^
 ||www.heatermelt.click^
-||www.heirloomcalculusar.pro^
-||www.heirloomdivisionis.pro^
-||www.heirloomgoodnessar.pro^
 ||www.heirloomintervalhedgehogis.pro^
 ||www.helmetstrap.click^
 ||www.help-ads-page.vercel.app^
@@ -19102,7 +19094,6 @@
 ||www.info-elandia.click^
 ||www.info-google.waw.pl^
 ||www.info-miasto.click^
-||www.infopociagi24h.click^
 ||www.infopolska.pro^
 ||www.informacjaswiatowa.click^
 ||www.informacje-parkrozwrywki.click^
@@ -19115,7 +19106,6 @@
 ||www.infosquare.click^
 ||www.inmsatiqsyb.click^
 ||www.inplatform.click^
-||www.inpost-ei.click^
 ||www.inpost-pl-my-id2g3ys.oferta.pro^
 ||www.inpost-pl.pro^
 ||www.inpost-polska-ad.order8880.info^
@@ -19181,7 +19171,6 @@
 ||www.kindesshiftes.pro^
 ||www.kiplet.click^
 ||www.klodben-invest.pro^
-||www.klopotyuwaga.click^
 ||www.knownledhub.click^
 ||www.kolpolterdnia.click^
 ||www.kominarinvest.pro^
@@ -19349,7 +19338,6 @@
 ||www.mykagye2.pro^
 ||www.myzen.click^
 ||www.nachosesterraines.pro^
-||www.naglyskok.click^
 ||www.nagrania-z-kamer.click^
 ||www.nagraniezkamery.click^
 ||www.najucoi0.pro^
@@ -19383,7 +19371,6 @@
 ||www.nggrskio.pro^
 ||www.nice-bit-mine.pro^
 ||www.nidaciy6.pro^
-||www.niejasnaokolicznosc.click^
 ||www.nikeshi.click^
 ||www.nisawer-invest.pro^
 ||www.niscober.click^
@@ -19419,7 +19406,6 @@
 ||www.odnajdzmydziecko.click^
 ||www.officeingfloristing.pro^
 ||www.officeingservees.pro^
-||www.ogolnytemat.click^
 ||www.oistatniarundka.click^
 ||www.okolicznewiesci.click^
 ||www.oksioninvest.pro^
@@ -19572,7 +19558,6 @@
 ||www.popacs.ero-advertising.com^
 ||www.popads.ero-advertising.com^
 ||www.popadvert.com^
-||www.porannewia.click^
 ||www.porbaniepowodzenie.click^
 ||www.pordvon-investing.pro^
 ||www.porecty.click^
@@ -19580,7 +19565,6 @@
 ||www.portalinformacja.click^
 ||www.post-corp.life^
 ||www.postm7ofzdo.click^
-||www.potrzebneinfo.click^
 ||www.potrzebuje.click^
 ||www.poutineedreallyed.pro^
 ||www.povaloa0.pro^
@@ -19627,7 +19611,6 @@
 ||www.promptbase.click^
 ||www.prostezycie.click^
 ||www.protectionproadvisor.xyz^
-||www.przejazduwaga.click^
 ||www.przekazmedia.click^
 ||www.przelewy24.click^
 ||www.publicznewideo.click^
@@ -19662,10 +19645,8 @@
 ||www.raporty24.click^
 ||www.rata.ero-advertising.com^
 ||www.razmokl-invest.pro^
-||www.realiamiasta.click^
 ||www.rebinwildadventure.com^
 ||www.rec-corp.xyz^
-||www.recitalwave.click^
 ||www.redirect.ero-advertising.com^
 ||www.refundcustomer.dns.army^
 ||www.refundhelpdesk.dns.navy^
@@ -19716,7 +19697,6 @@
 ||www.rustyround.click^
 ||www.rutabagacalculusar.pro^
 ||www.rutabagameantimeis.pro^
-||www.rutabagaturnoveres.pro^
 ||www.rutolue2.pro^
 ||www.rutus.pro^
 ||www.rywixaacyj.pro^
@@ -19827,7 +19807,6 @@
 ||www.speeuclicks.ero-advertising.com^
 ||www.sporeednavagaes.pro^
 ||www.sportplus.pro^
-||www.sprawasensacja.click^
 ||www.sprytna-nagroda.click^
 ||www.stabilityguardclick.click^
 ||www.stadvip.com^
@@ -19911,10 +19890,7 @@
 ||www.tehenyeduk.pro^
 ||www.teitsag.click^
 ||www.teixeiraadvocaciaespecializada.com^
-||www.teletypegoodnesses.pro^
-||www.teletypeintervales.pro^
 ||www.telewizja-regionalna24.click^
-||www.tematkoleje.click^
 ||www.tembotopat.click^
 ||www.teqojue3.pro^
 ||www.tesla-platform.pro^
@@ -20010,7 +19986,6 @@
 ||www.umeng.com^
 ||www.unartijgur.click^
 ||www.unidorlin-invest.pro^
-||www.uniklanyreportarz.click^
 ||www.unitespark.click^
 ||www.universal-traffic.com^
 ||www.unletstatic.click^
@@ -20101,7 +20076,6 @@
 ||www.wiadomosci-google.pl^
 ||www.wiadomosci-google.waw.pl^
 ||www.wiadomoscipolska.pro^
-||www.wieczornewiad.click^
 ||www.wijypea1.click^
 ||www.wiki.ero-advertising.com^
 ||www.windhawkadvisors.com^
@@ -20127,7 +20101,6 @@
 ||www.wspanialechwile.click^
 ||www.wspanialy-dzien.click^
 ||www.wspolnyczas.click^
-||www.wstydsprawa.click^
 ||www.wsw.ero-advertising.com^
 ||www.wta.ero-advertising.com^
 ||www.wucagee0.pro^
