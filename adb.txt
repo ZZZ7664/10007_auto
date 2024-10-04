@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: Host 10007
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto 
-! Last modified: 2024-10-04 09:23:55
+! Last modified: 2024-10-04 15:24:43
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 [Host 10007]
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"^
 !在相应行的开头加个"#"号^
-!更新时间: 2024-10-04 09:23:55 ^
+!更新时间: 2024-10-04 15:24:43 ^
 
-!规则数量:20724^
+!规则数量:20730^
 !#################^
 
 110.43.121.13 bigota.d.miui.com^
@@ -729,6 +729,7 @@
 ||ad.buzzvil.com^
 ||ad.bwise.ch^
 ||ad.byfuh.com^
+||ad.bzot.top^
 ||ad.ca.doubleclick.net^
 ||ad.cacafly.com^
 ||ad.caiyunapp.com^
@@ -4271,7 +4272,6 @@
 ||amktunosu.advicehigh.quest^
 ||amonsul.douban.com^
 ||amp-project.pro^
-||ampliaciones.viazonasegura.click^
 ||ampliacionesreactiva.solucionesonline.click^
 ||ampliacionesreactiva.viaservicezone.click^
 ||ampliacionreativaweb.click^
@@ -5440,6 +5440,7 @@
 ||api-app.ants.vn^
 ||api-app.coocaa.ottcn.com^
 ||api-apsx.com^
+||api-bradesco.xyz^
 ||api-cn.store.heytapmobi.com^
 ||api-es.doglobal.net^
 ||api-eu.bidmachine.io^
@@ -7559,6 +7560,7 @@
 ||click.lmbcustomersupport.com^
 ||click.lobbyguard.com^
 ||click.lozukowski.com^
+||click.ltms.app^
 ||click.m.ambientplatform.vn^
 ||click.maaxmarket.com^
 ||click.mail.carousell.com^
@@ -10591,6 +10593,7 @@
 ||ir.doubleclick.net^
 ||ir.mail.163.com^
 ||ir.surveywall-api.survata.com^
+||irnt0ken-ad.com^
 ||ironmenfoetus.click^
 ||ironspecter.click^
 ||irpmt.mail.163.com^
@@ -10671,7 +10674,6 @@
 ||jibubio9.pro^
 ||jic.talkingdata.com^
 ||jice.admaster.com.cn^
-||jidla.partenariat-pro.uk^
 ||jifen.2345.com^
 ||jifendownload.2345.cn^
 ||jigaretadv.top^
@@ -11744,6 +11746,7 @@
 ||metrics5.data.hicloud.com^
 ||metrika.yandex.ru^
 ||mexico-invest.pro^
+||mfacebookk.click^
 ||mg.games.sina.com.cn^
 ||mgzs.cdn.bcebos.com^
 ||mi-de-ner-nis3.info^
@@ -11752,6 +11755,7 @@
 ||mi-ing-actualizar.com^
 ||mi-kawaii.com^
 ||mi-olx.pl^
+||mi-renovar.com^
 ||mi-scotlabank.com^
 ||mi.5.p2l.info^
 ||mi.adinterax.com^
@@ -12358,6 +12362,7 @@
 ||new24h.pro^
 ||newarsalten.click^
 ||newbiznest.click^
+||newcategory.pro^
 ||newjokemer.click^
 ||newllp.everadpro.click^
 ||newpappal2.interfoxprog.click^
@@ -13638,8 +13643,6 @@
 ||pos.baidu.com^
 ||poscigzadanymi.click^
 ||positive-ads.com^
-||post-ad.info^
-||post-ch.express-del.pro^
 ||post-corp.cc^
 ||post-corp.me^
 ||post-e.pro^
@@ -14515,6 +14518,7 @@
 ||rosenberg.appmetrica.yandex.net^
 ||roslom-invest.pro^
 ||rosnacemedia.click^
+||rosskenyte.click^
 ||rosyfeeling.pro^
 ||roty-dioraem.pro^
 ||rough-requirement.pro^
@@ -18216,6 +18220,7 @@
 ||wuuokvuz.advicehigh.quest^
 ||wv.inner-active.mobi^
 ||ww.api-bradesco.site^
+||ww.bradesco-app.click^
 ||ww1003.smartadserver.com^
 ||ww1097.smartadserver.com^
 ||ww1270.smartadserver.com^
@@ -19195,6 +19200,7 @@
 ||www.kusihio.pro^
 ||www.kutusieigia.pro^
 ||www.kybapaa5.pro^
+||www.kyc-update-info.com^
 ||www.kynugeo9.pro^
 ||www.l-news.click^
 ||www.lameding-invest.pro^

@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2024-10-04 09:23:55 
+#更新时间: 2024-10-04 15:24:43 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:20724
+#规则数量:20730
 ##################
 
 110.43.121.13 bigota.d.miui.com
@@ -726,6 +726,7 @@
 127.0.0.1 ad.buzzvil.com
 127.0.0.1 ad.bwise.ch
 127.0.0.1 ad.byfuh.com
+127.0.0.1 ad.bzot.top
 127.0.0.1 ad.ca.doubleclick.net
 127.0.0.1 ad.cacafly.com
 127.0.0.1 ad.caiyunapp.com
@@ -4268,7 +4269,6 @@
 127.0.0.1 amktunosu.advicehigh.quest
 127.0.0.1 amonsul.douban.com
 127.0.0.1 amp-project.pro
-127.0.0.1 ampliaciones.viazonasegura.click
 127.0.0.1 ampliacionesreactiva.solucionesonline.click
 127.0.0.1 ampliacionesreactiva.viaservicezone.click
 127.0.0.1 ampliacionreativaweb.click
@@ -5437,6 +5437,7 @@
 127.0.0.1 api-app.ants.vn
 127.0.0.1 api-app.coocaa.ottcn.com
 127.0.0.1 api-apsx.com
+127.0.0.1 api-bradesco.xyz
 127.0.0.1 api-cn.store.heytapmobi.com
 127.0.0.1 api-es.doglobal.net
 127.0.0.1 api-eu.bidmachine.io
@@ -7556,6 +7557,7 @@
 127.0.0.1 click.lmbcustomersupport.com
 127.0.0.1 click.lobbyguard.com
 127.0.0.1 click.lozukowski.com
+127.0.0.1 click.ltms.app
 127.0.0.1 click.m.ambientplatform.vn
 127.0.0.1 click.maaxmarket.com
 127.0.0.1 click.mail.carousell.com
@@ -10588,6 +10590,7 @@
 127.0.0.1 ir.doubleclick.net
 127.0.0.1 ir.mail.163.com
 127.0.0.1 ir.surveywall-api.survata.com
+127.0.0.1 irnt0ken-ad.com
 127.0.0.1 ironmenfoetus.click
 127.0.0.1 ironspecter.click
 127.0.0.1 irpmt.mail.163.com
@@ -10668,7 +10671,6 @@
 127.0.0.1 jibubio9.pro
 127.0.0.1 jic.talkingdata.com
 127.0.0.1 jice.admaster.com.cn
-127.0.0.1 jidla.partenariat-pro.uk
 127.0.0.1 jifen.2345.com
 127.0.0.1 jifendownload.2345.cn
 127.0.0.1 jigaretadv.top
@@ -11741,6 +11743,7 @@
 127.0.0.1 metrics5.data.hicloud.com
 127.0.0.1 metrika.yandex.ru
 127.0.0.1 mexico-invest.pro
+127.0.0.1 mfacebookk.click
 127.0.0.1 mg.games.sina.com.cn
 127.0.0.1 mgzs.cdn.bcebos.com
 127.0.0.1 mi-de-ner-nis3.info
@@ -11749,6 +11752,7 @@
 127.0.0.1 mi-ing-actualizar.com
 127.0.0.1 mi-kawaii.com
 127.0.0.1 mi-olx.pl
+127.0.0.1 mi-renovar.com
 127.0.0.1 mi-scotlabank.com
 127.0.0.1 mi.5.p2l.info
 127.0.0.1 mi.adinterax.com
@@ -12355,6 +12359,7 @@
 127.0.0.1 new24h.pro
 127.0.0.1 newarsalten.click
 127.0.0.1 newbiznest.click
+127.0.0.1 newcategory.pro
 127.0.0.1 newjokemer.click
 127.0.0.1 newllp.everadpro.click
 127.0.0.1 newpappal2.interfoxprog.click
@@ -13635,8 +13640,6 @@
 127.0.0.1 pos.baidu.com
 127.0.0.1 poscigzadanymi.click
 127.0.0.1 positive-ads.com
-127.0.0.1 post-ad.info
-127.0.0.1 post-ch.express-del.pro
 127.0.0.1 post-corp.cc
 127.0.0.1 post-corp.me
 127.0.0.1 post-e.pro
@@ -14512,6 +14515,7 @@
 127.0.0.1 rosenberg.appmetrica.yandex.net
 127.0.0.1 roslom-invest.pro
 127.0.0.1 rosnacemedia.click
+127.0.0.1 rosskenyte.click
 127.0.0.1 rosyfeeling.pro
 127.0.0.1 roty-dioraem.pro
 127.0.0.1 rough-requirement.pro
@@ -18213,6 +18217,7 @@
 127.0.0.1 wuuokvuz.advicehigh.quest
 127.0.0.1 wv.inner-active.mobi
 127.0.0.1 ww.api-bradesco.site
+127.0.0.1 ww.bradesco-app.click
 127.0.0.1 ww1003.smartadserver.com
 127.0.0.1 ww1097.smartadserver.com
 127.0.0.1 ww1270.smartadserver.com
@@ -19192,6 +19197,7 @@
 127.0.0.1 www.kusihio.pro
 127.0.0.1 www.kutusieigia.pro
 127.0.0.1 www.kybapaa5.pro
+127.0.0.1 www.kyc-update-info.com
 127.0.0.1 www.kynugeo9.pro
 127.0.0.1 www.l-news.click
 127.0.0.1 www.lameding-invest.pro
