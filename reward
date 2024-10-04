@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2024-10-03 22:18:20 
+#更新时间: 2024-10-04 09:23:55 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:25914
+#规则数量:25920
 ##################
 
 110.43.121.13 bigota.d.miui.com
@@ -9889,6 +9889,7 @@
 127.0.0.1 cujyfai0ue1.pro
 127.0.0.1 cumuluscrest.click
 127.0.0.1 cupwith.pro
+127.0.0.1 currenccybuzz.click
 127.0.0.1 currentaccountadv.com
 127.0.0.1 currentrealtimestories.click
 127.0.0.1 custardniche.click
@@ -14799,6 +14800,7 @@
 127.0.0.1 mob.adwhirl.com
 127.0.0.1 mob.adzmobi.com
 127.0.0.1 mob.beeps.digital
+127.0.0.1 mob.digitkin.top
 127.0.0.1 mob.olx-pl.club
 127.0.0.1 mob.sb-tickets.com
 127.0.0.1 mob.swif2ft.site
@@ -17276,6 +17278,7 @@
 127.0.0.1 promo.propellerads.com
 127.0.0.1 promocjawyboru.click
 127.0.0.1 promoheads.com
+127.0.0.1 promojustforyou.click
 127.0.0.1 promote.biz.weibo.cn
 127.0.0.1 promotionalads.yahoo.co.jp
 127.0.0.1 promptbase.click
@@ -20079,6 +20082,7 @@
 127.0.0.1 st.yandexadexchange.net
 127.0.0.1 st3.wagbridge.advertisement.tanx.com
 127.0.0.1 stabilityguardclick.click
+127.0.0.1 stadvip.com
 127.0.0.1 stage-uev.ad-stir.com
 127.0.0.1 staging-ads.flurry.com
 127.0.0.1 staging-e-vcdn.anthill.vn
@@ -23584,6 +23588,7 @@
 127.0.0.1 www.cs2-source.pro
 127.0.0.1 www.cujyfai0ue1.pro
 127.0.0.1 www.cumuluscrest.click
+127.0.0.1 www.currenccybuzz.click
 127.0.0.1 www.currentrealtimestories.click
 127.0.0.1 www.customcenterpackage.dns.army
 127.0.0.1 www.customeraccount.dns.army
@@ -24867,6 +24872,7 @@
 127.0.0.1 www.sprawasensacja.click
 127.0.0.1 www.sprytna-nagroda.click
 127.0.0.1 www.stabilityguardclick.click
+127.0.0.1 www.stadvip.com
 127.0.0.1 www.standardisereplenishas.pro
 127.0.0.1 www.star-advertising.com
 127.0.0.1 www.stationedforemaned.pro
