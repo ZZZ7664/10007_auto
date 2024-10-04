@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2024-10-04 09:23:44 
+#更新时间: 2024-10-04 15:24:25 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:25920
+#规则数量:25925
 ##################
 
 110.43.121.13 bigota.d.miui.com
@@ -212,7 +212,6 @@
 94.140.14.33 2bb232b32911d673afad122d86565de0.wurp.pl
 94.140.14.33 2bdfad8db309b30ccd0d6db3bdc0001c.podisat.pl
 94.140.14.33 2c3bad5b99f38ee36fa6e4c3fad53321.serswise.pl
-94.140.14.33 2c51e526-0789-4c03-80c6-f96ef4a9aad7-00-347qi2rbnfi50.worf.replit.dev
 94.140.14.33 2d03f1b1397fe68ba461fdacee512ad5.ntfws.pl
 94.140.14.33 2daa3fc4541c1f2bb56a4ef219c0ad6c.twojedom.pl
 94.140.14.33 2dance.services-ai-tech.click
@@ -1065,6 +1064,7 @@
 94.140.14.33 ad.buzzvil.com
 94.140.14.33 ad.bwise.ch
 94.140.14.33 ad.byfuh.com
+94.140.14.33 ad.bzot.top
 94.140.14.33 ad.ca.doubleclick.net
 94.140.14.33 ad.cacafly.com
 94.140.14.33 ad.caiyunapp.com
@@ -5678,7 +5678,6 @@
 94.140.14.33 amktunosu.advicehigh.quest
 94.140.14.33 amonsul.douban.com
 94.140.14.33 amp-project.pro
-94.140.14.33 ampliaciones.viazonasegura.click
 94.140.14.33 ampliacionesreactiva.solucionesonline.click
 94.140.14.33 ampliacionesreactiva.viaservicezone.click
 94.140.14.33 ampliacionreativaweb.click
@@ -6869,6 +6868,7 @@
 94.140.14.33 api-app.ants.vn
 94.140.14.33 api-app.coocaa.ottcn.com
 94.140.14.33 api-apsx.com
+94.140.14.33 api-bradesco.xyz
 94.140.14.33 api-cn.store.heytapmobi.com
 94.140.14.33 api-es.doglobal.net
 94.140.14.33 api-eu.bidmachine.io
@@ -9359,6 +9359,7 @@
 94.140.14.33 click.lmbcustomersupport.com
 94.140.14.33 click.lobbyguard.com
 94.140.14.33 click.lozukowski.com
+94.140.14.33 click.ltms.app
 94.140.14.33 click.m.ambientplatform.vn
 94.140.14.33 click.maaxmarket.com
 94.140.14.33 click.mail.carousell.com
@@ -10676,7 +10677,7 @@
 94.140.14.33 downloadsnaravers.com
 94.140.14.33 downloadsoundcloud.net
 94.140.14.33 downloadspan.com
-94.140.14.33 downloadssss.standard.us-east-1.oortech.com
+94.140.14.33 downloadsparrow.com
 94.140.14.33 dowodowetajniki.click
 94.140.14.33 dowodowezagadki.click
 94.140.14.33 dowodzimyinfo.click
@@ -13209,6 +13210,7 @@
 94.140.14.33 ir.doubleclick.net
 94.140.14.33 ir.mail.163.com
 94.140.14.33 ir.surveywall-api.survata.com
+94.140.14.33 irnt0ken-ad.com
 94.140.14.33 ironmenfoetus.click
 94.140.14.33 ironspecter.click
 94.140.14.33 irpmt.mail.163.com
@@ -13307,7 +13309,6 @@
 94.140.14.33 jibubio9.pro
 94.140.14.33 jic.talkingdata.com
 94.140.14.33 jice.admaster.com.cn
-94.140.14.33 jidla.partenariat-pro.uk
 94.140.14.33 jifen.2345.com
 94.140.14.33 jifendownload.2345.cn
 94.140.14.33 jigaretadv.top
@@ -14648,6 +14649,7 @@
 94.140.14.33 metrics5.data.hicloud.com
 94.140.14.33 metrika.yandex.ru
 94.140.14.33 mexico-invest.pro
+94.140.14.33 mfacebookk.click
 94.140.14.33 mfadsrvr.com
 94.140.14.33 mg.adskeeper.co.uk
 94.140.14.33 mg.games.sina.com.cn
@@ -14661,6 +14663,7 @@
 94.140.14.33 mi-ing-actualizar.com
 94.140.14.33 mi-kawaii.com
 94.140.14.33 mi-olx.pl
+94.140.14.33 mi-renovar.com
 94.140.14.33 mi-scotlabank.com
 94.140.14.33 mi.5.p2l.info
 94.140.14.33 mi.adinterax.com
@@ -15377,6 +15380,7 @@
 94.140.14.33 newaprads.com
 94.140.14.33 newarsalten.click
 94.140.14.33 newbiznest.click
+94.140.14.33 newcategory.pro
 94.140.14.33 newjokemer.click
 94.140.14.33 newjulads.com
 94.140.14.33 newllp.everadpro.click
@@ -16892,8 +16896,6 @@
 94.140.14.33 pos.baidu.com
 94.140.14.33 poscigzadanymi.click
 94.140.14.33 positive-ads.com
-94.140.14.33 post-ad.info
-94.140.14.33 post-ch.express-del.pro
 94.140.14.33 post-corp.cc
 94.140.14.33 post-corp.me
 94.140.14.33 post-e.pro
@@ -17560,7 +17562,6 @@
 94.140.14.33 pub-47752fad5d8046678118f8980f370361.r2.dev
 94.140.14.33 pub-47cf88b9b6f343a5a501976be6adf17e.r2.dev
 94.140.14.33 pub-4818236dd82042498f2808badd1a7f99.r2.dev
-94.140.14.33 pub-48cb51754474467eb8ada376108141d7.r2.dev
 94.140.14.33 pub-48d3a24bafe348799aa16e3fbd5ead78.r2.dev
 94.140.14.33 pub-48d9c000bdc949e2ad7cc02564ef7f48.r2.dev
 94.140.14.33 pub-49713332b3a74145a5d9ad3258f0ab60.r2.dev
@@ -18615,6 +18616,7 @@
 94.140.14.33 rosenberg.appmetrica.yandex.net
 94.140.14.33 roslom-invest.pro
 94.140.14.33 rosnacemedia.click
+94.140.14.33 rosskenyte.click
 94.140.14.33 rosyfeeling.pro
 94.140.14.33 rotator.beginads.com
 94.140.14.33 roty-dioraem.pro
@@ -20488,6 +20490,7 @@
 94.140.14.33 syndication.traffichaus.com
 94.140.14.33 syndication.trafficreps.com
 94.140.14.33 syndromemeringueis.pro
+94.140.14.33 synecdoque-fad6fd.ingress-comporellon.ewp.live
 94.140.14.33 synsads.com
 94.140.14.33 syrupedchargeing.pro
 94.140.14.33 syrupedpancakeed.pro
@@ -22961,6 +22964,7 @@
 94.140.14.33 wuuokvuz.advicehigh.quest
 94.140.14.33 wv.inner-active.mobi
 94.140.14.33 ww.api-bradesco.site
+94.140.14.33 ww.bradesco-app.click
 94.140.14.33 ww1.leadboltads.net
 94.140.14.33 ww1003.smartadserver.com
 94.140.14.33 ww1097.smartadserver.com
@@ -24149,6 +24153,7 @@
 94.140.14.33 www.kusihio.pro
 94.140.14.33 www.kutusieigia.pro
 94.140.14.33 www.kybapaa5.pro
+94.140.14.33 www.kyc-update-info.com
 94.140.14.33 www.kynugeo9.pro
 94.140.14.33 www.l-news.click
 94.140.14.33 www.ladsblue.com
