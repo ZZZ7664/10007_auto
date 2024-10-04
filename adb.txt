@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: Host 10007
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto 
-! Last modified: 2024-10-03 22:18:18
+! Last modified: 2024-10-04 09:23:55
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 [Host 10007]
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"^
 !在相应行的开头加个"#"号^
-!更新时间: 2024-10-03 22:18:18 ^
+!更新时间: 2024-10-04 09:23:55 ^
 
-!规则数量:20718^
+!规则数量:20724^
 !#################^
 
 110.43.121.13 bigota.d.miui.com^
@@ -7989,6 +7989,7 @@
 ||cujyfai0ue1.pro^
 ||cumuluscrest.click^
 ||cupwith.pro^
+||currenccybuzz.click^
 ||currentaccountadv.com^
 ||currentrealtimestories.click^
 ||custardniche.click^
@@ -11880,6 +11881,7 @@
 ||mob.adwhirl.com^
 ||mob.adzmobi.com^
 ||mob.beeps.digital^
+||mob.digitkin.top^
 ||mob.olx-pl.club^
 ||mob.sb-tickets.com^
 ||mob.swif2ft.site^
@@ -14004,6 +14006,7 @@
 ||promo.click-streams.com^
 ||promo.partner.alawar.ru^
 ||promocjawyboru.click^
+||promojustforyou.click^
 ||promote.biz.weibo.cn^
 ||promptbase.click^
 ||pron.pro^
@@ -15765,6 +15768,7 @@
 ||st.yandexadexchange.net^
 ||st3.wagbridge.advertisement.tanx.com^
 ||stabilityguardclick.click^
+||stadvip.com^
 ||stage-uev.ad-stir.com^
 ||staging-ads.flurry.com^
 ||staging-e-vcdn.anthill.vn^
@@ -18711,6 +18715,7 @@
 ||www.cs2-source.pro^
 ||www.cujyfai0ue1.pro^
 ||www.cumuluscrest.click^
+||www.currenccybuzz.click^
 ||www.currentrealtimestories.click^
 ||www.customcenterpackage.dns.army^
 ||www.customeraccount.dns.army^
@@ -19819,6 +19824,7 @@
 ||www.sprawasensacja.click^
 ||www.sprytna-nagroda.click^
 ||www.stabilityguardclick.click^
+||www.stadvip.com^
 ||www.standardisereplenishas.pro^
 ||www.star-advertising.com^
 ||www.stationedforemaned.pro^
