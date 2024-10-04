@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: Host 10007
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto 
-! Last modified: 2024-10-04 09:23:55
+! Last modified: 2024-10-04 15:24:29
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 [Host 10007]
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"^
 !在相应行的开头加个"#"号^
-!更新时间: 2024-10-04 09:23:55 ^
+!更新时间: 2024-10-04 15:24:29 ^
 
-!规则数量:25920^
+!规则数量:25925^
 !#################^
 
 ||0.r.msn.com^
@@ -209,7 +209,6 @@
 ||2bb232b32911d673afad122d86565de0.wurp.pl^
 ||2bdfad8db309b30ccd0d6db3bdc0001c.podisat.pl^
 ||2c3bad5b99f38ee36fa6e4c3fad53321.serswise.pl^
-||2c51e526-0789-4c03-80c6-f96ef4a9aad7-00-347qi2rbnfi50.worf.replit.dev^
 ||2d03f1b1397fe68ba461fdacee512ad5.ntfws.pl^
 ||2daa3fc4541c1f2bb56a4ef219c0ad6c.twojedom.pl^
 ||2dance.services-ai-tech.click^
@@ -1062,6 +1061,7 @@
 ||ad.buzzvil.com^
 ||ad.bwise.ch^
 ||ad.byfuh.com^
+||ad.bzot.top^
 ||ad.ca.doubleclick.net^
 ||ad.cacafly.com^
 ||ad.caiyunapp.com^
@@ -5675,7 +5675,6 @@
 ||amktunosu.advicehigh.quest^
 ||amonsul.douban.com^
 ||amp-project.pro^
-||ampliaciones.viazonasegura.click^
 ||ampliacionesreactiva.solucionesonline.click^
 ||ampliacionesreactiva.viaservicezone.click^
 ||ampliacionreativaweb.click^
@@ -6866,6 +6865,7 @@
 ||api-app.ants.vn^
 ||api-app.coocaa.ottcn.com^
 ||api-apsx.com^
+||api-bradesco.xyz^
 ||api-cn.store.heytapmobi.com^
 ||api-es.doglobal.net^
 ||api-eu.bidmachine.io^
@@ -9356,6 +9356,7 @@
 ||click.lmbcustomersupport.com^
 ||click.lobbyguard.com^
 ||click.lozukowski.com^
+||click.ltms.app^
 ||click.m.ambientplatform.vn^
 ||click.maaxmarket.com^
 ||click.mail.carousell.com^
@@ -10673,7 +10674,7 @@
 ||downloadsnaravers.com^
 ||downloadsoundcloud.net^
 ||downloadspan.com^
-||downloadssss.standard.us-east-1.oortech.com^
+||downloadsparrow.com^
 ||dowodowetajniki.click^
 ||dowodowezagadki.click^
 ||dowodzimyinfo.click^
@@ -13206,6 +13207,7 @@
 ||ir.doubleclick.net^
 ||ir.mail.163.com^
 ||ir.surveywall-api.survata.com^
+||irnt0ken-ad.com^
 ||ironmenfoetus.click^
 ||ironspecter.click^
 ||irpmt.mail.163.com^
@@ -13304,7 +13306,6 @@
 ||jibubio9.pro^
 ||jic.talkingdata.com^
 ||jice.admaster.com.cn^
-||jidla.partenariat-pro.uk^
 ||jifen.2345.com^
 ||jifendownload.2345.cn^
 ||jigaretadv.top^
@@ -14645,6 +14646,7 @@
 ||metrics5.data.hicloud.com^
 ||metrika.yandex.ru^
 ||mexico-invest.pro^
+||mfacebookk.click^
 ||mfadsrvr.com^
 ||mg.adskeeper.co.uk^
 ||mg.games.sina.com.cn^
@@ -14658,6 +14660,7 @@
 ||mi-ing-actualizar.com^
 ||mi-kawaii.com^
 ||mi-olx.pl^
+||mi-renovar.com^
 ||mi-scotlabank.com^
 ||mi.5.p2l.info^
 ||mi.adinterax.com^
@@ -15374,6 +15377,7 @@
 ||newaprads.com^
 ||newarsalten.click^
 ||newbiznest.click^
+||newcategory.pro^
 ||newjokemer.click^
 ||newjulads.com^
 ||newllp.everadpro.click^
@@ -16889,8 +16893,6 @@
 ||pos.baidu.com^
 ||poscigzadanymi.click^
 ||positive-ads.com^
-||post-ad.info^
-||post-ch.express-del.pro^
 ||post-corp.cc^
 ||post-corp.me^
 ||post-e.pro^
@@ -17557,7 +17559,6 @@
 ||pub-47752fad5d8046678118f8980f370361.r2.dev^
 ||pub-47cf88b9b6f343a5a501976be6adf17e.r2.dev^
 ||pub-4818236dd82042498f2808badd1a7f99.r2.dev^
-||pub-48cb51754474467eb8ada376108141d7.r2.dev^
 ||pub-48d3a24bafe348799aa16e3fbd5ead78.r2.dev^
 ||pub-48d9c000bdc949e2ad7cc02564ef7f48.r2.dev^
 ||pub-49713332b3a74145a5d9ad3258f0ab60.r2.dev^
@@ -18612,6 +18613,7 @@
 ||rosenberg.appmetrica.yandex.net^
 ||roslom-invest.pro^
 ||rosnacemedia.click^
+||rosskenyte.click^
 ||rosyfeeling.pro^
 ||rotator.beginads.com^
 ||roty-dioraem.pro^
@@ -20485,6 +20487,7 @@
 ||syndication.traffichaus.com^
 ||syndication.trafficreps.com^
 ||syndromemeringueis.pro^
+||synecdoque-fad6fd.ingress-comporellon.ewp.live^
 ||synsads.com^
 ||syrupedchargeing.pro^
 ||syrupedpancakeed.pro^
@@ -22958,6 +22961,7 @@
 ||wuuokvuz.advicehigh.quest^
 ||wv.inner-active.mobi^
 ||ww.api-bradesco.site^
+||ww.bradesco-app.click^
 ||ww1.leadboltads.net^
 ||ww1003.smartadserver.com^
 ||ww1097.smartadserver.com^
@@ -24146,6 +24150,7 @@
 ||www.kusihio.pro^
 ||www.kutusieigia.pro^
 ||www.kybapaa5.pro^
+||www.kyc-update-info.com^
 ||www.kynugeo9.pro^
 ||www.l-news.click^
 ||www.ladsblue.com^
