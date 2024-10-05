@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2024-10-05 09:22:39 
+#更新时间: 2024-10-05 20:06:31 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:25932
+#规则数量:25933
 ##################
 
 110.43.121.13 bigota.d.miui.com
@@ -2115,6 +2115,7 @@
 1.1.1.1 adjunctcar.click
 1.1.1.1 adjust-local-settings.com
 1.1.1.1 adjust-net.jp
+1.1.1.1 adjust-your-slot.com
 1.1.1.1 adjust.com
 1.1.1.1 adjust.net.in
 1.1.1.1 adjust.world
@@ -8304,6 +8305,7 @@
 1.1.1.1 bitcoinup-pro.com
 1.1.1.1 bitcoinup-pro.financialmarketsworld.com
 1.1.1.1 bitesized-commission.pro
+1.1.1.1 bitpanda-update.2209772.info
 1.1.1.1 bitqt-invest.pro
 1.1.1.1 bitqt-pl.pro
 1.1.1.1 bitsoft-360.nl
@@ -9359,7 +9361,6 @@
 1.1.1.1 click.lmbcustomersupport.com
 1.1.1.1 click.lobbyguard.com
 1.1.1.1 click.lozukowski.com
-1.1.1.1 click.ltms.app
 1.1.1.1 click.m.ambientplatform.vn
 1.1.1.1 click.maaxmarket.com
 1.1.1.1 click.mail.carousell.com
@@ -9440,6 +9441,7 @@
 1.1.1.1 click.web.thornburg.com
 1.1.1.1 click.wrating.com
 1.1.1.1 click.yhd.com
+1.1.1.1 click.zerobot.delivery
 1.1.1.1 click.zipcodez.com
 1.1.1.1 click.zmctrack.net
 1.1.1.1 click.zoom.us
@@ -9619,6 +9621,7 @@
 1.1.1.1 complimentaryesspathiphyllum.pro
 1.1.1.1 compoqkraj.click
 1.1.1.1 compowapacut.click
+1.1.1.1 compucom356cloud.pro
 1.1.1.1 con1.ofisls-pro.xyz
 1.1.1.1 concertads-configs.vox-cdn.com
 1.1.1.1 concordance-fad6fd.ingress-alpha.ewp.live
@@ -9675,7 +9678,6 @@
 1.1.1.1 contextads.live
 1.1.1.1 contextuads.com
 1.1.1.1 contextualadv.com
-1.1.1.1 contjkd.pro
 1.1.1.1 conv.youdao.com
 1.1.1.1 conventional-nurse.pro
 1.1.1.1 conventionalsecond.pro
@@ -11139,7 +11141,6 @@
 1.1.1.1 eonads.com
 1.1.1.1 eos-sis.click
 1.1.1.1 eosads.com
-1.1.1.1 epgaovpk.pro
 1.1.1.1 eph-adsjutarnji.cdn.sysbee.net
 1.1.1.1 epicgameads.com
 1.1.1.1 epicsacred.pro
@@ -11264,6 +11265,7 @@
 1.1.1.1 evkakuri2308.click
 1.1.1.1 evolutionadv.it
 1.1.1.1 evolutionpln1-mandra.click
+1.1.1.1 evri.adjust-your-slot.com
 1.1.1.1 evs.proxy.analytics.shutterstock.com
 1.1.1.1 evsonnuqu.advicehigh.quest
 1.1.1.1 evt-api.ntm.eu
@@ -12416,6 +12418,7 @@
 1.1.1.1 historiadnia.click
 1.1.1.1 historiaprawdziwa.click
 1.1.1.1 historiepolakow.click
+1.1.1.1 hit-check.com
 1.1.1.1 hit-counter-download.com
 1.1.1.1 hit.api.useinsider.com
 1.1.1.1 hitadsmedia.com
@@ -13210,7 +13213,6 @@
 1.1.1.1 ir.doubleclick.net
 1.1.1.1 ir.mail.163.com
 1.1.1.1 ir.surveywall-api.survata.com
-1.1.1.1 irnt0ken-ad.com
 1.1.1.1 ironmenfoetus.click
 1.1.1.1 ironspecter.click
 1.1.1.1 irpmt.mail.163.com
@@ -14648,7 +14650,6 @@
 1.1.1.1 metrics5.data.hicloud.com
 1.1.1.1 metrika.yandex.ru
 1.1.1.1 mexico-invest.pro
-1.1.1.1 mfacebookk.click
 1.1.1.1 mfadsrvr.com
 1.1.1.1 mg.adskeeper.co.uk
 1.1.1.1 mg.games.sina.com.cn
@@ -15147,6 +15148,7 @@
 1.1.1.1 mymorri.click
 1.1.1.1 mypopads.com
 1.1.1.1 myprecisionads.com
+1.1.1.1 myservice-check.com
 1.1.1.1 myslezetak.click
 1.1.1.1 mysliludzi.click
 1.1.1.1 myslipozytywne.click
@@ -16900,7 +16902,6 @@
 1.1.1.1 post-e.pro
 1.1.1.1 post.update.fbsbx.com
 1.1.1.1 post1.voiceads.cn
-1.1.1.1 postahr.click
 1.1.1.1 postal-corp.com
 1.1.1.1 postanowienia24.click
 1.1.1.1 postasdadsa.eu
@@ -19311,6 +19312,7 @@
 1.1.1.1 seks-partner.com
 1.1.1.1 sekudyi7.pro
 1.1.1.1 selar.pro
+1.1.1.1 selim.click
 1.1.1.1 sells-o1-lxc.adsmagazin.cfd
 1.1.1.1 selvalbinit.click
 1.1.1.1 semaprebspos.pro
@@ -19369,7 +19371,6 @@
 1.1.1.1 service.ad.adesk.com
 1.1.1.1 service.ad.duomi.com
 1.1.1.1 service.jiagu.360.cn
-1.1.1.1 service.royalmaila.click
 1.1.1.1 service.royalpostuuk.click
 1.1.1.1 servicer.adskeeper.co.uk
 1.1.1.1 servicer.traffic-media.co.uk
@@ -20489,7 +20490,6 @@
 1.1.1.1 syndication.traffichaus.com
 1.1.1.1 syndication.trafficreps.com
 1.1.1.1 syndromemeringueis.pro
-1.1.1.1 synecdoque-fad6fd.ingress-comporellon.ewp.live
 1.1.1.1 synsads.com
 1.1.1.1 syrupedchargeing.pro
 1.1.1.1 syrupedpancakeed.pro
@@ -21697,6 +21697,7 @@
 1.1.1.1 update-accounts-id.online
 1.1.1.1 update-accout.debetowa.live
 1.1.1.1 update-billingmembership-prime.work.gd
+1.1.1.1 update-ebill.com
 1.1.1.1 update-expressvpn.com
 1.1.1.1 update-info.centrumconsumer.live
 1.1.1.1 update-information.zzux.com
@@ -21715,7 +21716,6 @@
 1.1.1.1 update-protection.com
 1.1.1.1 update-security.ddns.info
 1.1.1.1 update-security.qhigh.com
-1.1.1.1 update-service-pinako.codeanyapp.com
 1.1.1.1 update-skype.freehostia.com
 1.1.1.1 update-trackhk.net
 1.1.1.1 update.123juzi.net
@@ -22781,6 +22781,7 @@
 1.1.1.1 winsecretary.click
 1.1.1.1 wirtaspin-investing.pro
 1.1.1.1 wirtualnaczytac.click
+1.1.1.1 wirtualnaonline.click
 1.1.1.1 wirtualnapolska.click
 1.1.1.1 wirtualnatv.click
 1.1.1.1 wirtualneinfo.click
@@ -22838,6 +22839,7 @@
 1.1.1.1 womadsmart.com
 1.1.1.1 wonderlandads.com
 1.1.1.1 wondoads.de
+1.1.1.1 woneguess.click
 1.1.1.1 wonnedmorling.click
 1.1.1.1 woodlandzoom.click
 1.1.1.1 woodpecker.uc.cn
@@ -24142,7 +24144,6 @@
 1.1.1.1 www.kusihio.pro
 1.1.1.1 www.kutusieigia.pro
 1.1.1.1 www.kybapaa5.pro
-1.1.1.1 www.kyc-update-info.com
 1.1.1.1 www.kynugeo9.pro
 1.1.1.1 www.l-news.click
 1.1.1.1 www.ladsblue.com
@@ -25174,6 +25175,7 @@
 1.1.1.1 www.windhawkadvisors.com
 1.1.1.1 www.wirtaspin-investing.pro
 1.1.1.1 www.wirtualnaczytac.click
+1.1.1.1 www.wirtualnaonline.click
 1.1.1.1 www.wirtualnapolska.click
 1.1.1.1 www.wks.ero-advertising.com
 1.1.1.1 www.wogikeu4.pro
@@ -25322,7 +25324,6 @@
 1.1.1.1 www8.smartadserver.com
 1.1.1.1 www9.smartadserver.com
 1.1.1.1 wwwads.seoul.co.kr
-1.1.1.1 wwwctt-pt.mobi
 1.1.1.1 wwww.adleads.com
 1.1.1.1 wx.eghe.skin
 1.1.1.1 wx.houyi.baofeng.net
