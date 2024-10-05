@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: Host 10007
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto 
-! Last modified: 2024-10-05 09:22:40
+! Last modified: 2024-10-05 20:06:43
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 [Host 10007]
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"^
 !在相应行的开头加个"#"号^
-!更新时间: 2024-10-05 09:22:40 ^
+!更新时间: 2024-10-05 20:06:43 ^
 
-!规则数量:20703^
+!规则数量:20705^
 !#################^
 
 110.43.121.13 bigota.d.miui.com^
@@ -1587,6 +1587,7 @@
 ||adjunctcar.click^
 ||adjust-local-settings.com^
 ||adjust-net.jp^
+||adjust-your-slot.com^
 ||adjust.com^
 ||adjust.net.in^
 ||adjust.world^
@@ -6688,6 +6689,7 @@
 ||bitcoinup-pro.com^
 ||bitcoinup-pro.financialmarketsworld.com^
 ||bitesized-commission.pro^
+||bitpanda-update.2209772.info^
 ||bitqt-invest.pro^
 ||bitqt-pl.pro^
 ||bitsoft-360.nl^
@@ -7560,7 +7562,6 @@
 ||click.lmbcustomersupport.com^
 ||click.lobbyguard.com^
 ||click.lozukowski.com^
-||click.ltms.app^
 ||click.m.ambientplatform.vn^
 ||click.maaxmarket.com^
 ||click.mail.carousell.com^
@@ -7641,6 +7642,7 @@
 ||click.web.thornburg.com^
 ||click.wrating.com^
 ||click.yhd.com^
+||click.zerobot.delivery^
 ||click.zipcodez.com^
 ||click.zmctrack.net^
 ||click.zoom.us^
@@ -7773,6 +7775,7 @@
 ||complimentaryesspathiphyllum.pro^
 ||compoqkraj.click^
 ||compowapacut.click^
+||compucom356cloud.pro^
 ||con1.ofisls-pro.xyz^
 ||concrete-cabinet.pro^
 ||conde.adsame.com^
@@ -7817,7 +7820,6 @@
 ||content.ad^
 ||content.directadvert.ru^
 ||contextualadv.com^
-||contjkd.pro^
 ||conv.youdao.com^
 ||conventional-nurse.pro^
 ||conventionalsecond.pro^
@@ -8993,7 +8995,6 @@
 ||envoyflaps.click^
 ||eobuwie.click^
 ||eos-sis.click^
-||epgaovpk.pro^
 ||eph-adsjutarnji.cdn.sysbee.net^
 ||epicsacred.pro^
 ||epicsambari.click^
@@ -9088,6 +9089,7 @@
 ||evkakuri2308.click^
 ||evolutionadv.it^
 ||evolutionpln1-mandra.click^
+||evri.adjust-your-slot.com^
 ||evs.proxy.analytics.shutterstock.com^
 ||evsonnuqu.advicehigh.quest^
 ||evt-api.ntm.eu^
@@ -9975,6 +9977,7 @@
 ||historiadnia.click^
 ||historiaprawdziwa.click^
 ||historiepolakow.click^
+||hit-check.com^
 ||hit-counter-download.com^
 ||hit.api.useinsider.com^
 ||hitman-pro.ru^
@@ -10593,7 +10596,6 @@
 ||ir.doubleclick.net^
 ||ir.mail.163.com^
 ||ir.surveywall-api.survata.com^
-||irnt0ken-ad.com^
 ||ironmenfoetus.click^
 ||ironspecter.click^
 ||irpmt.mail.163.com^
@@ -11745,7 +11747,6 @@
 ||metrics5.data.hicloud.com^
 ||metrika.yandex.ru^
 ||mexico-invest.pro^
-||mfacebookk.click^
 ||mg.games.sina.com.cn^
 ||mgzs.cdn.bcebos.com^
 ||mi-de-ner-nis3.info^
@@ -12181,6 +12182,7 @@
 ||mymask.maskproj.click^
 ||mymercy.click^
 ||mymorri.click^
+||myservice-check.com^
 ||myslezetak.click^
 ||mysliludzi.click^
 ||myslipozytywne.click^
@@ -13647,7 +13649,6 @@
 ||post-e.pro^
 ||post.update.fbsbx.com^
 ||post1.voiceads.cn^
-||postahr.click^
 ||postal-corp.com^
 ||postanowienia24.click^
 ||postawaspoleczna.click^
@@ -15115,6 +15116,7 @@
 ||seks-partner.com^
 ||sekudyi7.pro^
 ||selar.pro^
+||selim.click^
 ||selvalbinit.click^
 ||semaprebspos.pro^
 ||semeionedeenh.pro^
@@ -15153,7 +15155,6 @@
 ||service.ad.adesk.com^
 ||service.ad.duomi.com^
 ||service.jiagu.360.cn^
-||service.royalmaila.click^
 ||service.royalpostuuk.click^
 ||servicer.traffic-media.co.uk^
 ||serving-ad.tv24.vn^
@@ -17098,6 +17099,7 @@
 ||update-accounts-id.online^
 ||update-accout.debetowa.live^
 ||update-billingmembership-prime.work.gd^
+||update-ebill.com^
 ||update-expressvpn.com^
 ||update-info.centrumconsumer.live^
 ||update-information.zzux.com^
@@ -17116,7 +17118,6 @@
 ||update-protection.com^
 ||update-security.ddns.info^
 ||update-security.qhigh.com^
-||update-service-pinako.codeanyapp.com^
 ||update-skype.freehostia.com^
 ||update-trackhk.net^
 ||update.123juzi.net^
@@ -18061,6 +18062,7 @@
 ||winsecretary.click^
 ||wirtaspin-investing.pro^
 ||wirtualnaczytac.click^
+||wirtualnaonline.click^
 ||wirtualnapolska.click^
 ||wirtualnatv.click^
 ||wirtualneinfo.click^
@@ -18109,6 +18111,7 @@
 ||wolnemediowe.click^
 ||wolnoscslowa.click^
 ||wolve.pro^
+||woneguess.click^
 ||wonnedmorling.click^
 ||woodlandzoom.click^
 ||woodpecker.uc.cn^
@@ -19189,7 +19192,6 @@
 ||www.kusihio.pro^
 ||www.kutusieigia.pro^
 ||www.kybapaa5.pro^
-||www.kyc-update-info.com^
 ||www.kynugeo9.pro^
 ||www.l-news.click^
 ||www.lameding-invest.pro^
@@ -20081,6 +20083,7 @@
 ||www.windhawkadvisors.com^
 ||www.wirtaspin-investing.pro^
 ||www.wirtualnaczytac.click^
+||www.wirtualnaonline.click^
 ||www.wirtualnapolska.click^
 ||www.wks.ero-advertising.com^
 ||www.wogikeu4.pro^
@@ -20209,7 +20212,6 @@
 ||www6.smartadserver.com^
 ||www8.smartadserver.com^
 ||www9.smartadserver.com^
-||wwwctt-pt.mobi^
 ||wx.eghe.skin^
 ||wx.houyi.baofeng.net^
 ||wx.shunliandongli.com^
