@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2024-10-05 09:22:45 
+#更新时间: 2024-10-05 20:06:11 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:25932
+#规则数量:25933
 ##################
 
 110.43.121.13 bigota.d.miui.com
@@ -2115,6 +2115,7 @@
 94.140.14.33 adjunctcar.click
 94.140.14.33 adjust-local-settings.com
 94.140.14.33 adjust-net.jp
+94.140.14.33 adjust-your-slot.com
 94.140.14.33 adjust.com
 94.140.14.33 adjust.net.in
 94.140.14.33 adjust.world
@@ -8304,6 +8305,7 @@
 94.140.14.33 bitcoinup-pro.com
 94.140.14.33 bitcoinup-pro.financialmarketsworld.com
 94.140.14.33 bitesized-commission.pro
+94.140.14.33 bitpanda-update.2209772.info
 94.140.14.33 bitqt-invest.pro
 94.140.14.33 bitqt-pl.pro
 94.140.14.33 bitsoft-360.nl
@@ -9359,7 +9361,6 @@
 94.140.14.33 click.lmbcustomersupport.com
 94.140.14.33 click.lobbyguard.com
 94.140.14.33 click.lozukowski.com
-94.140.14.33 click.ltms.app
 94.140.14.33 click.m.ambientplatform.vn
 94.140.14.33 click.maaxmarket.com
 94.140.14.33 click.mail.carousell.com
@@ -9440,6 +9441,7 @@
 94.140.14.33 click.web.thornburg.com
 94.140.14.33 click.wrating.com
 94.140.14.33 click.yhd.com
+94.140.14.33 click.zerobot.delivery
 94.140.14.33 click.zipcodez.com
 94.140.14.33 click.zmctrack.net
 94.140.14.33 click.zoom.us
@@ -9619,6 +9621,7 @@
 94.140.14.33 complimentaryesspathiphyllum.pro
 94.140.14.33 compoqkraj.click
 94.140.14.33 compowapacut.click
+94.140.14.33 compucom356cloud.pro
 94.140.14.33 con1.ofisls-pro.xyz
 94.140.14.33 concertads-configs.vox-cdn.com
 94.140.14.33 concordance-fad6fd.ingress-alpha.ewp.live
@@ -9675,7 +9678,6 @@
 94.140.14.33 contextads.live
 94.140.14.33 contextuads.com
 94.140.14.33 contextualadv.com
-94.140.14.33 contjkd.pro
 94.140.14.33 conv.youdao.com
 94.140.14.33 conventional-nurse.pro
 94.140.14.33 conventionalsecond.pro
@@ -11139,7 +11141,6 @@
 94.140.14.33 eonads.com
 94.140.14.33 eos-sis.click
 94.140.14.33 eosads.com
-94.140.14.33 epgaovpk.pro
 94.140.14.33 eph-adsjutarnji.cdn.sysbee.net
 94.140.14.33 epicgameads.com
 94.140.14.33 epicsacred.pro
@@ -11264,6 +11265,7 @@
 94.140.14.33 evkakuri2308.click
 94.140.14.33 evolutionadv.it
 94.140.14.33 evolutionpln1-mandra.click
+94.140.14.33 evri.adjust-your-slot.com
 94.140.14.33 evs.proxy.analytics.shutterstock.com
 94.140.14.33 evsonnuqu.advicehigh.quest
 94.140.14.33 evt-api.ntm.eu
@@ -12416,6 +12418,7 @@
 94.140.14.33 historiadnia.click
 94.140.14.33 historiaprawdziwa.click
 94.140.14.33 historiepolakow.click
+94.140.14.33 hit-check.com
 94.140.14.33 hit-counter-download.com
 94.140.14.33 hit.api.useinsider.com
 94.140.14.33 hitadsmedia.com
@@ -13210,7 +13213,6 @@
 94.140.14.33 ir.doubleclick.net
 94.140.14.33 ir.mail.163.com
 94.140.14.33 ir.surveywall-api.survata.com
-94.140.14.33 irnt0ken-ad.com
 94.140.14.33 ironmenfoetus.click
 94.140.14.33 ironspecter.click
 94.140.14.33 irpmt.mail.163.com
@@ -14648,7 +14650,6 @@
 94.140.14.33 metrics5.data.hicloud.com
 94.140.14.33 metrika.yandex.ru
 94.140.14.33 mexico-invest.pro
-94.140.14.33 mfacebookk.click
 94.140.14.33 mfadsrvr.com
 94.140.14.33 mg.adskeeper.co.uk
 94.140.14.33 mg.games.sina.com.cn
@@ -15147,6 +15148,7 @@
 94.140.14.33 mymorri.click
 94.140.14.33 mypopads.com
 94.140.14.33 myprecisionads.com
+94.140.14.33 myservice-check.com
 94.140.14.33 myslezetak.click
 94.140.14.33 mysliludzi.click
 94.140.14.33 myslipozytywne.click
@@ -16900,7 +16902,6 @@
 94.140.14.33 post-e.pro
 94.140.14.33 post.update.fbsbx.com
 94.140.14.33 post1.voiceads.cn
-94.140.14.33 postahr.click
 94.140.14.33 postal-corp.com
 94.140.14.33 postanowienia24.click
 94.140.14.33 postasdadsa.eu
@@ -19311,6 +19312,7 @@
 94.140.14.33 seks-partner.com
 94.140.14.33 sekudyi7.pro
 94.140.14.33 selar.pro
+94.140.14.33 selim.click
 94.140.14.33 sells-o1-lxc.adsmagazin.cfd
 94.140.14.33 selvalbinit.click
 94.140.14.33 semaprebspos.pro
@@ -19369,7 +19371,6 @@
 94.140.14.33 service.ad.adesk.com
 94.140.14.33 service.ad.duomi.com
 94.140.14.33 service.jiagu.360.cn
-94.140.14.33 service.royalmaila.click
 94.140.14.33 service.royalpostuuk.click
 94.140.14.33 servicer.adskeeper.co.uk
 94.140.14.33 servicer.traffic-media.co.uk
@@ -20489,7 +20490,6 @@
 94.140.14.33 syndication.traffichaus.com
 94.140.14.33 syndication.trafficreps.com
 94.140.14.33 syndromemeringueis.pro
-94.140.14.33 synecdoque-fad6fd.ingress-comporellon.ewp.live
 94.140.14.33 synsads.com
 94.140.14.33 syrupedchargeing.pro
 94.140.14.33 syrupedpancakeed.pro
@@ -21697,6 +21697,7 @@
 94.140.14.33 update-accounts-id.online
 94.140.14.33 update-accout.debetowa.live
 94.140.14.33 update-billingmembership-prime.work.gd
+94.140.14.33 update-ebill.com
 94.140.14.33 update-expressvpn.com
 94.140.14.33 update-info.centrumconsumer.live
 94.140.14.33 update-information.zzux.com
@@ -21715,7 +21716,6 @@
 94.140.14.33 update-protection.com
 94.140.14.33 update-security.ddns.info
 94.140.14.33 update-security.qhigh.com
-94.140.14.33 update-service-pinako.codeanyapp.com
 94.140.14.33 update-skype.freehostia.com
 94.140.14.33 update-trackhk.net
 94.140.14.33 update.123juzi.net
@@ -22781,6 +22781,7 @@
 94.140.14.33 winsecretary.click
 94.140.14.33 wirtaspin-investing.pro
 94.140.14.33 wirtualnaczytac.click
+94.140.14.33 wirtualnaonline.click
 94.140.14.33 wirtualnapolska.click
 94.140.14.33 wirtualnatv.click
 94.140.14.33 wirtualneinfo.click
@@ -22838,6 +22839,7 @@
 94.140.14.33 womadsmart.com
 94.140.14.33 wonderlandads.com
 94.140.14.33 wondoads.de
+94.140.14.33 woneguess.click
 94.140.14.33 wonnedmorling.click
 94.140.14.33 woodlandzoom.click
 94.140.14.33 woodpecker.uc.cn
@@ -24142,7 +24144,6 @@
 94.140.14.33 www.kusihio.pro
 94.140.14.33 www.kutusieigia.pro
 94.140.14.33 www.kybapaa5.pro
-94.140.14.33 www.kyc-update-info.com
 94.140.14.33 www.kynugeo9.pro
 94.140.14.33 www.l-news.click
 94.140.14.33 www.ladsblue.com
@@ -25174,6 +25175,7 @@
 94.140.14.33 www.windhawkadvisors.com
 94.140.14.33 www.wirtaspin-investing.pro
 94.140.14.33 www.wirtualnaczytac.click
+94.140.14.33 www.wirtualnaonline.click
 94.140.14.33 www.wirtualnapolska.click
 94.140.14.33 www.wks.ero-advertising.com
 94.140.14.33 www.wogikeu4.pro
@@ -25322,7 +25324,6 @@
 94.140.14.33 www8.smartadserver.com
 94.140.14.33 www9.smartadserver.com
 94.140.14.33 wwwads.seoul.co.kr
-94.140.14.33 wwwctt-pt.mobi
 94.140.14.33 wwww.adleads.com
 94.140.14.33 wx.eghe.skin
 94.140.14.33 wx.houyi.baofeng.net
