@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2024-10-06 09:36:24 
+#更新时间: 2024-10-06 22:15:16 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:20739
+#规则数量:20733
 ##################
 
 110.43.121.13 bigota.d.miui.com
@@ -450,6 +450,7 @@
 127.0.0.1 ad-cloud.jp
 127.0.0.1 ad-count.adwo.com
 127.0.0.1 ad-count.jp
+127.0.0.1 ad-cpu.com
 127.0.0.1 ad-creative.projectcarmen.com
 127.0.0.1 ad-creatives-public.commondatastorage.googleapis.com
 127.0.0.1 ad-cupid.com
@@ -5438,7 +5439,6 @@
 127.0.0.1 api-app.ants.vn
 127.0.0.1 api-app.coocaa.ottcn.com
 127.0.0.1 api-apsx.com
-127.0.0.1 api-bradesco.xyz
 127.0.0.1 api-cn.store.heytapmobi.com
 127.0.0.1 api-es.doglobal.net
 127.0.0.1 api-eu.bidmachine.io
@@ -5836,6 +5836,7 @@
 127.0.0.1 api.kameleoon.com
 127.0.0.1 api.karpishe.com
 127.0.0.1 api.keen.io
+127.0.0.1 api.keepo.io
 127.0.0.1 api.kiip.me
 127.0.0.1 api.kingbet86.info
 127.0.0.1 api.kochava.com
@@ -6205,6 +6206,7 @@
 127.0.0.1 apps-l6kodnac0ehf-update.line.pm
 127.0.0.1 apps.ad-x.co.uk
 127.0.0.1 apps.bytesfield.com
+127.0.0.1 appsupport-lzwh9wyn7pobgqq8uwqa.wesley.adv.br
 127.0.0.1 appwall.api.airpush.com
 127.0.0.1 apt-ice.pro
 127.0.0.1 aquaflowcam.click
@@ -7034,6 +7036,7 @@
 127.0.0.1 camp247adventure.com
 127.0.0.1 campaign.ad-brix.com
 127.0.0.1 campaign.adobe.com
+127.0.0.1 canada-reschedule-post-update.com
 127.0.0.1 canadapost-postecanadva.top
 127.0.0.1 canadapro.pro
 127.0.0.1 canariajournalen.ads.ramsalt.com
@@ -7772,7 +7775,6 @@
 127.0.0.1 complimentaryesspathiphyllum.pro
 127.0.0.1 compoqkraj.click
 127.0.0.1 compowapacut.click
-127.0.0.1 compucom356cloud.pro
 127.0.0.1 con1.ofisls-pro.xyz
 127.0.0.1 concrete-cabinet.pro
 127.0.0.1 conde.adsame.com
@@ -7925,7 +7927,6 @@
 127.0.0.1 critomiron.click
 127.0.0.1 crm-analytics.imweb.ru
 127.0.0.1 croceussmitter.click
-127.0.0.1 crome-update-gr.com
 127.0.0.1 crowdeddisk.pro
 127.0.0.1 crpro.tes1aprodj.click
 127.0.0.1 crpt-pro.beauty
@@ -8320,6 +8321,7 @@
 127.0.0.1 dizzyshe.pro
 127.0.0.1 djaozjue5ey7.audience-targeting-pro.icu
 127.0.0.1 djo.goodpltrmm.click
+127.0.0.1 djp.lkmh89074.dns-dynamic.net
 127.0.0.1 dkllslls.tentaklsistem.click
 127.0.0.1 dklso.lixprog.click
 127.0.0.1 dl-vip.bav.baidu.com
@@ -8549,7 +8551,6 @@
 127.0.0.1 download.bonnti.com
 127.0.0.1 download.browseraccelerator.com
 127.0.0.1 download.buzzfiles.net
-127.0.0.1 download.caihong.com
 127.0.0.1 download.cdn.sharelive.net
 127.0.0.1 download.cdn.torchbrowser.com
 127.0.0.1 download.cm
@@ -9636,6 +9637,7 @@
 127.0.0.1 gl-product-analytics.com
 127.0.0.1 glacialarmor.click
 127.0.0.1 glamgossiphub.pro
+127.0.0.1 glazieroometer.click
 127.0.0.1 glisteningproject.pro
 127.0.0.1 glitteringstress.pro
 127.0.0.1 glixu.click
@@ -9881,6 +9883,7 @@
 127.0.0.1 haiwai-ic.ksosoft.com
 127.0.0.1 halal.ad
 127.0.0.1 half-concert.pro
+127.0.0.1 halfdiscounts.click
 127.0.0.1 halfetrere.pro
 127.0.0.1 hallmarkedsilvered.pro
 127.0.0.1 halo.ad.gt
@@ -10518,6 +10521,7 @@
 127.0.0.1 intent.techadvisor.com
 127.0.0.1 interactivart.pro
 127.0.0.1 interadv.net
+127.0.0.1 interbeneficioahora.zonawebviaonline.click
 127.0.0.1 interesowne24.click
 127.0.0.1 interespoleczny.click
 127.0.0.1 interesspoleczny.click
@@ -10991,6 +10995,7 @@
 127.0.0.1 kwurl.ucweb.com
 127.0.0.1 kybapaa5.pro
 127.0.0.1 kyc-update-info.com
+127.0.0.1 kyhimiy4.pro
 127.0.0.1 kymirasite.pro
 127.0.0.1 kynugeo9.pro
 127.0.0.1 kyson.ad.daum.net
@@ -11919,6 +11924,7 @@
 127.0.0.1 mobileads.msn.com
 127.0.0.1 mobileadvertise.de
 127.0.0.1 mobileapi.advertising.com
+127.0.0.1 mobileblock.click
 127.0.0.1 mobileleads.msn.com
 127.0.0.1 mobileoffers-7-j-download.com
 127.0.0.1 mobileoffers-ac-download.com
@@ -12522,6 +12528,7 @@
 127.0.0.1 nowt.interfoxprog.click
 127.0.0.1 nowuxue5.pro
 127.0.0.1 ns-strategy.cdn.bcebos.com
+127.0.0.1 ns1.ak-krkkdbd.click
 127.0.0.1 ns1.cnzz.com
 127.0.0.1 ns1.dns-eu-east-32.xyz
 127.0.0.1 ns2.cnzz.com
@@ -13584,6 +13591,7 @@
 127.0.0.1 polquantly.click
 127.0.0.1 polska-pro.cyou
 127.0.0.1 polska-vinted-hjso21.order-id73291.click
+127.0.0.1 polskaaktual.click
 127.0.0.1 polskasprawa.click
 127.0.0.1 polskawirtual.click
 127.0.0.1 polskieinformacje.click
@@ -13644,8 +13652,10 @@
 127.0.0.1 post-corp.cc
 127.0.0.1 post-corp.me
 127.0.0.1 post-e.pro
+127.0.0.1 post-update-reschedule-canadapost.com
 127.0.0.1 post.update.fbsbx.com
 127.0.0.1 post1.voiceads.cn
+127.0.0.1 posta-rs.pro
 127.0.0.1 postal-corp.com
 127.0.0.1 postanowienia24.click
 127.0.0.1 postawaspoleczna.click
@@ -14870,6 +14880,7 @@
 127.0.0.1 saxn.sina.com.cn
 127.0.0.1 saxs.sina.cn
 127.0.0.1 saxs.sina.com.cn
+127.0.0.1 sbbtransport.pro
 127.0.0.1 sbeacon.sina.com.cn
 127.0.0.1 sbem.tentaklsistem.click
 127.0.0.1 sbjjzdwqg41ps.click
@@ -15113,7 +15124,6 @@
 127.0.0.1 seks-partner.com
 127.0.0.1 sekudyi7.pro
 127.0.0.1 selar.pro
-127.0.0.1 selim.click
 127.0.0.1 selvalbinit.click
 127.0.0.1 semaprebspos.pro
 127.0.0.1 semeionedeenh.pro
@@ -15609,7 +15619,6 @@
 127.0.0.1 spaceshipdinosaurjunglear.pro
 127.0.0.1 sparc.pro
 127.0.0.1 sparka-check.net
-127.0.0.1 sparkasse-update.webredirect.org
 127.0.0.1 sparkassen-partner.de
 127.0.0.1 spcialadvices.club
 127.0.0.1 spcode.baidu.com
@@ -17112,6 +17121,7 @@
 127.0.0.1 update-paymentnow.ntftvcentre.website
 127.0.0.1 update-paymentnow.tvshowapp.cam
 127.0.0.1 update-paymentnow.tvshowkonto.life
+127.0.0.1 update-post-reschedule-canada.com
 127.0.0.1 update-protection.com
 127.0.0.1 update-security.ddns.info
 127.0.0.1 update-security.qhigh.com
@@ -18055,6 +18065,7 @@
 127.0.0.1 windows-update-02-en.com
 127.0.0.1 windows-wsus-update.com
 127.0.0.1 windproof.pro
+127.0.0.1 wingetnowp.pro
 127.0.0.1 winitnow.mobi
 127.0.0.1 winsecretary.click
 127.0.0.1 wirtaspin-investing.pro
@@ -18441,7 +18452,6 @@
 127.0.0.1 www.adx.adnxs.com
 127.0.0.1 www.ae888.mobi
 127.0.0.1 www.afs.ero-advertising.com
-127.0.0.1 www.agglomerationin.click
 127.0.0.1 www.agile-company-365.com
 127.0.0.1 www.agile-enterprise-365.com
 127.0.0.1 www.ahabadvertency.xyz
@@ -18460,7 +18470,6 @@
 127.0.0.1 www.allegrowork.pro
 127.0.0.1 www.alleypaths.click
 127.0.0.1 www.allyhealthadvocates.com
-127.0.0.1 www.aluminumforeheades.pro
 127.0.0.1 www.am0r0usadv6ntures.sbs
 127.0.0.1 www.analytics-digit-in.cdn.ampproject.org
 127.0.0.1 www.analytics.247sports.com
@@ -18490,7 +18499,6 @@
 127.0.0.1 www.arcturus-investing.pro
 127.0.0.1 www.armorlest.click
 127.0.0.1 www.arnaldorodrigues.adv.br
-127.0.0.1 www.articleadventure.space
 127.0.0.1 www.asgon-invest.pro
 127.0.0.1 www.askon-invest.pro
 127.0.0.1 www.askovinvest.pro
@@ -18570,8 +18578,6 @@
 127.0.0.1 www.bonus-ttw.pro
 127.0.0.1 www.bonustw.pro
 127.0.0.1 www.booking.com-extran-group.click
-127.0.0.1 www.bookmarkcalculusmeringueed.pro
-127.0.0.1 www.bookmarkturnoverstandingis.pro
 127.0.0.1 www.boringadviser.com
 127.0.0.1 www.bouden-invest.pro
 127.0.0.1 www.boxedchestnutes.pro
@@ -18663,7 +18669,6 @@
 127.0.0.1 www.chengzijianzhan.com
 127.0.0.1 www.chestingruined.pro
 127.0.0.1 www.chestpark.click
-127.0.0.1 www.chicrdited.pro
 127.0.0.1 www.chori3oiwtb.click
 127.0.0.1 www.christianbusinessadvertising.com
 127.0.0.1 www.christiepointadvocates.com
@@ -18807,7 +18812,6 @@
 127.0.0.1 www.duxuqye3.pro
 127.0.0.1 www.dyfudia.click
 127.0.0.1 www.dyhonay8.pro
-127.0.0.1 www.dzialaniaobowiazkowe.click
 127.0.0.1 www.dzibaninvesting.pro
 127.0.0.1 www.e-hpaces.ero-advertising.com
 127.0.0.1 www.e-traffic.com
@@ -19067,7 +19071,6 @@
 127.0.0.1 www.hsb-corp.com
 127.0.0.1 www.hytuzyu8.pro
 127.0.0.1 www.i-mobi.pl
-127.0.0.1 www.icefog7edno.click
 127.0.0.1 www.identyfikacje-now.2show4tv.click
 127.0.0.1 www.idlhi-gpps.click
 127.0.0.1 www.idlvwi-gpps.click
@@ -19089,7 +19092,6 @@
 127.0.0.1 www.increaseingdealed.pro
 127.0.0.1 www.indiaadventuretoursandtravels.com
 127.0.0.1 www.infinite-ads.com
-127.0.0.1 www.inflaboand.pro
 127.0.0.1 www.inflatedsnap.click
 127.0.0.1 www.info-elandia.click
 127.0.0.1 www.info-google.waw.pl
@@ -19189,6 +19191,7 @@
 127.0.0.1 www.kusihio.pro
 127.0.0.1 www.kutusieigia.pro
 127.0.0.1 www.kybapaa5.pro
+127.0.0.1 www.kyhimiy4.pro
 127.0.0.1 www.kynugeo9.pro
 127.0.0.1 www.l-news.click
 127.0.0.1 www.lameding-invest.pro
@@ -19266,7 +19269,6 @@
 127.0.0.1 www.massage-corp.space
 127.0.0.1 www.masthila.click
 127.0.0.1 www.mata.ero-advertising.com
-127.0.0.1 www.materialtragedi.click
 127.0.0.1 www.mawslok-invest.pro
 127.0.0.1 www.maximeipj.click
 127.0.0.1 www.maximizer-pro.site
@@ -19307,6 +19309,7 @@
 127.0.0.1 www.mob.sb-tickets.com
 127.0.0.1 www.mobgames.mobi
 127.0.0.1 www.mobileads.ero-advertising.com
+127.0.0.1 www.mobileblock.click
 127.0.0.1 www.modmarket.click
 127.0.0.1 www.modna-szafa.click
 127.0.0.1 www.modny-bon.click
@@ -19395,7 +19398,6 @@
 127.0.0.1 www.ntlhub-verif.pro
 127.0.0.1 www.nubatou6.pro
 127.0.0.1 www.nudopie7.pro
-127.0.0.1 www.numermiastowy.click
 127.0.0.1 www.numquamxoz.click
 127.0.0.1 www.nuradvei.com
 127.0.0.1 www.oata.ero-advertising.com
@@ -19480,7 +19482,6 @@
 127.0.0.1 www.parfaitesshouldering.pro
 127.0.0.1 www.parfaitingeverydayed.pro
 127.0.0.1 www.paridakinvest.pro
-127.0.0.1 www.parityclap.click
 127.0.0.1 www.partlyedchestnutes.pro
 127.0.0.1 www.partlyedmuleing.pro
 127.0.0.1 www.partlyeshelmetsteeped.pro
@@ -19552,6 +19553,7 @@
 127.0.0.1 www.polnesweseday.click
 127.0.0.1 www.polpostinposts.click
 127.0.0.1 www.polquantly.click
+127.0.0.1 www.polskaaktual.click
 127.0.0.1 www.polskawirtual.click
 127.0.0.1 www.polskihistoria.pro
 127.0.0.1 www.popacs.ero-advertising.com
@@ -19659,7 +19661,6 @@
 127.0.0.1 www.replyesspathiphyllum.pro
 127.0.0.1 www.replyingmilkweed.pro
 127.0.0.1 www.replyingspathiphyllum.pro
-127.0.0.1 www.repqgn7zzss.click
 127.0.0.1 www.request-api.com
 127.0.0.1 www.resilienceprozone.click
 127.0.0.1 www.retirementadvisorinsights.com
@@ -19694,8 +19695,6 @@
 127.0.0.1 www.rs2.ero-advertising.com
 127.0.0.1 www.rumorvoice.click
 127.0.0.1 www.rustyround.click
-127.0.0.1 www.rutabagacalculusar.pro
-127.0.0.1 www.rutabagameantimeis.pro
 127.0.0.1 www.rutolue2.pro
 127.0.0.1 www.rutus.pro
 127.0.0.1 www.rywixaacyj.pro
@@ -19871,9 +19870,7 @@
 127.0.0.1 www.systemsdirect.click
 127.0.0.1 www.szansaonline.click
 127.0.0.1 www.szczesliwe-zakupy.click
-127.0.0.1 www.szkodainfo24h.click
 127.0.0.1 www.szybka7demka24h7.click
-127.0.0.1 www.szybkiereagowanie.click
 127.0.0.1 www.szybkozobacz.click
 127.0.0.1 www.t-analytics.com
 127.0.0.1 www.tadveen.org
@@ -19938,7 +19935,6 @@
 127.0.0.1 www.traffic-c.com
 127.0.0.1 www.traffic-on-steroids.com
 127.0.0.1 www.tragicznedni.click
-127.0.0.1 www.transitradar.click
 127.0.0.1 www.traveladvantagevip.com
 127.0.0.1 www.traveladvertising.com
 127.0.0.1 www.trejent.wantaolej.pro
@@ -20062,7 +20058,6 @@
 127.0.0.1 www.webmail.api.ns2.admin.chebacafe.com
 127.0.0.1 www.weightedpremiereing.pro
 127.0.0.1 www.weightingpremiereed.pro
-127.0.0.1 www.weldingpins.click
 127.0.0.1 www.wellrope.click
 127.0.0.1 www.weplay-cw.pro
 127.0.0.1 www.weplay-events.pro
@@ -20150,7 +20145,6 @@
 127.0.0.1 www.yalpish.pro
 127.0.0.1 www.yandex.ay.inpost-pl-pacid273jks.abin.shopmuasic.icanmining.ru
 127.0.0.1 www.yandex.inpost-pl-pacid273jks.abun.qhopmusic.icanmining.ru
-127.0.0.1 www.yangtarp.click
 127.0.0.1 www.yarnropes.click
 127.0.0.1 www.yntragame.click
 127.0.0.1 www.yomatapet.click
