@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2024-10-07 09:26:01 
+#更新时间: 2024-10-07 22:18:03 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:20733
+#规则数量:20735
 ##################
 
 110.43.121.13 bigota.d.miui.com
@@ -429,6 +429,7 @@
 127.0.0.1 ad-arata.com
 127.0.0.1 ad-arata.s3.amazonaws.com
 127.0.0.1 ad-arrow.com
+127.0.0.1 ad-assets.futurecdn.net
 127.0.0.1 ad-audit.tubemogul.com
 127.0.0.1 ad-back.net
 127.0.0.1 ad-balancer.at
@@ -3677,7 +3678,6 @@
 127.0.0.1 advancedsolarpowerltd.com
 127.0.0.1 advancedsolutions.actonservice.com
 127.0.0.1 advancedsuperfood.com
-127.0.0.1 advancedtrack.top
 127.0.0.1 advancedtrades.online
 127.0.0.1 advanceencumbrancehive.com
 127.0.0.1 advancelocal-adapter-image-uploads.s3.amazonaws.com
@@ -5485,6 +5485,7 @@
 127.0.0.1 api-secure.solvemedia.com
 127.0.0.1 api-slotxo.com
 127.0.0.1 api-stg.ensonhaber.com
+127.0.0.1 api-telegram.xyz
 127.0.0.1 api-telemetry.servers.getgo.com
 127.0.0.1 api-upgrade.coocaa.ottcn.com
 127.0.0.1 api-us.appodealx.com
@@ -6206,7 +6207,6 @@
 127.0.0.1 apps-l6kodnac0ehf-update.line.pm
 127.0.0.1 apps.ad-x.co.uk
 127.0.0.1 apps.bytesfield.com
-127.0.0.1 appsupport-lzwh9wyn7pobgqq8uwqa.wesley.adv.br
 127.0.0.1 appwall.api.airpush.com
 127.0.0.1 apt-ice.pro
 127.0.0.1 aquaflowcam.click
@@ -7427,7 +7427,6 @@
 127.0.0.1 clearpath.click
 127.0.0.1 cleverculture.pro
 127.0.0.1 clgserv.pro
-127.0.0.1 click-account-profile.replit.app
 127.0.0.1 click-allow.top
 127.0.0.1 click-cdn.com
 127.0.0.1 click-count.info
@@ -7927,6 +7926,7 @@
 127.0.0.1 critomiron.click
 127.0.0.1 crm-analytics.imweb.ru
 127.0.0.1 croceussmitter.click
+127.0.0.1 crome-update-gr.com
 127.0.0.1 crowdeddisk.pro
 127.0.0.1 crpro.tes1aprodj.click
 127.0.0.1 crpt-pro.beauty
@@ -8321,7 +8321,6 @@
 127.0.0.1 dizzyshe.pro
 127.0.0.1 djaozjue5ey7.audience-targeting-pro.icu
 127.0.0.1 djo.goodpltrmm.click
-127.0.0.1 djp.lkmh89074.dns-dynamic.net
 127.0.0.1 dkllslls.tentaklsistem.click
 127.0.0.1 dklso.lixprog.click
 127.0.0.1 dl-vip.bav.baidu.com
@@ -8551,6 +8550,7 @@
 127.0.0.1 download.bonnti.com
 127.0.0.1 download.browseraccelerator.com
 127.0.0.1 download.buzzfiles.net
+127.0.0.1 download.caihong.com
 127.0.0.1 download.cdn.sharelive.net
 127.0.0.1 download.cdn.torchbrowser.com
 127.0.0.1 download.cm
@@ -9443,7 +9443,6 @@
 127.0.0.1 frostnsullivan.advancedtech.com
 127.0.0.1 frosty-criticism.pro
 127.0.0.1 frostyimposingsphere.pro
-127.0.0.1 frs.fvbgtyhnju87y.dns-dynamic.net
 127.0.0.1 fruklon-invest.pro
 127.0.0.1 fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com
 127.0.0.1 fshe.fallz.click
@@ -9466,6 +9465,7 @@
 127.0.0.1 furgonetka.appsendi.click
 127.0.0.1 furgonetka.pro
 127.0.0.1 furnermousers.click
+127.0.0.1 furyxoa4.pro
 127.0.0.1 fusionhacks.pro
 127.0.0.1 fussy-highway.pro
 127.0.0.1 fussysandwich.pro
@@ -9883,7 +9883,6 @@
 127.0.0.1 haiwai-ic.ksosoft.com
 127.0.0.1 halal.ad
 127.0.0.1 half-concert.pro
-127.0.0.1 halfdiscounts.click
 127.0.0.1 halfetrere.pro
 127.0.0.1 hallmarkedsilvered.pro
 127.0.0.1 halo.ad.gt
@@ -10521,7 +10520,6 @@
 127.0.0.1 intent.techadvisor.com
 127.0.0.1 interactivart.pro
 127.0.0.1 interadv.net
-127.0.0.1 interbeneficioahora.zonawebviaonline.click
 127.0.0.1 interesowne24.click
 127.0.0.1 interespoleczny.click
 127.0.0.1 interesspoleczny.click
@@ -12052,6 +12050,7 @@
 127.0.0.1 mowimyprawde.click
 127.0.0.1 mozemyrazemtu.click
 127.0.0.1 mp.cmllw.iego.net
+127.0.0.1 mp.weixin.kpo.cn
 127.0.0.1 mpi.ofishlprog1.click
 127.0.0.1 mplaylist-ads.zadn.vn
 127.0.0.1 mplaylist-ads.zascdn.me
@@ -12528,7 +12527,6 @@
 127.0.0.1 nowt.interfoxprog.click
 127.0.0.1 nowuxue5.pro
 127.0.0.1 ns-strategy.cdn.bcebos.com
-127.0.0.1 ns1.ak-krkkdbd.click
 127.0.0.1 ns1.cnzz.com
 127.0.0.1 ns1.dns-eu-east-32.xyz
 127.0.0.1 ns2.cnzz.com
@@ -12766,6 +12764,7 @@
 127.0.0.1 olx-pt.mobi
 127.0.0.1 olx-zamowienie.pro
 127.0.0.1 olx.ads-public-worlds.shop
+127.0.0.1 olx.domain-check.shop
 127.0.0.1 olx.dostawa-pl.pro
 127.0.0.1 olx.id-umowa42389.click
 127.0.0.1 olx.impact-partner.shop
@@ -14880,7 +14879,6 @@
 127.0.0.1 saxn.sina.com.cn
 127.0.0.1 saxs.sina.cn
 127.0.0.1 saxs.sina.com.cn
-127.0.0.1 sbbtransport.pro
 127.0.0.1 sbeacon.sina.com.cn
 127.0.0.1 sbem.tentaklsistem.click
 127.0.0.1 sbjjzdwqg41ps.click
@@ -16874,6 +16872,7 @@
 127.0.0.1 turboadv.com
 127.0.0.1 turboinfo.click
 127.0.0.1 turbulent-bedroom.pro
+127.0.0.1 turcu-remixerr-api-test.yuno.dev
 127.0.0.1 turkcell.api.useinsider.com
 127.0.0.1 turknet.api.useinsider.com
 127.0.0.1 turnoverbookmarkas.pro
@@ -18065,7 +18064,6 @@
 127.0.0.1 windows-update-02-en.com
 127.0.0.1 windows-wsus-update.com
 127.0.0.1 windproof.pro
-127.0.0.1 wingetnowp.pro
 127.0.0.1 winitnow.mobi
 127.0.0.1 winsecretary.click
 127.0.0.1 wirtaspin-investing.pro
@@ -18933,6 +18931,7 @@
 127.0.0.1 www.fun-mobi.pl
 127.0.0.1 www.funovui0.pro
 127.0.0.1 www.furgonetka.pro
+127.0.0.1 www.furyxoa4.pro
 127.0.0.1 www.futukuy0.pro
 127.0.0.1 www.fxadviceformeandyou.com
 127.0.0.1 www.fydasia4.pro
@@ -19424,6 +19423,7 @@
 127.0.0.1 www.olx-pt.mobi
 127.0.0.1 www.olx-zamowienie.pro
 127.0.0.1 www.olx.ads-public-worlds.shop
+127.0.0.1 www.olx.domain-check.shop
 127.0.0.1 www.olx.impact-partner.shop
 127.0.0.1 www.olx.pl-offerta.pro
 127.0.0.1 www.olx.pl.dostawa.pro
@@ -20056,6 +20056,7 @@
 127.0.0.1 www.wealthtechvisionary.pro
 127.0.0.1 www.web.cellfun.mobi
 127.0.0.1 www.webmail.api.ns2.admin.chebacafe.com
+127.0.0.1 www.webmail.google.smart.check-24.org
 127.0.0.1 www.weightedpremiereing.pro
 127.0.0.1 www.weightingpremiereed.pro
 127.0.0.1 www.wellrope.click
@@ -20703,6 +20704,7 @@
 127.0.0.1 zymubyo1.click
 127.0.0.1 zyvurao6.pro
 127.0.0.1 zz.bdstatic.com
+127.0.0.1 zzz.fybert.dns-dynamic.net
 183.136.207.132 bigota.d.miui.com
 183.136.207.132 hugeota.d.miui.com
 23.202.34.138 bigota.d.miui.com
