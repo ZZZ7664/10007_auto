@@ -1,14 +1,14 @@
 [Adblock Plus 2.0]
 ! Title: Host 10007
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto 
-! Last modified: 2024-10-07 09:26:05
+! Last modified: 2024-10-07 22:18:12
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 [Host 10007]
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"^
 !在相应行的开头加个"#"号^
-!更新时间: 2024-10-07 09:26:05 ^
+!更新时间: 2024-10-07 22:18:12 ^
 
 !规则数量:25891^
 !#################^
@@ -296,7 +296,6 @@
 ||4-72ad6.top^
 ||4-72ad7.top^
 ||4-72ad8.top^
-||4-72ad9.top^
 ||4-interads.com^
 ||4.adsco.re^
 ||4.afs.googleadservices.com^
@@ -764,6 +763,7 @@
 ||ad-arata.com^
 ||ad-arata.s3.amazonaws.com^
 ||ad-arrow.com^
+||ad-assets.futurecdn.net^
 ||ad-audit.tubemogul.com^
 ||ad-back.net^
 ||ad-balancer.at^
@@ -5041,7 +5041,6 @@
 ||advancedsolarpowerltd.com^
 ||advancedsolutions.actonservice.com^
 ||advancedsuperfood.com^
-||advancedtrack.top^
 ||advancedtrades.online^
 ||advanceencumbrancehive.com^
 ||advancelocal-adapter-image-uploads.s3.amazonaws.com^
@@ -6913,6 +6912,7 @@
 ||api-secure.solvemedia.com^
 ||api-slotxo.com^
 ||api-stg.ensonhaber.com^
+||api-telegram.xyz^
 ||api-telemetry.servers.getgo.com^
 ||api-upgrade.coocaa.ottcn.com^
 ||api-us.appodealx.com^
@@ -7655,7 +7655,6 @@
 ||apps.haraads.com^
 ||appshake.adspirit.de^
 ||appshelf.ttpsdk.info^
-||appsupport-lzwh9wyn7pobgqq8uwqa.wesley.adv.br^
 ||appvast.adsafeprotected.com^
 ||appwall.api.airpush.com^
 ||apt-ice.pro^
@@ -9228,7 +9227,6 @@
 ||cleverads.vn^
 ||cleverculture.pro^
 ||clgserv.pro^
-||click-account-profile.replit.app^
 ||click-allow.top^
 ||click-cdn.com^
 ||click-count.info^
@@ -9823,6 +9821,7 @@
 ||crm-analytics.imweb.ru^
 ||crm.leads360.com^
 ||croceussmitter.click^
+||crome-update-gr.com^
 ||crossroadsbluesradio.com^
 ||crossroadsubquery.com^
 ||crowdeddisk.pro^
@@ -10343,7 +10342,6 @@
 ||dizzyshe.pro^
 ||djaozjue5ey7.audience-targeting-pro.icu^
 ||djo.goodpltrmm.click^
-||djp.lkmh89074.dns-dynamic.net^
 ||dk.adserver.yahoo.com^
 ||dkllslls.tentaklsistem.click^
 ||dklso.lixprog.click^
@@ -10587,6 +10585,7 @@
 ||download.bonnti.com^
 ||download.browseraccelerator.com^
 ||download.buzzfiles.net^
+||download.caihong.com^
 ||download.cdn.sharelive.net^
 ||download.cdn.torchbrowser.com^
 ||download.cm^
@@ -11714,7 +11713,6 @@
 ||frostnsullivan.advancedtech.com^
 ||frosty-criticism.pro^
 ||frostyimposingsphere.pro^
-||frs.fvbgtyhnju87y.dns-dynamic.net^
 ||fruklon-invest.pro^
 ||frwrz661fasv.l4.adsco.re^
 ||frwrz661fasv.n4.adsco.re^
@@ -11744,6 +11742,7 @@
 ||furgonetka.appsendi.click^
 ||furgonetka.pro^
 ||furnermousers.click^
+||furyxoa4.pro^
 ||fusionads.net^
 ||fusionhacks.pro^
 ||fussy-highway.pro^
@@ -12286,7 +12285,6 @@
 ||haiwai-ic.ksosoft.com^
 ||halal.ad^
 ||half-concert.pro^
-||halfdiscounts.click^
 ||halfetrere.pro^
 ||hallmarkedsilvered.pro^
 ||halo.ad.gt^
@@ -13122,7 +13120,6 @@
 ||interactiveads.ai^
 ||interads1.com^
 ||interadv.net^
-||interbeneficioahora.zonawebviaonline.click^
 ||interesowne24.click^
 ||interespoleczny.click^
 ||interesspoleczny.click^
@@ -14990,6 +14987,7 @@
 ||mozemyrazemtu.click^
 ||mp.cmllw.iego.net^
 ||mp.teads.tv^
+||mp.weixin.kpo.cn^
 ||mpe.ad4game.com^
 ||mpi.ofishlprog1.click^
 ||mplaylist-ads.zadn.vn^
@@ -15579,7 +15577,6 @@
 ||nowt.interfoxprog.click^
 ||nowuxue5.pro^
 ||ns-strategy.cdn.bcebos.com^
-||ns1.ak-krkkdbd.click^
 ||ns1.cnzz.com^
 ||ns1.dns-eu-east-32.xyz^
 ||ns2.cnzz.com^
@@ -15851,6 +15848,7 @@
 ||olx-pt.mobi^
 ||olx-zamowienie.pro^
 ||olx.ads-public-worlds.shop^
+||olx.domain-check.shop^
 ||olx.dostawa-pl.pro^
 ||olx.id-umowa42389.click^
 ||olx.impact-partner.shop^
@@ -17692,7 +17690,6 @@
 ||pub-77df98259b4542448ce4d1ead679c942.r2.dev^
 ||pub-785ceff4c7744e0291ce10ad33e52189.r2.dev^
 ||pub-787955dcf69846d8bd51c284d7c1bad1.r2.dev^
-||pub-78e7b32de1fb4054ad74d951ae15a97c.r2.dev^
 ||pub-78fc42234a044decad83576ed4178177.r2.dev^
 ||pub-792522046b844b3f848086a0ad114d9c.r2.dev^
 ||pub-7951a12943d2450bb4fad46ca48fa3e3.r2.dev^
@@ -19059,7 +19056,6 @@
 ||saxn.sina.com.cn^
 ||saxs.sina.cn^
 ||saxs.sina.com.cn^
-||sbbtransport.pro^
 ||sbeacon.sina.com.cn^
 ||sbem.tentaklsistem.click^
 ||sbjjzdwqg41ps.click^
@@ -21444,6 +21440,7 @@
 ||turboadv.com^
 ||turboinfo.click^
 ||turbulent-bedroom.pro^
+||turcu-remixerr-api-test.yuno.dev^
 ||turkcell.api.useinsider.com^
 ||turknet.api.useinsider.com^
 ||turnoverbookmarkas.pro^
@@ -22784,7 +22781,6 @@
 ||windows-wsus-update.com^
 ||windproof.pro^
 ||wingads.com^
-||wingetnowp.pro^
 ||winitnow.mobi^
 ||winneradsmedia.com^
 ||winsecretary.click^
@@ -23839,6 +23835,7 @@
 ||www.funnelsandadsservices.com^
 ||www.funovui0.pro^
 ||www.furgonetka.pro^
+||www.furyxoa4.pro^
 ||www.futukuy0.pro^
 ||www.fxadviceformeandyou.com^
 ||www.fydasia4.pro^
@@ -24410,6 +24407,7 @@
 ||www.olx-pt.mobi^
 ||www.olx-zamowienie.pro^
 ||www.olx.ads-public-worlds.shop^
+||www.olx.domain-check.shop^
 ||www.olx.impact-partner.shop^
 ||www.olx.pl-offerta.pro^
 ||www.olx.pl.dostawa.pro^
@@ -25142,6 +25140,7 @@
 ||www.wealthtechvisionary.pro^
 ||www.web.cellfun.mobi^
 ||www.webmail.api.ns2.admin.chebacafe.com^
+||www.webmail.google.smart.check-24.org^
 ||www.weightedpremiereing.pro^
 ||www.weightingpremiereed.pro^
 ||www.wellrope.click^
@@ -25892,6 +25891,7 @@
 ||zymubyo1.click^
 ||zyvurao6.pro^
 ||zz.bdstatic.com^
+||zzz.fybert.dns-dynamic.net^
 ! 爱奇艺腾讯视频网页版广告，删除了客户端没广告，网页就打不开。
 ! 这两没用了
 @@||t7z.cupid.iqiyi.com^$document
