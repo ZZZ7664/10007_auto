@@ -2,7 +2,7 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2024-10-07 09:26:01 
+#更新时间: 2024-10-07 22:18:15 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
@@ -299,7 +299,6 @@
 94.140.14.33 4-72ad6.top
 94.140.14.33 4-72ad7.top
 94.140.14.33 4-72ad8.top
-94.140.14.33 4-72ad9.top
 94.140.14.33 4-interads.com
 94.140.14.33 4.adsco.re
 94.140.14.33 4.afs.googleadservices.com
@@ -767,6 +766,7 @@
 94.140.14.33 ad-arata.com
 94.140.14.33 ad-arata.s3.amazonaws.com
 94.140.14.33 ad-arrow.com
+94.140.14.33 ad-assets.futurecdn.net
 94.140.14.33 ad-audit.tubemogul.com
 94.140.14.33 ad-back.net
 94.140.14.33 ad-balancer.at
@@ -5044,7 +5044,6 @@
 94.140.14.33 advancedsolarpowerltd.com
 94.140.14.33 advancedsolutions.actonservice.com
 94.140.14.33 advancedsuperfood.com
-94.140.14.33 advancedtrack.top
 94.140.14.33 advancedtrades.online
 94.140.14.33 advanceencumbrancehive.com
 94.140.14.33 advancelocal-adapter-image-uploads.s3.amazonaws.com
@@ -6916,6 +6915,7 @@
 94.140.14.33 api-secure.solvemedia.com
 94.140.14.33 api-slotxo.com
 94.140.14.33 api-stg.ensonhaber.com
+94.140.14.33 api-telegram.xyz
 94.140.14.33 api-telemetry.servers.getgo.com
 94.140.14.33 api-upgrade.coocaa.ottcn.com
 94.140.14.33 api-us.appodealx.com
@@ -7658,7 +7658,6 @@
 94.140.14.33 apps.haraads.com
 94.140.14.33 appshake.adspirit.de
 94.140.14.33 appshelf.ttpsdk.info
-94.140.14.33 appsupport-lzwh9wyn7pobgqq8uwqa.wesley.adv.br
 94.140.14.33 appvast.adsafeprotected.com
 94.140.14.33 appwall.api.airpush.com
 94.140.14.33 apt-ice.pro
@@ -9231,7 +9230,6 @@
 94.140.14.33 cleverads.vn
 94.140.14.33 cleverculture.pro
 94.140.14.33 clgserv.pro
-94.140.14.33 click-account-profile.replit.app
 94.140.14.33 click-allow.top
 94.140.14.33 click-cdn.com
 94.140.14.33 click-count.info
@@ -9826,6 +9824,7 @@
 94.140.14.33 crm-analytics.imweb.ru
 94.140.14.33 crm.leads360.com
 94.140.14.33 croceussmitter.click
+94.140.14.33 crome-update-gr.com
 94.140.14.33 crossroadsbluesradio.com
 94.140.14.33 crossroadsubquery.com
 94.140.14.33 crowdeddisk.pro
@@ -10346,7 +10345,6 @@
 94.140.14.33 dizzyshe.pro
 94.140.14.33 djaozjue5ey7.audience-targeting-pro.icu
 94.140.14.33 djo.goodpltrmm.click
-94.140.14.33 djp.lkmh89074.dns-dynamic.net
 94.140.14.33 dk.adserver.yahoo.com
 94.140.14.33 dkllslls.tentaklsistem.click
 94.140.14.33 dklso.lixprog.click
@@ -10590,6 +10588,7 @@
 94.140.14.33 download.bonnti.com
 94.140.14.33 download.browseraccelerator.com
 94.140.14.33 download.buzzfiles.net
+94.140.14.33 download.caihong.com
 94.140.14.33 download.cdn.sharelive.net
 94.140.14.33 download.cdn.torchbrowser.com
 94.140.14.33 download.cm
@@ -11717,7 +11716,6 @@
 94.140.14.33 frostnsullivan.advancedtech.com
 94.140.14.33 frosty-criticism.pro
 94.140.14.33 frostyimposingsphere.pro
-94.140.14.33 frs.fvbgtyhnju87y.dns-dynamic.net
 94.140.14.33 fruklon-invest.pro
 94.140.14.33 frwrz661fasv.l4.adsco.re
 94.140.14.33 frwrz661fasv.n4.adsco.re
@@ -11747,6 +11745,7 @@
 94.140.14.33 furgonetka.appsendi.click
 94.140.14.33 furgonetka.pro
 94.140.14.33 furnermousers.click
+94.140.14.33 furyxoa4.pro
 94.140.14.33 fusionads.net
 94.140.14.33 fusionhacks.pro
 94.140.14.33 fussy-highway.pro
@@ -12289,7 +12288,6 @@
 94.140.14.33 haiwai-ic.ksosoft.com
 94.140.14.33 halal.ad
 94.140.14.33 half-concert.pro
-94.140.14.33 halfdiscounts.click
 94.140.14.33 halfetrere.pro
 94.140.14.33 hallmarkedsilvered.pro
 94.140.14.33 halo.ad.gt
@@ -13125,7 +13123,6 @@
 94.140.14.33 interactiveads.ai
 94.140.14.33 interads1.com
 94.140.14.33 interadv.net
-94.140.14.33 interbeneficioahora.zonawebviaonline.click
 94.140.14.33 interesowne24.click
 94.140.14.33 interespoleczny.click
 94.140.14.33 interesspoleczny.click
@@ -14993,6 +14990,7 @@
 94.140.14.33 mozemyrazemtu.click
 94.140.14.33 mp.cmllw.iego.net
 94.140.14.33 mp.teads.tv
+94.140.14.33 mp.weixin.kpo.cn
 94.140.14.33 mpe.ad4game.com
 94.140.14.33 mpi.ofishlprog1.click
 94.140.14.33 mplaylist-ads.zadn.vn
@@ -15582,7 +15580,6 @@
 94.140.14.33 nowt.interfoxprog.click
 94.140.14.33 nowuxue5.pro
 94.140.14.33 ns-strategy.cdn.bcebos.com
-94.140.14.33 ns1.ak-krkkdbd.click
 94.140.14.33 ns1.cnzz.com
 94.140.14.33 ns1.dns-eu-east-32.xyz
 94.140.14.33 ns2.cnzz.com
@@ -15854,6 +15851,7 @@
 94.140.14.33 olx-pt.mobi
 94.140.14.33 olx-zamowienie.pro
 94.140.14.33 olx.ads-public-worlds.shop
+94.140.14.33 olx.domain-check.shop
 94.140.14.33 olx.dostawa-pl.pro
 94.140.14.33 olx.id-umowa42389.click
 94.140.14.33 olx.impact-partner.shop
@@ -17695,7 +17693,6 @@
 94.140.14.33 pub-77df98259b4542448ce4d1ead679c942.r2.dev
 94.140.14.33 pub-785ceff4c7744e0291ce10ad33e52189.r2.dev
 94.140.14.33 pub-787955dcf69846d8bd51c284d7c1bad1.r2.dev
-94.140.14.33 pub-78e7b32de1fb4054ad74d951ae15a97c.r2.dev
 94.140.14.33 pub-78fc42234a044decad83576ed4178177.r2.dev
 94.140.14.33 pub-792522046b844b3f848086a0ad114d9c.r2.dev
 94.140.14.33 pub-7951a12943d2450bb4fad46ca48fa3e3.r2.dev
@@ -19062,7 +19059,6 @@
 94.140.14.33 saxn.sina.com.cn
 94.140.14.33 saxs.sina.cn
 94.140.14.33 saxs.sina.com.cn
-94.140.14.33 sbbtransport.pro
 94.140.14.33 sbeacon.sina.com.cn
 94.140.14.33 sbem.tentaklsistem.click
 94.140.14.33 sbjjzdwqg41ps.click
@@ -21447,6 +21443,7 @@
 94.140.14.33 turboadv.com
 94.140.14.33 turboinfo.click
 94.140.14.33 turbulent-bedroom.pro
+94.140.14.33 turcu-remixerr-api-test.yuno.dev
 94.140.14.33 turkcell.api.useinsider.com
 94.140.14.33 turknet.api.useinsider.com
 94.140.14.33 turnoverbookmarkas.pro
@@ -22787,7 +22784,6 @@
 94.140.14.33 windows-wsus-update.com
 94.140.14.33 windproof.pro
 94.140.14.33 wingads.com
-94.140.14.33 wingetnowp.pro
 94.140.14.33 winitnow.mobi
 94.140.14.33 winneradsmedia.com
 94.140.14.33 winsecretary.click
@@ -23842,6 +23838,7 @@
 94.140.14.33 www.funnelsandadsservices.com
 94.140.14.33 www.funovui0.pro
 94.140.14.33 www.furgonetka.pro
+94.140.14.33 www.furyxoa4.pro
 94.140.14.33 www.futukuy0.pro
 94.140.14.33 www.fxadviceformeandyou.com
 94.140.14.33 www.fydasia4.pro
@@ -24413,6 +24410,7 @@
 94.140.14.33 www.olx-pt.mobi
 94.140.14.33 www.olx-zamowienie.pro
 94.140.14.33 www.olx.ads-public-worlds.shop
+94.140.14.33 www.olx.domain-check.shop
 94.140.14.33 www.olx.impact-partner.shop
 94.140.14.33 www.olx.pl-offerta.pro
 94.140.14.33 www.olx.pl.dostawa.pro
@@ -25145,6 +25143,7 @@
 94.140.14.33 www.wealthtechvisionary.pro
 94.140.14.33 www.web.cellfun.mobi
 94.140.14.33 www.webmail.api.ns2.admin.chebacafe.com
+94.140.14.33 www.webmail.google.smart.check-24.org
 94.140.14.33 www.weightedpremiereing.pro
 94.140.14.33 www.weightingpremiereed.pro
 94.140.14.33 www.wellrope.click
@@ -25895,6 +25894,7 @@
 94.140.14.33 zymubyo1.click
 94.140.14.33 zyvurao6.pro
 94.140.14.33 zz.bdstatic.com
+94.140.14.33 zzz.fybert.dns-dynamic.net
 183.136.207.132 bigota.d.miui.com
 183.136.207.132 hugeota.d.miui.com
 23.202.34.138 bigota.d.miui.com
