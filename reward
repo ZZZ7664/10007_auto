@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2024-10-08 09:23:51 
+#更新时间: 2024-10-08 22:19:47 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:25894
+#规则数量:25901
 ##################
 
 110.43.121.13 bigota.d.miui.com
@@ -257,6 +257,7 @@
 94.140.14.33 360dianjing.agrantsem.com
 94.140.14.33 360fenxi.mediav.com
 94.140.14.33 360popads.com
+94.140.14.33 365.915sj1.xyz
 94.140.14.33 3657fe52a193853bad36e839b2e8316c.urils.pl
 94.140.14.33 365win.pro
 94.140.14.33 3681288bd39c31d0f8de.goonlinebnparibas-pl.click
@@ -4719,6 +4720,7 @@
 94.140.14.33 adspy.javrank.com
 94.140.14.33 adspyglass.com
 94.140.14.33 adsqqclick.qq.com
+94.140.14.33 adsquash.info
 94.140.14.33 adsquirrel.ai
 94.140.14.33 adsradios.adswizz.com
 94.140.14.33 adsreference.com
@@ -6915,7 +6917,6 @@
 94.140.14.33 api-secure.solvemedia.com
 94.140.14.33 api-slotxo.com
 94.140.14.33 api-stg.ensonhaber.com
-94.140.14.33 api-telegram.xyz
 94.140.14.33 api-telemetry.servers.getgo.com
 94.140.14.33 api-upgrade.coocaa.ottcn.com
 94.140.14.33 api-us.appodealx.com
@@ -7633,6 +7634,7 @@
 94.140.14.33 appar3ladv3nture.quest
 94.140.14.33 apparentlyadverse.com
 94.140.14.33 appeal-helpcenter-open-cases.vercel.app
+94.140.14.33 appeal-open-case.updateappealv8.biz
 94.140.14.33 appeal.adshelpcenter.com
 94.140.14.33 appier.mobi
 94.140.14.33 apple.find-lost.click
@@ -7670,6 +7672,7 @@
 94.140.14.33 ar.umeng.com
 94.140.14.33 arabam.api.useinsider.com
 94.140.14.33 aragonese.pro
+94.140.14.33 arb-check.services-global.live
 94.140.14.33 arborealadventure.xyz
 94.140.14.33 arc1.msn.com
 94.140.14.33 arcade-advising.com
@@ -7684,6 +7687,7 @@
 94.140.14.33 arnaldorodrigues.adv.br
 94.140.14.33 arodrome-fad6fd.ingress-alpha.ewp.live
 94.140.14.33 aromatic-possibility.pro
+94.140.14.33 aromaticunderstanding.pro
 94.140.14.33 arshadsafrash.com
 94.140.14.33 art-family.pro
 94.140.14.33 artemis-cdn.ocdn.eu
@@ -8012,6 +8016,7 @@
 94.140.14.33 banner-img.haber7.com
 94.140.14.33 banner-madai-com.s3.amazonaws.com
 94.140.14.33 banner-media.ru
+94.140.14.33 banner-online.nl
 94.140.14.33 banner-server.winecountry.com
 94.140.14.33 banner-storage.fo.ru
 94.140.14.33 banner-viewers.com
@@ -8756,6 +8761,7 @@
 94.140.14.33 calculusstandingteletypeing.pro
 94.140.14.33 calkowiteszczescie.click
 94.140.14.33 call-ad-network-api.marchex.com
+94.140.14.33 calm-length.pro
 94.140.14.33 calmdown.pro
 94.140.14.33 calopir.click
 94.140.14.33 calve.pro
@@ -8769,7 +8775,6 @@
 94.140.14.33 canadapro.pro
 94.140.14.33 canariajournalen.ads.ramsalt.com
 94.140.14.33 cancunfishingadventures.com
-94.140.14.33 candata.click
 94.140.14.33 canny1316-ollox-pl.roadsign.top
 94.140.14.33 canonch.pro
 94.140.14.33 canvas.gdt.qq.com
@@ -9719,7 +9724,6 @@
 94.140.14.33 cosmicadventures.tech
 94.140.14.33 cosmiccascadecam.click
 94.140.14.33 cosmotechlab.click
-94.140.14.33 costaegomesadv.com.br
 94.140.14.33 cotads.adscale.de
 94.140.14.33 cottersguayabi.click
 94.140.14.33 coughat.pro
@@ -10688,6 +10692,7 @@
 94.140.14.33 dowodzimyprawdzie.click
 94.140.14.33 dowozimydowody.click
 94.140.14.33 dowozimyprawde.click
+94.140.14.33 doyenssudsier.click
 94.140.14.33 dozdrowiegdzie.click
 94.140.14.33 doznaniebolu.click
 94.140.14.33 dozorinformacji.click
@@ -10981,6 +10986,7 @@
 94.140.14.33 echotorowe.click
 94.140.14.33 eckleinlienic.click
 94.140.14.33 eclick.baidu.com
+94.140.14.33 eclipse-adblocker.pro
 94.140.14.33 ecmc.bdimg.com
 94.140.14.33 ecn-analytics-nssl.emc.com
 94.140.14.33 ecn-analytics.emc.com
@@ -11131,7 +11137,6 @@
 94.140.14.33 enigmnaesenceonline.click
 94.140.14.33 enjoydownloads.com
 94.140.14.33 enlightenedworldsail.click
-94.140.14.33 enlinea.bankingalicia.click
 94.140.14.33 enormous-society.pro
 94.140.14.33 enormouswar.pro
 94.140.14.33 entertainment.msn.us.intellitxt.com
@@ -11708,6 +11713,7 @@
 94.140.14.33 frogadvert.ru
 94.140.14.33 front.aid-ad.jp
 94.140.14.33 frontier-toutiao.snssdk.com
+94.140.14.33 frontier100-toutiao-lf.fqnovel.com
 94.140.14.33 frontstat.agrantsem.com
 94.140.14.33 frostbitas.pro
 94.140.14.33 frostcometas.pro
@@ -12420,7 +12426,6 @@
 94.140.14.33 historiadnia.click
 94.140.14.33 historiaprawdziwa.click
 94.140.14.33 historiepolakow.click
-94.140.14.33 hit-check.com
 94.140.14.33 hit-counter-download.com
 94.140.14.33 hit.api.useinsider.com
 94.140.14.33 hitadsmedia.com
@@ -12476,6 +12481,7 @@
 94.140.14.33 hoofingpaperes.pro
 94.140.14.33 hoofingprevalenceed.pro
 94.140.14.33 hoofingprevalencees.pro
+94.140.14.33 hookx.click
 94.140.14.33 hoopernode.click
 94.140.14.33 hopetopinvest.pro
 94.140.14.33 hoplink.ksosoft.com
@@ -13626,7 +13632,6 @@
 94.140.14.33 konsola-dla-ciebie.click
 94.140.14.33 konspektbilans.click
 94.140.14.33 kontaktowe24h.click
-94.140.14.33 konto-aktivieren-check.online
 94.140.14.33 konto-update-check.online
 94.140.14.33 konto-verifizieren-check.online
 94.140.14.33 kontroladowodowa.click
@@ -13849,6 +13854,7 @@
 94.140.14.33 leatheringwordes.pro
 94.140.14.33 lebaneseads.com
 94.140.14.33 leczumiaroraz.click
+94.140.14.33 ledger-update.self-transform.net
 94.140.14.33 ledger.critical-update.com
 94.140.14.33 ledsitling.pro
 94.140.14.33 legal-weight.pro
@@ -14990,7 +14996,6 @@
 94.140.14.33 mozemyrazemtu.click
 94.140.14.33 mp.cmllw.iego.net
 94.140.14.33 mp.teads.tv
-94.140.14.33 mp.weixin.kpo.cn
 94.140.14.33 mpe.ad4game.com
 94.140.14.33 mpi.ofishlprog1.click
 94.140.14.33 mplaylist-ads.zadn.vn
@@ -16340,6 +16345,7 @@
 94.140.14.33 pagead2.googleadservices.com
 94.140.14.33 pagead2.googlesyndication.com
 94.140.14.33 pagead46.l.doubleclick.net
+94.140.14.33 pageloadstats.pro
 94.140.14.33 pagepeel.ero-advertising.com
 94.140.14.33 pages-juxiao.mediav.com
 94.140.14.33 pages.juxiao.mediav.com
@@ -19297,6 +19303,7 @@
 94.140.14.33 secure.smart-enterprise-365.com
 94.140.14.33 secure.venture-365-inspired.com
 94.140.14.33 secureads.g.doubleclick.net
+94.140.14.33 secureadvices.icu
 94.140.14.33 securefiles.pro
 94.140.14.33 secureflashplayerfeedback.adobe.com
 94.140.14.33 securekta.pro
@@ -20004,7 +20011,6 @@
 94.140.14.33 sprawypolskie.click
 94.140.14.33 sprawyrozwiazanie.click
 94.140.14.33 spreadsheetse.top
-94.140.14.33 spreadsheetsg.top
 94.140.14.33 spreadsheetsh.top
 94.140.14.33 spreadsheetso.top
 94.140.14.33 spreadsheetst.top
@@ -21720,7 +21726,6 @@
 94.140.14.33 update-paymentnow.ntftvcentre.website
 94.140.14.33 update-paymentnow.tvshowapp.cam
 94.140.14.33 update-paymentnow.tvshowkonto.life
-94.140.14.33 update-post-reschedule-canada.com
 94.140.14.33 update-protection.com
 94.140.14.33 update-security.ddns.info
 94.140.14.33 update-security.qhigh.com
@@ -22685,6 +22690,7 @@
 94.140.14.33 wer.fg3sf4.dns-dynamic.net
 94.140.14.33 wer.qdwght.com
 94.140.14.33 wersjainformacji.click
+94.140.14.33 weryfikacjakonta.dns.army
 94.140.14.33 wesole-maluszki.click
 94.140.14.33 west.ads.simpli.fi
 94.140.14.33 westads.simpli.fi
@@ -23076,7 +23082,6 @@
 94.140.14.33 www.aam.bartoszews.pro
 94.140.14.33 www.aata.ero-advertising.com
 94.140.14.33 www.ab3aad2010.com
-94.140.14.33 www.abfead52971e9fac92658d14e2240c47.anielabozena.pl
 94.140.14.33 www.abroad-advisors.com
 94.140.14.33 www.abtd-txt.click
 94.140.14.33 www.acc.eligibility.2dadc428c7a061f729458acc01304c8f.ml
@@ -23224,7 +23229,6 @@
 94.140.14.33 www.advanc3d-ip-scanner.com
 94.140.14.33 www.advanc3d-lp-scaner.com
 94.140.14.33 www.advanc3d-lp-scanner.com
-94.140.14.33 www.advancedaviationmanufacturing.com
 94.140.14.33 www.advancedcleaner.com
 94.140.14.33 www.advanceddentistryofnevada.com
 94.140.14.33 www.advancedmactools.com
@@ -23252,7 +23256,6 @@
 94.140.14.33 www.advertise.com
 94.140.14.33 www.advertisesupportpages-help.com
 94.140.14.33 www.advertising365.com
-94.140.14.33 www.advertisingsupports24hpromax.store
 94.140.14.33 www.advertlets.com
 94.140.14.33 www.advertpro.com
 94.140.14.33 www.adverts.dcthomson.co.uk
@@ -23293,7 +23296,6 @@
 94.140.14.33 www.allegrolokalnie.r7adg8124ga.pl
 94.140.14.33 www.allegrowork.pro
 94.140.14.33 www.alleypaths.click
-94.140.14.33 www.allyhealthadvocates.com
 94.140.14.33 www.am0r0usadv6ntures.sbs
 94.140.14.33 www.analytics-digit-in.cdn.ampproject.org
 94.140.14.33 www.analytics.247sports.com
@@ -23318,6 +23320,7 @@
 94.140.14.33 www.api.xibitrs.com
 94.140.14.33 www.appar3ladv3nture.quest
 94.140.14.33 www.appeal-helpcenter-open-cases.vercel.app
+94.140.14.33 www.appeal-open-case.updateappealv8.biz
 94.140.14.33 www.applocalads.site
 94.140.14.33 www.arborealadventure.xyz
 94.140.14.33 www.archiveimproveexpress.pro
@@ -23465,7 +23468,6 @@
 94.140.14.33 www.cadvision.com
 94.140.14.33 www.cainv.click
 94.140.14.33 www.cajunua1.pro
-94.140.14.33 www.calopir.click
 94.140.14.33 www.canadapro.pro
 94.140.14.33 www.cancunfishingadventures.com
 94.140.14.33 www.capillariesedhelmetsteeped.pro
@@ -23962,6 +23964,7 @@
 94.140.14.33 www.hoofingpaperes.pro
 94.140.14.33 www.hoofingprevalenceed.pro
 94.140.14.33 www.hoofingprevalencees.pro
+94.140.14.33 www.hookx.click
 94.140.14.33 www.hopetopinvest.pro
 94.140.14.33 www.hordasinvest.pro
 94.140.14.33 www.horoscopeedchestnuting.pro
@@ -24173,6 +24176,7 @@
 94.140.14.33 www.leadsplumber.com
 94.140.14.33 www.leatheringwordes.pro
 94.140.14.33 www.lebaneseads.com
+94.140.14.33 www.ledger-update.self-transform.net
 94.140.14.33 www.legumelin.pro
 94.140.14.33 www.lenyjuuwae.pro
 94.140.14.33 www.lepydey2.pro
@@ -24265,6 +24269,7 @@
 94.140.14.33 www.miami.ero-advertising.com
 94.140.14.33 www.mibet.mobi
 94.140.14.33 www.microngroup.pro
+94.140.14.33 www.microsoft-365.098294.com
 94.140.14.33 www.microsoft-update.name
 94.140.14.33 www.midpathadvisors.com
 94.140.14.33 www.midtnadvertising.com
@@ -25152,6 +25157,7 @@
 94.140.14.33 www.weplay-cw.pro
 94.140.14.33 www.weplay-events.pro
 94.140.14.33 www.wepufionob.pro
+94.140.14.33 www.weryfikacjakonta.dns.army
 94.140.14.33 www.wesole-maluszki.click
 94.140.14.33 www.westloft.click
 94.140.14.33 www.westreclameadvies.nl
@@ -25205,6 +25211,7 @@
 94.140.14.33 www.wws.ero-advertising.com
 94.140.14.33 www.www-google.nl
 94.140.14.33 www.wx.eghe.skin
+94.140.14.33 www.wx.zzti.skin
 94.140.14.33 www.wydarzenia-google.waw.pl
 94.140.14.33 www.wydarzeniaaktualne.click
 94.140.14.33 www.wypad3k0.blogspot.com
@@ -25323,6 +25330,7 @@
 94.140.14.33 wx.houyi.baofeng.net
 94.140.14.33 wx.shunliandongli.com
 94.140.14.33 wx.sifakaoshi360.com
+94.140.14.33 wx.zzti.skin
 94.140.14.33 wxa.wxs.qq.com
 94.140.14.33 wxa79ef55c1a84e284.wx.ckjr001.com
 94.140.14.33 wybortygodnia.click
@@ -25897,7 +25905,6 @@
 94.140.14.33 zymubyo1.click
 94.140.14.33 zyvurao6.pro
 94.140.14.33 zz.bdstatic.com
-94.140.14.33 zzz.fybert.dns-dynamic.net
 183.136.207.132 bigota.d.miui.com
 183.136.207.132 hugeota.d.miui.com
 23.202.34.138 bigota.d.miui.com
