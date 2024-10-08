@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2024-10-07 22:18:04 
+#更新时间: 2024-10-08 09:23:43 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:25925
+#规则数量:25928
 ##################
 
 110.43.121.13 bigota.d.miui.com
@@ -22790,6 +22790,7 @@
 1.1.1.1 wirtaspin-investing.pro
 1.1.1.1 wirtualnaczytac.click
 1.1.1.1 wirtualnaonline.click
+1.1.1.1 wirtualnapl.click
 1.1.1.1 wirtualnapolska.click
 1.1.1.1 wirtualnatv.click
 1.1.1.1 wirtualneinfo.click
@@ -24004,6 +24005,7 @@
 1.1.1.1 www.hytuzyu8.pro
 1.1.1.1 www.i-mobi.pl
 1.1.1.1 www.iakze.gradspeeches.com
+1.1.1.1 www.icefog7edno.click
 1.1.1.1 www.identyfikacje-now.2show4tv.click
 1.1.1.1 www.idlhi-gpps.click
 1.1.1.1 www.idlvwi-gpps.click
@@ -25168,6 +25170,7 @@
 1.1.1.1 www.wirtaspin-investing.pro
 1.1.1.1 www.wirtualnaczytac.click
 1.1.1.1 www.wirtualnaonline.click
+1.1.1.1 www.wirtualnapl.click
 1.1.1.1 www.wirtualnapolska.click
 1.1.1.1 www.wks.ero-advertising.com
 1.1.1.1 www.wogikeu4.pro
