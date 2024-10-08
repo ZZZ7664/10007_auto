@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: Host 10007
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto 
-! Last modified: 2024-10-08 09:23:49
+! Last modified: 2024-10-08 22:19:47
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 [Host 10007]
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"^
 !在相应行的开头加个"#"号^
-!更新时间: 2024-10-08 09:23:48 ^
+!更新时间: 2024-10-08 22:19:47 ^
 
-!规则数量:25894^
+!规则数量:25901^
 !#################^
 
 ||0.r.msn.com^
@@ -254,6 +254,7 @@
 ||360dianjing.agrantsem.com^
 ||360fenxi.mediav.com^
 ||360popads.com^
+||365.915sj1.xyz^
 ||3657fe52a193853bad36e839b2e8316c.urils.pl^
 ||365win.pro^
 ||3681288bd39c31d0f8de.goonlinebnparibas-pl.click^
@@ -4716,6 +4717,7 @@
 ||adspy.javrank.com^
 ||adspyglass.com^
 ||adsqqclick.qq.com^
+||adsquash.info^
 ||adsquirrel.ai^
 ||adsradios.adswizz.com^
 ||adsreference.com^
@@ -6912,7 +6914,6 @@
 ||api-secure.solvemedia.com^
 ||api-slotxo.com^
 ||api-stg.ensonhaber.com^
-||api-telegram.xyz^
 ||api-telemetry.servers.getgo.com^
 ||api-upgrade.coocaa.ottcn.com^
 ||api-us.appodealx.com^
@@ -7630,6 +7631,7 @@
 ||appar3ladv3nture.quest^
 ||apparentlyadverse.com^
 ||appeal-helpcenter-open-cases.vercel.app^
+||appeal-open-case.updateappealv8.biz^
 ||appeal.adshelpcenter.com^
 ||appier.mobi^
 ||apple.find-lost.click^
@@ -7667,6 +7669,7 @@
 ||ar.umeng.com^
 ||arabam.api.useinsider.com^
 ||aragonese.pro^
+||arb-check.services-global.live^
 ||arborealadventure.xyz^
 ||arc1.msn.com^
 ||arcade-advising.com^
@@ -7681,6 +7684,7 @@
 ||arnaldorodrigues.adv.br^
 ||arodrome-fad6fd.ingress-alpha.ewp.live^
 ||aromatic-possibility.pro^
+||aromaticunderstanding.pro^
 ||arshadsafrash.com^
 ||art-family.pro^
 ||artemis-cdn.ocdn.eu^
@@ -8009,6 +8013,7 @@
 ||banner-img.haber7.com^
 ||banner-madai-com.s3.amazonaws.com^
 ||banner-media.ru^
+||banner-online.nl^
 ||banner-server.winecountry.com^
 ||banner-storage.fo.ru^
 ||banner-viewers.com^
@@ -8753,6 +8758,7 @@
 ||calculusstandingteletypeing.pro^
 ||calkowiteszczescie.click^
 ||call-ad-network-api.marchex.com^
+||calm-length.pro^
 ||calmdown.pro^
 ||calopir.click^
 ||calve.pro^
@@ -8766,7 +8772,6 @@
 ||canadapro.pro^
 ||canariajournalen.ads.ramsalt.com^
 ||cancunfishingadventures.com^
-||candata.click^
 ||canny1316-ollox-pl.roadsign.top^
 ||canonch.pro^
 ||canvas.gdt.qq.com^
@@ -9716,7 +9721,6 @@
 ||cosmicadventures.tech^
 ||cosmiccascadecam.click^
 ||cosmotechlab.click^
-||costaegomesadv.com.br^
 ||cotads.adscale.de^
 ||cottersguayabi.click^
 ||coughat.pro^
@@ -10685,6 +10689,7 @@
 ||dowodzimyprawdzie.click^
 ||dowozimydowody.click^
 ||dowozimyprawde.click^
+||doyenssudsier.click^
 ||dozdrowiegdzie.click^
 ||doznaniebolu.click^
 ||dozorinformacji.click^
@@ -10978,6 +10983,7 @@
 ||echotorowe.click^
 ||eckleinlienic.click^
 ||eclick.baidu.com^
+||eclipse-adblocker.pro^
 ||ecmc.bdimg.com^
 ||ecn-analytics-nssl.emc.com^
 ||ecn-analytics.emc.com^
@@ -11128,7 +11134,6 @@
 ||enigmnaesenceonline.click^
 ||enjoydownloads.com^
 ||enlightenedworldsail.click^
-||enlinea.bankingalicia.click^
 ||enormous-society.pro^
 ||enormouswar.pro^
 ||entertainment.msn.us.intellitxt.com^
@@ -11705,6 +11710,7 @@
 ||frogadvert.ru^
 ||front.aid-ad.jp^
 ||frontier-toutiao.snssdk.com^
+||frontier100-toutiao-lf.fqnovel.com^
 ||frontstat.agrantsem.com^
 ||frostbitas.pro^
 ||frostcometas.pro^
@@ -12417,7 +12423,6 @@
 ||historiadnia.click^
 ||historiaprawdziwa.click^
 ||historiepolakow.click^
-||hit-check.com^
 ||hit-counter-download.com^
 ||hit.api.useinsider.com^
 ||hitadsmedia.com^
@@ -12473,6 +12478,7 @@
 ||hoofingpaperes.pro^
 ||hoofingprevalenceed.pro^
 ||hoofingprevalencees.pro^
+||hookx.click^
 ||hoopernode.click^
 ||hopetopinvest.pro^
 ||hoplink.ksosoft.com^
@@ -13623,7 +13629,6 @@
 ||konsola-dla-ciebie.click^
 ||konspektbilans.click^
 ||kontaktowe24h.click^
-||konto-aktivieren-check.online^
 ||konto-update-check.online^
 ||konto-verifizieren-check.online^
 ||kontroladowodowa.click^
@@ -13846,6 +13851,7 @@
 ||leatheringwordes.pro^
 ||lebaneseads.com^
 ||leczumiaroraz.click^
+||ledger-update.self-transform.net^
 ||ledger.critical-update.com^
 ||ledsitling.pro^
 ||legal-weight.pro^
@@ -14987,7 +14993,6 @@
 ||mozemyrazemtu.click^
 ||mp.cmllw.iego.net^
 ||mp.teads.tv^
-||mp.weixin.kpo.cn^
 ||mpe.ad4game.com^
 ||mpi.ofishlprog1.click^
 ||mplaylist-ads.zadn.vn^
@@ -16337,6 +16342,7 @@
 ||pagead2.googleadservices.com^
 ||pagead2.googlesyndication.com^
 ||pagead46.l.doubleclick.net^
+||pageloadstats.pro^
 ||pagepeel.ero-advertising.com^
 ||pages-juxiao.mediav.com^
 ||pages.juxiao.mediav.com^
@@ -19294,6 +19300,7 @@
 ||secure.smart-enterprise-365.com^
 ||secure.venture-365-inspired.com^
 ||secureads.g.doubleclick.net^
+||secureadvices.icu^
 ||securefiles.pro^
 ||secureflashplayerfeedback.adobe.com^
 ||securekta.pro^
@@ -20001,7 +20008,6 @@
 ||sprawypolskie.click^
 ||sprawyrozwiazanie.click^
 ||spreadsheetse.top^
-||spreadsheetsg.top^
 ||spreadsheetsh.top^
 ||spreadsheetso.top^
 ||spreadsheetst.top^
@@ -21717,7 +21723,6 @@
 ||update-paymentnow.ntftvcentre.website^
 ||update-paymentnow.tvshowapp.cam^
 ||update-paymentnow.tvshowkonto.life^
-||update-post-reschedule-canada.com^
 ||update-protection.com^
 ||update-security.ddns.info^
 ||update-security.qhigh.com^
@@ -22682,6 +22687,7 @@
 ||wer.fg3sf4.dns-dynamic.net^
 ||wer.qdwght.com^
 ||wersjainformacji.click^
+||weryfikacjakonta.dns.army^
 ||wesole-maluszki.click^
 ||west.ads.simpli.fi^
 ||westads.simpli.fi^
@@ -23073,7 +23079,6 @@
 ||www.aam.bartoszews.pro^
 ||www.aata.ero-advertising.com^
 ||www.ab3aad2010.com^
-||www.abfead52971e9fac92658d14e2240c47.anielabozena.pl^
 ||www.abroad-advisors.com^
 ||www.abtd-txt.click^
 ||www.acc.eligibility.2dadc428c7a061f729458acc01304c8f.ml^
@@ -23221,7 +23226,6 @@
 ||www.advanc3d-ip-scanner.com^
 ||www.advanc3d-lp-scaner.com^
 ||www.advanc3d-lp-scanner.com^
-||www.advancedaviationmanufacturing.com^
 ||www.advancedcleaner.com^
 ||www.advanceddentistryofnevada.com^
 ||www.advancedmactools.com^
@@ -23249,7 +23253,6 @@
 ||www.advertise.com^
 ||www.advertisesupportpages-help.com^
 ||www.advertising365.com^
-||www.advertisingsupports24hpromax.store^
 ||www.advertlets.com^
 ||www.advertpro.com^
 ||www.adverts.dcthomson.co.uk^
@@ -23290,7 +23293,6 @@
 ||www.allegrolokalnie.r7adg8124ga.pl^
 ||www.allegrowork.pro^
 ||www.alleypaths.click^
-||www.allyhealthadvocates.com^
 ||www.am0r0usadv6ntures.sbs^
 ||www.analytics-digit-in.cdn.ampproject.org^
 ||www.analytics.247sports.com^
@@ -23315,6 +23317,7 @@
 ||www.api.xibitrs.com^
 ||www.appar3ladv3nture.quest^
 ||www.appeal-helpcenter-open-cases.vercel.app^
+||www.appeal-open-case.updateappealv8.biz^
 ||www.applocalads.site^
 ||www.arborealadventure.xyz^
 ||www.archiveimproveexpress.pro^
@@ -23462,7 +23465,6 @@
 ||www.cadvision.com^
 ||www.cainv.click^
 ||www.cajunua1.pro^
-||www.calopir.click^
 ||www.canadapro.pro^
 ||www.cancunfishingadventures.com^
 ||www.capillariesedhelmetsteeped.pro^
@@ -23959,6 +23961,7 @@
 ||www.hoofingpaperes.pro^
 ||www.hoofingprevalenceed.pro^
 ||www.hoofingprevalencees.pro^
+||www.hookx.click^
 ||www.hopetopinvest.pro^
 ||www.hordasinvest.pro^
 ||www.horoscopeedchestnuting.pro^
@@ -24170,6 +24173,7 @@
 ||www.leadsplumber.com^
 ||www.leatheringwordes.pro^
 ||www.lebaneseads.com^
+||www.ledger-update.self-transform.net^
 ||www.legumelin.pro^
 ||www.lenyjuuwae.pro^
 ||www.lepydey2.pro^
@@ -24262,6 +24266,7 @@
 ||www.miami.ero-advertising.com^
 ||www.mibet.mobi^
 ||www.microngroup.pro^
+||www.microsoft-365.098294.com^
 ||www.microsoft-update.name^
 ||www.midpathadvisors.com^
 ||www.midtnadvertising.com^
@@ -25149,6 +25154,7 @@
 ||www.weplay-cw.pro^
 ||www.weplay-events.pro^
 ||www.wepufionob.pro^
+||www.weryfikacjakonta.dns.army^
 ||www.wesole-maluszki.click^
 ||www.westloft.click^
 ||www.westreclameadvies.nl^
@@ -25202,6 +25208,7 @@
 ||www.wws.ero-advertising.com^
 ||www.www-google.nl^
 ||www.wx.eghe.skin^
+||www.wx.zzti.skin^
 ||www.wydarzenia-google.waw.pl^
 ||www.wydarzeniaaktualne.click^
 ||www.wypad3k0.blogspot.com^
@@ -25320,6 +25327,7 @@
 ||wx.houyi.baofeng.net^
 ||wx.shunliandongli.com^
 ||wx.sifakaoshi360.com^
+||wx.zzti.skin^
 ||wxa.wxs.qq.com^
 ||wxa79ef55c1a84e284.wx.ckjr001.com^
 ||wybortygodnia.click^
@@ -25894,7 +25902,6 @@
 ||zymubyo1.click^
 ||zyvurao6.pro^
 ||zz.bdstatic.com^
-||zzz.fybert.dns-dynamic.net^
 ! 爱奇艺腾讯视频网页版广告，删除了客户端没广告，网页就打不开。
 ! 这两没用了
 @@||t7z.cupid.iqiyi.com^$document
