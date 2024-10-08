@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2024-10-08 09:23:46 
+#更新时间: 2024-10-08 22:19:51 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:25894
+#规则数量:25901
 ##################
 
 110.43.121.13 bigota.d.miui.com
@@ -257,6 +257,7 @@
 1.1.1.1 360dianjing.agrantsem.com
 1.1.1.1 360fenxi.mediav.com
 1.1.1.1 360popads.com
+1.1.1.1 365.915sj1.xyz
 1.1.1.1 3657fe52a193853bad36e839b2e8316c.urils.pl
 1.1.1.1 365win.pro
 1.1.1.1 3681288bd39c31d0f8de.goonlinebnparibas-pl.click
@@ -4719,6 +4720,7 @@
 1.1.1.1 adspy.javrank.com
 1.1.1.1 adspyglass.com
 1.1.1.1 adsqqclick.qq.com
+1.1.1.1 adsquash.info
 1.1.1.1 adsquirrel.ai
 1.1.1.1 adsradios.adswizz.com
 1.1.1.1 adsreference.com
@@ -6915,7 +6917,6 @@
 1.1.1.1 api-secure.solvemedia.com
 1.1.1.1 api-slotxo.com
 1.1.1.1 api-stg.ensonhaber.com
-1.1.1.1 api-telegram.xyz
 1.1.1.1 api-telemetry.servers.getgo.com
 1.1.1.1 api-upgrade.coocaa.ottcn.com
 1.1.1.1 api-us.appodealx.com
@@ -7633,6 +7634,7 @@
 1.1.1.1 appar3ladv3nture.quest
 1.1.1.1 apparentlyadverse.com
 1.1.1.1 appeal-helpcenter-open-cases.vercel.app
+1.1.1.1 appeal-open-case.updateappealv8.biz
 1.1.1.1 appeal.adshelpcenter.com
 1.1.1.1 appier.mobi
 1.1.1.1 apple.find-lost.click
@@ -7670,6 +7672,7 @@
 1.1.1.1 ar.umeng.com
 1.1.1.1 arabam.api.useinsider.com
 1.1.1.1 aragonese.pro
+1.1.1.1 arb-check.services-global.live
 1.1.1.1 arborealadventure.xyz
 1.1.1.1 arc1.msn.com
 1.1.1.1 arcade-advising.com
@@ -7684,6 +7687,7 @@
 1.1.1.1 arnaldorodrigues.adv.br
 1.1.1.1 arodrome-fad6fd.ingress-alpha.ewp.live
 1.1.1.1 aromatic-possibility.pro
+1.1.1.1 aromaticunderstanding.pro
 1.1.1.1 arshadsafrash.com
 1.1.1.1 art-family.pro
 1.1.1.1 artemis-cdn.ocdn.eu
@@ -8012,6 +8016,7 @@
 1.1.1.1 banner-img.haber7.com
 1.1.1.1 banner-madai-com.s3.amazonaws.com
 1.1.1.1 banner-media.ru
+1.1.1.1 banner-online.nl
 1.1.1.1 banner-server.winecountry.com
 1.1.1.1 banner-storage.fo.ru
 1.1.1.1 banner-viewers.com
@@ -8756,6 +8761,7 @@
 1.1.1.1 calculusstandingteletypeing.pro
 1.1.1.1 calkowiteszczescie.click
 1.1.1.1 call-ad-network-api.marchex.com
+1.1.1.1 calm-length.pro
 1.1.1.1 calmdown.pro
 1.1.1.1 calopir.click
 1.1.1.1 calve.pro
@@ -8769,7 +8775,6 @@
 1.1.1.1 canadapro.pro
 1.1.1.1 canariajournalen.ads.ramsalt.com
 1.1.1.1 cancunfishingadventures.com
-1.1.1.1 candata.click
 1.1.1.1 canny1316-ollox-pl.roadsign.top
 1.1.1.1 canonch.pro
 1.1.1.1 canvas.gdt.qq.com
@@ -9719,7 +9724,6 @@
 1.1.1.1 cosmicadventures.tech
 1.1.1.1 cosmiccascadecam.click
 1.1.1.1 cosmotechlab.click
-1.1.1.1 costaegomesadv.com.br
 1.1.1.1 cotads.adscale.de
 1.1.1.1 cottersguayabi.click
 1.1.1.1 coughat.pro
@@ -10688,6 +10692,7 @@
 1.1.1.1 dowodzimyprawdzie.click
 1.1.1.1 dowozimydowody.click
 1.1.1.1 dowozimyprawde.click
+1.1.1.1 doyenssudsier.click
 1.1.1.1 dozdrowiegdzie.click
 1.1.1.1 doznaniebolu.click
 1.1.1.1 dozorinformacji.click
@@ -10981,6 +10986,7 @@
 1.1.1.1 echotorowe.click
 1.1.1.1 eckleinlienic.click
 1.1.1.1 eclick.baidu.com
+1.1.1.1 eclipse-adblocker.pro
 1.1.1.1 ecmc.bdimg.com
 1.1.1.1 ecn-analytics-nssl.emc.com
 1.1.1.1 ecn-analytics.emc.com
@@ -11131,7 +11137,6 @@
 1.1.1.1 enigmnaesenceonline.click
 1.1.1.1 enjoydownloads.com
 1.1.1.1 enlightenedworldsail.click
-1.1.1.1 enlinea.bankingalicia.click
 1.1.1.1 enormous-society.pro
 1.1.1.1 enormouswar.pro
 1.1.1.1 entertainment.msn.us.intellitxt.com
@@ -11708,6 +11713,7 @@
 1.1.1.1 frogadvert.ru
 1.1.1.1 front.aid-ad.jp
 1.1.1.1 frontier-toutiao.snssdk.com
+1.1.1.1 frontier100-toutiao-lf.fqnovel.com
 1.1.1.1 frontstat.agrantsem.com
 1.1.1.1 frostbitas.pro
 1.1.1.1 frostcometas.pro
@@ -12420,7 +12426,6 @@
 1.1.1.1 historiadnia.click
 1.1.1.1 historiaprawdziwa.click
 1.1.1.1 historiepolakow.click
-1.1.1.1 hit-check.com
 1.1.1.1 hit-counter-download.com
 1.1.1.1 hit.api.useinsider.com
 1.1.1.1 hitadsmedia.com
@@ -12476,6 +12481,7 @@
 1.1.1.1 hoofingpaperes.pro
 1.1.1.1 hoofingprevalenceed.pro
 1.1.1.1 hoofingprevalencees.pro
+1.1.1.1 hookx.click
 1.1.1.1 hoopernode.click
 1.1.1.1 hopetopinvest.pro
 1.1.1.1 hoplink.ksosoft.com
@@ -13626,7 +13632,6 @@
 1.1.1.1 konsola-dla-ciebie.click
 1.1.1.1 konspektbilans.click
 1.1.1.1 kontaktowe24h.click
-1.1.1.1 konto-aktivieren-check.online
 1.1.1.1 konto-update-check.online
 1.1.1.1 konto-verifizieren-check.online
 1.1.1.1 kontroladowodowa.click
@@ -13849,6 +13854,7 @@
 1.1.1.1 leatheringwordes.pro
 1.1.1.1 lebaneseads.com
 1.1.1.1 leczumiaroraz.click
+1.1.1.1 ledger-update.self-transform.net
 1.1.1.1 ledger.critical-update.com
 1.1.1.1 ledsitling.pro
 1.1.1.1 legal-weight.pro
@@ -14990,7 +14996,6 @@
 1.1.1.1 mozemyrazemtu.click
 1.1.1.1 mp.cmllw.iego.net
 1.1.1.1 mp.teads.tv
-1.1.1.1 mp.weixin.kpo.cn
 1.1.1.1 mpe.ad4game.com
 1.1.1.1 mpi.ofishlprog1.click
 1.1.1.1 mplaylist-ads.zadn.vn
@@ -16340,6 +16345,7 @@
 1.1.1.1 pagead2.googleadservices.com
 1.1.1.1 pagead2.googlesyndication.com
 1.1.1.1 pagead46.l.doubleclick.net
+1.1.1.1 pageloadstats.pro
 1.1.1.1 pagepeel.ero-advertising.com
 1.1.1.1 pages-juxiao.mediav.com
 1.1.1.1 pages.juxiao.mediav.com
@@ -19297,6 +19303,7 @@
 1.1.1.1 secure.smart-enterprise-365.com
 1.1.1.1 secure.venture-365-inspired.com
 1.1.1.1 secureads.g.doubleclick.net
+1.1.1.1 secureadvices.icu
 1.1.1.1 securefiles.pro
 1.1.1.1 secureflashplayerfeedback.adobe.com
 1.1.1.1 securekta.pro
@@ -20004,7 +20011,6 @@
 1.1.1.1 sprawypolskie.click
 1.1.1.1 sprawyrozwiazanie.click
 1.1.1.1 spreadsheetse.top
-1.1.1.1 spreadsheetsg.top
 1.1.1.1 spreadsheetsh.top
 1.1.1.1 spreadsheetso.top
 1.1.1.1 spreadsheetst.top
@@ -21720,7 +21726,6 @@
 1.1.1.1 update-paymentnow.ntftvcentre.website
 1.1.1.1 update-paymentnow.tvshowapp.cam
 1.1.1.1 update-paymentnow.tvshowkonto.life
-1.1.1.1 update-post-reschedule-canada.com
 1.1.1.1 update-protection.com
 1.1.1.1 update-security.ddns.info
 1.1.1.1 update-security.qhigh.com
@@ -22685,6 +22690,7 @@
 1.1.1.1 wer.fg3sf4.dns-dynamic.net
 1.1.1.1 wer.qdwght.com
 1.1.1.1 wersjainformacji.click
+1.1.1.1 weryfikacjakonta.dns.army
 1.1.1.1 wesole-maluszki.click
 1.1.1.1 west.ads.simpli.fi
 1.1.1.1 westads.simpli.fi
@@ -23076,7 +23082,6 @@
 1.1.1.1 www.aam.bartoszews.pro
 1.1.1.1 www.aata.ero-advertising.com
 1.1.1.1 www.ab3aad2010.com
-1.1.1.1 www.abfead52971e9fac92658d14e2240c47.anielabozena.pl
 1.1.1.1 www.abroad-advisors.com
 1.1.1.1 www.abtd-txt.click
 1.1.1.1 www.acc.eligibility.2dadc428c7a061f729458acc01304c8f.ml
@@ -23224,7 +23229,6 @@
 1.1.1.1 www.advanc3d-ip-scanner.com
 1.1.1.1 www.advanc3d-lp-scaner.com
 1.1.1.1 www.advanc3d-lp-scanner.com
-1.1.1.1 www.advancedaviationmanufacturing.com
 1.1.1.1 www.advancedcleaner.com
 1.1.1.1 www.advanceddentistryofnevada.com
 1.1.1.1 www.advancedmactools.com
@@ -23252,7 +23256,6 @@
 1.1.1.1 www.advertise.com
 1.1.1.1 www.advertisesupportpages-help.com
 1.1.1.1 www.advertising365.com
-1.1.1.1 www.advertisingsupports24hpromax.store
 1.1.1.1 www.advertlets.com
 1.1.1.1 www.advertpro.com
 1.1.1.1 www.adverts.dcthomson.co.uk
@@ -23293,7 +23296,6 @@
 1.1.1.1 www.allegrolokalnie.r7adg8124ga.pl
 1.1.1.1 www.allegrowork.pro
 1.1.1.1 www.alleypaths.click
-1.1.1.1 www.allyhealthadvocates.com
 1.1.1.1 www.am0r0usadv6ntures.sbs
 1.1.1.1 www.analytics-digit-in.cdn.ampproject.org
 1.1.1.1 www.analytics.247sports.com
@@ -23318,6 +23320,7 @@
 1.1.1.1 www.api.xibitrs.com
 1.1.1.1 www.appar3ladv3nture.quest
 1.1.1.1 www.appeal-helpcenter-open-cases.vercel.app
+1.1.1.1 www.appeal-open-case.updateappealv8.biz
 1.1.1.1 www.applocalads.site
 1.1.1.1 www.arborealadventure.xyz
 1.1.1.1 www.archiveimproveexpress.pro
@@ -23465,7 +23468,6 @@
 1.1.1.1 www.cadvision.com
 1.1.1.1 www.cainv.click
 1.1.1.1 www.cajunua1.pro
-1.1.1.1 www.calopir.click
 1.1.1.1 www.canadapro.pro
 1.1.1.1 www.cancunfishingadventures.com
 1.1.1.1 www.capillariesedhelmetsteeped.pro
@@ -23962,6 +23964,7 @@
 1.1.1.1 www.hoofingpaperes.pro
 1.1.1.1 www.hoofingprevalenceed.pro
 1.1.1.1 www.hoofingprevalencees.pro
+1.1.1.1 www.hookx.click
 1.1.1.1 www.hopetopinvest.pro
 1.1.1.1 www.hordasinvest.pro
 1.1.1.1 www.horoscopeedchestnuting.pro
@@ -24173,6 +24176,7 @@
 1.1.1.1 www.leadsplumber.com
 1.1.1.1 www.leatheringwordes.pro
 1.1.1.1 www.lebaneseads.com
+1.1.1.1 www.ledger-update.self-transform.net
 1.1.1.1 www.legumelin.pro
 1.1.1.1 www.lenyjuuwae.pro
 1.1.1.1 www.lepydey2.pro
@@ -24265,6 +24269,7 @@
 1.1.1.1 www.miami.ero-advertising.com
 1.1.1.1 www.mibet.mobi
 1.1.1.1 www.microngroup.pro
+1.1.1.1 www.microsoft-365.098294.com
 1.1.1.1 www.microsoft-update.name
 1.1.1.1 www.midpathadvisors.com
 1.1.1.1 www.midtnadvertising.com
@@ -25152,6 +25157,7 @@
 1.1.1.1 www.weplay-cw.pro
 1.1.1.1 www.weplay-events.pro
 1.1.1.1 www.wepufionob.pro
+1.1.1.1 www.weryfikacjakonta.dns.army
 1.1.1.1 www.wesole-maluszki.click
 1.1.1.1 www.westloft.click
 1.1.1.1 www.westreclameadvies.nl
@@ -25205,6 +25211,7 @@
 1.1.1.1 www.wws.ero-advertising.com
 1.1.1.1 www.www-google.nl
 1.1.1.1 www.wx.eghe.skin
+1.1.1.1 www.wx.zzti.skin
 1.1.1.1 www.wydarzenia-google.waw.pl
 1.1.1.1 www.wydarzeniaaktualne.click
 1.1.1.1 www.wypad3k0.blogspot.com
@@ -25323,6 +25330,7 @@
 1.1.1.1 wx.houyi.baofeng.net
 1.1.1.1 wx.shunliandongli.com
 1.1.1.1 wx.sifakaoshi360.com
+1.1.1.1 wx.zzti.skin
 1.1.1.1 wxa.wxs.qq.com
 1.1.1.1 wxa79ef55c1a84e284.wx.ckjr001.com
 1.1.1.1 wybortygodnia.click
@@ -25897,7 +25905,6 @@
 1.1.1.1 zymubyo1.click
 1.1.1.1 zyvurao6.pro
 1.1.1.1 zz.bdstatic.com
-1.1.1.1 zzz.fybert.dns-dynamic.net
 183.136.207.132 bigota.d.miui.com
 183.136.207.132 hugeota.d.miui.com
 23.202.34.138 bigota.d.miui.com
