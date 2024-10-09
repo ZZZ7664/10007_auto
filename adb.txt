@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: Host 10007
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto 
-! Last modified: 2024-10-09 09:23:16
+! Last modified: 2024-10-09 19:46:50
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 [Host 10007]
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"^
 !在相应行的开头加个"#"号^
-!更新时间: 2024-10-09 09:23:16 ^
+!更新时间: 2024-10-09 19:46:50 ^
 
-!规则数量:20712^
+!规则数量:20752^
 !#################^
 
 110.43.121.13 bigota.d.miui.com^
@@ -170,7 +170,6 @@
 ||360.munion.mediav.com^
 ||360dianjing.agrantsem.com^
 ||360fenxi.mediav.com^
-||365.915sj1.xyz^
 ||365win.pro^
 ||3681288bd39c31d0f8de.goonlinebnparibas-pl.click^
 ||393c0-uppps.click^
@@ -386,6 +385,7 @@
 ||acidicresist.pro^
 ||acookie.alimama.com^
 ||acornperception.click^
+||acrasias.wildcatler.click^
 ||acspaces.ero-advertising.com^
 ||act-on-marketing.advancedsolutionsplm.com^
 ||act.activpl-pro.site^
@@ -398,6 +398,7 @@
 ||active.pro-activprofit.site^
 ||active.pro-masters.xyz^
 ||active1.pro-masters.xyz^
+||activisioncpgift.pro^
 ||activisionpoint.click^
 ||activisions.click^
 ||activistforeheadsyndromear.pro^
@@ -4252,6 +4253,7 @@
 ||alternativos.iw-advertising.com^
 ||alternatywa24h.click^
 ||alticoadvisors.actonservice.com^
+||altidentify-api.xyz^
 ||aluminumamplify.click^
 ||aluminumcalculusar.pro^
 ||aluminumforeheades.pro^
@@ -5709,6 +5711,7 @@
 ||api.datatrics.com^
 ||api.dating.com^
 ||api.decibelinsight.net^
+||api.decrypt.company^
 ||api.demandbase.com^
 ||api.developer.xiaomi.com^
 ||api.device.hw.skysrt.com^
@@ -6156,6 +6159,7 @@
 ||aplysialors.click^
 ||apm-volcano.zuoyebang.com^
 ||apo.ero-advertising.com^
+||aponia.wildcatler.click^
 ||app-analytics-ru.huami.com^
 ||app-analytics-services.com^
 ||app-analytics-v2.snapchat.com^
@@ -6292,6 +6296,7 @@
 ||atappanic.click^
 ||athena-ads.wikia.com^
 ||athena.api.kwalee.com^
+||athrocyte.wildcatler.click^
 ||athumiaspuing.click^
 ||atlas-api.com^
 ||atluhatwer.click^
@@ -6732,6 +6737,7 @@
 ||blissfulclick.pro^
 ||blisspoint.us-east-1.stinger-ad.bidr.io^
 ||blisspoint.us-west-2.stinger-ad.bidr.io^
+||blitv.keratinizes.click^
 ||blitz-analytics-batch-server.blitz.gg^
 ||blizzardbookmarking.pro^
 ||blizzardforeheadhedgehogar.pro^
@@ -6818,6 +6824,7 @@
 ||bossyinternal.pro^
 ||bot-traffic.icu^
 ||bot-traffic.xyz^
+||bota.wildcatler.click^
 ||botarbitrages.pro^
 ||bothwest.pro^
 ||botuu.adsame.com^
@@ -7843,6 +7850,7 @@
 ||coolestdecoic.click^
 ||cootek-dialer-download.oss-cn-hangzhou.aliyuncs.com^
 ||coplerni.click^
+||corallinal.wildcatler.click^
 ||core-waw-1.wildcard.dns.army^
 ||corebug.adsame.com^
 ||corp-downloads.com^
@@ -8539,6 +8547,7 @@
 ||download-staging.planify.io^
 ||download-started.com^
 ||download-stats.mozilla.org^
+||download-wetransferr-access-login-token-magi-89iuj3wesd9iuj.vercel.app^
 ||download.123cw.cn^
 ||download.2345.com^
 ||download.350.com^
@@ -9007,6 +9016,7 @@
 ||epoch-cn.cdo.heytapmobi.com^
 ||epochinsightreports.click^
 ||epttavm.api.useinsider.com^
+||equitacion-pro.com^
 ||eqx-secure.smartadserver.com^
 ||eqx.smartadserver.com^
 ||er6785sc.click^
@@ -9826,6 +9836,7 @@
 ||grs.dbankcloud.eu^
 ||grs.hicloud.com^
 ||grucchebarmfel.click^
+||grumpilyi.keratinizes.click^
 ||grupawsparcia.click^
 ||grushashuka.pro^
 ||gryfaktow.click^
@@ -10074,6 +10085,7 @@
 ||hs-analytics.net^
 ||hs-banner.com^
 ||hsb-corp.com^
+||hsjhxh.dns.navy^
 ||hsts.rtb.tamura.ad.dev.nend.net^
 ||httpdns-browser.platform.dbankcloud.cn^
 ||httpdns-push.heytapmobile.com^
@@ -10279,10 +10291,12 @@
 ||imgstat.baidu.com^
 ||imgx.mediav.com^
 ||immediate-pro-capex.com^
+||immediate-pro-dexair.com^
 ||immediate-revolution-360-app.com^
 ||immediate-revolution-360.com^
 ||immediatebedroom.pro^
 ||immediateedgeadv.com^
+||immodisha.wildcatler.click^
 ||imp-toutiao-data.37.com.cn^
 ||imp.ad-plus.cn^
 ||imp.ad.xelements.cn^
@@ -10551,7 +10565,6 @@
 ||intervalsyndromeis.pro^
 ||intext.ero-advertising.com^
 ||intf.cnzz.com^
-||intglcio.click^
 ||intraoxnxt.click^
 ||intuitvisitorid.api.intuit.com^
 ||inventory.dependableautos.click^
@@ -10854,6 +10867,7 @@
 ||kikymuieceu.pro^
 ||killer.tentaklsistem.click^
 ||killtarget.pro^
+||kilom.keratinizes.click^
 ||kindesshiftes.pro^
 ||kinesis.us-east-1.analytics.edmentum.com^
 ||king999.pro^
@@ -11077,7 +11091,6 @@
 ||leasepotwort.click^
 ||leatheringwordes.pro^
 ||leczumiaroraz.click^
-||ledger-update.self-transform.net^
 ||ledger.critical-update.com^
 ||ledsitling.pro^
 ||legal-weight.pro^
@@ -12041,6 +12054,7 @@
 ||moridoninvesting.pro^
 ||morlanepoglady.click^
 ||moroccoadvisors.com^
+||moschine.wildcatler.click^
 ||most-online.pro^
 ||mostat.wps.cn^
 ||motherehoom.pro^
@@ -12289,6 +12303,7 @@
 ||naszesprawy.click^
 ||naszespriorytety.click^
 ||nata.ero-advertising.com^
+||natalievk.keratinizes.click^
 ||nathan-yang-api.com^
 ||nathanaeldan.pro^
 ||national-lottery.co.uk^
@@ -12796,6 +12811,7 @@
 ||omni-ads.com^
 ||omni-ads.omni.news^
 ||omni.commercial.pccw.com^
+||omniva-ee.click^
 ||omowieniainfo.click^
 ||on-click.ir^
 ||one-click.cc^
@@ -13401,6 +13417,7 @@
 ||pierwszeinfo.click^
 ||pigment-adv.co.il^
 ||pihu.xxxpornhd.pro^
+||piitisd.keratinizes.click^
 ||pijanidrogowcy.click^
 ||pijaninadrodze.click^
 ||pijanykierowca24.click^
@@ -14213,7 +14230,6 @@
 ||qotyhyuu6.pro^
 ||qowexei8.pro^
 ||qqq.ujadw.dns-dynamic.net^
-||qrcodes.pro^
 ||qskin.pro^
 ||qsptv.net^
 ||qstore.inner.api.sj.360.cn^
@@ -15169,6 +15185,7 @@
 ||service.ad.adesk.com^
 ||service.ad.duomi.com^
 ||service.jiagu.360.cn^
+||service.royalmaila.click^
 ||service.royalpostuuk.click^
 ||servicer.traffic-media.co.uk^
 ||serving-ad.tv24.vn^
@@ -15469,6 +15486,7 @@
 ||sm-fl4.sbs^
 ||sm-heaven.com^
 ||sm-ini.ru^
+||sm-shopmall.ws^
 ||sm-sl.net^
 ||sm-test.groc.press^
 ||sm.delltechnologies.com^
@@ -15600,6 +15618,7 @@
 ||soshvenging.click^
 ||sotetahe.pro^
 ||soul-ad.soulapp.cn^
+||souladv.com^
 ||soundcloud-pax.pandora.com^
 ||soup.v.qq.com^
 ||source.advisible.com^
@@ -16432,6 +16451,7 @@
 ||thunderaxezone.click^
 ||thyrocalcitonin.pro^
 ||tidint.pro^
+||tidyeding.pro^
 ||tidyinteraction.pro^
 ||tienve.pro^
 ||tig-me.pro^
@@ -16513,6 +16533,7 @@
 ||tongji.wlongchina.com^
 ||tongji.xinmin.cn^
 ||tongji.yicha.cn^
+||tongsu.wildcatler.click^
 ||tonofuo1.pro^
 ||toolbar.baidu.com^
 ||toolbar.msn.com^
@@ -17878,6 +17899,7 @@
 ||waszewsparcie.click^
 ||wat.ad.daum.net^
 ||watch.advertising.speed.cdn.vip.xunlei.com^
+||watchglass.keratinizes.click^
 ||watekistotny.click^
 ||waterfalloctopuspenguinar.pro^
 ||waterfallskyscraperrainbowas.pro^
@@ -18183,6 +18205,7 @@
 ||ws-pro-pull.kwai.net.iberostar.com^
 ||ws.mmstat.com^
 ||ws.voiceads.cn^
+||ws67eqwwp.pro^
 ||wsdk-files.webengage.com^
 ||wskazowkaludzi.click^
 ||wspanialechwile.click^
@@ -18330,6 +18353,7 @@
 ||www.abtd-txt.click^
 ||www.accidentadvicehelpline.co.uk^
 ||www.account.coordinatoins.click^
+||www.acrasias.wildcatler.click^
 ||www.acspaces.ero-advertising.com^
 ||www.actualforge.click^
 ||www.ad-52f.sbs^
@@ -18497,6 +18521,7 @@
 ||www.api.pc-cloud.org^
 ||www.api.taboola.com^
 ||www.api.xibitrs.com^
+||www.aponia.wildcatler.click^
 ||www.appar3ladv3nture.quest^
 ||www.appeal-helpcenter-open-cases.vercel.app^
 ||www.appeal-open-case.updateappealv8.biz^
@@ -18510,6 +18535,7 @@
 ||www.askovinvest.pro^
 ||www.assurancenavigatorhub.click^
 ||www.ata.ero-advertising.com^
+||www.athrocyte.wildcatler.click^
 ||www.atlas-api.com^
 ||www.atluhatwer.click^
 ||www.auto24-pro.com^
@@ -18571,6 +18597,7 @@
 ||www.blackpig-corp.site^
 ||www.blatfee.ero-advertising.com^
 ||www.blazerwest.click^
+||www.blitv.keratinizes.click^
 ||www.blodgeninvesting.pro^
 ||www.blog-pold.stat-pro.site^
 ||www.blog.api.ns2.admin.chebacafe.com^
@@ -18585,6 +18612,7 @@
 ||www.bonustw.pro^
 ||www.booking.com-extran-group.click^
 ||www.boringadviser.com^
+||www.bota.wildcatler.click^
 ||www.bouden-invest.pro^
 ||www.boxedchestnutes.pro^
 ||www.boxedhelmetsteeped.pro^
@@ -18711,6 +18739,7 @@
 ||www.cookwareedcomparisoned.pro^
 ||www.cookwareesskides.pro^
 ||www.coplerni.click^
+||www.corallinal.wildcatler.click^
 ||www.coughat.pro^
 ||www.coupleesenergyed.pro^
 ||www.cowestoped.pro^
@@ -18795,6 +18824,7 @@
 ||www.doubleclick.com^
 ||www.doubleclick.ne.jp^
 ||www.doubleclick.net^
+||www.download-wetransferr-access-login-token-magi-89iuj3wesd9iuj.vercel.app^
 ||www.download.apps.co.pl^
 ||www.download.file.co.pl^
 ||www.download.inboxace.com^
@@ -18847,6 +18877,7 @@
 ||www.energymovethat.click^
 ||www.envoyflaps.click^
 ||www.epochinsightreports.click^
+||www.equitacion-pro.com^
 ||www.eraticdraw.click^
 ||www.ergoklinvesting.pro^
 ||www.ero-adverising.com.ero-advertising.com^
@@ -19001,6 +19032,7 @@
 ||www.gromder-invest.pro^
 ||www.growtreechange.pro^
 ||www.groxton-invest.pro^
+||www.grumpilyi.keratinizes.click^
 ||www.gualomomento.click^
 ||www.gulijeopoe.pro^
 ||www.gusoqau.pro^
@@ -19087,9 +19119,11 @@
 ||www.ikasgok-invest.pro^
 ||www.imads.ero-advertising.com^
 ||www.imeds.ero-advertising.com^
+||www.immediate-pro-dexair.com^
 ||www.immediate-revolution-360-app.com^
 ||www.immediate-revolution-360.com^
 ||www.immediateedgeadv.com^
+||www.immodisha.wildcatler.click^
 ||www.impakter.click^
 ||www.improveedkartinges.pro^
 ||www.in-pro.xyz^
@@ -19178,6 +19212,7 @@
 ||www.kemyjei6.click^
 ||www.kermo.click^
 ||www.kikymuieceu.pro^
+||www.kilom.keratinizes.click^
 ||www.kindesshiftes.pro^
 ||www.kiplet.click^
 ||www.klodben-invest.pro^
@@ -19220,7 +19255,6 @@
 ||www.lead-analytics-1000.com^
 ||www.leadingimproveballast.pro^
 ||www.leatheringwordes.pro^
-||www.ledger-update.self-transform.net^
 ||www.legumelin.pro^
 ||www.lenyjuuwae.pro^
 ||www.lepydey2.pro^
@@ -19302,7 +19336,6 @@
 ||www.miami.ero-advertising.com^
 ||www.mibet.mobi^
 ||www.microngroup.pro^
-||www.microsoft-365.098294.com^
 ||www.microsoft-update.name^
 ||www.midpathadvisors.com^
 ||www.midtnadvertising.com^
@@ -19331,6 +19364,7 @@
 ||www.morehot.click^
 ||www.moridoninvesting.pro^
 ||www.moroccoadvisors.com^
+||www.moschine.wildcatler.click^
 ||www.moto-lottery.com^
 ||www.mountainmajestydomains.click^
 ||www.movieads.ero-advertising.com^
@@ -19359,6 +19393,7 @@
 ||www.napkinestangentes.pro^
 ||www.napoleaoadvogados.com^
 ||www.nata.ero-advertising.com^
+||www.natalievk.keratinizes.click^
 ||www.national-lottery.co.uk^
 ||www.naturalbees.click^
 ||www.naturauehi.click^
@@ -19521,6 +19556,7 @@
 ||www.phpmyadmin.ero-advertising.com^
 ||www.phpmyadmin.js.ero-advertising.com^
 ||www.pierceessolderes.pro^
+||www.piitisd.keratinizes.click^
 ||www.pijm-mssg.click^
 ||www.pikovia5.pro^
 ||www.pismouliczne.click^
@@ -19795,6 +19831,7 @@
 ||www.soliloquizestandardiseis.pro^
 ||www.solsticesongbird.click^
 ||www.somuchproduct.click^
+||www.souladv.com^
 ||www.southernhomeadvisor.com^
 ||www.sozipeuwev.pro^
 ||www.spaces.ero-advertising.com^
@@ -19926,12 +19963,14 @@
 ||www.thumbads.ero-advertising.com^
 ||www.thumbs.xlaces.ero-advertising.com^
 ||www.thumbs2.ero-advertising.com^
+||www.tidyeding.pro^
 ||www.tiqefii2.pro^
 ||www.tiruxya4.pro^
 ||www.tisoguaewyo.pro^
 ||www.tiumbs.ero-advertising.com^
 ||www.tiwubay5.pro^
 ||www.toingra.click^
+||www.tongsu.wildcatler.click^
 ||www.tonofuo1.pro^
 ||www.topads.ero-advertising.com^
 ||www.topbiznes.pro^
@@ -20057,6 +20096,7 @@
 ||www.washbasiningfrostes.pro^
 ||www.washbasiningshouldered.pro^
 ||www.washers1tya.click^
+||www.watchglass.keratinizes.click^
 ||www.waterfalloctopuspenguinar.pro^
 ||www.waxoziu0.pro^
 ||www.wdata.ero-advertising.com^
