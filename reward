@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2024-10-09 22:18:12 
+#更新时间: 2024-10-10 09:23:16 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:25941
+#规则数量:25945
 ##################
 
 110.43.121.13 bigota.d.miui.com
@@ -14212,6 +14212,7 @@
 94.140.14.33 lp.tfd-corp.co.jp
 94.140.14.33 lp.trade360.com
 94.140.14.33 lpkobiznes.pro
+94.140.14.33 lpkoblznes.pro
 94.140.14.33 lplos.tentaklsistem.click
 94.140.14.33 lpps.inventnamb.click
 94.140.14.33 lptest.email-mobiledx.cjm.adobe.com
@@ -15436,6 +15437,7 @@
 94.140.14.33 newsdrogowy.click
 94.140.14.33 newsgazeta.click
 94.140.14.33 newsgenius.click
+94.140.14.33 newspolska.click
 94.140.14.33 newsportal.click
 94.140.14.33 newspost.click
 94.140.14.33 newspost.pro
@@ -24248,6 +24250,7 @@
 94.140.14.33 www.lottery.olg.ca
 94.140.14.33 www.loynreroof.bipinates.click
 94.140.14.33 www.lp.trade360.com
+94.140.14.33 www.lpkoblznes.pro
 94.140.14.33 www.lsepads.info
 94.140.14.33 www.lucamister.click
 94.140.14.33 www.lunawomte.click
@@ -24387,6 +24390,7 @@
 94.140.14.33 www.newjokemer.click
 94.140.14.33 www.newsbesl.click
 94.140.14.33 www.newsgazeta.click
+94.140.14.33 www.newspolska.click
 94.140.14.33 www.newsshow.click
 94.140.14.33 www.newsyoucanread24.com
 94.140.14.33 www.newyrodyte.click
