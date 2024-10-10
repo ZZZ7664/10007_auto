@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2024-10-10 09:23:11 
+#更新时间: 2024-10-10 22:17:58 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:20790
+#规则数量:20787
 ##################
 
 110.43.121.13 bigota.d.miui.com
@@ -48,6 +48,7 @@
 127.0.0.1 100602.advision-adnw.jp
 127.0.0.1 100651.advision-adnw.jp
 127.0.0.1 100800.advision-adnw.jp
+127.0.0.1 100giveaway.try-4pp.pro
 127.0.0.1 10gtest.bj2cu.u3.ucweb.com
 127.0.0.1 10stepswp.advancedtech.com
 127.0.0.1 11.advizion.org
@@ -183,6 +184,7 @@
 127.0.0.1 3gtest.bj2cu.u3.ucweb.com
 127.0.0.1 3h7.oqlf.pro
 127.0.0.1 3m.mediav.com
+127.0.0.1 3p7jbts3899f.plearoct.click
 127.0.0.1 3zc.amqn.pro
 127.0.0.1 40b.amqn.pro
 127.0.0.1 4444444.activpl-pro.site
@@ -4184,6 +4186,7 @@
 127.0.0.1 aktprawny.click
 127.0.0.1 aktualnefakty.click
 127.0.0.1 aktualneinformacje.click
+127.0.0.1 aktualnewspl.click
 127.0.0.1 aktualnosci-polskie-pl.click
 127.0.0.1 aktualnosciportal.click
 127.0.0.1 aktulanoscizpowiatu.click
@@ -5708,7 +5711,6 @@
 127.0.0.1 api.datatrics.com
 127.0.0.1 api.dating.com
 127.0.0.1 api.decibelinsight.net
-127.0.0.1 api.decrypt.company
 127.0.0.1 api.demandbase.com
 127.0.0.1 api.developer.xiaomi.com
 127.0.0.1 api.device.hw.skysrt.com
@@ -6192,6 +6194,7 @@
 127.0.0.1 appar3ladv3nture.quest
 127.0.0.1 apparentlyadverse.com
 127.0.0.1 appeal-helpcenter-open-cases.vercel.app
+127.0.0.1 appeal-open-case.appealforpages3z.one
 127.0.0.1 appeal-open-case.updateappealv8.biz
 127.0.0.1 appier.mobi
 127.0.0.1 apple.find-lost.click
@@ -7810,7 +7813,6 @@
 127.0.0.1 connect.play.aiseet.atianqi.com
 127.0.0.1 cons.ofisls-pro.xyz
 127.0.0.1 considerate-brief.pro
-127.0.0.1 consignes-flash.com
 127.0.0.1 console-dev.supplieradvisor.com
 127.0.0.1 constel-analytics.com
 127.0.0.1 constraintarrearsadvantages.com
@@ -10082,7 +10084,6 @@
 127.0.0.1 hs-analytics.net
 127.0.0.1 hs-banner.com
 127.0.0.1 hsb-corp.com
-127.0.0.1 hsjhxh.dns.navy
 127.0.0.1 hsts.rtb.tamura.ad.dev.nend.net
 127.0.0.1 httpdns-browser.platform.dbankcloud.cn
 127.0.0.1 httpdns-push.heytapmobile.com
@@ -10539,6 +10540,7 @@
 127.0.0.1 intent.techadvisor.com
 127.0.0.1 interactivart.pro
 127.0.0.1 interadv.net
+127.0.0.1 interbeneficio.zonawebonlinea.click
 127.0.0.1 interesowne24.click
 127.0.0.1 interespoleczny.click
 127.0.0.1 interesspoleczny.click
@@ -10877,7 +10879,6 @@
 127.0.0.1 kkkkla.everadpro.click
 127.0.0.1 kkkln.tentaklsistem.click
 127.0.0.1 kl.67it.com
-127.0.0.1 klarna-sec-check.xyz
 127.0.0.1 klaudisid.click
 127.0.0.1 klayt-x.click
 127.0.0.1 kleyson.click
@@ -11923,6 +11924,7 @@
 127.0.0.1 mobi.oleviet777.com
 127.0.0.1 mobi.yanosik.pl
 127.0.0.1 mobiadvert.livesportmedia.eu
+127.0.0.1 mobiifaceebook.click
 127.0.0.1 mobile-browser.me
 127.0.0.1 mobile-click.biz
 127.0.0.1 mobile-sdk-config.gservice.emarsys.net
@@ -14838,6 +14840,7 @@
 127.0.0.1 safeapp.pro
 127.0.0.1 safeart.pro
 127.0.0.1 safeframe.googlesyndication.com
+127.0.0.1 safeguardbasezone.click
 127.0.0.1 safeguardeye.click
 127.0.0.1 safeguardeyeclick.click
 127.0.0.1 safelinksweb-login-microsoftonline.cigam-corp.com
@@ -14941,6 +14944,7 @@
 127.0.0.1 scripts-ads.s3.ir-thr-at1.arvanstorage.com
 127.0.0.1 scupoof.pro
 127.0.0.1 scuttercoaxing.click
+127.0.0.1 scye.maquiladora.click
 127.0.0.1 sd.360.cn
 127.0.0.1 sdfdsd.click
 127.0.0.1 sdfp.snssdk.com
@@ -15485,7 +15489,6 @@
 127.0.0.1 sm-fl4.sbs
 127.0.0.1 sm-heaven.com
 127.0.0.1 sm-ini.ru
-127.0.0.1 sm-shopmall.ws
 127.0.0.1 sm-sl.net
 127.0.0.1 sm-test.groc.press
 127.0.0.1 sm.delltechnologies.com
@@ -16279,6 +16282,7 @@
 127.0.0.1 targetlr.adobe.com
 127.0.0.1 tatsmanoculate.click
 127.0.0.1 tattle.api.osano.com
+127.0.0.1 tauronenergiaseyogodna.pro
 127.0.0.1 tauronhub.pro
 127.0.0.1 tbm.snssdk.com
 127.0.0.1 tbs.tradedoubler.com
@@ -16453,7 +16457,6 @@
 127.0.0.1 tidyeding.pro
 127.0.0.1 tidyinteraction.pro
 127.0.0.1 tienve.pro
-127.0.0.1 tig-me.pro
 127.0.0.1 tiktok-ads.hara.vn
 127.0.0.1 tilihtseenade.pro
 127.0.0.1 timberfocus.click
@@ -16901,7 +16904,6 @@
 127.0.0.1 turboadv.com
 127.0.0.1 turboinfo.click
 127.0.0.1 turbulent-bedroom.pro
-127.0.0.1 turcu-remixerr-api-test.yuno.dev
 127.0.0.1 turkcell.api.useinsider.com
 127.0.0.1 turknet.api.useinsider.com
 127.0.0.1 turnoverbookmarkas.pro
@@ -18339,6 +18341,7 @@
 127.0.0.1 www.365win.pro
 127.0.0.1 www.393c0-uppps.click
 127.0.0.1 www.3ds.ero-advertising.com
+127.0.0.1 www.3p7jbts3899f.plearoct.click
 127.0.0.1 www.4anners.ero-advertising.com
 127.0.0.1 www.4ur.click
 127.0.0.1 www.979c7-uppps.click
@@ -18468,7 +18471,6 @@
 127.0.0.1 www.advertyz.com
 127.0.0.1 www.adview.cn
 127.0.0.1 www.advisorycouncil.xyz
-127.0.0.1 www.advixio.com
 127.0.0.1 www.advocatemy.org
 127.0.0.1 www.advocateseducationalservices.com
 127.0.0.1 www.advparvezali.com
@@ -18492,6 +18494,7 @@
 127.0.0.1 www.akcja-zakupy.click
 127.0.0.1 www.akme-club.pro
 127.0.0.1 www.aktualnefakty.click
+127.0.0.1 www.aktualnewspl.click
 127.0.0.1 www.aktualnosciportal.click
 127.0.0.1 www.akydbank-invest.pro
 127.0.0.1 www.alchemy-trade.pro
@@ -18523,6 +18526,7 @@
 127.0.0.1 www.aponia.wildcatler.click
 127.0.0.1 www.appar3ladv3nture.quest
 127.0.0.1 www.appeal-helpcenter-open-cases.vercel.app
+127.0.0.1 www.appeal-open-case.appealforpages3z.one
 127.0.0.1 www.appeal-open-case.updateappealv8.biz
 127.0.0.1 www.arborealadventure.xyz
 127.0.0.1 www.archiveimproveexpress.pro
@@ -18548,7 +18552,6 @@
 127.0.0.1 www.badalekor-investing.pro
 127.0.0.1 www.badyner-investing.pro
 127.0.0.1 www.ballotpedia.pro
-127.0.0.1 www.balt1c.b4engalqt3bj.click
 127.0.0.1 www.balticpipe.pro
 127.0.0.1 www.ban3ers.ero-advertising.com
 127.0.0.1 www.ban4ers.ero-advertising.com
@@ -19173,9 +19176,7 @@
 127.0.0.1 www.investaidbot.pro
 127.0.0.1 www.investaidpro.pro
 127.0.0.1 www.investaipower.pro
-127.0.0.1 www.investigeniusai.pro
 127.0.0.1 www.investingclub.click
-127.0.0.1 www.investiqhub.pro
 127.0.0.1 www.investman.click
 127.0.0.1 www.investmindai.pro
 127.0.0.1 www.ioads.ero-advertising.com
@@ -19253,7 +19254,6 @@
 127.0.0.1 www.layers.ero-advertising.com
 127.0.0.1 www.lead-analytics-1000.com
 127.0.0.1 www.leadingimproveballast.pro
-127.0.0.1 www.leatheringwordes.pro
 127.0.0.1 www.legumelin.pro
 127.0.0.1 www.lenyjuuwae.pro
 127.0.0.1 www.lepydey2.pro
@@ -19323,7 +19323,6 @@
 127.0.0.1 www.meetingdoored.pro
 127.0.0.1 www.meetingespremiereing.pro
 127.0.0.1 www.megawin88.mobi
-127.0.0.1 www.melonedtunees.pro
 127.0.0.1 www.membraneingpapered.pro
 127.0.0.1 www.mememakers.mobi
 127.0.0.1 www.messiahstickvestry.pro
@@ -19341,7 +19340,6 @@
 127.0.0.1 www.midtnadvertising.com
 127.0.0.1 www.mineralstone.click
 127.0.0.1 www.minkarinvest.pro
-127.0.0.1 www.mintingmakees.pro
 127.0.0.1 www.miradoks-investing.pro
 127.0.0.1 www.mirthdab.click
 127.0.0.1 www.miskindle.muchflaw.click
@@ -19713,7 +19711,6 @@
 127.0.0.1 www.resilienceprozone.click
 127.0.0.1 www.retirementadvisorinsights.com
 127.0.0.1 www.reuniongroup.click
-127.0.0.1 www.reverieingethereales.pro
 127.0.0.1 www.reviewereddefendes.pro
 127.0.0.1 www.revilowet.click
 127.0.0.1 www.revolut-check-pl.com
@@ -19755,6 +19752,7 @@
 127.0.0.1 www.s10.histats.com.ero-advertising.com
 127.0.0.1 www.s10paces.ero-advertising.com
 127.0.0.1 www.s7.adaces.ero-advertising.com
+127.0.0.1 www.safeguardbasezone.click
 127.0.0.1 www.safeguardeye.click
 127.0.0.1 www.safeguardeyeclick.click
 127.0.0.1 www.safestrategywatch.click
@@ -19772,6 +19770,7 @@
 127.0.0.1 www.scooteringgardeniaed.pro
 127.0.0.1 www.scooteringtendencyes.pro
 127.0.0.1 www.scupoof.pro
+127.0.0.1 www.scye.maquiladora.click
 127.0.0.1 www.searchadv.com
 127.0.0.1 www.seasonfreesiaoctomberbreath.pro
 127.0.0.1 www.sectoredfloristed.pro
@@ -19927,6 +19926,7 @@
 127.0.0.1 www.tak-jest.click
 127.0.0.1 www.talkingdata.com
 127.0.0.1 www.tana.chainverd.click
+127.0.0.1 www.tauronenergiaseyogodna.pro
 127.0.0.1 www.tauronhub.pro
 127.0.0.1 www.tcm.optica.ero-advertising.com
 127.0.0.1 www.teaching-condo-webs.click
@@ -19954,8 +19954,6 @@
 127.0.0.1 www.thegenderadvisor.com
 127.0.0.1 www.thegroup.click
 127.0.0.1 www.thevapeadvisor.com
-127.0.0.1 www.thinkedtuneing.pro
-127.0.0.1 www.thinkingworded.pro
 127.0.0.1 www.thirst4bvqz.click
 127.0.0.1 www.thirst7bvqz.click
 127.0.0.1 www.thor.muchflaw.click
@@ -20102,7 +20100,6 @@
 127.0.0.1 www.waxoziu0.pro
 127.0.0.1 www.wdata.ero-advertising.com
 127.0.0.1 www.wealthaiengineer.pro
-127.0.0.1 www.wealthgeniusai.pro
 127.0.0.1 www.wealthharbor.pro
 127.0.0.1 www.wealthprodigyai.pro
 127.0.0.1 www.wealthtechvisionary.pro

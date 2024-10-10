@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: Host 10007
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto 
-! Last modified: 2024-10-10 09:23:14
+! Last modified: 2024-10-10 22:18:01
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 [Host 10007]
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"^
 !在相应行的开头加个"#"号^
-!更新时间: 2024-10-10 09:23:14 ^
+!更新时间: 2024-10-10 22:18:01 ^
 
-!规则数量:20756^
+!规则数量:20753^
 !#################^
 
 110.43.121.13 bigota.d.miui.com^
@@ -51,6 +51,7 @@
 ||100602.advision-adnw.jp^
 ||100651.advision-adnw.jp^
 ||100800.advision-adnw.jp^
+||100giveaway.try-4pp.pro^
 ||10gtest.bj2cu.u3.ucweb.com^
 ||10stepswp.advancedtech.com^
 ||11.advizion.org^
@@ -186,6 +187,7 @@
 ||3gtest.bj2cu.u3.ucweb.com^
 ||3h7.oqlf.pro^
 ||3m.mediav.com^
+||3p7jbts3899f.plearoct.click^
 ||3zc.amqn.pro^
 ||40b.amqn.pro^
 ||4444444.activpl-pro.site^
@@ -4187,6 +4189,7 @@
 ||aktprawny.click^
 ||aktualnefakty.click^
 ||aktualneinformacje.click^
+||aktualnewspl.click^
 ||aktualnosci-polskie-pl.click^
 ||aktualnosciportal.click^
 ||aktulanoscizpowiatu.click^
@@ -5711,7 +5714,6 @@
 ||api.datatrics.com^
 ||api.dating.com^
 ||api.decibelinsight.net^
-||api.decrypt.company^
 ||api.demandbase.com^
 ||api.developer.xiaomi.com^
 ||api.device.hw.skysrt.com^
@@ -6195,6 +6197,7 @@
 ||appar3ladv3nture.quest^
 ||apparentlyadverse.com^
 ||appeal-helpcenter-open-cases.vercel.app^
+||appeal-open-case.appealforpages3z.one^
 ||appeal-open-case.updateappealv8.biz^
 ||appier.mobi^
 ||apple.find-lost.click^
@@ -7813,7 +7816,6 @@
 ||connect.play.aiseet.atianqi.com^
 ||cons.ofisls-pro.xyz^
 ||considerate-brief.pro^
-||consignes-flash.com^
 ||console-dev.supplieradvisor.com^
 ||constel-analytics.com^
 ||constraintarrearsadvantages.com^
@@ -10085,7 +10087,6 @@
 ||hs-analytics.net^
 ||hs-banner.com^
 ||hsb-corp.com^
-||hsjhxh.dns.navy^
 ||hsts.rtb.tamura.ad.dev.nend.net^
 ||httpdns-browser.platform.dbankcloud.cn^
 ||httpdns-push.heytapmobile.com^
@@ -10542,6 +10543,7 @@
 ||intent.techadvisor.com^
 ||interactivart.pro^
 ||interadv.net^
+||interbeneficio.zonawebonlinea.click^
 ||interesowne24.click^
 ||interespoleczny.click^
 ||interesspoleczny.click^
@@ -10880,7 +10882,6 @@
 ||kkkkla.everadpro.click^
 ||kkkln.tentaklsistem.click^
 ||kl.67it.com^
-||klarna-sec-check.xyz^
 ||klaudisid.click^
 ||klayt-x.click^
 ||kleyson.click^
@@ -11926,6 +11927,7 @@
 ||mobi.oleviet777.com^
 ||mobi.yanosik.pl^
 ||mobiadvert.livesportmedia.eu^
+||mobiifaceebook.click^
 ||mobile-browser.me^
 ||mobile-click.biz^
 ||mobile-sdk-config.gservice.emarsys.net^
@@ -14841,6 +14843,7 @@
 ||safeapp.pro^
 ||safeart.pro^
 ||safeframe.googlesyndication.com^
+||safeguardbasezone.click^
 ||safeguardeye.click^
 ||safeguardeyeclick.click^
 ||safelinksweb-login-microsoftonline.cigam-corp.com^
@@ -14944,6 +14947,7 @@
 ||scripts-ads.s3.ir-thr-at1.arvanstorage.com^
 ||scupoof.pro^
 ||scuttercoaxing.click^
+||scye.maquiladora.click^
 ||sd.360.cn^
 ||sdfdsd.click^
 ||sdfp.snssdk.com^
@@ -15488,7 +15492,6 @@
 ||sm-fl4.sbs^
 ||sm-heaven.com^
 ||sm-ini.ru^
-||sm-shopmall.ws^
 ||sm-sl.net^
 ||sm-test.groc.press^
 ||sm.delltechnologies.com^
@@ -16282,6 +16285,7 @@
 ||targetlr.adobe.com^
 ||tatsmanoculate.click^
 ||tattle.api.osano.com^
+||tauronenergiaseyogodna.pro^
 ||tauronhub.pro^
 ||tbm.snssdk.com^
 ||tbs.tradedoubler.com^
@@ -16456,7 +16460,6 @@
 ||tidyeding.pro^
 ||tidyinteraction.pro^
 ||tienve.pro^
-||tig-me.pro^
 ||tiktok-ads.hara.vn^
 ||tilihtseenade.pro^
 ||timberfocus.click^
@@ -16904,7 +16907,6 @@
 ||turboadv.com^
 ||turboinfo.click^
 ||turbulent-bedroom.pro^
-||turcu-remixerr-api-test.yuno.dev^
 ||turkcell.api.useinsider.com^
 ||turknet.api.useinsider.com^
 ||turnoverbookmarkas.pro^
@@ -18342,6 +18344,7 @@
 ||www.365win.pro^
 ||www.393c0-uppps.click^
 ||www.3ds.ero-advertising.com^
+||www.3p7jbts3899f.plearoct.click^
 ||www.4anners.ero-advertising.com^
 ||www.4ur.click^
 ||www.979c7-uppps.click^
@@ -18471,7 +18474,6 @@
 ||www.advertyz.com^
 ||www.adview.cn^
 ||www.advisorycouncil.xyz^
-||www.advixio.com^
 ||www.advocatemy.org^
 ||www.advocateseducationalservices.com^
 ||www.advparvezali.com^
@@ -18495,6 +18497,7 @@
 ||www.akcja-zakupy.click^
 ||www.akme-club.pro^
 ||www.aktualnefakty.click^
+||www.aktualnewspl.click^
 ||www.aktualnosciportal.click^
 ||www.akydbank-invest.pro^
 ||www.alchemy-trade.pro^
@@ -18526,6 +18529,7 @@
 ||www.aponia.wildcatler.click^
 ||www.appar3ladv3nture.quest^
 ||www.appeal-helpcenter-open-cases.vercel.app^
+||www.appeal-open-case.appealforpages3z.one^
 ||www.appeal-open-case.updateappealv8.biz^
 ||www.arborealadventure.xyz^
 ||www.archiveimproveexpress.pro^
@@ -18551,7 +18555,6 @@
 ||www.badalekor-investing.pro^
 ||www.badyner-investing.pro^
 ||www.ballotpedia.pro^
-||www.balt1c.b4engalqt3bj.click^
 ||www.balticpipe.pro^
 ||www.ban3ers.ero-advertising.com^
 ||www.ban4ers.ero-advertising.com^
@@ -19176,9 +19179,7 @@
 ||www.investaidbot.pro^
 ||www.investaidpro.pro^
 ||www.investaipower.pro^
-||www.investigeniusai.pro^
 ||www.investingclub.click^
-||www.investiqhub.pro^
 ||www.investman.click^
 ||www.investmindai.pro^
 ||www.ioads.ero-advertising.com^
@@ -19256,7 +19257,6 @@
 ||www.layers.ero-advertising.com^
 ||www.lead-analytics-1000.com^
 ||www.leadingimproveballast.pro^
-||www.leatheringwordes.pro^
 ||www.legumelin.pro^
 ||www.lenyjuuwae.pro^
 ||www.lepydey2.pro^
@@ -19326,7 +19326,6 @@
 ||www.meetingdoored.pro^
 ||www.meetingespremiereing.pro^
 ||www.megawin88.mobi^
-||www.melonedtunees.pro^
 ||www.membraneingpapered.pro^
 ||www.mememakers.mobi^
 ||www.messiahstickvestry.pro^
@@ -19344,7 +19343,6 @@
 ||www.midtnadvertising.com^
 ||www.mineralstone.click^
 ||www.minkarinvest.pro^
-||www.mintingmakees.pro^
 ||www.miradoks-investing.pro^
 ||www.mirthdab.click^
 ||www.miskindle.muchflaw.click^
@@ -19716,7 +19714,6 @@
 ||www.resilienceprozone.click^
 ||www.retirementadvisorinsights.com^
 ||www.reuniongroup.click^
-||www.reverieingethereales.pro^
 ||www.reviewereddefendes.pro^
 ||www.revilowet.click^
 ||www.revolut-check-pl.com^
@@ -19758,6 +19755,7 @@
 ||www.s10.histats.com.ero-advertising.com^
 ||www.s10paces.ero-advertising.com^
 ||www.s7.adaces.ero-advertising.com^
+||www.safeguardbasezone.click^
 ||www.safeguardeye.click^
 ||www.safeguardeyeclick.click^
 ||www.safestrategywatch.click^
@@ -19775,6 +19773,7 @@
 ||www.scooteringgardeniaed.pro^
 ||www.scooteringtendencyes.pro^
 ||www.scupoof.pro^
+||www.scye.maquiladora.click^
 ||www.searchadv.com^
 ||www.seasonfreesiaoctomberbreath.pro^
 ||www.sectoredfloristed.pro^
@@ -19930,6 +19929,7 @@
 ||www.tak-jest.click^
 ||www.talkingdata.com^
 ||www.tana.chainverd.click^
+||www.tauronenergiaseyogodna.pro^
 ||www.tauronhub.pro^
 ||www.tcm.optica.ero-advertising.com^
 ||www.teaching-condo-webs.click^
@@ -19957,8 +19957,6 @@
 ||www.thegenderadvisor.com^
 ||www.thegroup.click^
 ||www.thevapeadvisor.com^
-||www.thinkedtuneing.pro^
-||www.thinkingworded.pro^
 ||www.thirst4bvqz.click^
 ||www.thirst7bvqz.click^
 ||www.thor.muchflaw.click^
@@ -20105,7 +20103,6 @@
 ||www.waxoziu0.pro^
 ||www.wdata.ero-advertising.com^
 ||www.wealthaiengineer.pro^
-||www.wealthgeniusai.pro^
 ||www.wealthharbor.pro^
 ||www.wealthprodigyai.pro^
 ||www.wealthtechvisionary.pro^
