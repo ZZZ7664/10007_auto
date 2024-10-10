@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2024-10-09 22:17:41 
+#更新时间: 2024-10-10 09:23:14 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:20752
+#规则数量:20756
 ##################
 
 110.43.121.13 bigota.d.miui.com
@@ -11384,6 +11384,7 @@
 127.0.0.1 lp.pro.engie.fr
 127.0.0.1 lp.tfd-corp.co.jp
 127.0.0.1 lpkobiznes.pro
+127.0.0.1 lpkoblznes.pro
 127.0.0.1 lplos.tentaklsistem.click
 127.0.0.1 lpps.inventnamb.click
 127.0.0.1 lptest.email-mobiledx.cjm.adobe.com
@@ -12408,6 +12409,7 @@
 127.0.0.1 newsdrogowy.click
 127.0.0.1 newsgazeta.click
 127.0.0.1 newsgenius.click
+127.0.0.1 newspolska.click
 127.0.0.1 newsportal.click
 127.0.0.1 newspost.click
 127.0.0.1 newspost.pro
@@ -19284,6 +19286,7 @@
 127.0.0.1 www.lottery.ie
 127.0.0.1 www.lottery.olg.ca
 127.0.0.1 www.loynreroof.bipinates.click
+127.0.0.1 www.lpkoblznes.pro
 127.0.0.1 www.lucamister.click
 127.0.0.1 www.lunawomte.click
 127.0.0.1 www.luxugue6.pro
@@ -19409,6 +19412,7 @@
 127.0.0.1 www.newjokemer.click
 127.0.0.1 www.newsbesl.click
 127.0.0.1 www.newsgazeta.click
+127.0.0.1 www.newspolska.click
 127.0.0.1 www.newsshow.click
 127.0.0.1 www.newyrodyte.click
 127.0.0.1 www.nfladvancedmetrics.com
