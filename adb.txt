@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: Host 10007
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto 
-! Last modified: 2024-10-09 22:17:47
+! Last modified: 2024-10-10 09:23:20
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 [Host 10007]
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"^
 !在相应行的开头加个"#"号^
-!更新时间: 2024-10-09 22:17:46 ^
+!更新时间: 2024-10-10 09:23:20 ^
 
-!规则数量:25941^
+!规则数量:25945^
 !#################^
 
 ||0.r.msn.com^
@@ -14209,6 +14209,7 @@
 ||lp.tfd-corp.co.jp^
 ||lp.trade360.com^
 ||lpkobiznes.pro^
+||lpkoblznes.pro^
 ||lplos.tentaklsistem.click^
 ||lpps.inventnamb.click^
 ||lptest.email-mobiledx.cjm.adobe.com^
@@ -15433,6 +15434,7 @@
 ||newsdrogowy.click^
 ||newsgazeta.click^
 ||newsgenius.click^
+||newspolska.click^
 ||newsportal.click^
 ||newspost.click^
 ||newspost.pro^
@@ -24245,6 +24247,7 @@
 ||www.lottery.olg.ca^
 ||www.loynreroof.bipinates.click^
 ||www.lp.trade360.com^
+||www.lpkoblznes.pro^
 ||www.lsepads.info^
 ||www.lucamister.click^
 ||www.lunawomte.click^
@@ -24384,6 +24387,7 @@
 ||www.newjokemer.click^
 ||www.newsbesl.click^
 ||www.newsgazeta.click^
+||www.newspolska.click^
 ||www.newsshow.click^
 ||www.newsyoucanread24.com^
 ||www.newyrodyte.click^
