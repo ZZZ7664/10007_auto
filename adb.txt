@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: Host 10007
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto 
-! Last modified: 2024-10-11 22:17:59
+! Last modified: 2024-10-12 09:21:34
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 [Host 10007]
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"^
 !在相应行的开头加个"#"号^
-!更新时间: 2024-10-11 22:17:59 ^
+!更新时间: 2024-10-12 09:21:33 ^
 
-!规则数量:20712^
+!规则数量:20720^
 !#################^
 
 110.43.121.13 bigota.d.miui.com^
@@ -3682,6 +3682,7 @@
 ||advancedoffersapp.com^
 ||advancedoffersapps.com^
 ||advancedpilotacademy.com^
+||advancedreams.net^
 ||advancedsolarpowerltd.com^
 ||advancedsolutions.actonservice.com^
 ||advancedsuperfood.com^
@@ -9061,6 +9062,7 @@
 ||eul.s.360.cn^
 ||europeadvokat.online^
 ||europeznmm.click^
+||eurorefund.pro^
 ||eurybiont.pro^
 ||ev.api.bdg.com^
 ||eva-ad.24hstatic.com^
@@ -11297,6 +11299,7 @@
 ||loose-chemistry.pro^
 ||lootplatform.pro^
 ||lopescore.click^
+||lordballastreduce.pro^
 ||lordfarballast.pro^
 ||losowewypadki.click^
 ||losowezdarzenia.click^
@@ -18149,6 +18152,7 @@
 ||worst-zone.pro^
 ||worthless-living.pro^
 ||worthlessanxiety.pro^
+||wotaloe7.pro^
 ||wow-click.click^
 ||wow.ero-advertising.com^
 ||woweffect.click^
@@ -18403,6 +18407,7 @@
 ||www.advancedcleaner.com^
 ||www.advanceddentistryofnevada.com^
 ||www.advancedmactools.com^
+||www.advancedreams.net^
 ||www.advancedsoftwaresupport.com^
 ||www.advancedtrades.online^
 ||www.advancemycommission.com^
@@ -18850,6 +18855,7 @@
 ||www.es.ero-advertising.com^
 ||www.eslnd.click^
 ||www.eternalchow.click^
+||www.eurorefund.pro^
 ||www.exactadvertising.com^
 ||www.exit-ad.de^
 ||www.exoskeletonedphysicianing.pro^
@@ -19242,6 +19248,7 @@
 ||www.locksmith-360.com^
 ||www.longtron.click^
 ||www.lookbound.click^
+||www.lordballastreduce.pro^
 ||www.lordfarballast.pro^
 ||www.lottery.ie^
 ||www.lottery.olg.ca^
@@ -20099,6 +20106,7 @@
 ||www.workshopedpapered.pro^
 ||www.workshopedprevalenceed.pro^
 ||www.worldsinvesinshow.click^
+||www.wotaloe7.pro^
 ||www.wow.ero-advertising.com^
 ||www.woweffect.click^
 ||www.wowjest.click^
