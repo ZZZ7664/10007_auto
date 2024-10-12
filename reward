@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2024-10-12 09:21:42 
+#更新时间: 2024-10-12 22:15:21 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:25880
+#规则数量:25913
 ##################
 
 110.43.121.13 bigota.d.miui.com
@@ -49,7 +49,6 @@
 1.1.1.1 0ferta.click
 1.1.1.1 0gtest.bj2cu.u3.ucweb.com
 1.1.1.1 0gw7e6s3wrao9y3q.pro
-1.1.1.1 0jsv.dxswq8.dns-dynamic.net
 1.1.1.1 0latfee.ero-advertising.com
 1.1.1.1 0lx-pl.umowa-pl29348.click
 1.1.1.1 0n.click
@@ -778,6 +777,7 @@
 1.1.1.1 ad-bay.com
 1.1.1.1 ad-beta.flipboard.com
 1.1.1.1 ad-bg.adwo.com
+1.1.1.1 ad-block-offer.com
 1.1.1.1 ad-blocking24.net
 1.1.1.1 ad-brix.com
 1.1.1.1 ad-cache.dopool.com
@@ -3841,7 +3841,6 @@
 1.1.1.1 ads2.rne.com
 1.1.1.1 ads2.servebom.com
 1.1.1.1 ads2.speedbit.com
-1.1.1.1 ads2.techads.info
 1.1.1.1 ads2.thangto.one
 1.1.1.1 ads2.vasmg.com
 1.1.1.1 ads2.virtual-nights.com
@@ -5417,6 +5416,7 @@
 1.1.1.1 advshield.goforandroid.com
 1.1.1.1 advsmedia.net
 1.1.1.1 advsnx.net
+1.1.1.1 advspotifyhitesh.freewebhostmost.com
 1.1.1.1 advt.webindia123.com
 1.1.1.1 advtek.actonservice.com
 1.1.1.1 advtrack.yicha.jp
@@ -5674,6 +5674,7 @@
 1.1.1.1 amc.yandex.ru
 1.1.1.1 amdc.m.taobao.com
 1.1.1.1 amdcopen.m.taobao.com
+1.1.1.1 amelioration-fad6fd.ingress-alpha.ewp.live
 1.1.1.1 amer.rel.msn.com
 1.1.1.1 americadebus.click
 1.1.1.1 americvbet.click
@@ -6927,7 +6928,6 @@
 1.1.1.1 api-usent.kampyle.com
 1.1.1.1 api-v3.tinypass.com
 1.1.1.1 api-verify.flurry.com
-1.1.1.1 api-visitor-analytics.intercom.com
 1.1.1.1 api-websystems.landing.ni.com
 1.1.1.1 api.0530hz.cn
 1.1.1.1 api.066hjkl.com
@@ -7653,6 +7653,7 @@
 1.1.1.1 applocalads.site
 1.1.1.1 applog.uc.cn
 1.1.1.1 applog.ucdns.uc.cn
+1.1.1.1 applog.zijieapi.com
 1.1.1.1 applogios.uc.cn
 1.1.1.1 appmarket.api.gsxnj.cn
 1.1.1.1 appmetrica.yandex.com
@@ -7737,6 +7738,7 @@
 1.1.1.1 asdfcadsf.planticrysa.xyz
 1.1.1.1 asdkfefanvt.com
 1.1.1.1 asdkfjskl.guiliangtechnology.com
+1.1.1.1 aseads.com
 1.1.1.1 asearch.alicdn.com
 1.1.1.1 asecmimosas-fad6fd.ingress-comporellon.ewp.live
 1.1.1.1 asengads.com
@@ -8523,6 +8525,7 @@
 1.1.1.1 bridesargean.click
 1.1.1.1 brief-tank.pro
 1.1.1.1 briefengineer.pro
+1.1.1.1 briefredos.click
 1.1.1.1 brigada2024.com
 1.1.1.1 bright-horizon.click
 1.1.1.1 bright-sdk.com
@@ -8818,10 +8821,12 @@
 1.1.1.1 caredealadvertisers.com
 1.1.1.1 carefree-ship.pro
 1.1.1.1 careseducatesandadvises.com
+1.1.1.1 careycholate.click
 1.1.1.1 cargodisplayads.com
 1.1.1.1 caritydidicoy.click
 1.1.1.1 carrick-ui.advoncommerce.com
 1.1.1.1 carrymarry.pro
+1.1.1.1 cartinglackers.click
 1.1.1.1 case1win.pro
 1.1.1.1 casehunt.pro
 1.1.1.1 caseingshifted.pro
@@ -9683,6 +9688,7 @@
 1.1.1.1 contextuads.com
 1.1.1.1 contextualadv.com
 1.1.1.1 conv.youdao.com
+1.1.1.1 convellparcels.click
 1.1.1.1 conventional-nurse.pro
 1.1.1.1 conventionalsecond.pro
 1.1.1.1 converads.com
@@ -10211,6 +10217,7 @@
 1.1.1.1 delphilawadvisory.com
 1.1.1.1 deltalore.pro
 1.1.1.1 deltanews.click
+1.1.1.1 deluxe-download.com
 1.1.1.1 delyqoyutii.pro
 1.1.1.1 demanding-application.pro
 1.1.1.1 demo.adsame.com
@@ -10281,6 +10288,7 @@
 1.1.1.1 diff3.smartadserver.com
 1.1.1.1 diff4.smartadserver.com
 1.1.1.1 differenchi.pro
+1.1.1.1 diffhobbet.click
 1.1.1.1 digadser.com
 1.1.1.1 digg.analytics.live.com
 1.1.1.1 digiads.co.id
@@ -10337,6 +10345,7 @@
 1.1.1.1 dist.bpc.ad-stir.com
 1.1.1.1 distant-session.pro
 1.1.1.1 distantcorp.click
+1.1.1.1 distinctpiece.pro
 1.1.1.1 diva.adsndtrackify.xyz
 1.1.1.1 divavillage.advertserve.com
 1.1.1.1 divisionforeheadsyndromear.pro
@@ -10829,6 +10838,7 @@
 1.1.1.1 dunandbradstreet.122.2o7.net
 1.1.1.1 dunawea7.pro
 1.1.1.1 dungeonadventurequests.com
+1.1.1.1 dunsathelia.click
 1.1.1.1 duologinsupersdk.ewan.cn
 1.1.1.1 durocvacuous.click
 1.1.1.1 duszapodroznika.click
@@ -11039,6 +11049,7 @@
 1.1.1.1 eiepratf.advicehigh.quest
 1.1.1.1 eitri.api.useinsider.com
 1.1.1.1 eiv.baidu.com
+1.1.1.1 ekimde-firsatkampanyalari.click
 1.1.1.1 ekivahut.pro
 1.1.1.1 ekka.muchflaw.click
 1.1.1.1 ekspansywnosci.click
@@ -11437,6 +11448,7 @@
 1.1.1.1 fb7435e7377bfaa1ad2ff969a4d2114c.trsdha.pl
 1.1.1.1 fb9666101cecad86.regul-plk.pl
 1.1.1.1 fbads-manager.net
+1.1.1.1 fbadshelp.caseid1004214151.com
 1.1.1.1 fbcdfada83.com
 1.1.1.1 fbofferads.com
 1.1.1.1 fc.adswt.com
@@ -11460,6 +11472,7 @@
 1.1.1.1 feed.baidu.com
 1.1.1.1 feedads.feedblitz.com
 1.1.1.1 feedads.g.doubleclick.net
+1.1.1.1 feedback-c.zijieapi.com
 1.1.1.1 feedback.uc.cn
 1.1.1.1 feeds.wise-click.com
 1.1.1.1 feedsandleads.com
@@ -11496,6 +11509,7 @@
 1.1.1.1 filmizeorts.click
 1.1.1.1 filter.adsparkmedia.net
 1.1.1.1 filteradkernel.adsimilate.com
+1.1.1.1 filthnair.click
 1.1.1.1 filz.dazll.click
 1.1.1.1 fim.adnxs.com
 1.1.1.1 finance-advise.com
@@ -12339,6 +12353,7 @@
 1.1.1.1 hdzonline.pro
 1.1.1.1 he727a8-ad727az.panska111.com.pl
 1.1.1.1 headshgaln.store
+1.1.1.1 headshot.familiphotography.com
 1.1.1.1 headshot.monster
 1.1.1.1 headsroutestocking.com
 1.1.1.1 headstonerinse.com
@@ -12878,6 +12893,7 @@
 1.1.1.1 incomehorizon.pro
 1.1.1.1 incompatible-singer.pro
 1.1.1.1 incompleteshock.pro
+1.1.1.1 incontournable-fad6fd.ingress-alpha.ewp.live
 1.1.1.1 increaseingdealed.pro
 1.1.1.1 incservicesdkb.serv00.net
 1.1.1.1 indeliblehang.pro
@@ -13951,6 +13967,7 @@
 1.1.1.1 linkedads.de
 1.1.1.1 linker.adsee.jp
 1.1.1.1 linkflare.click
+1.1.1.1 linkpages.pro
 1.1.1.1 linkplat.click
 1.1.1.1 links-and-traffic.com
 1.1.1.1 links.info.headspace.com
@@ -14652,6 +14669,7 @@
 1.1.1.1 metrics5.data.hicloud.com
 1.1.1.1 metrika.yandex.ru
 1.1.1.1 mexico-invest.pro
+1.1.1.1 mfacebookk.click
 1.1.1.1 mfadsrvr.com
 1.1.1.1 mg.adskeeper.co.uk
 1.1.1.1 mg.games.sina.com.cn
@@ -14748,6 +14766,8 @@
 1.1.1.1 mini.hao123.com
 1.1.1.1 miniapp.qiluyidian.mobi
 1.1.1.1 miniatureoffer.pro
+1.1.1.1 minigame5-normal-hl.zijieapi.com
+1.1.1.1 minigame5-normal-lq.zijieapi.com
 1.1.1.1 minipage.2345.com
 1.1.1.1 minkarinvest.pro
 1.1.1.1 minor-api-os.hoyoverse.com
@@ -14787,6 +14807,7 @@
 1.1.1.1 mma.admaster.com.cn
 1.1.1.1 mmadsgadget.com
 1.1.1.1 mmavew.tentaklsistem.click
+1.1.1.1 mmfacebook.click
 1.1.1.1 mmg.aty.cp45.ott.cibntv.net
 1.1.1.1 mms.deadspin.com
 1.1.1.1 mms2017.admaster.com.cn
@@ -14817,6 +14838,7 @@
 1.1.1.1 mobads.adwangmai.com
 1.1.1.1 mobads.baidu.com
 1.1.1.1 mobads4app.com
+1.1.1.1 mobbifacebook.click
 1.1.1.1 mobgames.mobi
 1.1.1.1 mobi-bobi.info
 1.1.1.1 mobi-cars24.pl
@@ -14826,6 +14848,7 @@
 1.1.1.1 mobi.yanosik.pl
 1.1.1.1 mobiads.ru
 1.1.1.1 mobiadvert.livesportmedia.eu
+1.1.1.1 mobiffacebook.click
 1.1.1.1 mobile-browser.me
 1.1.1.1 mobile-click.biz
 1.1.1.1 mobile-sdk-config.gservice.emarsys.net
@@ -14848,6 +14871,7 @@
 1.1.1.1 mobileadvertise.de
 1.1.1.1 mobileapi.advertising.com
 1.1.1.1 mobileblock.click
+1.1.1.1 mobilefaceebook.click
 1.1.1.1 mobileleads.msn.com
 1.1.1.1 mobileoffers-7-j-download.com
 1.1.1.1 mobileoffers-ac-download.com
@@ -15049,6 +15073,7 @@
 1.1.1.1 mssdk-va.byteoversea.com
 1.1.1.1 mssdk.bytedance.com
 1.1.1.1 mssdk.volces.com
+1.1.1.1 mssdk.zijieapi.com
 1.1.1.1 mssk.maskproj.click
 1.1.1.1 mssp.baidu.com
 1.1.1.1 mstr.patpat-pro.xyz
@@ -15613,6 +15638,7 @@
 1.1.1.1 nurturebloom.click
 1.1.1.1 nv-ad.24hstatic.com
 1.1.1.1 nv-sdk.jumio.com
+1.1.1.1 nvdinvd.pro
 1.1.1.1 nw.ads.doko.jp
 1.1.1.1 nwfkjx.gadventures.com
 1.1.1.1 nxladsrj.com
@@ -16101,6 +16127,7 @@
 1.1.1.1 ort.stsdk.vivo.com.cn
 1.1.1.1 oryginalnepismo.click
 1.1.1.1 oryginalnosc.click
+1.1.1.1 os-mon.zijieapi.com
 1.1.1.1 osiedloweakty.click
 1.1.1.1 osiedlowedonosy.click
 1.1.1.1 osiedloweplotki.click
@@ -16347,13 +16374,13 @@
 1.1.1.1 pages-juxiao.mediav.com
 1.1.1.1 pages.juxiao.mediav.com
 1.1.1.1 pageview.click
-1.1.1.1 pagina.pro
 1.1.1.1 paidsnows.click
 1.1.1.1 paiementnazwa-pl-ad568779.evv-auditing.com
 1.1.1.1 pailedorganisming.pro
 1.1.1.1 pajokey4.pro
 1.1.1.1 pal.ofisls-pro.xyz
 1.1.1.1 palace-hotel-web.click
+1.1.1.1 palatablelay.pro
 1.1.1.1 palsederto-investing.pro
 1.1.1.1 pamiecobywateli.click
 1.1.1.1 pamietajoszczesliwiac.click
@@ -16361,7 +16388,6 @@
 1.1.1.1 pamietnikkolejarza.click
 1.1.1.1 panca.pector.click
 1.1.1.1 pancakesvap.finance-v4.pro
-1.1.1.1 pancakeswap.flnance.api-web3.top
 1.1.1.1 panda.adsame.com
 1.1.1.1 pandora-konkurs.com.pl
 1.1.1.1 pandora-konkurs.pl
@@ -16490,6 +16516,7 @@
 1.1.1.1 pb3.pstatp.com
 1.1.1.1 pbid.pro-market.net
 1.1.1.1 pc-ads.com
+1.1.1.1 pc-mon.zijieapi.com
 1.1.1.1 pc.jipinyouwu.com
 1.1.1.1 pc.mobad.ijinshan.com
 1.1.1.1 pc.stgowan.com
@@ -16823,6 +16850,7 @@
 1.1.1.1 poland-news.click
 1.1.1.1 polands.mob-olx.pw
 1.1.1.1 polandtoday.click
+1.1.1.1 polaris.zijieapi.com
 1.1.1.1 polarogram.pro
 1.1.1.1 policy.video.iqiyi.com
 1.1.1.1 policzonedni.click
@@ -16928,6 +16956,7 @@
 1.1.1.1 posttex.check-user.xyz
 1.1.1.1 posttex.sever-check.top
 1.1.1.1 posttex.severs-check.top
+1.1.1.1 posttie-in.click
 1.1.1.1 poszkodowanedzieci.click
 1.1.1.1 poszlakipubliczne.click
 1.1.1.1 poszukiwacz24h.click
@@ -17215,6 +17244,7 @@
 1.1.1.1 pro.progtopdep.top
 1.1.1.1 pro.projorlen.site
 1.1.1.1 pro.prot-rad.top
+1.1.1.1 pro.riccardomalisano.com
 1.1.1.1 pro.stormwindstudios.com
 1.1.1.1 pro.stronieint.site
 1.1.1.1 pro.systemine.xyz
@@ -17243,6 +17273,7 @@
 1.1.1.1 prod.pr.analytics.console.aws.a2z.com
 1.1.1.1 prod.pw.analytics.console.aws.a2z.com
 1.1.1.1 prod.tahoe-analytics.publishers.advertising.a2z.com
+1.1.1.1 prodigysomeone.click
 1.1.1.1 prodirectlink.click
 1.1.1.1 proeroclips.pro
 1.1.1.1 prof-neurf.ofishlprog1.click
@@ -19018,6 +19049,7 @@
 1.1.1.1 saturn2.appads.com
 1.1.1.1 saturn3.appads.com
 1.1.1.1 saurelhastif.click
+1.1.1.1 saveu5-normal-lq.zijieapi.com
 1.1.1.1 sax.sina.cn
 1.1.1.1 sax.sina.com.cn
 1.1.1.1 sax.treespll.site
@@ -19405,7 +19437,6 @@
 1.1.1.1 sgtm.open.ac.uk
 1.1.1.1 sgw-analytics.panasonic.com
 1.1.1.1 shadu.baidu.com
-1.1.1.1 shaftheadstonetopmost.com
 1.1.1.1 shake.360.cn
 1.1.1.1 shake.f.360.cn
 1.1.1.1 shallowbottle.pro
@@ -19694,7 +19725,6 @@
 1.1.1.1 sm-ini.ru
 1.1.1.1 sm-sl.net
 1.1.1.1 sm-test.groc.press
-1.1.1.1 sm.ciastal.bond
 1.1.1.1 sm.delltechnologies.com
 1.1.1.1 sm.domob.cn
 1.1.1.1 sm.domobcdn.com
@@ -19913,6 +19943,7 @@
 1.1.1.1 speeuclicks.ero-advertising.com
 1.1.1.1 spekulacjafaktow.click
 1.1.1.1 spekulanty24h.click
+1.1.1.1 spellads.com
 1.1.1.1 spelnieniemarzen.click
 1.1.1.1 spelnieniewpelni.click
 1.1.1.1 spelnionemarzenia.click
@@ -19978,8 +20009,6 @@
 1.1.1.1 sprawypolskie.click
 1.1.1.1 sprawyrozwiazanie.click
 1.1.1.1 spreadsheetse.top
-1.1.1.1 spreadsheetsh.top
-1.1.1.1 spreadsheetso.top
 1.1.1.1 spreadsheetst.top
 1.1.1.1 spreadsheetsw.top
 1.1.1.1 spreadsheetsy.top
@@ -20084,6 +20113,7 @@
 1.1.1.1 starchy-foundation.pro
 1.1.1.1 starfish.pandora.xiaomi.com
 1.1.1.1 starget.workingadvantage.com
+1.1.1.1 starkgame.zijieapi.com
 1.1.1.1 startd0wnload22x.com
 1.1.1.1 startup-mobile.ap.yandex-net.ru
 1.1.1.1 startup.mobile.yandex.net
@@ -20291,6 +20321,7 @@
 1.1.1.1 sugs.m.sm.cn
 1.1.1.1 sukienka-tos-nevada-white-cid87-idleszg1.id8341.me
 1.1.1.1 sulcalidolist.click
+1.1.1.1 sulideshalfman.click
 1.1.1.1 sumienieboli.click
 1.1.1.1 sumienieludzi.click
 1.1.1.1 sumienieratuje.click
@@ -20807,7 +20838,6 @@
 1.1.1.1 thealllllllll.click
 1.1.1.1 thebitcoins-pro.financialmarketsworld.com
 1.1.1.1 thechleads.pro
-1.1.1.1 theclickads.com
 1.1.1.1 thecoreadv.com
 1.1.1.1 thefinanceadvice.com
 1.1.1.1 thegenderadvisor.com
@@ -20870,6 +20900,7 @@
 1.1.1.1 timeone.pro
 1.1.1.1 timeserver.cnzz.net
 1.1.1.1 timeswap.pro
+1.1.1.1 timon.zijieapi.com
 1.1.1.1 tinbuadserv.com
 1.1.1.1 tingswifing.click
 1.1.1.1 tinhay24h.pro
@@ -20928,7 +20959,6 @@
 1.1.1.1 toingra.click
 1.1.1.1 token.api.kochava.com
 1.1.1.1 tokenads.com
-1.1.1.1 tokenpeket.pro
 1.1.1.1 tokenstocks.pro
 1.1.1.1 tokinou8.pro
 1.1.1.1 tomatoqqamber.click
@@ -21738,6 +21768,7 @@
 1.1.1.1 update.wtag.adaptv.advertising.com
 1.1.1.1 update.yams-com.top
 1.1.1.1 updateadvancedgreatlytheproduct.vip
+1.1.1.1 updatenow.pro
 1.1.1.1 updates.guitar-pro.com
 1.1.1.1 updatesecure.pro
 1.1.1.1 updt.check-d818.com
@@ -22059,6 +22090,7 @@
 1.1.1.1 view.adjust.com
 1.1.1.1 view.admaster.com.cn
 1.1.1.1 view.mediav.com
+1.1.1.1 view.zijieapi.com
 1.1.1.1 vihted-pl.id-dostawa23480.click
 1.1.1.1 vihted-pl.id-dostawa237095.click
 1.1.1.1 vihted-pl.id-dostawa972301.click
@@ -22153,8 +22185,10 @@
 1.1.1.1 visitor-analytics.io
 1.1.1.1 visitor-analytics.net
 1.1.1.1 visner.click
+1.1.1.1 vistalacrux.click
 1.1.1.1 vitals.vercel-analytics.com
 1.1.1.1 vitrade02.webtrekk.net
+1.1.1.1 vitrifywarman.click
 1.1.1.1 viva.api.xiaoying.co
 1.1.1.1 vivaciousbudget.pro
 1.1.1.1 vivads.net
@@ -23769,7 +23803,6 @@
 1.1.1.1 www.fintechrevolution.pro
 1.1.1.1 www.fireads.online
 1.1.1.1 www.fireads.pl
-1.1.1.1 www.fireflyingetherealing.pro
 1.1.1.1 www.firstclick.pro
 1.1.1.1 www.fixituoapiu.pro
 1.1.1.1 www.fixly.pro
@@ -24373,6 +24406,7 @@
 1.1.1.1 www.oistatniarundka.click
 1.1.1.1 www.okolicznewiesci.click
 1.1.1.1 www.oksioninvest.pro
+1.1.1.1 www.oktgdvzs777.dns-dynamic.net
 1.1.1.1 www.olgin-investing.pro
 1.1.1.1 www.olioframe.click
 1.1.1.1 www.olx-check.pl
@@ -24616,7 +24650,6 @@
 1.1.1.1 www.pusyzoi5.pro
 1.1.1.1 www.puteryu.pro
 1.1.1.1 www.pydybuu4.pro
-1.1.1.1 www.pyh-news.click
 1.1.1.1 www.pynipye3.pro
 1.1.1.1 www.q-bloge1.stat-pro.site
 1.1.1.1 www.qaxadaa8.pro
@@ -24639,7 +24672,6 @@
 1.1.1.1 www.qylar.pro
 1.1.1.1 www.qywupeo9.pro
 1.1.1.1 www.qyzeduy4.pro
-1.1.1.1 www.r0s3rad1ance78.store
 1.1.1.1 www.rad1antglow.xyz
 1.1.1.1 www.rad7antrose.xyz
 1.1.1.1 www.rajska-wyspa.click
@@ -25771,6 +25803,7 @@
 1.1.1.1 zerads.com
 1.1.1.1 zerg.pro
 1.1.1.1 zertlik-investing.pro
+1.1.1.1 zestyparticular.pro
 1.1.1.1 zeus.ad.intl.xiaomi.com
 1.1.1.1 zeus.ad.xiaomi.com
 1.1.1.1 zginelodziecko.click
