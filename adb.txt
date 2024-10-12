@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: Host 10007
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto 
-! Last modified: 2024-10-11 22:17:48
+! Last modified: 2024-10-12 09:21:43
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 [Host 10007]
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"^
 !在相应行的开头加个"#"号^
-!更新时间: 2024-10-11 22:17:47 ^
+!更新时间: 2024-10-12 09:21:43 ^
 
-!规则数量:25870^
+!规则数量:25880^
 !#################^
 
 ||0.r.msn.com^
@@ -5042,6 +5042,7 @@
 ||advancedoffersapp.com^
 ||advancedoffersapps.com^
 ||advancedpilotacademy.com^
+||advancedreams.net^
 ||advancedsolarpowerltd.com^
 ||advancedsolutions.actonservice.com^
 ||advancedsuperfood.com^
@@ -11219,6 +11220,7 @@
 ||europe.adserver.yahoo.com^
 ||europeadvokat.online^
 ||europeznmm.click^
+||eurorefund.pro^
 ||eurybiont.pro^
 ||euw.adserver.snapads.com^
 ||ev.api.bdg.com^
@@ -14110,6 +14112,7 @@
 ||loose-chemistry.pro^
 ||lootplatform.pro^
 ||lopescore.click^
+||lordballastreduce.pro^
 ||lordfarballast.pro^
 ||lordofads.com^
 ||losowewypadki.click^
@@ -16134,6 +16137,7 @@
 ||out1.cityads.com^
 ||out2.cityads.com^
 ||out3.cityads.com^
+||outboundnomads.com^
 ||outcome-cdn.supersonicads.com^
 ||outcome-ssp.supersonicads.com^
 ||outcome.supersonicads.com^
@@ -22847,6 +22851,7 @@
 ||worst-zone.pro^
 ||worthless-living.pro^
 ||worthlessanxiety.pro^
+||wotaloe7.pro^
 ||wow-click.click^
 ||wow.ero-advertising.com^
 ||woweffect.click^
@@ -23189,6 +23194,7 @@
 ||www.advancedcleaner.com^
 ||www.advanceddentistryofnevada.com^
 ||www.advancedmactools.com^
+||www.advancedreams.net^
 ||www.advancedsoftwaresupport.com^
 ||www.advancedtrades.online^
 ||www.advancemycommission.com^
@@ -23709,6 +23715,7 @@
 ||www.eslnd.click^
 ||www.eternalchow.click^
 ||www.etrade24.site^
+||www.eurorefund.pro^
 ||www.evenroads.online^
 ||www.exactadvertising.com^
 ||www.exclusiveplumbingleads.com^
@@ -24167,6 +24174,7 @@
 ||www.login-ingbank.pl-id19udj1uad1zaidv1iz7a1g78a.com^
 ||www.longtron.click^
 ||www.lookbound.click^
+||www.lordballastreduce.pro^
 ||www.lordfarballast.pro^
 ||www.lottery.ie^
 ||www.lottery.olg.ca^
@@ -24420,6 +24428,7 @@
 ||www.osloginvesting.pro^
 ||www.otikimmowit.click^
 ||www.oustely.pro^
+||www.outboundnomads.com^
 ||www.outofyourdays.click^
 ||www.overcastesdaringed.pro^
 ||www.overcastespillowed.pro^
@@ -25151,6 +25160,7 @@
 ||www.workshopedpapered.pro^
 ||www.workshopedprevalenceed.pro^
 ||www.worldsinvesinshow.click^
+||www.wotaloe7.pro^
 ||www.wow.ero-advertising.com^
 ||www.woweffect.click^
 ||www.wowjest.click^
