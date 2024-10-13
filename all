@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2024-10-12 22:15:16 
+#更新时间: 2024-10-13 09:35:57 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:25947
+#规则数量:25956
 ##################
 
 110.43.121.13 bigota.d.miui.com
@@ -1639,6 +1639,7 @@
 94.140.14.33 ad.yieldmanager.com
 94.140.14.33 ad.yixin.im
 94.140.14.33 ad.yo88.net
+94.140.14.33 ad.yo88.tv
 94.140.14.33 ad.yo88.win
 94.140.14.33 ad.yo88vn.com
 94.140.14.33 ad.yo88vn.vip
@@ -6928,6 +6929,7 @@
 94.140.14.33 api-usent.kampyle.com
 94.140.14.33 api-v3.tinypass.com
 94.140.14.33 api-verify.flurry.com
+94.140.14.33 api-visitor-analytics.intercom.com
 94.140.14.33 api-websystems.landing.ni.com
 94.140.14.33 api.0530hz.cn
 94.140.14.33 api.066hjkl.com
@@ -12656,6 +12658,7 @@
 94.140.14.33 i18q.admaster.com.cn
 94.140.14.33 i4amb9u1wymi.l.adsco.re
 94.140.14.33 i889l.tentaklsistem.click
+94.140.14.33 i9.pro
 94.140.14.33 iab-imp-gateway.supersonicads.com
 94.140.14.33 iad.e.360.cn
 94.140.14.33 iad.g.163.com
@@ -13091,6 +13094,7 @@
 94.140.14.33 inpostpl.zamow44189745.click
 94.140.14.33 inpostpl.zamow576308.click
 94.140.14.33 inpostpl.zamow6476194.click
+94.140.14.33 inpostpol.click
 94.140.14.33 inpostps.click
 94.140.14.33 inposts-uc.top
 94.140.14.33 inposts.pro
@@ -13313,6 +13317,7 @@
 94.140.14.33 jeibpremiumdownloads.com
 94.140.14.33 jelliescroon.click
 94.140.14.33 jellyfish.pandora.xiaomi.com
+94.140.14.33 jelosea0.pro
 94.140.14.33 jenniesache.click
 94.140.14.33 jenno.adsb4all.com
 94.140.14.33 jessicaandryanadventures.com
@@ -15354,6 +15359,7 @@
 94.140.14.33 neeew.pro-activprofit.site
 94.140.14.33 negative-might.pro
 94.140.14.33 neighrewarn.click
+94.140.14.33 nelexiy9.pro
 94.140.14.33 nellads.com
 94.140.14.33 neofield.click
 94.140.14.33 neopositivist.pro
@@ -24066,6 +24072,7 @@
 94.140.14.33 www.inpost.id912831.pro
 94.140.14.33 www.inpost.noon-com.click
 94.140.14.33 www.inpostlogistyka.dns.army
+94.140.14.33 www.inpostpol.click
 94.140.14.33 www.inpostps.click
 94.140.14.33 www.inpostsecure.dns.army
 94.140.14.33 www.inpostt.click
@@ -24101,6 +24108,7 @@
 94.140.14.33 www.jedazea7.pro
 94.140.14.33 www.jedihey2.pro
 94.140.14.33 www.jegon-investing.pro
+94.140.14.33 www.jelosea0.pro
 94.140.14.33 www.jestedrain.click
 94.140.14.33 www.jibubio9.pro
 94.140.14.33 www.jiqoqaaakuu.pro
@@ -24344,6 +24352,7 @@
 94.140.14.33 www.navelingpillowes.pro
 94.140.14.33 www.naviget24.pro
 94.140.14.33 www.needadvertising.com
+94.140.14.33 www.nelexiy9.pro
 94.140.14.33 www.neptuneads.com
 94.140.14.33 www.nesipou5.pro
 94.140.14.33 www.nesuzuo6.pro
