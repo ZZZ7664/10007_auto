@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: Host 10007
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto 
-! Last modified: 2024-10-12 22:15:31
+! Last modified: 2024-10-13 09:35:57
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 [Host 10007]
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"^
 !在相应行的开头加个"#"号^
-!更新时间: 2024-10-12 22:15:31 ^
+!更新时间: 2024-10-13 09:35:57 ^
 
-!规则数量:25913^
+!规则数量:25922^
 !#################^
 
 ||0.r.msn.com^
@@ -1636,6 +1636,7 @@
 ||ad.yieldmanager.com^
 ||ad.yixin.im^
 ||ad.yo88.net^
+||ad.yo88.tv^
 ||ad.yo88.win^
 ||ad.yo88vn.com^
 ||ad.yo88vn.vip^
@@ -6925,6 +6926,7 @@
 ||api-usent.kampyle.com^
 ||api-v3.tinypass.com^
 ||api-verify.flurry.com^
+||api-visitor-analytics.intercom.com^
 ||api-websystems.landing.ni.com^
 ||api.0530hz.cn^
 ||api.066hjkl.com^
@@ -12653,6 +12655,7 @@
 ||i18q.admaster.com.cn^
 ||i4amb9u1wymi.l.adsco.re^
 ||i889l.tentaklsistem.click^
+||i9.pro^
 ||iab-imp-gateway.supersonicads.com^
 ||iad.e.360.cn^
 ||iad.g.163.com^
@@ -13088,6 +13091,7 @@
 ||inpostpl.zamow44189745.click^
 ||inpostpl.zamow576308.click^
 ||inpostpl.zamow6476194.click^
+||inpostpol.click^
 ||inpostps.click^
 ||inposts-uc.top^
 ||inposts.pro^
@@ -13310,6 +13314,7 @@
 ||jeibpremiumdownloads.com^
 ||jelliescroon.click^
 ||jellyfish.pandora.xiaomi.com^
+||jelosea0.pro^
 ||jenniesache.click^
 ||jenno.adsb4all.com^
 ||jessicaandryanadventures.com^
@@ -15351,6 +15356,7 @@
 ||neeew.pro-activprofit.site^
 ||negative-might.pro^
 ||neighrewarn.click^
+||nelexiy9.pro^
 ||nellads.com^
 ||neofield.click^
 ||neopositivist.pro^
@@ -24063,6 +24069,7 @@
 ||www.inpost.id912831.pro^
 ||www.inpost.noon-com.click^
 ||www.inpostlogistyka.dns.army^
+||www.inpostpol.click^
 ||www.inpostps.click^
 ||www.inpostsecure.dns.army^
 ||www.inpostt.click^
@@ -24098,6 +24105,7 @@
 ||www.jedazea7.pro^
 ||www.jedihey2.pro^
 ||www.jegon-investing.pro^
+||www.jelosea0.pro^
 ||www.jestedrain.click^
 ||www.jibubio9.pro^
 ||www.jiqoqaaakuu.pro^
@@ -24341,6 +24349,7 @@
 ||www.navelingpillowes.pro^
 ||www.naviget24.pro^
 ||www.needadvertising.com^
+||www.nelexiy9.pro^
 ||www.neptuneads.com^
 ||www.nesipou5.pro^
 ||www.nesuzuo6.pro^
