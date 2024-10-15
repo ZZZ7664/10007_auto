@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2024-10-15 09:24:59 
+#更新时间: 2024-10-15 16:36:37 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:25977
+#规则数量:26014
 ##################
 
 110.43.121.13 bigota.d.miui.com
@@ -698,10 +698,7 @@
 1.1.1.1 acclaimed-travel.pro
 1.1.1.1 acclog001.shop-pro.jp
 1.1.1.1 acclog002.shop-pro.jp
-1.1.1.1 account-update-amazon-changepassword.yebw2bfps.top
-1.1.1.1 account-update-amazon-gift-card-collection.322565.top
-1.1.1.1 account-update-amazon-gift-card-collection.9d6ihdz43.top
-1.1.1.1 account-update-amazon.322565.top
+1.1.1.1 account-update-amazon-gift-card-collection.09lbiq6ms.top
 1.1.1.1 account.1192360.sitamet.click
 1.1.1.1 account.coordinatoins.click
 1.1.1.1 accountant.trade2022.quest
@@ -733,7 +730,6 @@
 1.1.1.1 active.pro-masters.xyz
 1.1.1.1 active1.pro-masters.xyz
 1.1.1.1 activisioncpgift.pro
-1.1.1.1 activisionpoint.click
 1.1.1.1 activisions.click
 1.1.1.1 activistforeheadsyndromear.pro
 1.1.1.1 activisthedgehoging.pro
@@ -5682,7 +5678,6 @@
 1.1.1.1 amc.yandex.ru
 1.1.1.1 amdc.m.taobao.com
 1.1.1.1 amdcopen.m.taobao.com
-1.1.1.1 amelioration-fad6fd.ingress-alpha.ewp.live
 1.1.1.1 amer.rel.msn.com
 1.1.1.1 americadebus.click
 1.1.1.1 americvbet.click
@@ -6770,6 +6765,7 @@
 1.1.1.1 antenna-apse.ayads.co
 1.1.1.1 antenna-us.ayads.co
 1.1.1.1 antenna.ayads.co
+1.1.1.1 anthrylshoq.click
 1.1.1.1 antispam-pro.us
 1.1.1.1 antispyware.onlinedownloads.org
 1.1.1.1 antithse-fad6fd.ingress-comporellon.ewp.live
@@ -7676,6 +7672,7 @@
 1.1.1.1 apps.ad-x.co.uk
 1.1.1.1 apps.bytesfield.com
 1.1.1.1 apps.haraads.com
+1.1.1.1 appserasa.pro
 1.1.1.1 appshake.adspirit.de
 1.1.1.1 appshelf.ttpsdk.info
 1.1.1.1 appvast.adsafeprotected.com
@@ -7951,7 +7948,6 @@
 1.1.1.1 badserver.org
 1.1.1.1 badshop.pl
 1.1.1.1 badshores.com
-1.1.1.1 badsims.com
 1.1.1.1 badsistems.com
 1.1.1.1 badslopes.com
 1.1.1.1 badspads.com
@@ -7967,6 +7963,7 @@
 1.1.1.1 baidu-mipdx.cn.miaozhen.com
 1.1.1.1 baidu.dsp.tansuotv.com
 1.1.1.1 baidu.greenxf.cn
+1.1.1.1 baidu.honker.inf
 1.1.1.1 baidu.jz5u.net
 1.1.1.1 baiducdncmn-gd.inter.iqiyi.com
 1.1.1.1 baiducdncmn.inter.iqiyi.com
@@ -7977,6 +7974,7 @@
 1.1.1.1 balderspeckle.click
 1.1.1.1 baliadv.com
 1.1.1.1 baliadventurestour.com
+1.1.1.1 ballastfarlord.pro
 1.1.1.1 ballotpedia.pro
 1.1.1.1 balopwe.click
 1.1.1.1 balt1c.b4engalqt3bj.click
@@ -8301,6 +8299,7 @@
 1.1.1.1 bigdata.adsunflower.com
 1.1.1.1 bigdata.advmob.cn
 1.1.1.1 bigdata.sensorbuqnn.pro
+1.1.1.1 bigfootpausers.click
 1.1.1.1 bighorn-advisors.com
 1.1.1.1 bigleads.ru
 1.1.1.1 bigmobileads.com
@@ -8313,6 +8312,7 @@
 1.1.1.1 bingads.microsoft.com
 1.1.1.1 bink.chainverd.click
 1.1.1.1 binoads.ir
+1.1.1.1 biovitality.pro
 1.1.1.1 bipenlir.click
 1.1.1.1 birchist.click
 1.1.1.1 birezuueitt8.pro
@@ -8629,8 +8629,7 @@
 1.1.1.1 business.adsverifyrestrictions.com
 1.1.1.1 business.cleverads.vn
 1.1.1.1 businessandtrading.pro
-1.1.1.1 businesssupport248.mfb72024.click
-1.1.1.1 businesssupports247.mfb72024.click
+1.1.1.1 businesssupport244.mfb72024.click
 1.1.1.1 bussinesispolicysupport.click
 1.1.1.1 bussiness-verify.mobi
 1.1.1.1 bustling-substance.pro
@@ -9196,6 +9195,7 @@
 1.1.1.1 chwilagrozy.click
 1.1.1.1 chyjobopse.pro
 1.1.1.1 chykohija.pro
+1.1.1.1 chyvz-lsdpv.click
 1.1.1.1 cicaryu0.pro
 1.1.1.1 cichasprawa.click
 1.1.1.1 cichyzakatek.click
@@ -9640,6 +9640,7 @@
 1.1.1.1 comfortable-preparation.pro
 1.1.1.1 comfreeads.com
 1.1.1.1 commanzibw.click
+1.1.1.1 commaspoufed.click
 1.1.1.1 commbank-info-update.com
 1.1.1.1 commercial-i30.com
 1.1.1.1 commercial.davey.com
@@ -9829,6 +9830,7 @@
 1.1.1.1 crcdn09.adnxs.com
 1.1.1.1 cre-ads.com
 1.1.1.1 cre.mix.sina.com.cn
+1.1.1.1 creamy-confidence.pro
 1.1.1.1 creative-accelerate.ad.mobiuspace.net
 1.1.1.1 creative-analytics.crossinstall.io
 1.1.1.1 creative.ad131m.com
@@ -9845,6 +9847,7 @@
 1.1.1.1 creditburner.blueadvertise.com
 1.1.1.1 creditcardchase.click
 1.1.1.1 criminalmention.pro
+1.1.1.1 crisisstrends.click
 1.1.1.1 crispads.com
 1.1.1.1 crispadvertising.com
 1.1.1.1 critariatele.pro
@@ -10209,6 +10212,7 @@
 1.1.1.1 defakto.tentaklsistem.click
 1.1.1.1 defcon.pro
 1.1.1.1 degensoft-api.com
+1.1.1.1 deiformnael.click
 1.1.1.1 dejionsite.pro
 1.1.1.1 del1ver-inpomt2644.penwln101.click
 1.1.1.1 del1ver-inpomt2655.glpel98.click
@@ -10241,6 +10245,7 @@
 1.1.1.1 dellvery.dellvery-2345.xyz
 1.1.1.1 dellveryollx3700.cewnts103.click
 1.1.1.1 delphilawadvisory.com
+1.1.1.1 deltadvi.com
 1.1.1.1 deltalore.pro
 1.1.1.1 deltanews.click
 1.1.1.1 deluxe-download.com
@@ -10261,6 +10266,7 @@
 1.1.1.1 depmashine.inventnamb.click
 1.1.1.1 derzhava.click
 1.1.1.1 desb.mspaceads.com
+1.1.1.1 descriptivetitle.pro
 1.1.1.1 designer.dynamic-dns.net
 1.1.1.1 desk.mspaceads.com
 1.1.1.1 destinia-ad.eulerian.net
@@ -10635,6 +10641,7 @@
 1.1.1.1 download.createyournextcustomer.com
 1.1.1.1 download.dackinc.com
 1.1.1.1 download.dnv.com
+1.1.1.1 download.doumaibiji.cn
 1.1.1.1 download.file.co.pl
 1.1.1.1 download.filmfanatic.com
 1.1.1.1 download.forfreeminecraft.com
@@ -10686,6 +10693,7 @@
 1.1.1.1 download.wildcard.applovin.com.edgekey.net
 1.1.1.1 download.withu.fit
 1.1.1.1 download.yesmessenger.com
+1.1.1.1 download.yourfileinfo.com
 1.1.1.1 download.youzu.com
 1.1.1.1 download.ytdownloader.com
 1.1.1.1 download.yuehlia.com
@@ -11094,6 +11102,7 @@
 1.1.1.1 elemaronline.click
 1.1.1.1 elemarworld.click
 1.1.1.1 elemarzone.click
+1.1.1.1 elementary-travel.pro
 1.1.1.1 elementygry.click
 1.1.1.1 elepocial.pro
 1.1.1.1 ell.88kids.mobi
@@ -11181,6 +11190,7 @@
 1.1.1.1 eonads.com
 1.1.1.1 eos-sis.click
 1.1.1.1 eosads.com
+1.1.1.1 eparchpainch.click
 1.1.1.1 eph-adsjutarnji.cdn.sysbee.net
 1.1.1.1 epicgameads.com
 1.1.1.1 epicsacred.pro
@@ -11398,6 +11408,7 @@
 1.1.1.1 facebook-my-share-live-location.000.pe
 1.1.1.1 facebook.check-protect-account.me
 1.1.1.1 facebookane.click
+1.1.1.1 facebookksvn.click
 1.1.1.1 faceit.bitaccept.pro
 1.1.1.1 faceit.eloconnect.pro
 1.1.1.1 faceit.moonupaccept.pro
@@ -12055,12 +12066,14 @@
 1.1.1.1 glsdk.logsss.com
 1.1.1.1 glsfreeads.com
 1.1.1.1 gluco.native-ad.net
+1.1.1.1 gluemankikori.click
 1.1.1.1 gm.gds.mmstat.com
 1.1.1.1 gm.mob.com
 1.1.1.1 gma.alicdn.com
 1.1.1.1 gmad1.xyz
 1.1.1.1 gmads.net
 1.1.1.1 gmaster-pro.com
+1.1.1.1 gmbhadvanceservice.com
 1.1.1.1 gminainfo.click
 1.1.1.1 gminainfo24h.click
 1.1.1.1 gminamieszkancow.click
@@ -12429,7 +12442,6 @@
 1.1.1.1 helpdesksupportads.web.app
 1.1.1.1 helpfulduty.pro
 1.1.1.1 helpinghandsadvocacy.org
-1.1.1.1 helps-ads.top
 1.1.1.1 henson.radsport.pl
 1.1.1.1 hepsiads-bff.hepsiburada.com
 1.1.1.1 hepsiads-gw.hepsiburada.com
@@ -12475,6 +12487,7 @@
 1.1.1.1 hitadsmedia.com
 1.1.1.1 hitman-pro.ru
 1.1.1.1 hittoadv.com
+1.1.1.1 hiurl.click
 1.1.1.1 hivingscope.click
 1.1.1.1 hj67fadszx.appspot.com
 1.1.1.1 hjid.tentaklsistem.click
@@ -12536,6 +12549,7 @@
 1.1.1.1 horoscopeingchestnuted.pro
 1.1.1.1 horoscopeingmuleed.pro
 1.1.1.1 horoscopeingmulees.pro
+1.1.1.1 horrible-career.pro
 1.1.1.1 hortnsiad1lght.xyz
 1.1.1.1 host11.traffic-builders.com
 1.1.1.1 hostage.pro
@@ -12646,6 +12660,7 @@
 1.1.1.1 hybl9bazbc35.pflexads.com
 1.1.1.1 hybrid-prd.ad-prd.s.joyn.de
 1.1.1.1 hybridclient.naiadsystems.com
+1.1.1.1 hymnramoon.click
 1.1.1.1 hype-ads.com
 1.1.1.1 hyperads.gotrackier.com
 1.1.1.1 hypesquads-events.com
@@ -13033,6 +13048,7 @@
 1.1.1.1 ingameads2.gameloft.com
 1.1.1.1 ingamesads.gameloft.com
 1.1.1.1 ingerencjaludzi.click
+1.1.1.1 ingraftmaskins.click
 1.1.1.1 ini.update.360safe.com
 1.1.1.1 inicjacja24h.click
 1.1.1.1 ininmacerad.pro
@@ -13389,6 +13405,7 @@
 1.1.1.1 jmrnews.pro
 1.1.1.1 jnfjwaevc.bdad41f.cn
 1.1.1.1 jnu1usxpndz0.pro
+1.1.1.1 jobleessreport.click
 1.1.1.1 jogatu.perkquestadventures.xyz
 1.1.1.1 join.cityads.com
 1.1.1.1 join.pro-gaming-world.com
@@ -13997,6 +14014,7 @@
 1.1.1.1 lim.ofishlprog1.click
 1.1.1.1 limaemeloadvocacia.com.br
 1.1.1.1 limitbrillianceads.com
+1.1.1.1 limneraminic.click
 1.1.1.1 limonads.net
 1.1.1.1 limonadsources.ru
 1.1.1.1 limuquu0.pro
@@ -15270,6 +15288,7 @@
 1.1.1.1 na61-na62.wagbridge.advertisement.tanx.com
 1.1.1.1 na99.pro
 1.1.1.1 nachosesterraines.pro
+1.1.1.1 nachunscaly.click
 1.1.1.1 nacontent.pro
 1.1.1.1 nad-stage1.ad-stir.com
 1.1.1.1 nad.ad-stir.com
@@ -15522,6 +15541,7 @@
 1.1.1.1 nextmetr1c.click
 1.1.1.1 nextround.click
 1.1.1.1 nextsphere.click
+1.1.1.1 nfgxadlbfzuy.click
 1.1.1.1 nfladvancedmetrics.com
 1.1.1.1 ng3.ads.warnerbros.com
 1.1.1.1 ngads.com
@@ -15601,6 +15621,7 @@
 1.1.1.1 nonadverbial.xyz
 1.1.1.1 nonam.open-sooursee.live
 1.1.1.1 nonsenseadvertising.com
+1.1.1.1 nonuseslandmil.click
 1.1.1.1 normalheart.pro
 1.1.1.1 normyuliczne.click
 1.1.1.1 nota.click
@@ -15835,6 +15856,7 @@
 1.1.1.1 ogromnezasiegi.click
 1.1.1.1 ohbayersbur.pro
 1.1.1.1 oia.zhihu.com
+1.1.1.1 oilbirdsqueaks.click
 1.1.1.1 oilbushes.pro
 1.1.1.1 oilhorizon.pro
 1.1.1.1 oiltrade1.site
@@ -16613,7 +16635,6 @@
 1.1.1.1 performanteads.com
 1.1.1.1 perieratklx.click
 1.1.1.1 permanentadvertisebytes.com
-1.1.1.1 perquisition-fad6fd.ingress-daribow.ewp.live
 1.1.1.1 persgroepadvertising.nl
 1.1.1.1 pertinentadvancedpotter.com
 1.1.1.1 petrovietnam.pro
@@ -16907,6 +16928,7 @@
 1.1.1.1 policy.video.iqiyi.com
 1.1.1.1 policzonedni.click
 1.1.1.1 polimadv.com
+1.1.1.1 polishedwing.pro
 1.1.1.1 poll.open-sooursee.live
 1.1.1.1 pollenshuckles.click
 1.1.1.1 polnesweseday.click
@@ -16991,6 +17013,7 @@
 1.1.1.1 post-corp.me
 1.1.1.1 post-e.pro
 1.1.1.1 post-update-reschedule-canadapost.com
+1.1.1.1 post-update.top
 1.1.1.1 post.update.fbsbx.com
 1.1.1.1 post1.voiceads.cn
 1.1.1.1 posta-rs.pro
@@ -17244,7 +17267,6 @@
 1.1.1.1 pro.activeprov.xyz
 1.1.1.1 pro.activpl-pro.site
 1.1.1.1 pro.asmucol.com
-1.1.1.1 pro.atencioncpdigital.vip
 1.1.1.1 pro.autotrdes.top
 1.1.1.1 pro.baidu.com
 1.1.1.1 pro.bizportal.co.il
@@ -17490,6 +17512,7 @@
 1.1.1.1 pub-0a8192cc52a049549ad4415d85d9c286.r2.dev
 1.1.1.1 pub-0ad66ba6942d4cf69a244656dc92a46c.r2.dev
 1.1.1.1 pub-0ad7b803b06940818f473fe4ca2746fd.r2.dev
+1.1.1.1 pub-0ae61dadb93e41c59c66ee77901c984f.r2.dev
 1.1.1.1 pub-0b316cc45e6a4c88ade025b013d98aee.r2.dev
 1.1.1.1 pub-0c3fe4af774040a4990d7d9a310bad99.r2.dev
 1.1.1.1 pub-0d5ddc9ad1bc4a5a99e80f27804ebf06.r2.dev
@@ -17562,6 +17585,7 @@
 1.1.1.1 pub-25a8ec1666384304ad1688999392f156.r2.dev
 1.1.1.1 pub-25e9d92b2adb46a39f468c524a7b7d08.r2.dev
 1.1.1.1 pub-26240ad62996453d9928d007fc82cb55.r2.dev
+1.1.1.1 pub-267e75099df1409cb8ac9c2adf802a43.r2.dev
 1.1.1.1 pub-268a8f097122433ead5994a86b0fd88a.r2.dev
 1.1.1.1 pub-26ec2888879d43029cdad0cd17ff6dbe.r2.dev
 1.1.1.1 pub-271f8cf435184b4aaad9058343044657.r2.dev
@@ -17820,6 +17844,7 @@
 1.1.1.1 pub-8d69bd06f6ae4566aad08c3d2c9b97d2.r2.dev
 1.1.1.1 pub-8d8bd52e82f647918b3ead7e091b3777.r2.dev
 1.1.1.1 pub-8e3861fe5ad144afa788a0a0f576da05.r2.dev
+1.1.1.1 pub-8e4b33f4badb4569a59ee06d9fd75cca.r2.dev
 1.1.1.1 pub-8e52d0720a2a452cad16f344e3945d4b.r2.dev
 1.1.1.1 pub-8e7157b0700244e6ade8ab30856d76fe.r2.dev
 1.1.1.1 pub-8f6bff40b2ad4b17adcc69f70d758dce.r2.dev
@@ -17854,7 +17879,6 @@
 1.1.1.1 pub-9afc08c605ad48b78948d05cbe618769.r2.dev
 1.1.1.1 pub-9b129287e5844fa0bd78cd2bada076a1.r2.dev
 1.1.1.1 pub-9b64334410eb4aaba09af683b81fad86.r2.dev
-1.1.1.1 pub-9b6dca6dbada4a20a56c09029f06dd14.r2.dev
 1.1.1.1 pub-9b917f780c794ef0841fc8301ad18436.r2.dev
 1.1.1.1 pub-9bc015fbe2b2492f9e16fe4a547adf8a.r2.dev
 1.1.1.1 pub-9be8b72cc1cd4ad58be0eaad828b91e4.r2.dev
@@ -18457,6 +18481,7 @@
 1.1.1.1 redads.biz
 1.1.1.1 reddleops.pro
 1.1.1.1 redenyswallet.click
+1.1.1.1 redfootchiros.click
 1.1.1.1 redfoxleads.com
 1.1.1.1 rediads.com
 1.1.1.1 redir.juicyads.com
@@ -19386,6 +19411,7 @@
 1.1.1.1 semeionedeenh.pro
 1.1.1.1 semiidteik.pro
 1.1.1.1 semilogarith.click
+1.1.1.1 seminalgaudy.click
 1.1.1.1 semolinaingdiplomaes.pro
 1.1.1.1 senioradvertise.com
 1.1.1.1 seniorliving.broadviewseniorliving.org
@@ -20286,6 +20312,7 @@
 1.1.1.1 steam-card50.pro
 1.1.1.1 steamrip.click
 1.1.1.1 steenbergen.web.ero-advertising.com
+1.1.1.1 stemmedgerres.click
 1.1.1.1 stenadewy.pro
 1.1.1.1 stg-data.ads.heytapmobi.com
 1.1.1.1 stgowan.com
@@ -21076,6 +21103,7 @@
 1.1.1.1 tossoffads.com
 1.1.1.1 totalplusharmonynet.click
 1.1.1.1 totalplusitypulseway.click
+1.1.1.1 toto7d-api.store
 1.1.1.1 touched35one.pro
 1.1.1.1 tour.affbuzzads.com
 1.1.1.1 toutiao-frontier.snssdk.com
@@ -21599,7 +21627,6 @@
 1.1.1.1 uads.cc
 1.1.1.1 uads.digital
 1.1.1.1 uads.guru
-1.1.1.1 uads.info
 1.1.1.1 uads.space
 1.1.1.1 uapi.ads.heytapmobi.com
 1.1.1.1 uapi.ads.oppomobile.com
@@ -21763,12 +21790,14 @@
 1.1.1.1 update-billingmembership-prime.work.gd
 1.1.1.1 update-ebill.com
 1.1.1.1 update-expressvpn.com
+1.1.1.1 update-id.info
 1.1.1.1 update-info.centrumconsumer.live
 1.1.1.1 update-information.zzux.com
 1.1.1.1 update-it-now.com
 1.1.1.1 update-java.kit.net
 1.1.1.1 update-mac.com
 1.1.1.1 update-managepymntsupportintlapps.unusa.pk
+1.1.1.1 update-mx.info
 1.1.1.1 update-mxtuelul4gzs-information.line.pm
 1.1.1.1 update-myetherwallet.com
 1.1.1.1 update-net.com
@@ -21782,6 +21811,8 @@
 1.1.1.1 update-security.qhigh.com
 1.1.1.1 update-skype.freehostia.com
 1.1.1.1 update-trackhk.net
+1.1.1.1 update-za.life
+1.1.1.1 update-za.top
 1.1.1.1 update.123juzi.net
 1.1.1.1 update.360safe.com
 1.1.1.1 update.3lift.com
@@ -21834,7 +21865,6 @@
 1.1.1.1 upelnomocnienie.click
 1.1.1.1 upgrade-flash-player.digital
 1.1.1.1 upgrade-ms-home.com
-1.1.1.1 upgrade-your-card.udarkbyte.my.id
 1.1.1.1 upgrade-your-mind.com
 1.1.1.1 upgrade.api.my7v.com
 1.1.1.1 upgrade.mishop.pandora.xiaomi.com
@@ -22079,6 +22109,7 @@
 1.1.1.1 veim.lrswl.com
 1.1.1.1 velenas-verllen-pro.cloud
 1.1.1.1 velocity-invest.pro
+1.1.1.1 veluredcipo.click
 1.1.1.1 vena.native-ad.net
 1.1.1.1 vendorchange.click
 1.1.1.1 vented.newdostawa174295.click
@@ -22564,7 +22595,6 @@
 1.1.1.1 vz-cdn.trafficjunky.net
 1.1.1.1 vz-cdn2.trafficjunky.net
 1.1.1.1 w-dramat.click
-1.1.1.1 w-find.click
 1.1.1.1 w.adsco.re
 1.1.1.1 w.cnzz.com
 1.1.1.1 w.extreme-dm.com
@@ -22851,6 +22881,7 @@
 1.1.1.1 winneradsmedia.com
 1.1.1.1 winsecretary.click
 1.1.1.1 wirtaspin-investing.pro
+1.1.1.1 wirtualaktual.click
 1.1.1.1 wirtualnaczytac.click
 1.1.1.1 wirtualnaonline.click
 1.1.1.1 wirtualnapl.click
@@ -23421,6 +23452,7 @@
 1.1.1.1 www.badb5refl.com
 1.1.1.1 www.badshop.pl
 1.1.1.1 www.badyner-investing.pro
+1.1.1.1 www.ballastfarlord.pro
 1.1.1.1 www.ballotpedia.pro
 1.1.1.1 www.balticpipe.pro
 1.1.1.1 www.ban3ers.ero-advertising.com
@@ -23468,6 +23500,7 @@
 1.1.1.1 www.binarslime.click
 1.1.1.1 www.bingads.microsoft.com
 1.1.1.1 www.bink.chainverd.click
+1.1.1.1 www.biovitality.pro
 1.1.1.1 www.bipenlir.click
 1.1.1.1 www.bitcoin-billionaire-pro.financialmarketsworld.com
 1.1.1.1 www.bitcoinup-pro.com
@@ -23652,6 +23685,7 @@
 1.1.1.1 www.cpro.baidu.com
 1.1.1.1 www.cpro.chatpros.site
 1.1.1.1 www.craftquark.click
+1.1.1.1 www.crisisstrends.click
 1.1.1.1 www.crispads.com
 1.1.1.1 www.crossroadsbluesradio.com
 1.1.1.1 www.cruel-national.pro
@@ -23949,6 +23983,7 @@
 1.1.1.1 www.glod-invest.pro
 1.1.1.1 www.glorian-invest.pro
 1.1.1.1 www.gmads.net
+1.1.1.1 www.gmbhadvanceservice.com
 1.1.1.1 www.go-mob.online
 1.1.1.1 www.goads.pro
 1.1.1.1 www.goconuu1.pro
@@ -24169,6 +24204,7 @@
 1.1.1.1 www.jiqoqaaakuu.pro
 1.1.1.1 www.jizzads.com
 1.1.1.1 www.jnfjwaevc.bdad41f.cn
+1.1.1.1 www.jobleessreport.click
 1.1.1.1 www.jogatu.perkquestadventures.xyz
 1.1.1.1 www.jokdasolon-invest.pro
 1.1.1.1 www.joktauninvest.pro
@@ -25062,6 +25098,7 @@
 1.1.1.1 www.topfinancialadvisorslouisvilleky.com
 1.1.1.1 www.toro.photonads.com
 1.1.1.1 www.toroadvertisingmedia.com
+1.1.1.1 www.toto7d-api.store
 1.1.1.1 www.toveruy1.pro
 1.1.1.1 www.tpsdkmw.pl
 1.1.1.1 www.tpzxji.angelamuc.pro
@@ -25246,6 +25283,7 @@
 1.1.1.1 www.winads.cn
 1.1.1.1 www.windhawkadvisors.com
 1.1.1.1 www.wirtaspin-investing.pro
+1.1.1.1 www.wirtualaktual.click
 1.1.1.1 www.wirtualnaczytac.click
 1.1.1.1 www.wirtualnaonline.click
 1.1.1.1 www.wirtualnapl.click
@@ -25475,7 +25513,6 @@
 1.1.1.1 xacthuc.autoads.asia
 1.1.1.1 xads.codon.vn
 1.1.1.1 xads.joboko.com
-1.1.1.1 xads.one
 1.1.1.1 xads.top
 1.1.1.1 xads.zedo.com
 1.1.1.1 xadsmart.com
