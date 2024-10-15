@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: Host 10007
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto 
-! Last modified: 2024-10-15 09:25:01
+! Last modified: 2024-10-15 16:36:32
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 [Host 10007]
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"^
 !在相应行的开头加个"#"号^
-!更新时间: 2024-10-15 09:25:01 ^
+!更新时间: 2024-10-15 16:36:32 ^
 
-!规则数量:20816^
+!规则数量:20854^
 !#################^
 
 110.43.121.13 bigota.d.miui.com^
@@ -375,10 +375,7 @@
 ||acclaimed-travel.pro^
 ||acclog001.shop-pro.jp^
 ||acclog002.shop-pro.jp^
-||account-update-amazon-changepassword.yebw2bfps.top^
-||account-update-amazon-gift-card-collection.322565.top^
-||account-update-amazon-gift-card-collection.9d6ihdz43.top^
-||account-update-amazon.322565.top^
+||account-update-amazon-gift-card-collection.09lbiq6ms.top^
 ||account.1192360.sitamet.click^
 ||account.coordinatoins.click^
 ||accounts-google.shop^
@@ -405,7 +402,6 @@
 ||active.pro-masters.xyz^
 ||active1.pro-masters.xyz^
 ||activisioncpgift.pro^
-||activisionpoint.click^
 ||activisions.click^
 ||activistforeheadsyndromear.pro^
 ||activisthedgehoging.pro^
@@ -5347,6 +5343,7 @@
 ||anonimowyswiadek.click^
 ||anquan.baidu.com^
 ||antarpamlico.click^
+||anthrylshoq.click^
 ||antispam-pro.us^
 ||antivirus.baidu.com^
 ||antyweb.push-ad.com^
@@ -6229,6 +6226,7 @@
 ||apps-l6kodnac0ehf-update.line.pm^
 ||apps.ad-x.co.uk^
 ||apps.bytesfield.com^
+||appserasa.pro^
 ||appwall.api.airpush.com^
 ||apt-ice.pro^
 ||aquaflowcam.click^
@@ -6411,6 +6409,7 @@
 ||baidu-mipdx.cn.miaozhen.com^
 ||baidu.dsp.tansuotv.com^
 ||baidu.greenxf.cn^
+||baidu.honker.inf^
 ||baidu.jz5u.net^
 ||baiducdncmn-gd.inter.iqiyi.com^
 ||baiducdncmn.inter.iqiyi.com^
@@ -6421,6 +6420,7 @@
 ||balderspeckle.click^
 ||baliadv.com^
 ||baliadventurestour.com^
+||ballastfarlord.pro^
 ||ballotpedia.pro^
 ||balopwe.click^
 ||balt1c.b4engalqt3bj.click^
@@ -6694,12 +6694,14 @@
 ||big-bang-ads.com^
 ||bigdata.advmob.cn^
 ||bigdata.sensorbuqnn.pro^
+||bigfootpausers.click^
 ||bighorn-advisors.com^
 ||bikhdeicide.click^
 ||bikol.lixprog.click^
 ||bin5y4muil.execute-api.us-east-1.amazonaws.com^
 ||binarslime.click^
 ||bink.chainverd.click^
+||biovitality.pro^
 ||bipenlir.click^
 ||birchist.click^
 ||birezuueitt8.pro^
@@ -6951,8 +6953,7 @@
 ||business-verify.pro^
 ||business.ads-fanpage-center.com^
 ||businessandtrading.pro^
-||businesssupport248.mfb72024.click^
-||businesssupports247.mfb72024.click^
+||businesssupport244.mfb72024.click^
 ||bussinesispolicysupport.click^
 ||bussiness-verify.mobi^
 ||bustling-substance.pro^
@@ -7411,6 +7412,7 @@
 ||chwilagrozy.click^
 ||chyjobopse.pro^
 ||chykohija.pro^
+||chyvz-lsdpv.click^
 ||cicaryu0.pro^
 ||cichasprawa.click^
 ||cichyzakatek.click^
@@ -7799,6 +7801,7 @@
 ||cometosomesense.pro^
 ||comfortable-preparation.pro^
 ||commanzibw.click^
+||commaspoufed.click^
 ||commbank-info-update.com^
 ||commercial-i30.com^
 ||commercial.davey.com^
@@ -7946,6 +7949,7 @@
 ||crcdn09.adnxs.com^
 ||cre-ads.com^
 ||cre.mix.sina.com.cn^
+||creamy-confidence.pro^
 ||creative-accelerate.ad.mobiuspace.net^
 ||creative-analytics.crossinstall.io^
 ||creative.mng-ads.com^
@@ -7958,6 +7962,7 @@
 ||creditburner.blueadvertise.com^
 ||creditcardchase.click^
 ||criminalmention.pro^
+||crisisstrends.click^
 ||crispadvertising.com^
 ||critariatele.pro^
 ||critomiron.click^
@@ -8238,6 +8243,7 @@
 ||defakto.tentaklsistem.click^
 ||defcon.pro^
 ||degensoft-api.com^
+||deiformnael.click^
 ||dejionsite.pro^
 ||del1ver-inpomt2644.penwln101.click^
 ||del1ver-inpomt2655.glpel98.click^
@@ -8259,6 +8265,7 @@
 ||dellvery.dellvery-2345.xyz^
 ||dellveryollx3700.cewnts103.click^
 ||delphilawadvisory.com^
+||deltadvi.com^
 ||deltalore.pro^
 ||deltanews.click^
 ||deluxe-download.com^
@@ -8272,6 +8279,7 @@
 ||dephospimtic.pro^
 ||depmashine.inventnamb.click^
 ||derzhava.click^
+||descriptivetitle.pro^
 ||designer.dynamic-dns.net^
 ||destinia-ad.eulerian.net^
 ||desygnowanie.click^
@@ -8604,6 +8612,7 @@
 ||download.createyournextcustomer.com^
 ||download.dackinc.com^
 ||download.dnv.com^
+||download.doumaibiji.cn^
 ||download.file.co.pl^
 ||download.filmfanatic.com^
 ||download.forfreeminecraft.com^
@@ -8655,6 +8664,7 @@
 ||download.wildcard.applovin.com.edgekey.net^
 ||download.withu.fit^
 ||download.yesmessenger.com^
+||download.yourfileinfo.com^
 ||download.youzu.com^
 ||download.ytdownloader.com^
 ||download.yuehlia.com^
@@ -8969,6 +8979,7 @@
 ||elemaronline.click^
 ||elemarworld.click^
 ||elemarzone.click^
+||elementary-travel.pro^
 ||elementygry.click^
 ||elepocial.pro^
 ||ell.88kids.mobi^
@@ -9040,6 +9051,7 @@
 ||envoyflaps.click^
 ||eobuwie.click^
 ||eos-sis.click^
+||eparchpainch.click^
 ||eph-adsjutarnji.cdn.sysbee.net^
 ||epicsacred.pro^
 ||epicsambari.click^
@@ -9200,6 +9212,7 @@
 ||facebook-my-share-live-location.000.pe^
 ||facebook.check-protect-account.me^
 ||facebookane.click^
+||facebookksvn.click^
 ||faceit.bitaccept.pro^
 ||faceit.eloconnect.pro^
 ||faceit.moonupaccept.pro^
@@ -9718,10 +9731,12 @@
 ||glownewydanie.click^
 ||glp.oqlf.pro^
 ||gluco.native-ad.net^
+||gluemankikori.click^
 ||gm.gds.mmstat.com^
 ||gm.mob.com^
 ||gma.alicdn.com^
 ||gmaster-pro.com^
+||gmbhadvanceservice.com^
 ||gminainfo.click^
 ||gminainfo24h.click^
 ||gminamieszkancow.click^
@@ -10015,7 +10030,6 @@
 ||helpcenter-open-cases-appeal.vercel.app^
 ||helpfulduty.pro^
 ||helpinghandsadvocacy.org^
-||helps-ads.top^
 ||hermes.hupu.com^
 ||hexagon-analytics.com^
 ||hexovythi.pro^
@@ -10039,6 +10053,7 @@
 ||hit.api.useinsider.com^
 ||hitman-pro.ru^
 ||hittoadv.com^
+||hiurl.click^
 ||hivingscope.click^
 ||hjid.tentaklsistem.click^
 ||hk.napi.ucweb.com^
@@ -10079,6 +10094,7 @@
 ||horoscopeingchestnuted.pro^
 ||horoscopeingmuleed.pro^
 ||horoscopeingmulees.pro^
+||horrible-career.pro^
 ||host11.traffic-builders.com^
 ||hostage.pro^
 ||hosting2019336.online.pro^
@@ -10169,6 +10185,7 @@
 ||hw-cdn2.trafficjunky.net^
 ||hw-ot-ad.a.yximgs.com^
 ||hybrid-prd.ad-prd.s.joyn.de^
+||hymnramoon.click^
 ||hype-ads.com^
 ||hypochloridtilz.click^
 ||hyrewusha.pro^
@@ -10460,6 +10477,7 @@
 ||infowypadki24h.click^
 ||infozdrogi.click^
 ||ingerencjaludzi.click^
+||ingraftmaskins.click^
 ||ini.update.360safe.com^
 ||inicjacja24h.click^
 ||ininmacerad.pro^
@@ -10754,6 +10772,7 @@
 ||jmk1uttboek0.pro^
 ||jmrnews.pro^
 ||jnu1usxpndz0.pro^
+||jobleessreport.click^
 ||jogatu.perkquestadventures.xyz^
 ||join.pro-gaming-world.com^
 ||join.top-invst.click^
@@ -11208,6 +11227,7 @@
 ||lilypiu3.pro^
 ||lim.ofishlprog1.click^
 ||limaemeloadvocacia.com.br^
+||limneraminic.click^
 ||limuquu0.pro^
 ||lin.open-sooursee.live^
 ||link-access.sup-api-app.com^
@@ -12294,6 +12314,7 @@
 ||na61-na62.wagbridge.advertisement.tanx.com^
 ||na99.pro^
 ||nachosesterraines.pro^
+||nachunscaly.click^
 ||nacontent.pro^
 ||nad-stage1.ad-stir.com^
 ||nad.ad-stir.com^
@@ -12492,6 +12513,7 @@
 ||nextmetr1c.click^
 ||nextround.click^
 ||nextsphere.click^
+||nfgxadlbfzuy.click^
 ||nfladvancedmetrics.com^
 ||ng3.ads.warnerbros.com^
 ||ngc1.nsm-corp.com^
@@ -12556,6 +12578,7 @@
 ||nonadverbial.xyz^
 ||nonam.open-sooursee.live^
 ||nonsenseadvertising.com^
+||nonuseslandmil.click^
 ||normalheart.pro^
 ||normyuliczne.click^
 ||nota.click^
@@ -12755,6 +12778,7 @@
 ||ogromnezasiegi.click^
 ||ohbayersbur.pro^
 ||oia.zhihu.com^
+||oilbirdsqueaks.click^
 ||oilbushes.pro^
 ||oilhorizon.pro^
 ||oistatniarundka.click^
@@ -13668,6 +13692,7 @@
 ||policy.video.iqiyi.com^
 ||policzonedni.click^
 ||polimadv.com^
+||polishedwing.pro^
 ||poll.open-sooursee.live^
 ||pollenshuckles.click^
 ||polnesweseday.click^
@@ -13738,6 +13763,7 @@
 ||post-corp.me^
 ||post-e.pro^
 ||post-update-reschedule-canadapost.com^
+||post-update.top^
 ||post.update.fbsbx.com^
 ||post1.voiceads.cn^
 ||posta-rs.pro^
@@ -13980,7 +14006,6 @@
 ||pro.activeprov.xyz^
 ||pro.activpl-pro.site^
 ||pro.asmucol.com^
-||pro.atencioncpdigital.vip^
 ||pro.autotrdes.top^
 ||pro.baidu.com^
 ||pro.bizportal.co.il^
@@ -14437,6 +14462,7 @@
 ||recv.tbs.co.jp^
 ||reddleops.pro^
 ||redenyswallet.click^
+||redfootchiros.click^
 ||redirect.advconversion.com^
 ||redirect.ero-advertising.com^
 ||redirect.simba.taobao.com^
@@ -15211,6 +15237,7 @@
 ||semeionedeenh.pro^
 ||semiidteik.pro^
 ||semilogarith.click^
+||seminalgaudy.click^
 ||semolinaingdiplomaes.pro^
 ||senioradvertise.com^
 ||seniorliving.broadviewseniorliving.org^
@@ -15966,6 +15993,7 @@
 ||steam-card50.pro^
 ||steamrip.click^
 ||steenbergen.web.ero-advertising.com^
+||stemmedgerres.click^
 ||stenadewy.pro^
 ||stg-data.ads.heytapmobi.com^
 ||stgowan.com^
@@ -16620,6 +16648,7 @@
 ||tosafakty523.click^
 ||totalplusharmonynet.click^
 ||totalplusitypulseway.click^
+||toto7d-api.store^
 ||touched35one.pro^
 ||toutiao-frontier.snssdk.com^
 ||toutiao.2haha.com^
@@ -17047,7 +17076,6 @@
 ||uads.cc^
 ||uads.digital^
 ||uads.guru^
-||uads.info^
 ||uads.space^
 ||uapi.ads.heytapmobi.com^
 ||uapi.ads.oppomobile.com^
@@ -17193,12 +17221,14 @@
 ||update-billingmembership-prime.work.gd^
 ||update-ebill.com^
 ||update-expressvpn.com^
+||update-id.info^
 ||update-info.centrumconsumer.live^
 ||update-information.zzux.com^
 ||update-it-now.com^
 ||update-java.kit.net^
 ||update-mac.com^
 ||update-managepymntsupportintlapps.unusa.pk^
+||update-mx.info^
 ||update-mxtuelul4gzs-information.line.pm^
 ||update-myetherwallet.com^
 ||update-net.com^
@@ -17212,6 +17242,8 @@
 ||update-security.qhigh.com^
 ||update-skype.freehostia.com^
 ||update-trackhk.net^
+||update-za.life^
+||update-za.top^
 ||update.123juzi.net^
 ||update.360safe.com^
 ||update.3lift.com^
@@ -17264,7 +17296,6 @@
 ||upelnomocnienie.click^
 ||upgrade-flash-player.digital^
 ||upgrade-ms-home.com^
-||upgrade-your-card.udarkbyte.my.id^
 ||upgrade-your-mind.com^
 ||upgrade.api.my7v.com^
 ||upgrade.mishop.pandora.xiaomi.com^
@@ -17470,6 +17501,7 @@
 ||veim.lrswl.com^
 ||velenas-verllen-pro.cloud^
 ||velocity-invest.pro^
+||veluredcipo.click^
 ||vena.native-ad.net^
 ||vendorchange.click^
 ||vented.newdostawa174295.click^
@@ -17917,7 +17949,6 @@
 ||vz-cdn.trafficjunky.net^
 ||vz-cdn2.trafficjunky.net^
 ||w-dramat.click^
-||w-find.click^
 ||w.cnzz.com^
 ||w.extreme-dm.com^
 ||w.gdown.baidu.com^
@@ -18160,6 +18191,7 @@
 ||winitnow.mobi^
 ||winsecretary.click^
 ||wirtaspin-investing.pro^
+||wirtualaktual.click^
 ||wirtualnaczytac.click^
 ||wirtualnaonline.click^
 ||wirtualnapl.click^
@@ -18614,6 +18646,7 @@
 ||www.b8358c79.google-comsearchclientfirefoxqtranslate.pages.dev^
 ||www.badalekor-investing.pro^
 ||www.badyner-investing.pro^
+||www.ballastfarlord.pro^
 ||www.ballotpedia.pro^
 ||www.balticpipe.pro^
 ||www.ban3ers.ero-advertising.com^
@@ -18654,6 +18687,7 @@
 ||www.bighorn-advisors.com^
 ||www.binarslime.click^
 ||www.bink.chainverd.click^
+||www.biovitality.pro^
 ||www.bipenlir.click^
 ||www.bitcoin-billionaire-pro.financialmarketsworld.com^
 ||www.bitcoinup-pro.com^
@@ -18813,6 +18847,7 @@
 ||www.cpro.baidu.com^
 ||www.cpro.chatpros.site^
 ||www.craftquark.click^
+||www.crisisstrends.click^
 ||www.cruel-national.pro^
 ||www.crusadexzes.click^
 ||www.crypto-miner-world.pro^
@@ -19068,6 +19103,7 @@
 ||www.globalinformacje.click^
 ||www.glod-invest.pro^
 ||www.glorian-invest.pro^
+||www.gmbhadvanceservice.com^
 ||www.go-mob.online^
 ||www.goads.pro^
 ||www.goconuu1.pro^
@@ -19254,6 +19290,7 @@
 ||www.jestedrain.click^
 ||www.jibubio9.pro^
 ||www.jiqoqaaakuu.pro^
+||www.jobleessreport.click^
 ||www.jogatu.perkquestadventures.xyz^
 ||www.jokdasolon-invest.pro^
 ||www.joktauninvest.pro^
@@ -20038,6 +20075,7 @@
 ||www.topbiznes.pro^
 ||www.topfinancialadvisorslouisvilleky.com^
 ||www.toroadvertisingmedia.com^
+||www.toto7d-api.store^
 ||www.toveruy1.pro^
 ||www.tpzxji.angelamuc.pro^
 ||www.trace-2000.com^
@@ -20188,6 +20226,7 @@
 ||www.wiki.ero-advertising.com^
 ||www.windhawkadvisors.com^
 ||www.wirtaspin-investing.pro^
+||www.wirtualaktual.click^
 ||www.wirtualnaczytac.click^
 ||www.wirtualnaonline.click^
 ||www.wirtualnapl.click^
@@ -20392,7 +20431,6 @@
 ||x5.xclicks.net^
 ||xads.codon.vn^
 ||xads.joboko.com^
-||xads.one^
 ||xads.top^
 ||xads.zedo.com^
 ||xanthofin.click^
