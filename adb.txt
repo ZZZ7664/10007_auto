@@ -1,14 +1,14 @@
 [Adblock Plus 2.0]
 ! Title: Host 10007
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto 
-! Last modified: 2024-10-16 09:43:06
+! Last modified: 2024-10-16 22:17:51
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 [Host 10007]
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"^
 !在相应行的开头加个"#"号^
-!更新时间: 2024-10-16 09:43:06 ^
+!更新时间: 2024-10-16 22:17:51 ^
 
 !规则数量:20854^
 !#################^
@@ -375,7 +375,6 @@
 ||acclaimed-travel.pro^
 ||acclog001.shop-pro.jp^
 ||acclog002.shop-pro.jp^
-||account-update-amazon-gift-card-collection.09lbiq6ms.top^
 ||account.1192360.sitamet.click^
 ||account.coordinatoins.click^
 ||accounts-google.shop^
@@ -4209,6 +4208,7 @@
 ||alecizeracloir.click^
 ||alenotebook.click^
 ||alexa-mobile-analytics-configuration-prod.s3.amazonaws.com^
+||alfalahadvertising.ae^
 ||ali-ad.a.yximgs.com^
 ||ali-pro-origin-pull.kwai.net.iberostar.com^
 ||ali-pro-pull.kwai.net.iberostar.com^
@@ -5772,6 +5772,7 @@
 ||api.fusepowered.com^
 ||api.fw.tv^
 ||api.fyber.com^
+||api.g3ll3rt.com^
 ||api.gameads.io^
 ||api.gameanalytics.com^
 ||api.gameofwhales.com^
@@ -6226,7 +6227,6 @@
 ||apps-l6kodnac0ehf-update.line.pm^
 ||apps.ad-x.co.uk^
 ||apps.bytesfield.com^
-||appserasa.pro^
 ||appwall.api.airpush.com^
 ||apt-ice.pro^
 ||aquaflowcam.click^
@@ -6953,7 +6953,6 @@
 ||business-verify.pro^
 ||business.ads-fanpage-center.com^
 ||businessandtrading.pro^
-||businesssupport244.mfb72024.click^
 ||bussinesispolicysupport.click^
 ||bussiness-verify.mobi^
 ||bustling-substance.pro^
@@ -7452,7 +7451,6 @@
 ||cl-ad.x-flow.app^
 ||claim-oat.pro^
 ||clanpasta.click^
-||claroi.click^
 ||classicguarantee.pro^
 ||clausing-advies.nl^
 ||clck.yandex.com^
@@ -8628,6 +8626,7 @@
 ||download.ibuzza.net^
 ||download.inboxace.com^
 ||download.innit.com^
+||download.innovare.no^
 ||download.joingofree.com^
 ||download.jword.jp^
 ||download.kesh5.co.il^
@@ -8900,7 +8899,6 @@
 ||easyads28.pro^
 ||easycep.api.useinsider.com^
 ||easydestiny.click^
-||easyhealthadvise.com^
 ||easynews.adsame.com^
 ||easyway2.click^
 ||eatonaero.advancedtech.com^
@@ -9212,7 +9210,6 @@
 ||facebook-my-share-live-location.000.pe^
 ||facebook.check-protect-account.me^
 ||facebookane.click^
-||facebookksvn.click^
 ||faceit.bitaccept.pro^
 ||faceit.eloconnect.pro^
 ||faceit.moonupaccept.pro^
@@ -9220,6 +9217,7 @@
 ||faceit.starsbyte.pro^
 ||facesue8.pro^
 ||facf31c1c8559131d653f3c5ad4ecc78.safeframe.googlesyndication.com^
+||facsbook.click^
 ||fact.mestopoland.pro^
 ||fads.itprojekt.site^
 ||fadverdirect.com^
@@ -10053,7 +10051,6 @@
 ||hit.api.useinsider.com^
 ||hitman-pro.ru^
 ||hittoadv.com^
-||hiurl.click^
 ||hivingscope.click^
 ||hjid.tentaklsistem.click^
 ||hk.napi.ucweb.com^
@@ -10142,6 +10139,7 @@
 ||hs-banner.com^
 ||hsb-corp.com^
 ||hsts.rtb.tamura.ad.dev.nend.net^
+||htadvertisingsupports24hpro876926.com^
 ||httpdns-browser.platform.dbankcloud.cn^
 ||httpdns-push.heytapmobile.com^
 ||httpdns-sdk.n.netease.com^
@@ -11102,6 +11100,7 @@
 ||lampguitardailyes.pro^
 ||lamplightbackwardflightes.pro^
 ||lampofandas.pro^
+||landbot.pro^
 ||landing-page.mobi^
 ||landingpage.emaillpb.adobe.com^
 ||lanzonmotlier.click^
@@ -11136,7 +11135,6 @@
 ||layerads.ero-advertising.com^
 ||layers.ero-advertising.com^
 ||layfik.lixprog.click^
-||lazycaht.pro^
 ||lb-adsdis.mng-ads.com^
 ||lb-adsmob.mng-ads.com^
 ||lb.gtimg.com^
@@ -11154,6 +11152,7 @@
 ||leasepotwort.click^
 ||leatheringwordes.pro^
 ||leczumiaroraz.click^
+||ledger-download-us.com^
 ||ledger.critical-update.com^
 ||ledsitling.pro^
 ||legal-weight.pro^
@@ -12503,6 +12502,7 @@
 ||newsytygodniowe.click^
 ||newtest.wunderman-email.cjm.adobe.com^
 ||newvideoapp.pro^
+||newvideozones.click^
 ||newyearseveadvisor.com^
 ||newyrodyte.click^
 ||nex.163.com^
@@ -12766,6 +12766,7 @@
 ||ofiarywypadkow.click^
 ||oficjalnystan.click^
 ||oflampar.pro^
+||ofsetvideofre.click^
 ||ogladamyvideo.click^
 ||oglaszamywiadomosc.click^
 ||ogloszeniespoleczne.click^
@@ -13302,7 +13303,6 @@
 ||pamietajoszczesliwianiu.click^
 ||pamietnikkolejarza.click^
 ||panca.pector.click^
-||pancakesvap.finance-v4.pro^
 ||panda.adsame.com^
 ||pandora-konkurs.com.pl^
 ||pandora-konkurs.pl^
@@ -14238,6 +14238,7 @@
 ||pups.bdimg.com^
 ||pupur.pro^
 ||pureprofit.click^
+||purolii5.pro^
 ||push-ad.com^
 ||push-api.topaz-analytics.com^
 ||push-news.click^
@@ -14724,6 +14725,7 @@
 ||s.f1.impact-ad.jp^
 ||s.ipinyou.com^
 ||s.lianmeng.360.cn^
+||s.teams-lnv.pro^
 ||s.toutiao.com^
 ||s.union.360.cn^
 ||s.update.3lift.com^
@@ -17326,7 +17328,6 @@
 ||us-east-2.prod.pr.analytics.console.aws.a2z.com^
 ||us-east-ad-track.aralego.com^
 ||us-events.api.iheart.com^
-||us-usps-mi.top^
 ||us-west-2.prod.pr.analytics.console.aws.a2z.com^
 ||us-west-2.stinger-ad.bidr.io^
 ||us.ads.justpremium.com^
@@ -18585,7 +18586,6 @@
 ||www.aicapitalbuilder.pro^
 ||www.aid-ad.jp^
 ||www.aimarketmastery.pro^
-||www.aiwealthwizard.pro^
 ||www.akcja-zakupy.click^
 ||www.akme-club.pro^
 ||www.aktualnefakty.click^
@@ -18603,7 +18603,6 @@
 ||www.analytics.icons8.com^
 ||www.analytics.picsart.com^
 ||www.andlandpoint.pro^
-||www.andradv3nt.sbs^
 ||www.angrovinvest.pro^
 ||www.anikonews.click^
 ||www.anners.ero-advertising.com^
@@ -18971,7 +18970,6 @@
 ||www.email.authenticatoin.click^
 ||www.embraceinnovation.pro^
 ||www.emonitoring-polska.click^
-||www.enchantedevergreen.click^
 ||www.energydrinkadverts.com^
 ||www.energymovethat.click^
 ||www.envoyflaps.click^
@@ -19337,6 +19335,7 @@
 ||www.kynugeo9.pro^
 ||www.l-news.click^
 ||www.lameding-invest.pro^
+||www.landbot.pro^
 ||www.lanzoud.com^
 ||www.lanzous.com^
 ||www.lanzouz.com^
@@ -19764,6 +19763,7 @@
 ||www.publicznewideo.click^
 ||www.pudutyy3.pro^
 ||www.punocoisuc.pro^
+||www.purolii5.pro^
 ||www.pustka-swiat.click^
 ||www.pusyzoi5.pro^
 ||www.puteryu.pro^
@@ -19923,7 +19923,6 @@
 ||www.smtp.ero-advertising.com^
 ||www.smvz-check.com^
 ||www.smyfinancial.com^
-||www.so-invest.pro^
 ||www.socialadvertise.com^
 ||www.softsmart.mobi^
 ||www.softwareadvice.com^
@@ -20085,7 +20084,6 @@
 ||www.traffic-c.com^
 ||www.traffic-on-steroids.com^
 ||www.tragicznedni.click^
-||www.traveladvantagevip.com^
 ||www.traveladvertising.com^
 ||www.trejent.wantaolej.pro^
 ||www.trendyinformacyjne.click^
@@ -20335,6 +20333,7 @@
 ||www.zusepye5.pro^
 ||www.zwariowane-to.click^
 ||www.zww.ero-advertising.com^
+||www.zxcvbnmasdfgh.pro^
 ||www.zycakya3.pro^
 ||www.zyje-czas.click^
 ||www.zykufuu3.pro^
@@ -20844,6 +20843,7 @@
 ||zwrotinformacji.click^
 ||zww.ero-advertising.com^
 ||zwyczajludzi.click^
+||zxcvbnmasdfgh.pro^
 ||zycakya3.pro^
 ||zyciedziecka.click^
 ||zycieisamotnosc.click^

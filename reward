@@ -2,7 +2,7 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2024-10-16 09:43:06 
+#更新时间: 2024-10-16 22:17:51 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
@@ -372,7 +372,6 @@
 127.0.0.1 acclaimed-travel.pro
 127.0.0.1 acclog001.shop-pro.jp
 127.0.0.1 acclog002.shop-pro.jp
-127.0.0.1 account-update-amazon-gift-card-collection.09lbiq6ms.top
 127.0.0.1 account.1192360.sitamet.click
 127.0.0.1 account.coordinatoins.click
 127.0.0.1 accounts-google.shop
@@ -4206,6 +4205,7 @@
 127.0.0.1 alecizeracloir.click
 127.0.0.1 alenotebook.click
 127.0.0.1 alexa-mobile-analytics-configuration-prod.s3.amazonaws.com
+127.0.0.1 alfalahadvertising.ae
 127.0.0.1 ali-ad.a.yximgs.com
 127.0.0.1 ali-pro-origin-pull.kwai.net.iberostar.com
 127.0.0.1 ali-pro-pull.kwai.net.iberostar.com
@@ -5769,6 +5769,7 @@
 127.0.0.1 api.fusepowered.com
 127.0.0.1 api.fw.tv
 127.0.0.1 api.fyber.com
+127.0.0.1 api.g3ll3rt.com
 127.0.0.1 api.gameads.io
 127.0.0.1 api.gameanalytics.com
 127.0.0.1 api.gameofwhales.com
@@ -6223,7 +6224,6 @@
 127.0.0.1 apps-l6kodnac0ehf-update.line.pm
 127.0.0.1 apps.ad-x.co.uk
 127.0.0.1 apps.bytesfield.com
-127.0.0.1 appserasa.pro
 127.0.0.1 appwall.api.airpush.com
 127.0.0.1 apt-ice.pro
 127.0.0.1 aquaflowcam.click
@@ -6950,7 +6950,6 @@
 127.0.0.1 business-verify.pro
 127.0.0.1 business.ads-fanpage-center.com
 127.0.0.1 businessandtrading.pro
-127.0.0.1 businesssupport244.mfb72024.click
 127.0.0.1 bussinesispolicysupport.click
 127.0.0.1 bussiness-verify.mobi
 127.0.0.1 bustling-substance.pro
@@ -7449,7 +7448,6 @@
 127.0.0.1 cl-ad.x-flow.app
 127.0.0.1 claim-oat.pro
 127.0.0.1 clanpasta.click
-127.0.0.1 claroi.click
 127.0.0.1 classicguarantee.pro
 127.0.0.1 clausing-advies.nl
 127.0.0.1 clck.yandex.com
@@ -8625,6 +8623,7 @@
 127.0.0.1 download.ibuzza.net
 127.0.0.1 download.inboxace.com
 127.0.0.1 download.innit.com
+127.0.0.1 download.innovare.no
 127.0.0.1 download.joingofree.com
 127.0.0.1 download.jword.jp
 127.0.0.1 download.kesh5.co.il
@@ -8897,7 +8896,6 @@
 127.0.0.1 easyads28.pro
 127.0.0.1 easycep.api.useinsider.com
 127.0.0.1 easydestiny.click
-127.0.0.1 easyhealthadvise.com
 127.0.0.1 easynews.adsame.com
 127.0.0.1 easyway2.click
 127.0.0.1 eatonaero.advancedtech.com
@@ -9209,7 +9207,6 @@
 127.0.0.1 facebook-my-share-live-location.000.pe
 127.0.0.1 facebook.check-protect-account.me
 127.0.0.1 facebookane.click
-127.0.0.1 facebookksvn.click
 127.0.0.1 faceit.bitaccept.pro
 127.0.0.1 faceit.eloconnect.pro
 127.0.0.1 faceit.moonupaccept.pro
@@ -9217,6 +9214,7 @@
 127.0.0.1 faceit.starsbyte.pro
 127.0.0.1 facesue8.pro
 127.0.0.1 facf31c1c8559131d653f3c5ad4ecc78.safeframe.googlesyndication.com
+127.0.0.1 facsbook.click
 127.0.0.1 fact.mestopoland.pro
 127.0.0.1 fads.itprojekt.site
 127.0.0.1 fadverdirect.com
@@ -10050,7 +10048,6 @@
 127.0.0.1 hit.api.useinsider.com
 127.0.0.1 hitman-pro.ru
 127.0.0.1 hittoadv.com
-127.0.0.1 hiurl.click
 127.0.0.1 hivingscope.click
 127.0.0.1 hjid.tentaklsistem.click
 127.0.0.1 hk.napi.ucweb.com
@@ -10139,6 +10136,7 @@
 127.0.0.1 hs-banner.com
 127.0.0.1 hsb-corp.com
 127.0.0.1 hsts.rtb.tamura.ad.dev.nend.net
+127.0.0.1 htadvertisingsupports24hpro876926.com
 127.0.0.1 httpdns-browser.platform.dbankcloud.cn
 127.0.0.1 httpdns-push.heytapmobile.com
 127.0.0.1 httpdns-sdk.n.netease.com
@@ -11099,6 +11097,7 @@
 127.0.0.1 lampguitardailyes.pro
 127.0.0.1 lamplightbackwardflightes.pro
 127.0.0.1 lampofandas.pro
+127.0.0.1 landbot.pro
 127.0.0.1 landing-page.mobi
 127.0.0.1 landingpage.emaillpb.adobe.com
 127.0.0.1 lanzonmotlier.click
@@ -11133,7 +11132,6 @@
 127.0.0.1 layerads.ero-advertising.com
 127.0.0.1 layers.ero-advertising.com
 127.0.0.1 layfik.lixprog.click
-127.0.0.1 lazycaht.pro
 127.0.0.1 lb-adsdis.mng-ads.com
 127.0.0.1 lb-adsmob.mng-ads.com
 127.0.0.1 lb.gtimg.com
@@ -11151,6 +11149,7 @@
 127.0.0.1 leasepotwort.click
 127.0.0.1 leatheringwordes.pro
 127.0.0.1 leczumiaroraz.click
+127.0.0.1 ledger-download-us.com
 127.0.0.1 ledger.critical-update.com
 127.0.0.1 ledsitling.pro
 127.0.0.1 legal-weight.pro
@@ -12500,6 +12499,7 @@
 127.0.0.1 newsytygodniowe.click
 127.0.0.1 newtest.wunderman-email.cjm.adobe.com
 127.0.0.1 newvideoapp.pro
+127.0.0.1 newvideozones.click
 127.0.0.1 newyearseveadvisor.com
 127.0.0.1 newyrodyte.click
 127.0.0.1 nex.163.com
@@ -12763,6 +12763,7 @@
 127.0.0.1 ofiarywypadkow.click
 127.0.0.1 oficjalnystan.click
 127.0.0.1 oflampar.pro
+127.0.0.1 ofsetvideofre.click
 127.0.0.1 ogladamyvideo.click
 127.0.0.1 oglaszamywiadomosc.click
 127.0.0.1 ogloszeniespoleczne.click
@@ -13299,7 +13300,6 @@
 127.0.0.1 pamietajoszczesliwianiu.click
 127.0.0.1 pamietnikkolejarza.click
 127.0.0.1 panca.pector.click
-127.0.0.1 pancakesvap.finance-v4.pro
 127.0.0.1 panda.adsame.com
 127.0.0.1 pandora-konkurs.com.pl
 127.0.0.1 pandora-konkurs.pl
@@ -14235,6 +14235,7 @@
 127.0.0.1 pups.bdimg.com
 127.0.0.1 pupur.pro
 127.0.0.1 pureprofit.click
+127.0.0.1 purolii5.pro
 127.0.0.1 push-ad.com
 127.0.0.1 push-api.topaz-analytics.com
 127.0.0.1 push-news.click
@@ -14721,6 +14722,7 @@
 127.0.0.1 s.f1.impact-ad.jp
 127.0.0.1 s.ipinyou.com
 127.0.0.1 s.lianmeng.360.cn
+127.0.0.1 s.teams-lnv.pro
 127.0.0.1 s.toutiao.com
 127.0.0.1 s.union.360.cn
 127.0.0.1 s.update.3lift.com
@@ -17323,7 +17325,6 @@
 127.0.0.1 us-east-2.prod.pr.analytics.console.aws.a2z.com
 127.0.0.1 us-east-ad-track.aralego.com
 127.0.0.1 us-events.api.iheart.com
-127.0.0.1 us-usps-mi.top
 127.0.0.1 us-west-2.prod.pr.analytics.console.aws.a2z.com
 127.0.0.1 us-west-2.stinger-ad.bidr.io
 127.0.0.1 us.ads.justpremium.com
@@ -18582,7 +18583,6 @@
 127.0.0.1 www.aicapitalbuilder.pro
 127.0.0.1 www.aid-ad.jp
 127.0.0.1 www.aimarketmastery.pro
-127.0.0.1 www.aiwealthwizard.pro
 127.0.0.1 www.akcja-zakupy.click
 127.0.0.1 www.akme-club.pro
 127.0.0.1 www.aktualnefakty.click
@@ -18600,7 +18600,6 @@
 127.0.0.1 www.analytics.icons8.com
 127.0.0.1 www.analytics.picsart.com
 127.0.0.1 www.andlandpoint.pro
-127.0.0.1 www.andradv3nt.sbs
 127.0.0.1 www.angrovinvest.pro
 127.0.0.1 www.anikonews.click
 127.0.0.1 www.anners.ero-advertising.com
@@ -18968,7 +18967,6 @@
 127.0.0.1 www.email.authenticatoin.click
 127.0.0.1 www.embraceinnovation.pro
 127.0.0.1 www.emonitoring-polska.click
-127.0.0.1 www.enchantedevergreen.click
 127.0.0.1 www.energydrinkadverts.com
 127.0.0.1 www.energymovethat.click
 127.0.0.1 www.envoyflaps.click
@@ -19334,6 +19332,7 @@
 127.0.0.1 www.kynugeo9.pro
 127.0.0.1 www.l-news.click
 127.0.0.1 www.lameding-invest.pro
+127.0.0.1 www.landbot.pro
 127.0.0.1 www.lanzoud.com
 127.0.0.1 www.lanzous.com
 127.0.0.1 www.lanzouz.com
@@ -19761,6 +19760,7 @@
 127.0.0.1 www.publicznewideo.click
 127.0.0.1 www.pudutyy3.pro
 127.0.0.1 www.punocoisuc.pro
+127.0.0.1 www.purolii5.pro
 127.0.0.1 www.pustka-swiat.click
 127.0.0.1 www.pusyzoi5.pro
 127.0.0.1 www.puteryu.pro
@@ -19920,7 +19920,6 @@
 127.0.0.1 www.smtp.ero-advertising.com
 127.0.0.1 www.smvz-check.com
 127.0.0.1 www.smyfinancial.com
-127.0.0.1 www.so-invest.pro
 127.0.0.1 www.socialadvertise.com
 127.0.0.1 www.softsmart.mobi
 127.0.0.1 www.softwareadvice.com
@@ -20082,7 +20081,6 @@
 127.0.0.1 www.traffic-c.com
 127.0.0.1 www.traffic-on-steroids.com
 127.0.0.1 www.tragicznedni.click
-127.0.0.1 www.traveladvantagevip.com
 127.0.0.1 www.traveladvertising.com
 127.0.0.1 www.trejent.wantaolej.pro
 127.0.0.1 www.trendyinformacyjne.click
@@ -20332,6 +20330,7 @@
 127.0.0.1 www.zusepye5.pro
 127.0.0.1 www.zwariowane-to.click
 127.0.0.1 www.zww.ero-advertising.com
+127.0.0.1 www.zxcvbnmasdfgh.pro
 127.0.0.1 www.zycakya3.pro
 127.0.0.1 www.zyje-czas.click
 127.0.0.1 www.zykufuu3.pro
@@ -20841,6 +20840,7 @@
 127.0.0.1 zwrotinformacji.click
 127.0.0.1 zww.ero-advertising.com
 127.0.0.1 zwyczajludzi.click
+127.0.0.1 zxcvbnmasdfgh.pro
 127.0.0.1 zycakya3.pro
 127.0.0.1 zyciedziecka.click
 127.0.0.1 zycieisamotnosc.click
