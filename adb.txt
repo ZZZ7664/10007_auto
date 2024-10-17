@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: Host 10007
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto 
-! Last modified: 2024-10-17 09:24:12
+! Last modified: 2024-10-17 22:18:09
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 [Host 10007]
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"^
 !在相应行的开头加个"#"号^
-!更新时间: 2024-10-17 09:24:12 ^
+!更新时间: 2024-10-17 22:18:09 ^
 
-!规则数量:20854^
+!规则数量:20857^
 !#################^
 
 110.43.121.13 bigota.d.miui.com^
@@ -4285,7 +4285,6 @@
 ||amp-project.pro^
 ||ampliacionesreactiva.solucionesonline.click^
 ||ampliacionesreactiva.viaservicezone.click^
-||ampliacionreativaweb.click^
 ||ams1-ib.adnxs.com^
 ||ams1-mobile.adnxs.com^
 ||ams1.ib.adnxs.com^
@@ -7472,7 +7471,6 @@
 ||click-da-click.com^
 ||click-ext.anxa.com^
 ||click-haproxy.supersonicads.com^
-||click-here-to-continue-37jiusl.gamma.site^
 ||click-here-to-update-now-7c68qaz.gamma.site^
 ||click-here.it^
 ||click-performance.assets.rndtech.de^
@@ -7722,6 +7720,7 @@
 ||cloudsystemscorp.click^
 ||clrpdhptoddatj49.pro^
 ||cluttered-win.pro^
+||clutteredassociate.pro^
 ||clzl.pro^
 ||cm.admaster.com.cn^
 ||cm.api.baifendian.com^
@@ -8386,6 +8385,7 @@
 ||dladventureseekers.info^
 ||dlonzaufania.click^
 ||dlswbr.baidu.com^
+||dlvideosfre.click^
 ||dm-event.net^
 ||dm-hl.toutiao.com^
 ||dm-lq.toutiao.com^
@@ -8480,6 +8480,7 @@
 ||dodatekplus.click^
 ||dodatnibilans.click^
 ||doesbitesizeadvantages.com^
+||doesleadingballast.pro^
 ||dogfuse.pro^
 ||dogodnemysli.click^
 ||dogodnewiadomosci.click^
@@ -8611,6 +8612,8 @@
 ||download.dackinc.com^
 ||download.dnv.com^
 ||download.doumaibiji.cn^
+||download.ebayve.com^
+||download.ebnays.xyz^
 ||download.file.co.pl^
 ||download.filmfanatic.com^
 ||download.forfreeminecraft.com^
@@ -9217,7 +9220,6 @@
 ||faceit.starsbyte.pro^
 ||facesue8.pro^
 ||facf31c1c8559131d653f3c5ad4ecc78.safeframe.googlesyndication.com^
-||facsbook.click^
 ||fact.mestopoland.pro^
 ||fads.itprojekt.site^
 ||fadverdirect.com^
@@ -10599,6 +10601,7 @@
 ||intent.techadvisor.com^
 ||interactivart.pro^
 ||interadv.net^
+||interbeneficiodigital.zonawebonlinea.click^
 ||interesowne24.click^
 ||interespoleczny.click^
 ||interesspoleczny.click^
@@ -11152,7 +11155,6 @@
 ||leasepotwort.click^
 ||leatheringwordes.pro^
 ||leczumiaroraz.click^
-||ledger-download-us.com^
 ||ledger.critical-update.com^
 ||ledsitling.pro^
 ||legal-weight.pro^
@@ -13760,7 +13762,6 @@
 ||poscigzadanymi.click^
 ||positive-ads.com^
 ||post-corp.cc^
-||post-corp.me^
 ||post-e.pro^
 ||post-update-reschedule-canadapost.com^
 ||post-update.top^
@@ -14725,7 +14726,6 @@
 ||s.f1.impact-ad.jp^
 ||s.ipinyou.com^
 ||s.lianmeng.360.cn^
-||s.teams-lnv.pro^
 ||s.toutiao.com^
 ||s.union.360.cn^
 ||s.update.3lift.com^
@@ -16103,9 +16103,11 @@
 ||support-for-business-open-appeal.abocam.com^
 ||support-for-business-open-case-appeal-id-216.vercel.app^
 ||support-for-business-open-cases-appeal-id-220.vercel.app^
+||support-heres.mfb09.click^
 ||support.browser.heytapmobi.com^
 ||support.check-id92847.org^
 ||supportedpooled.pro^
+||suppport.homespagess.click^
 ||suppprt-dat.pages.pro.br^
 ||supprt-tg.pages.pro.br^
 ||supreme-ad-blocker.info^
@@ -16657,6 +16659,7 @@
 ||toutiao.jxnews.com.cn^
 ||toutiao.social^
 ||toveruy1.pro^
+||towallet.pro^
 ||townshipbookmarking.pro^
 ||townshipforeheadaluminumed.pro^
 ||townshipmeantimerutabagaing.pro^
@@ -17258,7 +17261,6 @@
 ||update.cg100iii.com^
 ||update.check-support.org^
 ||update.dbankcdn.com^
-||update.eemsac.com^
 ||update.expobarrio.com^
 ||update.hiconversion.com^
 ||update.ib.adnxs.com^
@@ -18912,6 +18914,7 @@
 ||www.dns-eu-east-32.xyz^
 ||www.dnsprolongation.pro^
 ||www.dobreprogramy.pro^
+||www.doesleadingballast.pro^
 ||www.doikladnakl.click^
 ||www.doksan-investing.pro^
 ||www.domainpointweb.pro^

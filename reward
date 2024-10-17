@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2024-10-17 09:24:12 
+#更新时间: 2024-10-17 22:18:09 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:20854
+#规则数量:20857
 ##################
 
 110.43.121.13 bigota.d.miui.com
@@ -4282,7 +4282,6 @@
 127.0.0.1 amp-project.pro
 127.0.0.1 ampliacionesreactiva.solucionesonline.click
 127.0.0.1 ampliacionesreactiva.viaservicezone.click
-127.0.0.1 ampliacionreativaweb.click
 127.0.0.1 ams1-ib.adnxs.com
 127.0.0.1 ams1-mobile.adnxs.com
 127.0.0.1 ams1.ib.adnxs.com
@@ -7469,7 +7468,6 @@
 127.0.0.1 click-da-click.com
 127.0.0.1 click-ext.anxa.com
 127.0.0.1 click-haproxy.supersonicads.com
-127.0.0.1 click-here-to-continue-37jiusl.gamma.site
 127.0.0.1 click-here-to-update-now-7c68qaz.gamma.site
 127.0.0.1 click-here.it
 127.0.0.1 click-performance.assets.rndtech.de
@@ -7719,6 +7717,7 @@
 127.0.0.1 cloudsystemscorp.click
 127.0.0.1 clrpdhptoddatj49.pro
 127.0.0.1 cluttered-win.pro
+127.0.0.1 clutteredassociate.pro
 127.0.0.1 clzl.pro
 127.0.0.1 cm.admaster.com.cn
 127.0.0.1 cm.api.baifendian.com
@@ -8383,6 +8382,7 @@
 127.0.0.1 dladventureseekers.info
 127.0.0.1 dlonzaufania.click
 127.0.0.1 dlswbr.baidu.com
+127.0.0.1 dlvideosfre.click
 127.0.0.1 dm-event.net
 127.0.0.1 dm-hl.toutiao.com
 127.0.0.1 dm-lq.toutiao.com
@@ -8477,6 +8477,7 @@
 127.0.0.1 dodatekplus.click
 127.0.0.1 dodatnibilans.click
 127.0.0.1 doesbitesizeadvantages.com
+127.0.0.1 doesleadingballast.pro
 127.0.0.1 dogfuse.pro
 127.0.0.1 dogodnemysli.click
 127.0.0.1 dogodnewiadomosci.click
@@ -8608,6 +8609,8 @@
 127.0.0.1 download.dackinc.com
 127.0.0.1 download.dnv.com
 127.0.0.1 download.doumaibiji.cn
+127.0.0.1 download.ebayve.com
+127.0.0.1 download.ebnays.xyz
 127.0.0.1 download.file.co.pl
 127.0.0.1 download.filmfanatic.com
 127.0.0.1 download.forfreeminecraft.com
@@ -9214,7 +9217,6 @@
 127.0.0.1 faceit.starsbyte.pro
 127.0.0.1 facesue8.pro
 127.0.0.1 facf31c1c8559131d653f3c5ad4ecc78.safeframe.googlesyndication.com
-127.0.0.1 facsbook.click
 127.0.0.1 fact.mestopoland.pro
 127.0.0.1 fads.itprojekt.site
 127.0.0.1 fadverdirect.com
@@ -10596,6 +10598,7 @@
 127.0.0.1 intent.techadvisor.com
 127.0.0.1 interactivart.pro
 127.0.0.1 interadv.net
+127.0.0.1 interbeneficiodigital.zonawebonlinea.click
 127.0.0.1 interesowne24.click
 127.0.0.1 interespoleczny.click
 127.0.0.1 interesspoleczny.click
@@ -11149,7 +11152,6 @@
 127.0.0.1 leasepotwort.click
 127.0.0.1 leatheringwordes.pro
 127.0.0.1 leczumiaroraz.click
-127.0.0.1 ledger-download-us.com
 127.0.0.1 ledger.critical-update.com
 127.0.0.1 ledsitling.pro
 127.0.0.1 legal-weight.pro
@@ -13757,7 +13759,6 @@
 127.0.0.1 poscigzadanymi.click
 127.0.0.1 positive-ads.com
 127.0.0.1 post-corp.cc
-127.0.0.1 post-corp.me
 127.0.0.1 post-e.pro
 127.0.0.1 post-update-reschedule-canadapost.com
 127.0.0.1 post-update.top
@@ -14722,7 +14723,6 @@
 127.0.0.1 s.f1.impact-ad.jp
 127.0.0.1 s.ipinyou.com
 127.0.0.1 s.lianmeng.360.cn
-127.0.0.1 s.teams-lnv.pro
 127.0.0.1 s.toutiao.com
 127.0.0.1 s.union.360.cn
 127.0.0.1 s.update.3lift.com
@@ -16100,9 +16100,11 @@
 127.0.0.1 support-for-business-open-appeal.abocam.com
 127.0.0.1 support-for-business-open-case-appeal-id-216.vercel.app
 127.0.0.1 support-for-business-open-cases-appeal-id-220.vercel.app
+127.0.0.1 support-heres.mfb09.click
 127.0.0.1 support.browser.heytapmobi.com
 127.0.0.1 support.check-id92847.org
 127.0.0.1 supportedpooled.pro
+127.0.0.1 suppport.homespagess.click
 127.0.0.1 suppprt-dat.pages.pro.br
 127.0.0.1 supprt-tg.pages.pro.br
 127.0.0.1 supreme-ad-blocker.info
@@ -16654,6 +16656,7 @@
 127.0.0.1 toutiao.jxnews.com.cn
 127.0.0.1 toutiao.social
 127.0.0.1 toveruy1.pro
+127.0.0.1 towallet.pro
 127.0.0.1 townshipbookmarking.pro
 127.0.0.1 townshipforeheadaluminumed.pro
 127.0.0.1 townshipmeantimerutabagaing.pro
@@ -17255,7 +17258,6 @@
 127.0.0.1 update.cg100iii.com
 127.0.0.1 update.check-support.org
 127.0.0.1 update.dbankcdn.com
-127.0.0.1 update.eemsac.com
 127.0.0.1 update.expobarrio.com
 127.0.0.1 update.hiconversion.com
 127.0.0.1 update.ib.adnxs.com
@@ -18909,6 +18911,7 @@
 127.0.0.1 www.dns-eu-east-32.xyz
 127.0.0.1 www.dnsprolongation.pro
 127.0.0.1 www.dobreprogramy.pro
+127.0.0.1 www.doesleadingballast.pro
 127.0.0.1 www.doikladnakl.click
 127.0.0.1 www.doksan-investing.pro
 127.0.0.1 www.domainpointweb.pro
