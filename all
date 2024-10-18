@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2024-10-17 22:18:06 
+#更新时间: 2024-10-18 09:24:14 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:26027
+#规则数量:26031
 ##################
 
 110.43.121.13 bigota.d.miui.com
@@ -628,6 +628,7 @@
 94.140.14.33 a8cv.spalab-chintai.uk-corp.co.jp
 94.140.14.33 a8e5629c7037dcfd96a8a1249bad25b4.serswise.pl
 94.140.14.33 a97cc9969ad979fa4f0cb4add54c2c7b.sirss.pl
+94.140.14.33 aa.birdgesdk.com
 94.140.14.33 aa.toponad.com
 94.140.14.33 aa4718624fe91adffadb66bbdb3d8d66.trsdha.pl
 94.140.14.33 aa7vgmjjsz.click
@@ -8315,6 +8316,7 @@
 94.140.14.33 biovitality.pro
 94.140.14.33 bipenlir.click
 94.140.14.33 birchist.click
+94.140.14.33 birdgesdk.com
 94.140.14.33 birezuueitt8.pro
 94.140.14.33 biroads.com
 94.140.14.33 bisetcroomia.click
@@ -8541,6 +8543,7 @@
 94.140.14.33 brickmaster.pro
 94.140.14.33 bricks.e.qq.com
 94.140.14.33 bridesargean.click
+94.140.14.33 bridgeoos.com
 94.140.14.33 brief-tank.pro
 94.140.14.33 briefengineer.pro
 94.140.14.33 briefredos.click
@@ -16757,6 +16760,7 @@
 94.140.14.33 piszemyteksty.click
 94.140.14.33 pitaya.bytedance.com
 94.140.14.33 piteriortesign.click
+94.140.14.33 pitk.birdgesdk.com
 94.140.14.33 pityneedsdads.com
 94.140.14.33 piwik.ero-advertising.com
 94.140.14.33 piwik.pro
