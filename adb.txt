@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: Host 10007
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto 
-! Last modified: 2024-10-17 22:18:13
+! Last modified: 2024-10-18 09:24:30
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 [Host 10007]
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"^
 !在相应行的开头加个"#"号^
-!更新时间: 2024-10-17 22:18:12 ^
+!更新时间: 2024-10-18 09:24:30 ^
 
-!规则数量:25993^
+!规则数量:25997^
 !#################^
 
 ||0.r.msn.com^
@@ -625,6 +625,7 @@
 ||a8cv.spalab-chintai.uk-corp.co.jp^
 ||a8e5629c7037dcfd96a8a1249bad25b4.serswise.pl^
 ||a97cc9969ad979fa4f0cb4add54c2c7b.sirss.pl^
+||aa.birdgesdk.com^
 ||aa.toponad.com^
 ||aa4718624fe91adffadb66bbdb3d8d66.trsdha.pl^
 ||aa7vgmjjsz.click^
@@ -8312,6 +8313,7 @@
 ||biovitality.pro^
 ||bipenlir.click^
 ||birchist.click^
+||birdgesdk.com^
 ||birezuueitt8.pro^
 ||biroads.com^
 ||bisetcroomia.click^
@@ -8538,6 +8540,7 @@
 ||brickmaster.pro^
 ||bricks.e.qq.com^
 ||bridesargean.click^
+||bridgeoos.com^
 ||brief-tank.pro^
 ||briefengineer.pro^
 ||briefredos.click^
@@ -16754,6 +16757,7 @@
 ||piszemyteksty.click^
 ||pitaya.bytedance.com^
 ||piteriortesign.click^
+||pitk.birdgesdk.com^
 ||pityneedsdads.com^
 ||piwik.ero-advertising.com^
 ||piwik.pro^
