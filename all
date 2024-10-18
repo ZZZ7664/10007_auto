@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2024-10-18 09:24:23 
+#更新时间: 2024-10-18 22:17:13 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:20895
+#规则数量:20900
 ##################
 
 110.43.121.13 bigota.d.miui.com
@@ -4142,7 +4142,6 @@
 127.0.0.1 agostocontigo.viaservicezone.click
 127.0.0.1 agostocontigo.viazonaservice.click
 127.0.0.1 agostocontigo.zonaservice.click
-127.0.0.1 agostoreactiva.viazonaservice.click
 127.0.0.1 agostoreactiva.zonasegura.click
 127.0.0.1 agostoreactiva.zonaseguraservicio.click
 127.0.0.1 agostoreactiva.zonaviaservice.click
@@ -4256,6 +4255,7 @@
 127.0.0.1 alternativos.iw-advertising.com
 127.0.0.1 alternatywa24h.click
 127.0.0.1 alticoadvisors.actonservice.com
+127.0.0.1 altidentifiy-api.xyz
 127.0.0.1 altidentify-api.xyz
 127.0.0.1 aluminumamplify.click
 127.0.0.1 aluminumcalculusar.pro
@@ -4282,7 +4282,6 @@
 127.0.0.1 amonsul.douban.com
 127.0.0.1 amp-project.pro
 127.0.0.1 ampliacionesreactiva.solucionesonline.click
-127.0.0.1 ampliacionesreactiva.viaservicezone.click
 127.0.0.1 ams1-ib.adnxs.com
 127.0.0.1 ams1-mobile.adnxs.com
 127.0.0.1 ams1.ib.adnxs.com
@@ -6240,6 +6239,7 @@
 127.0.0.1 arcor-partner.de
 127.0.0.1 arcturus-investing.pro
 127.0.0.1 arguedreable.click
+127.0.0.1 arithnavaid.click
 127.0.0.1 ark.cp21.ott.cibntv.net
 127.0.0.1 armetscaulote.click
 127.0.0.1 armorlest.click
@@ -6828,7 +6828,6 @@
 127.0.0.1 bonustw.pro
 127.0.0.1 bonyspecialist.pro
 127.0.0.1 bonzai.ad
-127.0.0.1 booking.com-admin-partner.one
 127.0.0.1 booking.com-extran-group.click
 127.0.0.1 booking.com-id45294.pro
 127.0.0.1 bookmakers.click
@@ -6903,7 +6902,6 @@
 127.0.0.1 browser-tools.systems
 127.0.0.1 browser-update.org
 127.0.0.1 browser-updater.yandex.net
-127.0.0.1 browser.covatic.io
 127.0.0.1 browser.events.data.microsoft.com
 127.0.0.1 browser.events.data.msn.cn
 127.0.0.1 browser.events.data.msn.com
@@ -7393,6 +7391,7 @@
 127.0.0.1 chetivesacrist.click
 127.0.0.1 chevalcorsair.click
 127.0.0.1 chicrdited.pro
+127.0.0.1 chief-cry.pro
 127.0.0.1 chiefegg.pro
 127.0.0.1 chiliadv.com
 127.0.0.1 chineseinla.com
@@ -8023,6 +8022,7 @@
 127.0.0.1 csync.smartadserver.com
 127.0.0.1 ct.niu.xunlei.com
 127.0.0.1 ctmail.dns-dns.com
+127.0.0.1 ctofestoon.click
 127.0.0.1 ctologger01.analytics.go.com
 127.0.0.1 ctrack.trafficjunky.net
 127.0.0.1 cubeworld-download.org
@@ -8612,8 +8612,6 @@
 127.0.0.1 download.dackinc.com
 127.0.0.1 download.dnv.com
 127.0.0.1 download.doumaibiji.cn
-127.0.0.1 download.ebayve.com
-127.0.0.1 download.ebnays.xyz
 127.0.0.1 download.file.co.pl
 127.0.0.1 download.filmfanatic.com
 127.0.0.1 download.forfreeminecraft.com
@@ -9641,6 +9639,7 @@
 127.0.0.1 gegoxei6.pro
 127.0.0.1 gemini2.click
 127.0.0.1 gen.alicdn.com
+127.0.0.1 genericliards.click
 127.0.0.1 genishury.pro
 127.0.0.1 geo.adobe.com
 127.0.0.1 geo.ads.audio.thisisdax.com
@@ -10601,7 +10600,6 @@
 127.0.0.1 intent.techadvisor.com
 127.0.0.1 interactivart.pro
 127.0.0.1 interadv.net
-127.0.0.1 interbeneficiodigital.zonawebonlinea.click
 127.0.0.1 interesowne24.click
 127.0.0.1 interespoleczny.click
 127.0.0.1 interesspoleczny.click
@@ -12424,6 +12422,7 @@
 127.0.0.1 neptune1.appads.com
 127.0.0.1 neptune2.appads.com
 127.0.0.1 neptune3.appads.com
+127.0.0.1 nervierconfuse.click
 127.0.0.1 nesipou5.pro
 127.0.0.1 nest-online.click
 127.0.0.1 nestlegroup.pro
@@ -13058,6 +13057,7 @@
 127.0.0.1 orchestraingcockatooing.pro
 127.0.0.1 orchestraingphysicianed.pro
 127.0.0.1 orchestraingsnowyed.pro
+127.0.0.1 oregonadventuretravel.com
 127.0.0.1 org-upgrade.com
 127.0.0.1 organizacjapomocna.click
 127.0.0.1 organizationedclipboarded.pro
@@ -13582,6 +13582,8 @@
 127.0.0.1 pl-proj.pro
 127.0.0.1 pl.ads.justpremium.com
 127.0.0.1 pl.olx.oferta-payment.pro
+127.0.0.1 pl.relevance.enzymeadvisinggroup.com
+127.0.0.1 pl.update-tracks.com
 127.0.0.1 placzdziecka.click
 127.0.0.1 pladvertising-manage.com
 127.0.0.1 plainphilosophy.pro
@@ -14001,6 +14003,7 @@
 127.0.0.1 pro-trade-capex.com
 127.0.0.1 pro-tslx.program-pro2.xyz
 127.0.0.1 pro-tslx.programm-one.site
+127.0.0.1 pro-tudadians.net
 127.0.0.1 pro-vas.com
 127.0.0.1 pro-web-metrics.alias.s24cloud.net
 127.0.0.1 pro-web.net
@@ -14454,6 +14457,7 @@
 127.0.0.1 receiver.habby.mobi
 127.0.0.1 recenzujemyinfo.click
 127.0.0.1 recenzyjka24.click
+127.0.0.1 recipeadventures.com
 127.0.0.1 recitalwave.click
 127.0.0.1 recommend.union.39.net
 127.0.0.1 recommendation-api.analytics.onedio.com
@@ -14485,6 +14489,7 @@
 127.0.0.1 regis2tarsinc.click
 127.0.0.1 registroampliaciones.zonaseguraservicio.click
 127.0.0.1 registry.api.cnn.io
+127.0.0.1 regrindroughed.click
 127.0.0.1 regulamin24poczta.click
 127.0.0.1 regulazyciowa.click
 127.0.0.1 rehearsalesadviseed.pro
@@ -15513,7 +15518,6 @@
 127.0.0.1 sionwops.click
 127.0.0.1 sirinlabs.pro
 127.0.0.1 site.e.mi.com
-127.0.0.1 site.rmladv.com.br
 127.0.0.1 siteadvisor.com-br.site
 127.0.0.1 sitemonitor.cn.miaozhen.com
 127.0.0.1 sitterning.pro
@@ -15766,7 +15770,6 @@
 127.0.0.1 spinfo.wps.cn
 127.0.0.1 spisekpowszechny.click
 127.0.0.1 spiszpowszechny.click
-127.0.0.1 spk-check.com
 127.0.0.1 splash-ad.classting.com
 127.0.0.1 splash-screen.voodoo-ads.io
 127.0.0.1 splash.appsgeyser.com
@@ -16108,7 +16111,6 @@
 127.0.0.1 support.browser.heytapmobi.com
 127.0.0.1 support.check-id92847.org
 127.0.0.1 supportedpooled.pro
-127.0.0.1 suppport.homespagess.click
 127.0.0.1 suppprt-dat.pages.pro.br
 127.0.0.1 supprt-tg.pages.pro.br
 127.0.0.1 supreme-ad-blocker.info
@@ -16660,7 +16662,6 @@
 127.0.0.1 toutiao.jxnews.com.cn
 127.0.0.1 toutiao.social
 127.0.0.1 toveruy1.pro
-127.0.0.1 towallet.pro
 127.0.0.1 townshipbookmarking.pro
 127.0.0.1 townshipforeheadaluminumed.pro
 127.0.0.1 townshipmeantimerutabagaing.pro
@@ -19600,6 +19601,7 @@
 127.0.0.1 www.orchestraingcockatooing.pro
 127.0.0.1 www.orchestraingphysicianed.pro
 127.0.0.1 www.orchestraingsnowyed.pro
+127.0.0.1 www.oregonadventuretravel.com
 127.0.0.1 www.org-upgrade.com
 127.0.0.1 www.organizationedclipboarded.pro
 127.0.0.1 www.organizationesclipboarding.pro
@@ -19748,6 +19750,7 @@
 127.0.0.1 www.pro-qcharge.com
 127.0.0.1 www.pro-soft1.site
 127.0.0.1 www.pro-trade-capex.com
+127.0.0.1 www.pro-tudadians.net
 127.0.0.1 www.pro-vas.com
 127.0.0.1 www.pro.clanweb.cz
 127.0.0.1 www.pro.cn
@@ -19798,6 +19801,7 @@
 127.0.0.1 www.razmokl-invest.pro
 127.0.0.1 www.rebinwildadventure.com
 127.0.0.1 www.rec-corp.xyz
+127.0.0.1 www.recipeadventures.com
 127.0.0.1 www.redirect.ero-advertising.com
 127.0.0.1 www.refundcustomer.dns.army
 127.0.0.1 www.refundhelpdesk.dns.navy
@@ -19987,6 +19991,7 @@
 127.0.0.1 www.support-for-business-open-case-appeal-id-216.vercel.app
 127.0.0.1 www.support-for-business-open-cases-appeal-id-220.vercel.app
 127.0.0.1 www.supportedpooled.pro
+127.0.0.1 www.supportforbusinesss.click
 127.0.0.1 www.surfingedatmosphereed.pro
 127.0.0.1 www.surfingedatmospherees.pro
 127.0.0.1 www.surfingedplaneed.pro
