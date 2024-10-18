@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2024-10-17 22:18:09 
+#更新时间: 2024-10-18 09:24:27 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:20857
+#规则数量:20861
 ##################
 
 110.43.121.13 bigota.d.miui.com
@@ -329,6 +329,7 @@
 127.0.0.1 a8cv.pro.omobic.com
 127.0.0.1 a8cv.secure.sakura.ad.jp
 127.0.0.1 a8cv.spalab-chintai.uk-corp.co.jp
+127.0.0.1 aa.birdgesdk.com
 127.0.0.1 aa.toponad.com
 127.0.0.1 aa7vgmjjsz.click
 127.0.0.1 aaa.japanxvideos.mobi
@@ -6700,6 +6701,7 @@
 127.0.0.1 biovitality.pro
 127.0.0.1 bipenlir.click
 127.0.0.1 birchist.click
+127.0.0.1 birdgesdk.com
 127.0.0.1 birezuueitt8.pro
 127.0.0.1 bisetcroomia.click
 127.0.0.1 bit-360-ai.com
@@ -6883,6 +6885,7 @@
 127.0.0.1 brickmaster.pro
 127.0.0.1 bricks.e.qq.com
 127.0.0.1 bridesargean.click
+127.0.0.1 bridgeoos.com
 127.0.0.1 brief-tank.pro
 127.0.0.1 briefengineer.pro
 127.0.0.1 briefredos.click
@@ -13536,6 +13539,7 @@
 127.0.0.1 piszemyteksty.click
 127.0.0.1 pitaya.bytedance.com
 127.0.0.1 piteriortesign.click
+127.0.0.1 pitk.birdgesdk.com
 127.0.0.1 piwik.ero-advertising.com
 127.0.0.1 piwik.pro
 127.0.0.1 pix.eads.com
