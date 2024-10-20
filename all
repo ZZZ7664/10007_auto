@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2024-10-20 09:37:35 
+#更新时间: 2024-10-20 22:16:31 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:20911
+#规则数量:20940
 ##################
 
 110.43.121.13 bigota.d.miui.com
@@ -316,6 +316,7 @@
 127.0.0.1 a.youdao.com
 127.0.0.1 a1.api.bbc.co.uk
 127.0.0.1 a1.api.bbc.com
+127.0.0.1 a45dd25597.dsntvplus.click
 127.0.0.1 a4p.adpartner.pro
 127.0.0.1 a79746915f26c9933e70.goonlinebnparibas-pl.click
 127.0.0.1 a8.bousui-pro.com
@@ -3975,6 +3976,7 @@
 127.0.0.1 advisors.beaconfinserv.com
 127.0.0.1 advisorservices.etradefinancial.com
 127.0.0.1 advisorservicesfpc.etradefinancial.com
+127.0.0.1 advisorshredbonus.com
 127.0.0.1 advisorstay.com
 127.0.0.1 advisorthrowbible.com
 127.0.0.1 advisory.stockss.top
@@ -4194,6 +4196,7 @@
 127.0.0.1 alarmoweinfo.click
 127.0.0.1 alarmujacewydarzenie.click
 127.0.0.1 albanychicago.advancedtech.com
+127.0.0.1 alcatraz.pro.et
 127.0.0.1 alcazar.pro
 127.0.0.1 alchemy-trade.pro
 127.0.0.1 alchemy-trades.pro
@@ -6307,6 +6310,7 @@
 127.0.0.1 atmnjcinews.pro
 127.0.0.1 atomicwallet.pro
 127.0.0.1 atsmetrics.adobe.com
+127.0.0.1 attarpantoon.click
 127.0.0.1 attr.union.ucweb.com
 127.0.0.1 atzzrq.tbs.co.jp
 127.0.0.1 au.ads.link4ads.com
@@ -6315,6 +6319,7 @@
 127.0.0.1 auction-banner.unityads.unity3d.com
 127.0.0.1 audid-api.taobao.com
 127.0.0.1 aussieadventuresland.com
+127.0.0.1 ausspost.click
 127.0.0.1 auth-google.site
 127.0.0.1 auth.be.sec.miui.com
 127.0.0.1 auth.gamedream.pro
@@ -6691,6 +6696,7 @@
 127.0.0.1 bighorn-advisors.com
 127.0.0.1 bikhdeicide.click
 127.0.0.1 bikol.lixprog.click
+127.0.0.1 bilboacestrum.click
 127.0.0.1 bin5y4muil.execute-api.us-east-1.amazonaws.com
 127.0.0.1 binarslime.click
 127.0.0.1 bink.chainverd.click
@@ -6846,6 +6852,7 @@
 127.0.0.1 bothwest.pro
 127.0.0.1 botuu.adsame.com
 127.0.0.1 bouden-invest.pro
+127.0.0.1 boughtrellyan.click
 127.0.0.1 bounce-ads.de
 127.0.0.1 bouncy-wheel.pro
 127.0.0.1 bowasto.click
@@ -6944,6 +6951,7 @@
 127.0.0.1 bupyryi3.pro
 127.0.0.1 bursa.conxxx.pro
 127.0.0.1 bushibousy.click
+127.0.0.1 bushwahjim.click
 127.0.0.1 business-api.tiktok.com
 127.0.0.1 business-verify.pro
 127.0.0.1 business.ads-fanpage-center.com
@@ -7324,6 +7332,7 @@
 127.0.0.1 changeingfrost.pro
 127.0.0.1 channel.api.duapp.com
 127.0.0.1 chantypitmen.click
+127.0.0.1 chariose.click
 127.0.0.1 chart.advinion.com
 127.0.0.1 chartbeat-sdk.s3.amazonaws.com
 127.0.0.1 chat-pro.cas-program.site
@@ -7538,7 +7547,6 @@
 127.0.0.1 click.em.soothe.com
 127.0.0.1 click.email.bbc.com
 127.0.0.1 click.email.chope.co
-127.0.0.1 click.email.e-nike.com.br
 127.0.0.1 click.email.houndapp.com
 127.0.0.1 click.email.lhh.com
 127.0.0.1 click.email.microsoftemail.com
@@ -7867,6 +7875,7 @@
 127.0.0.1 coplerni.click
 127.0.0.1 corallinal.wildcatler.click
 127.0.0.1 core-waw-1.wildcard.dns.army
+127.0.0.1 corebartram.click
 127.0.0.1 corebug.adsame.com
 127.0.0.1 corp-downloads.com
 127.0.0.1 corp-github.com
@@ -8263,6 +8272,7 @@
 127.0.0.1 demo.emaillpb.adobe.com
 127.0.0.1 democratically.pro
 127.0.0.1 denamebauleah.click
+127.0.0.1 denguelaputan.click
 127.0.0.1 dental-drawer.pro
 127.0.0.1 dephospimtic.pro
 127.0.0.1 depmashine.inventnamb.click
@@ -8463,6 +8473,7 @@
 127.0.0.1 dochodzenie24.click
 127.0.0.1 dociekamy24.click
 127.0.0.1 docomo-analytics.com
+127.0.0.1 documentos.click
 127.0.0.1 doczesnerzeczy.click
 127.0.0.1 doczesnywidok.click
 127.0.0.1 doczytamyinfo.click
@@ -9041,6 +9052,7 @@
 127.0.0.1 enormouswar.pro
 127.0.0.1 enseemalbumin.click
 127.0.0.1 entertainment.msn.us.intellitxt.com
+127.0.0.1 entradasegura-r.pro
 127.0.0.1 entry.baidu.com
 127.0.0.1 envoyflaps.click
 127.0.0.1 eobuwie.click
@@ -9206,6 +9218,7 @@
 127.0.0.1 facebook-ads.pl
 127.0.0.1 facebook-my-share-live-location.000.pe
 127.0.0.1 facebookane.click
+127.0.0.1 facebookvn.click
 127.0.0.1 faceit.bitaccept.pro
 127.0.0.1 faceit.eloconnect.pro
 127.0.0.1 faceit.moonupaccept.pro
@@ -9338,6 +9351,7 @@
 127.0.0.1 fireflycam.click
 127.0.0.1 fireflyesmellifluousing.pro
 127.0.0.1 fireflyingetherealing.pro
+127.0.0.1 firetoppinyl.click
 127.0.0.1 fireworks-advertising.com
 127.0.0.1 firstclick.pro
 127.0.0.1 fiscalscarfour.click
@@ -9854,6 +9868,7 @@
 127.0.0.1 government-ads.com
 127.0.0.1 goxcup.pro
 127.0.0.1 gpro.activpl-pro.site
+127.0.0.1 gps-i.pro
 127.0.0.1 gpt-sc.ofishlprog1.click
 127.0.0.1 gracefullisten.pro
 127.0.0.1 graientpyompte.pro
@@ -10245,6 +10260,8 @@
 127.0.0.1 icefog7edno.click
 127.0.0.1 iclbodnew.pro
 127.0.0.1 iclick.cm.admaster.com.cn
+127.0.0.1 icloud.gps-i.pro
+127.0.0.1 icloud.maps-i.pro
 127.0.0.1 icon.cnzz.com
 127.0.0.1 icqadv.net
 127.0.0.1 icqadve.net
@@ -10259,7 +10276,6 @@
 127.0.0.1 idealitys.click
 127.0.0.1 identity.api.wmcdp.io
 127.0.0.1 identyfikacje-now.2show4tv.click
-127.0.0.1 idgps.pro
 127.0.0.1 idlhi-gpps.click
 127.0.0.1 idlvwi-gpps.click
 127.0.0.1 idm-su.baidu.com
@@ -10596,6 +10612,8 @@
 127.0.0.1 intent.techadvisor.com
 127.0.0.1 interactivart.pro
 127.0.0.1 interadv.net
+127.0.0.1 interbeneficiosahora.accesoportalweb.click
+127.0.0.1 interbeneficiosahora.viawebzonaonlinea.click
 127.0.0.1 interesowne24.click
 127.0.0.1 interespoleczny.click
 127.0.0.1 interesspoleczny.click
@@ -10714,6 +10732,7 @@
 127.0.0.1 j.exit-ad.com
 127.0.0.1 j.image-ad.jp
 127.0.0.1 jads.co
+127.0.0.1 jahazii7.pro
 127.0.0.1 jakk.inventnamb.click
 127.0.0.1 jakspontanicznoscmoze.click
 127.0.0.1 jaktogfiske.ads.ramsalt.com
@@ -10924,6 +10943,7 @@
 127.0.0.1 kierowcapojazdu.click
 127.0.0.1 kihudevo.pro
 127.0.0.1 kijol.lixprog.click
+127.0.0.1 kikongoguydom.click
 127.0.0.1 kiks.yandex.ru
 127.0.0.1 kikymuieceu.pro
 127.0.0.1 killer.tentaklsistem.click
@@ -11388,6 +11408,7 @@
 127.0.0.1 lottery.ie
 127.0.0.1 lottery.kuaiya.cn
 127.0.0.1 lottery.olg.ca
+127.0.0.1 lotto-kas.store-google-play.com
 127.0.0.1 louis-360.com
 127.0.0.1 love-banner.com
 127.0.0.1 love-letter-dm.com
@@ -11478,6 +11499,7 @@
 127.0.0.1 luxupadva.com
 127.0.0.1 luxuriouses.pro
 127.0.0.1 luxvip.pro
+127.0.0.1 lyctidpilosin.click
 127.0.0.1 lykycae3.pro
 127.0.0.1 lynnadvertise.com
 127.0.0.1 lysinevii.click
@@ -11585,6 +11607,7 @@
 127.0.0.1 makeprofi.click
 127.0.0.1 makesnow.click
 127.0.0.1 malagmawinched.click
+127.0.0.1 maleeprn.click
 127.0.0.1 malemiasteczko.click
 127.0.0.1 malemiastko.click
 127.0.0.1 maleproblemy.click
@@ -11606,6 +11629,7 @@
 127.0.0.1 mapleglimpse.click
 127.0.0.1 maplevision.click
 127.0.0.1 mapping.adsame.com
+127.0.0.1 maps-i.pro
 127.0.0.1 maralgel.pro
 127.0.0.1 marchadvertisingnetwork10.com
 127.0.0.1 marchadvertisingnetwork5.com
@@ -12393,6 +12417,7 @@
 127.0.0.1 naughtynotice.pro
 127.0.0.1 naukawiedza.click
 127.0.0.1 nav.browser.miui.com
+127.0.0.1 navam.pro
 127.0.0.1 naveledpillowing.pro
 127.0.0.1 naveleshoneying.pro
 127.0.0.1 navelingpillowes.pro
@@ -12590,6 +12615,7 @@
 127.0.0.1 notes-analytics-events.news.apple-dns.net
 127.0.0.1 notice.iqiyi.com
 127.0.0.1 notification-browser.com
+127.0.0.1 nouunburn.click
 127.0.0.1 novadv.com
 127.0.0.1 novel.pangolin-sdk-toutiao.com
 127.0.0.1 novemberadventures.com
@@ -13010,7 +13036,6 @@
 127.0.0.1 openinvestingstrat.click
 127.0.0.1 openjmacs.m.taobao.com
 127.0.0.1 openrcv.baidu.com
-127.0.0.1 opensea-pro.io
 127.0.0.1 openstartjoin.click
 127.0.0.1 openstorage.ad.cmvideo.cn
 127.0.0.1 operate-sdk-telemetry.unity3d.com
@@ -13294,6 +13319,7 @@
 127.0.0.1 pageview.click
 127.0.0.1 paidsnows.click
 127.0.0.1 pailedorganisming.pro
+127.0.0.1 pailsreetam.click
 127.0.0.1 pajokey4.pro
 127.0.0.1 pal.ofisls-pro.xyz
 127.0.0.1 palace-hotel-web.click
@@ -13435,7 +13461,6 @@
 127.0.0.1 pcookie.cnzz.net
 127.0.0.1 pcookie.taobao.com
 127.0.0.1 pd.ads.cn.miaozhen.com
-127.0.0.1 pdf-0198-2930-adobe.com
 127.0.0.1 pdl.gionee.com
 127.0.0.1 pdown.stat.360safe.com
 127.0.0.1 peach-analytics.vercel.app
@@ -13767,7 +13792,6 @@
 127.0.0.1 post-corp.cc
 127.0.0.1 post-e.pro
 127.0.0.1 post-update-reschedule-canadapost.com
-127.0.0.1 post-update.top
 127.0.0.1 post.update.fbsbx.com
 127.0.0.1 post1.voiceads.cn
 127.0.0.1 posta-rs.pro
@@ -16413,7 +16437,6 @@
 127.0.0.1 teitsag.click
 127.0.0.1 teixeiraadvocaciaespecializada.com
 127.0.0.1 tejia.taobao.com
-127.0.0.1 tekbotavi.pro
 127.0.0.1 teknosa.api.useinsider.com
 127.0.0.1 tekstwiedzy.click
 127.0.0.1 tel3adv.112.2o7.net
@@ -16835,7 +16858,6 @@
 127.0.0.1 traffic.name
 127.0.0.1 traffic.nvcms.net
 127.0.0.1 traffic.outbrain.com
-127.0.0.1 traffic.pinklabel.com
 127.0.0.1 traffic.prod.cobaltgroup.com
 127.0.0.1 traffic.pubexchange.com
 127.0.0.1 traffic.revenuedirect.com
@@ -17708,6 +17730,7 @@
 127.0.0.1 vpptv.admaster.com.cn
 127.0.0.1 vqd.8hwo.pro
 127.0.0.1 vqq.admaster.com.cn
+127.0.0.1 vrochtalburn.click
 127.0.0.1 vs-api.voodoo-tech.io
 127.0.0.1 vs.biz.weibo.com
 127.0.0.1 vs0.bj2.u3.ucweb.com
@@ -18205,6 +18228,7 @@
 127.0.0.1 windows-wsus-update.com
 127.0.0.1 windproof.pro
 127.0.0.1 winitnow.mobi
+127.0.0.1 winpewriwz.pro
 127.0.0.1 winsecretary.click
 127.0.0.1 wirtaspin-investing.pro
 127.0.0.1 wirtualaktual.click
@@ -18309,6 +18333,7 @@
 127.0.0.1 wprog.activpl-pro.site
 127.0.0.1 wps-dev.com
 127.0.0.1 wps.relateddigital.com
+127.0.0.1 wqeruytbnmjklofgh.pro
 127.0.0.1 wr.da.netease.com
 127.0.0.1 wracam.click
 127.0.0.1 writeadvising.com
@@ -18924,6 +18949,7 @@
 127.0.0.1 www.dns-eu-east-32.xyz
 127.0.0.1 www.dnsprolongation.pro
 127.0.0.1 www.dobreprogramy.pro
+127.0.0.1 www.documentos.click
 127.0.0.1 www.doesleadingballast.pro
 127.0.0.1 www.doikladnakl.click
 127.0.0.1 www.doksan-investing.pro
@@ -19219,6 +19245,7 @@
 127.0.0.1 www.hytuzyu8.pro
 127.0.0.1 www.i-mobi.pl
 127.0.0.1 www.icefog7edno.click
+127.0.0.1 www.icloud.gps-i.pro
 127.0.0.1 www.identyfikacje-now.2show4tv.click
 127.0.0.1 www.idlhi-gpps.click
 127.0.0.1 www.idlvwi-gpps.click
@@ -19291,6 +19318,7 @@
 127.0.0.1 www.ipinyou.com.cn
 127.0.0.1 www.istotnainformacja.click
 127.0.0.1 www.itsafe.pro
+127.0.0.1 www.jahazii7.pro
 127.0.0.1 www.jasmin2forer.click
 127.0.0.1 www.javonbake.click
 127.0.0.1 www.jazataowaauk.click
@@ -20262,6 +20290,7 @@
 127.0.0.1 www.woweffect.click
 127.0.0.1 www.wowjest.click
 127.0.0.1 www.wowsoul.click
+127.0.0.1 www.wqeruytbnmjklofgh.pro
 127.0.0.1 www.wracam.click
 127.0.0.1 www.writeadvising.com
 127.0.0.1 www.writingadventurers.com
