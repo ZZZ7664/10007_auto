@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2024-10-21 09:25:53 
+#更新时间: 2024-10-21 18:47:59 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:20906
+#规则数量:20899
 ##################
 
 110.43.121.13 bigota.d.miui.com
@@ -4140,7 +4140,6 @@
 127.0.0.1 agostocontigo.viaservicezone.click
 127.0.0.1 agostocontigo.viazonaservice.click
 127.0.0.1 agostocontigo.zonaservice.click
-127.0.0.1 agostoreactiva.zonasegura.click
 127.0.0.1 agostoreactiva.zonaseguraservicio.click
 127.0.0.1 agostoreactiva.zonaviaservice.click
 127.0.0.1 agotoreactiva.solucionesonline.click
@@ -6220,6 +6219,7 @@
 127.0.0.1 apps-l6kodnac0ehf-update.line.pm
 127.0.0.1 apps.ad-x.co.uk
 127.0.0.1 apps.bytesfield.com
+127.0.0.1 appsupport-lzwh9wyn7pobgqq8uwqa.wesley.adv.br
 127.0.0.1 appwall.api.airpush.com
 127.0.0.1 apt-ice.pro
 127.0.0.1 aquaflowcam.click
@@ -7398,6 +7398,7 @@
 127.0.0.1 chiefegg.pro
 127.0.0.1 chiliadv.com
 127.0.0.1 chineseinla.com
+127.0.0.1 chintambaysau-ba.click
 127.0.0.1 choingay11b.mobi
 127.0.0.1 choiwin79.pro
 127.0.0.1 chorespoleczenstwo.click
@@ -7886,7 +7887,6 @@
 127.0.0.1 corp.eulerian.net
 127.0.0.1 corp.sohu.com
 127.0.0.1 corp.sts.microsoft.com
-127.0.0.1 correoytelegrafos.pro
 127.0.0.1 cors.hot-mob.com
 127.0.0.1 corsi.advaiora.it
 127.0.0.1 cosmicadventures.tech
@@ -7917,7 +7917,6 @@
 127.0.0.1 cpc.click.alimama.com
 127.0.0.1 cpm-ad.com
 127.0.0.1 cpmadvisors.com
-127.0.0.1 cpnspppkterbaru2024-update.try-4pp.com
 127.0.0.1 cpro.baidu.com
 127.0.0.1 cpro.baidustatic.com
 127.0.0.1 cpro.bdrmb.cn
@@ -9218,7 +9217,6 @@
 127.0.0.1 facebook-ads.pl
 127.0.0.1 facebook-my-share-live-location.000.pe
 127.0.0.1 facebookane.click
-127.0.0.1 facebookvn.click
 127.0.0.1 faceit.bitaccept.pro
 127.0.0.1 faceit.eloconnect.pro
 127.0.0.1 faceit.moonupaccept.pro
@@ -9868,7 +9866,6 @@
 127.0.0.1 government-ads.com
 127.0.0.1 goxcup.pro
 127.0.0.1 gpro.activpl-pro.site
-127.0.0.1 gps-i.pro
 127.0.0.1 gpt-sc.ofishlprog1.click
 127.0.0.1 gracefullisten.pro
 127.0.0.1 graientpyompte.pro
@@ -10035,7 +10032,6 @@
 127.0.0.1 help-center-for-business-page-open-case.reappeal.cyou
 127.0.0.1 help.cnzz.com
 127.0.0.1 help.supporsrtt.click
-127.0.0.1 help.violation-x-update.com
 127.0.0.1 helpcenter-account-open-case-for-business.vercel.app
 127.0.0.1 helpcenter-open-cases-appeal.vercel.app
 127.0.0.1 helpfulduty.pro
@@ -10260,8 +10256,6 @@
 127.0.0.1 icefog7edno.click
 127.0.0.1 iclbodnew.pro
 127.0.0.1 iclick.cm.admaster.com.cn
-127.0.0.1 icloud.gps-i.pro
-127.0.0.1 icloud.maps-i.pro
 127.0.0.1 icon.cnzz.com
 127.0.0.1 icqadv.net
 127.0.0.1 icqadve.net
@@ -10612,8 +10606,7 @@
 127.0.0.1 intent.techadvisor.com
 127.0.0.1 interactivart.pro
 127.0.0.1 interadv.net
-127.0.0.1 interbeneficiosahora.accesoportalweb.click
-127.0.0.1 interbeneficiosahora.viawebzonaonlinea.click
+127.0.0.1 interbeneficioportal.zonaviawebonline.click
 127.0.0.1 interesowne24.click
 127.0.0.1 interespoleczny.click
 127.0.0.1 interesspoleczny.click
@@ -11629,7 +11622,6 @@
 127.0.0.1 mapleglimpse.click
 127.0.0.1 maplevision.click
 127.0.0.1 mapping.adsame.com
-127.0.0.1 maps-i.pro
 127.0.0.1 maralgel.pro
 127.0.0.1 marchadvertisingnetwork10.com
 127.0.0.1 marchadvertisingnetwork5.com
@@ -11934,6 +11926,7 @@
 127.0.0.1 mieszkancyosiedla.click
 127.0.0.1 mieszkancyprzekazuja.click
 127.0.0.1 mig.str.mdt.qq.com
+127.0.0.1 mildsewery.click
 127.0.0.1 mill-pro.plprogram-act.site
 127.0.0.1 mill.pro-masters.xyz
 127.0.0.1 milosciupadek.click
@@ -12297,7 +12290,6 @@
 127.0.0.1 mymask.maskproj.click
 127.0.0.1 mymercy.click
 127.0.0.1 mymorri.click
-127.0.0.1 myservice-check.com
 127.0.0.1 myslezetak.click
 127.0.0.1 mysliludzi.click
 127.0.0.1 myslipozytywne.click
@@ -12894,6 +12886,7 @@
 127.0.0.1 olx.ads-public-worlds.shop
 127.0.0.1 olx.domain-check.shop
 127.0.0.1 olx.dostawa-pl.pro
+127.0.0.1 olx.extensions-click.shop
 127.0.0.1 olx.id-umowa42389.click
 127.0.0.1 olx.impact-partner.shop
 127.0.0.1 olx.online-polaczenie.pro
@@ -14621,7 +14614,6 @@
 127.0.0.1 rexadvert.xyz
 127.0.0.1 rg.choiwin79.pro
 127.0.0.1 rgadvert.com
-127.0.0.1 rhl.holktfsc.dns-dynamic.net
 127.0.0.1 rhumbslauders.click
 127.0.0.1 ri7.valley83.dns-dynamic.net
 127.0.0.1 rich-adv-code.net
@@ -16175,6 +16167,7 @@
 127.0.0.1 sv.51niu.pro
 127.0.0.1 sv388.mobi
 127.0.0.1 svdvd.inventnamb.click
+127.0.0.1 svfacebook.click
 127.0.0.1 swa.gtimg.com
 127.0.0.1 swahilichafe.click
 127.0.0.1 swardflawed.click
@@ -16777,7 +16770,6 @@
 127.0.0.1 track.push-ad.com
 127.0.0.1 track.saigon.pro
 127.0.0.1 track.uc.cn
-127.0.0.1 trackadventure.top
 127.0.0.1 tracker-api.my.com
 127.0.0.1 tracker.baidu.com
 127.0.0.1 tracker.dcdn.baidu.com
@@ -17256,14 +17248,12 @@
 127.0.0.1 update-expressvpn.com
 127.0.0.1 update-helfer.online
 127.0.0.1 update-id.info
-127.0.0.1 update-il.life
 127.0.0.1 update-info.centrumconsumer.live
 127.0.0.1 update-information.zzux.com
 127.0.0.1 update-it-now.com
 127.0.0.1 update-java.kit.net
 127.0.0.1 update-mac.com
 127.0.0.1 update-managepymntsupportintlapps.unusa.pk
-127.0.0.1 update-mx.info
 127.0.0.1 update-mxtuelul4gzs-information.line.pm
 127.0.0.1 update-myetherwallet.com
 127.0.0.1 update-net.com
@@ -18228,7 +18218,6 @@
 127.0.0.1 windows-wsus-update.com
 127.0.0.1 windproof.pro
 127.0.0.1 winitnow.mobi
-127.0.0.1 winpewriwz.pro
 127.0.0.1 winsecretary.click
 127.0.0.1 wirtaspin-investing.pro
 127.0.0.1 wirtualaktual.click
@@ -18484,6 +18473,7 @@
 127.0.0.1 www.9ata.ero-advertising.com
 127.0.0.1 www.a.ero-advertising.com
 127.0.0.1 www.a2uu36g43l.download
+127.0.0.1 www.a45dd25597.dsntvplus.click
 127.0.0.1 www.aadvantagepanelsandfence.com
 127.0.0.1 www.aam.bartoszews.pro
 127.0.0.1 www.aata.ero-advertising.com
@@ -18831,6 +18821,7 @@
 127.0.0.1 www.changeingfrost.pro
 127.0.0.1 www.chat.ero-advertising.com
 127.0.0.1 www.cheap-ads.net
+127.0.0.1 www.check-metamask.io
 127.0.0.1 www.check-olx.pl
 127.0.0.1 www.check-point-verify.com
 127.0.0.1 www.check.whozyourdoula.com
@@ -19245,7 +19236,6 @@
 127.0.0.1 www.hytuzyu8.pro
 127.0.0.1 www.i-mobi.pl
 127.0.0.1 www.icefog7edno.click
-127.0.0.1 www.icloud.gps-i.pro
 127.0.0.1 www.identyfikacje-now.2show4tv.click
 127.0.0.1 www.idlhi-gpps.click
 127.0.0.1 www.idlvwi-gpps.click
@@ -19425,6 +19415,7 @@
 127.0.0.1 www.lordfarballast.pro
 127.0.0.1 www.lottery.ie
 127.0.0.1 www.lottery.olg.ca
+127.0.0.1 www.lotto-kas.store-google-play.com
 127.0.0.1 www.loynreroof.bipinates.click
 127.0.0.1 www.lpkoblznes.pro
 127.0.0.1 www.lucamister.click
@@ -19590,6 +19581,7 @@
 127.0.0.1 www.occupyteam.click
 127.0.0.1 www.odlotowy-bon.click
 127.0.0.1 www.odnajdzmydziecko.click
+127.0.0.1 www.offer-open.com
 127.0.0.1 www.officeingfloristing.pro
 127.0.0.1 www.officeingservees.pro
 127.0.0.1 www.oistatniarundka.click
@@ -19610,6 +19602,7 @@
 127.0.0.1 www.olx-zamowienie.pro
 127.0.0.1 www.olx.ads-public-worlds.shop
 127.0.0.1 www.olx.domain-check.shop
+127.0.0.1 www.olx.extensions-click.shop
 127.0.0.1 www.olx.impact-partner.shop
 127.0.0.1 www.olx.pl-offerta.pro
 127.0.0.1 www.olx.pl.dostawa.pro

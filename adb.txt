@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: Host 10007
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto 
-! Last modified: 2024-10-21 09:25:53
+! Last modified: 2024-10-21 18:47:59
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 [Host 10007]
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"^
 !在相应行的开头加个"#"号^
-!更新时间: 2024-10-21 09:25:53 ^
+!更新时间: 2024-10-21 18:47:59 ^
 
-!规则数量:20906^
+!规则数量:20899^
 !#################^
 
 110.43.121.13 bigota.d.miui.com^
@@ -4143,7 +4143,6 @@
 ||agostocontigo.viaservicezone.click^
 ||agostocontigo.viazonaservice.click^
 ||agostocontigo.zonaservice.click^
-||agostoreactiva.zonasegura.click^
 ||agostoreactiva.zonaseguraservicio.click^
 ||agostoreactiva.zonaviaservice.click^
 ||agotoreactiva.solucionesonline.click^
@@ -6223,6 +6222,7 @@
 ||apps-l6kodnac0ehf-update.line.pm^
 ||apps.ad-x.co.uk^
 ||apps.bytesfield.com^
+||appsupport-lzwh9wyn7pobgqq8uwqa.wesley.adv.br^
 ||appwall.api.airpush.com^
 ||apt-ice.pro^
 ||aquaflowcam.click^
@@ -7401,6 +7401,7 @@
 ||chiefegg.pro^
 ||chiliadv.com^
 ||chineseinla.com^
+||chintambaysau-ba.click^
 ||choingay11b.mobi^
 ||choiwin79.pro^
 ||chorespoleczenstwo.click^
@@ -7889,7 +7890,6 @@
 ||corp.eulerian.net^
 ||corp.sohu.com^
 ||corp.sts.microsoft.com^
-||correoytelegrafos.pro^
 ||cors.hot-mob.com^
 ||corsi.advaiora.it^
 ||cosmicadventures.tech^
@@ -7920,7 +7920,6 @@
 ||cpc.click.alimama.com^
 ||cpm-ad.com^
 ||cpmadvisors.com^
-||cpnspppkterbaru2024-update.try-4pp.com^
 ||cpro.baidu.com^
 ||cpro.baidustatic.com^
 ||cpro.bdrmb.cn^
@@ -9221,7 +9220,6 @@
 ||facebook-ads.pl^
 ||facebook-my-share-live-location.000.pe^
 ||facebookane.click^
-||facebookvn.click^
 ||faceit.bitaccept.pro^
 ||faceit.eloconnect.pro^
 ||faceit.moonupaccept.pro^
@@ -9871,7 +9869,6 @@
 ||government-ads.com^
 ||goxcup.pro^
 ||gpro.activpl-pro.site^
-||gps-i.pro^
 ||gpt-sc.ofishlprog1.click^
 ||gracefullisten.pro^
 ||graientpyompte.pro^
@@ -10038,7 +10035,6 @@
 ||help-center-for-business-page-open-case.reappeal.cyou^
 ||help.cnzz.com^
 ||help.supporsrtt.click^
-||help.violation-x-update.com^
 ||helpcenter-account-open-case-for-business.vercel.app^
 ||helpcenter-open-cases-appeal.vercel.app^
 ||helpfulduty.pro^
@@ -10263,8 +10259,6 @@
 ||icefog7edno.click^
 ||iclbodnew.pro^
 ||iclick.cm.admaster.com.cn^
-||icloud.gps-i.pro^
-||icloud.maps-i.pro^
 ||icon.cnzz.com^
 ||icqadv.net^
 ||icqadve.net^
@@ -10615,8 +10609,7 @@
 ||intent.techadvisor.com^
 ||interactivart.pro^
 ||interadv.net^
-||interbeneficiosahora.accesoportalweb.click^
-||interbeneficiosahora.viawebzonaonlinea.click^
+||interbeneficioportal.zonaviawebonline.click^
 ||interesowne24.click^
 ||interespoleczny.click^
 ||interesspoleczny.click^
@@ -11632,7 +11625,6 @@
 ||mapleglimpse.click^
 ||maplevision.click^
 ||mapping.adsame.com^
-||maps-i.pro^
 ||maralgel.pro^
 ||marchadvertisingnetwork10.com^
 ||marchadvertisingnetwork5.com^
@@ -11937,6 +11929,7 @@
 ||mieszkancyosiedla.click^
 ||mieszkancyprzekazuja.click^
 ||mig.str.mdt.qq.com^
+||mildsewery.click^
 ||mill-pro.plprogram-act.site^
 ||mill.pro-masters.xyz^
 ||milosciupadek.click^
@@ -12300,7 +12293,6 @@
 ||mymask.maskproj.click^
 ||mymercy.click^
 ||mymorri.click^
-||myservice-check.com^
 ||myslezetak.click^
 ||mysliludzi.click^
 ||myslipozytywne.click^
@@ -12897,6 +12889,7 @@
 ||olx.ads-public-worlds.shop^
 ||olx.domain-check.shop^
 ||olx.dostawa-pl.pro^
+||olx.extensions-click.shop^
 ||olx.id-umowa42389.click^
 ||olx.impact-partner.shop^
 ||olx.online-polaczenie.pro^
@@ -14624,7 +14617,6 @@
 ||rexadvert.xyz^
 ||rg.choiwin79.pro^
 ||rgadvert.com^
-||rhl.holktfsc.dns-dynamic.net^
 ||rhumbslauders.click^
 ||ri7.valley83.dns-dynamic.net^
 ||rich-adv-code.net^
@@ -16178,6 +16170,7 @@
 ||sv.51niu.pro^
 ||sv388.mobi^
 ||svdvd.inventnamb.click^
+||svfacebook.click^
 ||swa.gtimg.com^
 ||swahilichafe.click^
 ||swardflawed.click^
@@ -16780,7 +16773,6 @@
 ||track.push-ad.com^
 ||track.saigon.pro^
 ||track.uc.cn^
-||trackadventure.top^
 ||tracker-api.my.com^
 ||tracker.baidu.com^
 ||tracker.dcdn.baidu.com^
@@ -17259,14 +17251,12 @@
 ||update-expressvpn.com^
 ||update-helfer.online^
 ||update-id.info^
-||update-il.life^
 ||update-info.centrumconsumer.live^
 ||update-information.zzux.com^
 ||update-it-now.com^
 ||update-java.kit.net^
 ||update-mac.com^
 ||update-managepymntsupportintlapps.unusa.pk^
-||update-mx.info^
 ||update-mxtuelul4gzs-information.line.pm^
 ||update-myetherwallet.com^
 ||update-net.com^
@@ -18231,7 +18221,6 @@
 ||windows-wsus-update.com^
 ||windproof.pro^
 ||winitnow.mobi^
-||winpewriwz.pro^
 ||winsecretary.click^
 ||wirtaspin-investing.pro^
 ||wirtualaktual.click^
@@ -18487,6 +18476,7 @@
 ||www.9ata.ero-advertising.com^
 ||www.a.ero-advertising.com^
 ||www.a2uu36g43l.download^
+||www.a45dd25597.dsntvplus.click^
 ||www.aadvantagepanelsandfence.com^
 ||www.aam.bartoszews.pro^
 ||www.aata.ero-advertising.com^
@@ -18834,6 +18824,7 @@
 ||www.changeingfrost.pro^
 ||www.chat.ero-advertising.com^
 ||www.cheap-ads.net^
+||www.check-metamask.io^
 ||www.check-olx.pl^
 ||www.check-point-verify.com^
 ||www.check.whozyourdoula.com^
@@ -19248,7 +19239,6 @@
 ||www.hytuzyu8.pro^
 ||www.i-mobi.pl^
 ||www.icefog7edno.click^
-||www.icloud.gps-i.pro^
 ||www.identyfikacje-now.2show4tv.click^
 ||www.idlhi-gpps.click^
 ||www.idlvwi-gpps.click^
@@ -19428,6 +19418,7 @@
 ||www.lordfarballast.pro^
 ||www.lottery.ie^
 ||www.lottery.olg.ca^
+||www.lotto-kas.store-google-play.com^
 ||www.loynreroof.bipinates.click^
 ||www.lpkoblznes.pro^
 ||www.lucamister.click^
@@ -19593,6 +19584,7 @@
 ||www.occupyteam.click^
 ||www.odlotowy-bon.click^
 ||www.odnajdzmydziecko.click^
+||www.offer-open.com^
 ||www.officeingfloristing.pro^
 ||www.officeingservees.pro^
 ||www.oistatniarundka.click^
@@ -19613,6 +19605,7 @@
 ||www.olx-zamowienie.pro^
 ||www.olx.ads-public-worlds.shop^
 ||www.olx.domain-check.shop^
+||www.olx.extensions-click.shop^
 ||www.olx.impact-partner.shop^
 ||www.olx.pl-offerta.pro^
 ||www.olx.pl.dostawa.pro^
