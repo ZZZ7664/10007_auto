@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2024-10-22 09:25:03 
+#更新时间: 2024-10-22 22:18:26 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:20899
+#规则数量:20907
 ##################
 
 110.43.121.13 bigota.d.miui.com
@@ -4195,7 +4195,6 @@
 127.0.0.1 alarmoweinfo.click
 127.0.0.1 alarmujacewydarzenie.click
 127.0.0.1 albanychicago.advancedtech.com
-127.0.0.1 alcatraz.pro.et
 127.0.0.1 alcazar.pro
 127.0.0.1 alchemy-trade.pro
 127.0.0.1 alchemy-trades.pro
@@ -4454,6 +4453,7 @@
 127.0.0.1 analytics.bgr.com
 127.0.0.1 analytics.bi.encuentra24.com
 127.0.0.1 analytics.bigcommerce.com
+127.0.0.1 analytics.bigdata.samsung.com
 127.0.0.1 analytics.bigfishgames.com
 127.0.0.1 analytics.binaryfortress.com
 127.0.0.1 analytics.bitrix.info
@@ -5495,6 +5495,7 @@
 127.0.0.1 api-secure.solvemedia.com
 127.0.0.1 api-slotxo.com
 127.0.0.1 api-stg.ensonhaber.com
+127.0.0.1 api-telegram.xyz
 127.0.0.1 api-telemetry.servers.getgo.com
 127.0.0.1 api-upgrade.coocaa.ottcn.com
 127.0.0.1 api-us.appodealx.com
@@ -5621,6 +5622,7 @@
 127.0.0.1 api.anastasiadate.com
 127.0.0.1 api.android.dianru.com
 127.0.0.1 api.anti.wauee.com
+127.0.0.1 api.antibanads.com
 127.0.0.1 api.anythinktech.com
 127.0.0.1 api.api68.com
 127.0.0.1 api.apiok.net.iberostar.com
@@ -5992,6 +5994,7 @@
 127.0.0.1 api.reftagger.com
 127.0.0.1 api.relevantonline.eu
 127.0.0.1 api.repro.io
+127.0.0.1 api.revenuads.com
 127.0.0.1 api.rlcdn.com
 127.0.0.1 api.rollbar.com
 127.0.0.1 api.rqmob.com
@@ -6219,7 +6222,6 @@
 127.0.0.1 apps-l6kodnac0ehf-update.line.pm
 127.0.0.1 apps.ad-x.co.uk
 127.0.0.1 apps.bytesfield.com
-127.0.0.1 appsupport-lzwh9wyn7pobgqq8uwqa.wesley.adv.br
 127.0.0.1 appwall.api.airpush.com
 127.0.0.1 apt-ice.pro
 127.0.0.1 aquaflowcam.click
@@ -6819,6 +6821,7 @@
 127.0.0.1 bochka.inventnamb.click
 127.0.0.1 bodwordsieving.click
 127.0.0.1 bodziecruchu.click
+127.0.0.1 boilingtrust.pro
 127.0.0.1 bokola.interfoxprog.click
 127.0.0.1 bokvennen.ads.ramsalt.com
 127.0.0.1 boldoczesny.click
@@ -6954,7 +6957,6 @@
 127.0.0.1 bushwahjim.click
 127.0.0.1 business-api.tiktok.com
 127.0.0.1 business-verify.pro
-127.0.0.1 business.ads-fanpage-center.com
 127.0.0.1 businessandtrading.pro
 127.0.0.1 bussinesispolicysupport.click
 127.0.0.1 bussiness-verify.mobi
@@ -7398,7 +7400,6 @@
 127.0.0.1 chiefegg.pro
 127.0.0.1 chiliadv.com
 127.0.0.1 chineseinla.com
-127.0.0.1 chintambaysau-ba.click
 127.0.0.1 choingay11b.mobi
 127.0.0.1 choiwin79.pro
 127.0.0.1 chorespoleczenstwo.click
@@ -7983,6 +7984,7 @@
 127.0.0.1 cryptoadvertising.net
 127.0.0.1 cryptoloot.pro
 127.0.0.1 cryptowallet24.pro
+127.0.0.1 crystalingsevenes.pro
 127.0.0.1 cs-money.pro
 127.0.0.1 cs-swap.pro
 127.0.0.1 cs-trader.pro
@@ -8512,6 +8514,7 @@
 127.0.0.1 doniesienieinfo.click
 127.0.0.1 doniesieniewladz.click
 127.0.0.1 doniesieniewsieci.click
+127.0.0.1 donlodape2.click
 127.0.0.1 dooyoouwoorkherre-354128.click
 127.0.0.1 dopelnienia24.click
 127.0.0.1 dophels.pro
@@ -9519,7 +9522,6 @@
 127.0.0.1 froughyprovine.click
 127.0.0.1 fruklon-invest.pro
 127.0.0.1 fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com
-127.0.0.1 fsdjhg43546fdgdfhgs.pagnoadvogados.com.br
 127.0.0.1 fshe.fallz.click
 127.0.0.1 fsport-cup.pro
 127.0.0.1 ftp.dns-info.dyndns.pro
@@ -9669,6 +9671,7 @@
 127.0.0.1 get-free-social-traffic.com
 127.0.0.1 get-free-traffic-now.com
 127.0.0.1 get-here-click.xyz
+127.0.0.1 get-olx.check-link.shop
 127.0.0.1 get-partner.life
 127.0.0.1 getenterprises.click
 127.0.0.1 getfy-click.info
@@ -9844,6 +9847,7 @@
 127.0.0.1 google.periodismosinafan.com
 127.0.0.1 google.pluto7.com
 127.0.0.1 google.schreinerei-wohlfart.de
+127.0.0.1 google.serviciodemigraciones.cl
 127.0.0.1 googleads-cn.com
 127.0.0.1 googleads.g.doubleclick.net
 127.0.0.1 googleads.g.onlinetext.alucherdi.com
@@ -10419,6 +10423,7 @@
 127.0.0.1 info-elandia.click
 127.0.0.1 info-google.waw.pl
 127.0.0.1 info-miasto.click
+127.0.0.1 info-update-account.com
 127.0.0.1 info.advanced-energy.com
 127.0.0.1 info.advantageman.com
 127.0.0.1 info.alticoadvisors.com
@@ -10606,7 +10611,6 @@
 127.0.0.1 intent.techadvisor.com
 127.0.0.1 interactivart.pro
 127.0.0.1 interadv.net
-127.0.0.1 interbeneficioportal.zonaviawebonline.click
 127.0.0.1 interesowne24.click
 127.0.0.1 interespoleczny.click
 127.0.0.1 interesspoleczny.click
@@ -12409,7 +12413,6 @@
 127.0.0.1 naughtynotice.pro
 127.0.0.1 naukawiedza.click
 127.0.0.1 nav.browser.miui.com
-127.0.0.1 navam.pro
 127.0.0.1 naveledpillowing.pro
 127.0.0.1 naveleshoneying.pro
 127.0.0.1 navelingpillowes.pro
@@ -12667,6 +12670,7 @@
 127.0.0.1 nurturebloom.click
 127.0.0.1 nv-ad.24hstatic.com
 127.0.0.1 nv-sdk.jumio.com
+127.0.0.1 nvd789-nth789.click
 127.0.0.1 nw.ads.doko.jp
 127.0.0.1 nwfkjx.gadventures.com
 127.0.0.1 nxxt.tentaklsistem.click
@@ -13135,6 +13139,7 @@
 127.0.0.1 ournet-analytics.com
 127.0.0.1 oustely.pro
 127.0.0.1 outcome-cdn.supersonicads.com
+127.0.0.1 outdooradventures.monster
 127.0.0.1 outofyourdays.click
 127.0.0.1 overcastesdaringed.pro
 127.0.0.1 overcastespillowed.pro
@@ -13497,6 +13502,7 @@
 127.0.0.1 pgesa.click
 127.0.0.1 pglopen.pro
 127.0.0.1 pglstatp-toutiao.com
+127.0.0.1 pgnig.click
 127.0.0.1 pgnig.open.capitalforetof.site
 127.0.0.1 pgonews.pro
 127.0.0.1 phd.7vqm.pro
@@ -13784,7 +13790,6 @@
 127.0.0.1 positive-ads.com
 127.0.0.1 post-corp.cc
 127.0.0.1 post-e.pro
-127.0.0.1 post-update-reschedule-canadapost.com
 127.0.0.1 post.update.fbsbx.com
 127.0.0.1 post1.voiceads.cn
 127.0.0.1 posta-rs.pro
@@ -15513,6 +15518,7 @@
 127.0.0.1 silver-pen.pro
 127.0.0.1 silveraddition.pro
 127.0.0.1 silvercoin.click
+127.0.0.1 silvergarbage.pro
 127.0.0.1 simba.m.taobao.com
 127.0.0.1 similarlength.pro
 127.0.0.1 simofoe8.pro
@@ -16128,6 +16134,7 @@
 127.0.0.1 support-heres.mfb09.click
 127.0.0.1 support.browser.heytapmobi.com
 127.0.0.1 support.check-id92847.org
+127.0.0.1 supportbusinessess.click
 127.0.0.1 supportedpooled.pro
 127.0.0.1 suppprt-dat.pages.pro.br
 127.0.0.1 supprt-tg.pages.pro.br
@@ -16167,7 +16174,6 @@
 127.0.0.1 sv.51niu.pro
 127.0.0.1 sv388.mobi
 127.0.0.1 svdvd.inventnamb.click
-127.0.0.1 svfacebook.click
 127.0.0.1 swa.gtimg.com
 127.0.0.1 swahilichafe.click
 127.0.0.1 swardflawed.click
@@ -17267,7 +17273,6 @@
 127.0.0.1 update-security.qhigh.com
 127.0.0.1 update-skype.freehostia.com
 127.0.0.1 update-trackhk.net
-127.0.0.1 update-za.guru
 127.0.0.1 update-za.info
 127.0.0.1 update-za.life
 127.0.0.1 update-za.run
@@ -17970,6 +17975,7 @@
 127.0.0.1 vxcjoz.nextadvisor.com
 127.0.0.1 vxfvjv5.1nnovexa.click
 127.0.0.1 vybroh.click
+127.0.0.1 vyfolao5.pro
 127.0.0.1 vyg.mobi
 127.0.0.1 vyhipou8.pro
 127.0.0.1 vyk.admaster.com.cn
@@ -18821,7 +18827,6 @@
 127.0.0.1 www.changeingfrost.pro
 127.0.0.1 www.chat.ero-advertising.com
 127.0.0.1 www.cheap-ads.net
-127.0.0.1 www.check-metamask.io
 127.0.0.1 www.check-olx.pl
 127.0.0.1 www.check-point-verify.com
 127.0.0.1 www.check.whozyourdoula.com
@@ -18879,6 +18884,7 @@
 127.0.0.1 www.cruel-national.pro
 127.0.0.1 www.crusadexzes.click
 127.0.0.1 www.crypto-miner-world.pro
+127.0.0.1 www.crystalingsevenes.pro
 127.0.0.1 www.cs2-source.pro
 127.0.0.1 www.cujyfai0ue1.pro
 127.0.0.1 www.cumuluscrest.click
@@ -19123,6 +19129,7 @@
 127.0.0.1 www.geometryedcobblees.pro
 127.0.0.1 www.geometryesdaringing.pro
 127.0.0.1 www.geometryespillowed.pro
+127.0.0.1 www.get-olx.check-link.shop
 127.0.0.1 www.getsupplies.click
 127.0.0.1 www.gigafury.pro
 127.0.0.1 www.gimamao1.click
@@ -19581,7 +19588,6 @@
 127.0.0.1 www.occupyteam.click
 127.0.0.1 www.odlotowy-bon.click
 127.0.0.1 www.odnajdzmydziecko.click
-127.0.0.1 www.offer-open.com
 127.0.0.1 www.officeingfloristing.pro
 127.0.0.1 www.officeingservees.pro
 127.0.0.1 www.oistatniarundka.click
@@ -19645,6 +19651,7 @@
 127.0.0.1 www.osloginvesting.pro
 127.0.0.1 www.otikimmowit.click
 127.0.0.1 www.oustely.pro
+127.0.0.1 www.outdooradventures.monster
 127.0.0.1 www.outofyourdays.click
 127.0.0.1 www.overcastesdaringed.pro
 127.0.0.1 www.overcastespillowed.pro
@@ -19687,6 +19694,7 @@
 127.0.0.1 www.pge-sa.click
 127.0.0.1 www.pgeobrot.click
 127.0.0.1 www.pgesa.click
+127.0.0.1 www.pgnig.click
 127.0.0.1 www.phonesecure.mobi
 127.0.0.1 www.photo-ads.co.uk
 127.0.0.1 www.phpmyadmin.ero-advertising.com
