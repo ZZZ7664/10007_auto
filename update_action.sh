@@ -63,6 +63,7 @@ echo "
 127.0.0.1 api-access.pangolin-sdk-toutiao${i}.com
 127.0.0.1 api-access.pangolin-sdk-toutiao${i}-b.com
 127.0.0.1 xn--pan-ei"$i"e.xn--baidu-jm6h.com
+127.0.0.1 w${i}.gskwai.com
 " >> "${file}"
 done
 
