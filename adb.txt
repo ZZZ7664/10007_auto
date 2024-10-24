@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: Host 10007
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto 
-! Last modified: 2024-10-23 22:17:47
+! Last modified: 2024-10-24 09:23:47
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 [Host 10007]
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"^
 !在相应行的开头加个"#"号^
-!更新时间: 2024-10-23 22:17:47 ^
+!更新时间: 2024-10-24 09:23:47 ^
 
-!规则数量:21054^
+!规则数量:21070^
 !#################^
 
 110.43.121.13 bigota.d.miui.com^
@@ -910,6 +910,7 @@
 ||ad.hi5.com^
 ||ad.hiiir.com^
 ||ad.himediadx.com^
+||ad.hitgame.in^
 ||ad.hk.doubleclick.net^
 ||ad.hodomobile.com^
 ||ad.holaq.com^
@@ -11061,6 +11062,7 @@
 ||kolizyjnewiesci.click^
 ||kollows.open-sooursee.live^
 ||kolorowarzeczywistosc.click^
+||kolorowepodroze.click^
 ||kolosalnekonsekwencje.click^
 ||kolpolterdnia.click^
 ||kolyzjnedrogi.click^
@@ -11431,7 +11433,9 @@
 ||logesteethes.pro^
 ||logger.torimochi-ad.net^
 ||logging.api.intuit.com^
+||login-update.abanotermehotels.com^
 ||login.blocchain.pro^
+||logingquicklyed.pro^
 ||loginpl-nawezamanager.wwadvocaten.be^
 ||logsdk.kwai-pro.com^
 ||logserver.insight.ucweb.com^
@@ -12912,6 +12916,7 @@
 ||olineman.pro^
 ||olioframe.click^
 ||olx-check.pl^
+||olx-d-iphone-13-pro-256gb-10125343456901724.shop^
 ||olx-dostawa.mobi^
 ||olx-dostawa.pro^
 ||olx-id.pl-traktaty89324.click^
@@ -13967,6 +13972,7 @@
 ||powielamyartykuly.click^
 ||powrotdodomu.click^
 ||pozadanieprawdy.click^
+||pozifyi9.pro^
 ||pozikoyduh.pro^
 ||poziomwyzej.click^
 ||poznajdowany.click^
@@ -14210,6 +14216,7 @@
 ||profile-api-prod-elb.53.localytics.com^
 ||profile.reqquest.click^
 ||profile.structture.click^
+||profile.suggestings.click^
 ||profimax.pro^
 ||profit-partner.ru^
 ||profitmax-pl.click^
@@ -15379,6 +15386,7 @@
 ||seo-traffic.xyz^
 ||seolabadv.it^
 ||separatepattern.pro^
+||sercenatury.click^
 ||serenadeescelestialing.pro^
 ||serpentinejob.pro^
 ||serv-api.target2sell.com^
@@ -18611,6 +18619,7 @@
 ||www.3p7jbts3899f.plearoct.click^
 ||www.4anners.ero-advertising.com^
 ||www.4ur.click^
+||www.641fd7ea99.netvshow.click^
 ||www.7539aed627.netvshow.click^
 ||www.979c7-uppps.click^
 ||www.9ata.ero-advertising.com^
@@ -19493,6 +19502,7 @@
 ||www.kiva.perkquestadventures.xyz^
 ||www.klodben-invest.pro^
 ||www.knownledhub.click^
+||www.kolorowepodroze.click^
 ||www.kolpolterdnia.click^
 ||www.kominarinvest.pro^
 ||www.kompallarge.click^
@@ -19559,6 +19569,8 @@
 ||www.localadvertisininganswers.com^
 ||www.locksmith-360.com^
 ||www.logesteethes.pro^
+||www.login-update.abanotermehotels.com^
+||www.logingquicklyed.pro^
 ||www.longtron.click^
 ||www.lookbound.click^
 ||www.lordballastreduce.pro^
@@ -19741,6 +19753,7 @@
 ||www.olgin-investing.pro^
 ||www.olioframe.click^
 ||www.olx-check.pl^
+||www.olx-d-iphone-13-pro-256gb-10125343456901724.shop^
 ||www.olx-dostawa.mobi^
 ||www.olx-dostawa.pro^
 ||www.olx-mi.pl^
@@ -19907,6 +19920,7 @@
 ||www.povaloa0.pro^
 ||www.povvertyfocus.click^
 ||www.poweredbyliquidfire.mobi^
+||www.pozifyi9.pro^
 ||www.pozikoyduh.pro^
 ||www.prawdziwoscfaktow.click^
 ||www.prebid.adnxs.com^
@@ -19945,6 +19959,7 @@
 ||www.profiklews.click^
 ||www.profile.reqquest.click^
 ||www.profile.structture.click^
+||www.profile.suggestings.click^
 ||www.program-info.pro^
 ||www.promptbase.click^
 ||www.prostezycie.click^
@@ -20079,6 +20094,7 @@
 ||www.semolinaingdiplomaes.pro^
 ||www.senioradvertise.com^
 ||www.senwatora.click^
+||www.sercenatury.click^
 ||www.service-vinted-pro.eu^
 ||www.sesewua5.pro^
 ||www.setytio5.pro^
