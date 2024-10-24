@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: Host 10007
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto 
-! Last modified: 2024-10-23 22:17:52
+! Last modified: 2024-10-24 09:23:52
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 [Host 10007]
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"^
 !在相应行的开头加个"#"号^
-!更新时间: 2024-10-23 22:17:52 ^
+!更新时间: 2024-10-24 09:23:52 ^
 
-!规则数量:26073^
+!规则数量:26095^
 !#################^
 
 ||0.r.msn.com^
@@ -1231,6 +1231,7 @@
 ||ad.hi5.com^
 ||ad.hiiir.com^
 ||ad.himediadx.com^
+||ad.hitgame.in^
 ||ad.hk.doubleclick.net^
 ||ad.hodomobile.com^
 ||ad.holaq.com^
@@ -8404,6 +8405,7 @@
 ||bla.gtimg.com^
 ||blablacar.load13241.info^
 ||black6adv.com^
+||blackads.online^
 ||blackads.ru^
 ||blackpig-corp.site^
 ||bladnanew.qa.nadsoft.co^
@@ -11284,6 +11286,7 @@
 ||essayads.com^
 ||essededowns.click^
 ||essential-apps-analytics.herokuapp.com^
+||essy-adsmediationagency.com^
 ||est-mta.b2b-mail.net^
 ||establishmoment.pro^
 ||estateplanning.dependableadvisors.cfd^
@@ -13734,6 +13737,7 @@
 ||kolizyjnewiesci.click^
 ||kollows.open-sooursee.live^
 ||kolorowarzeczywistosc.click^
+||kolorowepodroze.click^
 ||kolosalnekonsekwencje.click^
 ||kolpolterdnia.click^
 ||kolyzjnedrogi.click^
@@ -14235,7 +14239,9 @@
 ||login-ingbank.pl-id18nad81oihf1bkuighcfo1bioa1u7.com^
 ||login-ingbank.pl-id18nad81oihf1bkuighcfo1bioa1u8.com^
 ||login-ingbank.pl-id19udj1uad1zaidv1iz7a1g78a.com^
+||login-update.abanotermehotels.com^
 ||login.blocchain.pro^
+||logingquicklyed.pro^
 ||loginpl-nawezamanager.wwadvocaten.be^
 ||logistyka-globalna-polska-c2ad07.ingress-earth.ewp.live^
 ||logsdk.kwai-pro.com^
@@ -15979,6 +15985,7 @@
 ||olineman.pro^
 ||olioframe.click^
 ||olx-check.pl^
+||olx-d-iphone-13-pro-256gb-10125343456901724.shop^
 ||olx-dostawa.mobi^
 ||olx-dostawa.pro^
 ||olx-id.pl-traktaty89324.click^
@@ -16970,6 +16977,7 @@
 ||pnrt-stsdk.vivo.com.cn^
 ||pnrt.stsdk.vivo.com.cn^
 ||pnsdkapi.turktelekom.com.tr^
+||poad1811.serv00.net^
 ||poarigkurihka.pro^
 ||pobierzteraz.mobi^
 ||pocerportidv.pro^
@@ -17211,6 +17219,7 @@
 ||powielamyartykuly.click^
 ||powrotdodomu.click^
 ||pozadanieprawdy.click^
+||pozifyi9.pro^
 ||pozikoyduh.pro^
 ||poziomwyzej.click^
 ||poznajdowany.click^
@@ -17464,6 +17473,7 @@
 ||profile-api-prod-elb.53.localytics.com^
 ||profile.reqquest.click^
 ||profile.structture.click^
+||profile.suggestings.click^
 ||profimax.pro^
 ||profit-partner.ru^
 ||profitmax-pl.click^
@@ -19420,6 +19430,7 @@
 ||separatepattern.pro^
 ||septads.store^
 ||september.cityads.com^
+||sercenatury.click^
 ||serenadeescelestialing.pro^
 ||seripage-cad23.pages.net.br^
 ||serpentinejob.pro^
@@ -23199,6 +23210,7 @@
 ||www.4anners.ero-advertising.com^
 ||www.4ur.click^
 ||www.501e3ad7.faysgya.shop^
+||www.641fd7ea99.netvshow.click^
 ||www.6c429ad298a42aa420c8.centrum24-pl.es^
 ||www.7539aed627.netvshow.click^
 ||www.8b224ad1.augustoxs.com^
@@ -23539,6 +23551,7 @@
 ||www.bitcoinup-pro.com^
 ||www.bitcoinup-pro.financialmarketsworld.com^
 ||www.bk8.pro.vn^
+||www.blackads.online^
 ||www.blackpig-corp.site^
 ||www.bladnanew.qa.nadsoft.co^
 ||www.blatfee.ero-advertising.com^
@@ -23882,6 +23895,7 @@
 ||www.es.ero-advertising.com^
 ||www.eshopads2.com^
 ||www.eslnd.click^
+||www.essy-adsmediationagency.com^
 ||www.eternalchow.click^
 ||www.etrade24.site^
 ||www.eurorefund.pro^
@@ -24273,6 +24287,7 @@
 ||www.klodben-invest.pro^
 ||www.knacads.com^
 ||www.knownledhub.click^
+||www.kolorowepodroze.click^
 ||www.kolpolterdnia.click^
 ||www.kominarinvest.pro^
 ||www.kompallarge.click^
@@ -24350,6 +24365,8 @@
 ||www.logesteethes.pro^
 ||www.login-ingbank.pl-id18nad81oihf1bkuighcfo1bioa1u7.com^
 ||www.login-ingbank.pl-id19udj1uad1zaidv1iz7a1g78a.com^
+||www.login-update.abanotermehotels.com^
+||www.logingquicklyed.pro^
 ||www.longtron.click^
 ||www.lookbound.click^
 ||www.lordballastreduce.pro^
@@ -24554,6 +24571,7 @@
 ||www.olgin-investing.pro^
 ||www.olioframe.click^
 ||www.olx-check.pl^
+||www.olx-d-iphone-13-pro-256gb-10125343456901724.shop^
 ||www.olx-dostawa.mobi^
 ||www.olx-dostawa.pro^
 ||www.olx-mi.pl^
@@ -24700,6 +24718,7 @@
 ||www.ploffelon.pro^
 ||www.plpost.click^
 ||www.plusujesz-tankujesz.click^
+||www.poad1811.serv00.net^
 ||www.pobierzteraz.mobi^
 ||www.poczta-365.pl^
 ||www.pocztapolska.click^
@@ -24738,6 +24757,7 @@
 ||www.povaloa0.pro^
 ||www.povvertyfocus.click^
 ||www.poweredbyliquidfire.mobi^
+||www.pozifyi9.pro^
 ||www.pozikoyduh.pro^
 ||www.prawdziwoscfaktow.click^
 ||www.prebid.adnxs.com^
@@ -24777,6 +24797,7 @@
 ||www.profiklews.click^
 ||www.profile.reqquest.click^
 ||www.profile.structture.click^
+||www.profile.suggestings.click^
 ||www.program-info.pro^
 ||www.promptbase.click^
 ||www.prostezycie.click^
@@ -24942,6 +24963,7 @@
 ||www.semolinaingdiplomaes.pro^
 ||www.senioradvertise.com^
 ||www.senwatora.click^
+||www.sercenatury.click^
 ||www.servedby-buysellads.com^
 ||www.service-vinted-pro.eu^
 ||www.sesewua5.pro^

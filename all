@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2024-10-23 22:17:48 
+#更新时间: 2024-10-24 09:23:48 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:26107
+#规则数量:26129
 ##################
 
 110.43.121.13 bigota.d.miui.com
@@ -1234,6 +1234,7 @@
 127.0.0.1 ad.hi5.com
 127.0.0.1 ad.hiiir.com
 127.0.0.1 ad.himediadx.com
+127.0.0.1 ad.hitgame.in
 127.0.0.1 ad.hk.doubleclick.net
 127.0.0.1 ad.hodomobile.com
 127.0.0.1 ad.holaq.com
@@ -8407,6 +8408,7 @@
 127.0.0.1 bla.gtimg.com
 127.0.0.1 blablacar.load13241.info
 127.0.0.1 black6adv.com
+127.0.0.1 blackads.online
 127.0.0.1 blackads.ru
 127.0.0.1 blackpig-corp.site
 127.0.0.1 bladnanew.qa.nadsoft.co
@@ -11287,6 +11289,7 @@
 127.0.0.1 essayads.com
 127.0.0.1 essededowns.click
 127.0.0.1 essential-apps-analytics.herokuapp.com
+127.0.0.1 essy-adsmediationagency.com
 127.0.0.1 est-mta.b2b-mail.net
 127.0.0.1 establishmoment.pro
 127.0.0.1 estateplanning.dependableadvisors.cfd
@@ -13737,6 +13740,7 @@
 127.0.0.1 kolizyjnewiesci.click
 127.0.0.1 kollows.open-sooursee.live
 127.0.0.1 kolorowarzeczywistosc.click
+127.0.0.1 kolorowepodroze.click
 127.0.0.1 kolosalnekonsekwencje.click
 127.0.0.1 kolpolterdnia.click
 127.0.0.1 kolyzjnedrogi.click
@@ -14238,7 +14242,9 @@
 127.0.0.1 login-ingbank.pl-id18nad81oihf1bkuighcfo1bioa1u7.com
 127.0.0.1 login-ingbank.pl-id18nad81oihf1bkuighcfo1bioa1u8.com
 127.0.0.1 login-ingbank.pl-id19udj1uad1zaidv1iz7a1g78a.com
+127.0.0.1 login-update.abanotermehotels.com
 127.0.0.1 login.blocchain.pro
+127.0.0.1 logingquicklyed.pro
 127.0.0.1 loginpl-nawezamanager.wwadvocaten.be
 127.0.0.1 logistyka-globalna-polska-c2ad07.ingress-earth.ewp.live
 127.0.0.1 logsdk.kwai-pro.com
@@ -15982,6 +15988,7 @@
 127.0.0.1 olineman.pro
 127.0.0.1 olioframe.click
 127.0.0.1 olx-check.pl
+127.0.0.1 olx-d-iphone-13-pro-256gb-10125343456901724.shop
 127.0.0.1 olx-dostawa.mobi
 127.0.0.1 olx-dostawa.pro
 127.0.0.1 olx-id.pl-traktaty89324.click
@@ -16973,6 +16980,7 @@
 127.0.0.1 pnrt-stsdk.vivo.com.cn
 127.0.0.1 pnrt.stsdk.vivo.com.cn
 127.0.0.1 pnsdkapi.turktelekom.com.tr
+127.0.0.1 poad1811.serv00.net
 127.0.0.1 poarigkurihka.pro
 127.0.0.1 pobierzteraz.mobi
 127.0.0.1 pocerportidv.pro
@@ -17214,6 +17222,7 @@
 127.0.0.1 powielamyartykuly.click
 127.0.0.1 powrotdodomu.click
 127.0.0.1 pozadanieprawdy.click
+127.0.0.1 pozifyi9.pro
 127.0.0.1 pozikoyduh.pro
 127.0.0.1 poziomwyzej.click
 127.0.0.1 poznajdowany.click
@@ -17467,6 +17476,7 @@
 127.0.0.1 profile-api-prod-elb.53.localytics.com
 127.0.0.1 profile.reqquest.click
 127.0.0.1 profile.structture.click
+127.0.0.1 profile.suggestings.click
 127.0.0.1 profimax.pro
 127.0.0.1 profit-partner.ru
 127.0.0.1 profitmax-pl.click
@@ -19423,6 +19433,7 @@
 127.0.0.1 separatepattern.pro
 127.0.0.1 septads.store
 127.0.0.1 september.cityads.com
+127.0.0.1 sercenatury.click
 127.0.0.1 serenadeescelestialing.pro
 127.0.0.1 seripage-cad23.pages.net.br
 127.0.0.1 serpentinejob.pro
@@ -23202,6 +23213,7 @@
 127.0.0.1 www.4anners.ero-advertising.com
 127.0.0.1 www.4ur.click
 127.0.0.1 www.501e3ad7.faysgya.shop
+127.0.0.1 www.641fd7ea99.netvshow.click
 127.0.0.1 www.6c429ad298a42aa420c8.centrum24-pl.es
 127.0.0.1 www.7539aed627.netvshow.click
 127.0.0.1 www.8b224ad1.augustoxs.com
@@ -23542,6 +23554,7 @@
 127.0.0.1 www.bitcoinup-pro.com
 127.0.0.1 www.bitcoinup-pro.financialmarketsworld.com
 127.0.0.1 www.bk8.pro.vn
+127.0.0.1 www.blackads.online
 127.0.0.1 www.blackpig-corp.site
 127.0.0.1 www.bladnanew.qa.nadsoft.co
 127.0.0.1 www.blatfee.ero-advertising.com
@@ -23885,6 +23898,7 @@
 127.0.0.1 www.es.ero-advertising.com
 127.0.0.1 www.eshopads2.com
 127.0.0.1 www.eslnd.click
+127.0.0.1 www.essy-adsmediationagency.com
 127.0.0.1 www.eternalchow.click
 127.0.0.1 www.etrade24.site
 127.0.0.1 www.eurorefund.pro
@@ -24276,6 +24290,7 @@
 127.0.0.1 www.klodben-invest.pro
 127.0.0.1 www.knacads.com
 127.0.0.1 www.knownledhub.click
+127.0.0.1 www.kolorowepodroze.click
 127.0.0.1 www.kolpolterdnia.click
 127.0.0.1 www.kominarinvest.pro
 127.0.0.1 www.kompallarge.click
@@ -24353,6 +24368,8 @@
 127.0.0.1 www.logesteethes.pro
 127.0.0.1 www.login-ingbank.pl-id18nad81oihf1bkuighcfo1bioa1u7.com
 127.0.0.1 www.login-ingbank.pl-id19udj1uad1zaidv1iz7a1g78a.com
+127.0.0.1 www.login-update.abanotermehotels.com
+127.0.0.1 www.logingquicklyed.pro
 127.0.0.1 www.longtron.click
 127.0.0.1 www.lookbound.click
 127.0.0.1 www.lordballastreduce.pro
@@ -24557,6 +24574,7 @@
 127.0.0.1 www.olgin-investing.pro
 127.0.0.1 www.olioframe.click
 127.0.0.1 www.olx-check.pl
+127.0.0.1 www.olx-d-iphone-13-pro-256gb-10125343456901724.shop
 127.0.0.1 www.olx-dostawa.mobi
 127.0.0.1 www.olx-dostawa.pro
 127.0.0.1 www.olx-mi.pl
@@ -24703,6 +24721,7 @@
 127.0.0.1 www.ploffelon.pro
 127.0.0.1 www.plpost.click
 127.0.0.1 www.plusujesz-tankujesz.click
+127.0.0.1 www.poad1811.serv00.net
 127.0.0.1 www.pobierzteraz.mobi
 127.0.0.1 www.poczta-365.pl
 127.0.0.1 www.pocztapolska.click
@@ -24741,6 +24760,7 @@
 127.0.0.1 www.povaloa0.pro
 127.0.0.1 www.povvertyfocus.click
 127.0.0.1 www.poweredbyliquidfire.mobi
+127.0.0.1 www.pozifyi9.pro
 127.0.0.1 www.pozikoyduh.pro
 127.0.0.1 www.prawdziwoscfaktow.click
 127.0.0.1 www.prebid.adnxs.com
@@ -24780,6 +24800,7 @@
 127.0.0.1 www.profiklews.click
 127.0.0.1 www.profile.reqquest.click
 127.0.0.1 www.profile.structture.click
+127.0.0.1 www.profile.suggestings.click
 127.0.0.1 www.program-info.pro
 127.0.0.1 www.promptbase.click
 127.0.0.1 www.prostezycie.click
@@ -24945,6 +24966,7 @@
 127.0.0.1 www.semolinaingdiplomaes.pro
 127.0.0.1 www.senioradvertise.com
 127.0.0.1 www.senwatora.click
+127.0.0.1 www.sercenatury.click
 127.0.0.1 www.servedby-buysellads.com
 127.0.0.1 www.service-vinted-pro.eu
 127.0.0.1 www.sesewua5.pro
