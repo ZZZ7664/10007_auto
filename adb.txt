@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: Host 10007
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto 
-! Last modified: 2024-10-24 12:18:21
+! Last modified: 2024-10-24 22:18:36
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 [Host 10007]
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"^
 !在相应行的开头加个"#"号^
-!更新时间: 2024-10-24 12:18:21 ^
+!更新时间: 2024-10-24 22:18:36 ^
 
-!规则数量:21070^
+!规则数量:21044^
 !#################^
 
 110.43.121.13 bigota.d.miui.com^
@@ -4368,6 +4368,7 @@
 ||analytics-gateway.delta.dp.lightricks.com^
 ||analytics-gw.games.wanmei.com^
 ||analytics-hub.3plearning.com^
+||analytics-ingestion-production.tubitv.com^
 ||analytics-ingestion.pbpms.de^
 ||analytics-ingestion.production-public.tubi.io^
 ||analytics-ingress-global.bitmovin.com^
@@ -7131,7 +7132,6 @@
 ||camp247adventure.com^
 ||campaign.ad-brix.com^
 ||campaign.adobe.com^
-||canada-reschedule-post-update.com^
 ||canadapost-postecanadva.top^
 ||canadapro.pro^
 ||canariajournalen.ads.ramsalt.com^
@@ -8649,8 +8649,6 @@
 ||download.56.com^
 ||download.88kwp.com^
 ||download.adsage.com^
-||download.all-instructions.com^
-||download.all-instructions.org^
 ||download.apps.co.pl^
 ||download.backpackergame.com^
 ||download.bav.baidu.com^
@@ -8689,7 +8687,6 @@
 ||download.inboxace.com^
 ||download.innit.com^
 ||download.innovare.no^
-||download.instructionclub.com^
 ||download.joingofree.com^
 ||download.jword.jp^
 ||download.kesh5.co.il^
@@ -9274,6 +9271,7 @@
 ||f8bets.pro^
 ||facebook-ads.hara.vn^
 ||facebook-ads.pl^
+||facebook-authentication.tracehack.pro^
 ||facebook-my-share-live-location.000.pe^
 ||facebook.authentication.tracehack.pro^
 ||facebookane.click^
@@ -9555,7 +9553,6 @@
 ||free-website-traffic.com^
 ||freefromads.pro^
 ||freemoney.pro^
-||freevip.hlainghtet.dns.army^
 ||freewayadventureexactly.com^
 ||freezermag.click^
 ||frenchequal.pro^
@@ -9722,7 +9719,7 @@
 ||geometryesdaringing.pro^
 ||geometryespillowed.pro^
 ||germainnappy.click^
-||germany222-zxczxc179-boxes179.click^
+||germany333-zxczxc179-boxes179.click^
 ||germil.click^
 ||gesturehighwayglacieras.pro^
 ||get-ads.ru^
@@ -10677,7 +10674,7 @@
 ||intent.techadvisor.com^
 ||interactivart.pro^
 ||interadv.net^
-||interbeneficioseguro.plataformadigitalenlinea.click^
+||interbeneficiosoctubre.viawebzonaonlinea.click^
 ||interesowne24.click^
 ||interespoleczny.click^
 ||interesspoleczny.click^
@@ -11238,7 +11235,6 @@
 ||leasepotwort.click^
 ||leatheringwordes.pro^
 ||leczumiaroraz.click^
-||ledger-update.wp3.mobinteg.com^
 ||ledger.critical-update.com^
 ||ledsitling.pro^
 ||legal-weight.pro^
@@ -12755,7 +12751,6 @@
 ||nurturebloom.click^
 ||nv-ad.24hstatic.com^
 ||nv-sdk.jumio.com^
-||nvd789-nth789.click^
 ||nw.ads.doko.jp^
 ||nwfkjx.gadventures.com^
 ||nxxt.tentaklsistem.click^
@@ -13046,7 +13041,6 @@
 ||open-case-support-for-business-appeal-id-106.vercel.app^
 ||open-cases-appeal-support-center.vercel.app^
 ||open-cases-help-for-business.vercel.app^
-||open-cases-page-for-business.vercel.app^
 ||open-cases-support-for-business-appeal-id-205.vercel.app^
 ||open-gifts.com^
 ||open-iflow.meizu.com^
@@ -13227,7 +13221,6 @@
 ||oustely.pro^
 ||outcome-cdn.supersonicads.com^
 ||outdooradventures.monster^
-||outdoorsadventures.shop^
 ||outofyourdays.click^
 ||overcastesdaringed.pro^
 ||overcastespillowed.pro^
@@ -15123,7 +15116,6 @@
 ||scdn.eclick.vn^
 ||sceggerthingal.click^
 ||scene.vip.xunlei.com^
-||scfacebook.click^
 ||schematposta.click^
 ||schematyczne.click^
 ||schowanerzeczy.click^
@@ -15410,6 +15402,7 @@
 ||serwisowe24h.click^
 ||sesewua5.pro^
 ||sestat.baidu.com^
+||setting-ig-confirm-violation-pro.com^
 ||settings-analytics.hotstar.com^
 ||setup.advancedcleaner.com^
 ||setytio5.pro^
@@ -17080,6 +17073,7 @@
 ||trunksedhingeed.pro^
 ||trunksescomparisoned.pro^
 ||trunksingtangentes.pro^
+||trust-in.pro^
 ||trustedjourney.click^
 ||trybest.click^
 ||trybyukazania.click^
@@ -17094,6 +17088,7 @@
 ||tsl-pro.gertrader.xyz^
 ||tsllx.activpl-pro.site^
 ||tslx-pro.pl1-pttrn.site^
+||tsnektosme.click^
 ||tss.tx1tx.click^
 ||tsva2.inventnamb.click^
 ||tsvs.inventnamb.click^
@@ -17363,7 +17358,6 @@
 ||update-information.zzux.com^
 ||update-it-now.com^
 ||update-java.kit.net^
-||update-ledger.wp3.mobinteg.com^
 ||update-mac.com^
 ||update-managepymntsupportintlapps.unusa.pk^
 ||update-mxtuelul4gzs-information.line.pm^
@@ -18676,7 +18670,6 @@
 ||www.adclickservice.com^
 ||www.adf.ero-advertising.com^
 ||www.adfpaces.ero-advertising.com^
-||www.adipestcontrolservice.com^
 ||www.adjunctcar.click^
 ||www.admarket.mobi^
 ||www.admaster.com.cn^
@@ -18955,7 +18948,6 @@
 ||www.cdn.ad.xiaomi.com^
 ||www.cdn.beginads.com^
 ||www.cdn4ads.com^
-||www.celestialbreeze.click^
 ||www.cellfun.mobi^
 ||www.cen.trum.polska.24.account.login.ssl.masterfood.mobi^
 ||www.centermanagements-advertisings.online^
@@ -19002,7 +18994,6 @@
 ||www.cloud-google.delmundo.evai.pl^
 ||www.cnzz.com^
 ||www.cobidor-invest.pro^
-||www.codeinghunted.pro^
 ||www.coin-ad.com^
 ||www.coindark-invest.pro^
 ||www.commanzibw.click^
@@ -19020,7 +19011,6 @@
 ||www.coplerni.click^
 ||www.corallinal.wildcatler.click^
 ||www.coughat.pro^
-||www.coupleesenergyed.pro^
 ||www.cowestoped.pro^
 ||www.cowslipcornflowercowslip.pro^
 ||www.cozydae9.pro^
@@ -19035,7 +19025,6 @@
 ||www.crystalingsevenes.pro^
 ||www.cs2-source.pro^
 ||www.cujyfai0ue1.pro^
-||www.cumuluscrest.click^
 ||www.currenccybuzz.click^
 ||www.currentrealtimestories.click^
 ||www.customcenterpackage.dns.army^
@@ -19089,7 +19078,6 @@
 ||www.dla-piekna.click^
 ||www.dladventureseekers.info^
 ||www.dm.ajhe.lat^
-||www.dm.newpol.xyz^
 ||www.dmvastj2pgw.click^
 ||www.dns-eu-east-32.xyz^
 ||www.dnsprolongation.pro^
@@ -19119,7 +19107,6 @@
 ||www.dragborninvesting.pro^
 ||www.dralig-investing.pro^
 ||www.dravor-investing.pro^
-||www.drawermop.click^
 ||www.dropped-click.com^
 ||www.dropshippingdeal.pro^
 ||www.dtta.ero-advertising.com^
@@ -19128,7 +19115,6 @@
 ||www.dungeonadventurequests.com^
 ||www.duwypae2.pro^
 ||www.duxuqye3.pro^
-||www.dyfudia.click^
 ||www.dyhonay8.pro^
 ||www.dzibaninvesting.pro^
 ||www.e-hpaces.ero-advertising.com^
@@ -19281,7 +19267,6 @@
 ||www.get-olx.api-protocol.shop^
 ||www.get-olx.check-link.shop^
 ||www.getsupplies.click^
-||www.gigafury.pro^
 ||www.gimamao1.click^
 ||www.giqazoo1.pro^
 ||www.giveo7jlf.click^
@@ -19296,7 +19281,6 @@
 ||www.goconuu1.pro^
 ||www.godsadvice.com^
 ||www.gohadya0.pro^
-||www.goingapp.pro^
 ||www.goldnevnik.pro^
 ||www.golferstraveladvisor.com^
 ||www.gombo-api.com^
@@ -19409,7 +19393,6 @@
 ||www.impakter.click^
 ||www.improveedkartinges.pro^
 ||www.in-pro.xyz^
-||www.incarcerateing.pro^
 ||www.incarcerateremonstrategoldbrickes.pro^
 ||www.incarceratesoliloquizepercolateas.pro^
 ||www.inclimber.click^
@@ -19541,7 +19524,6 @@
 ||www.layers.ero-advertising.com^
 ||www.lead-analytics-1000.com^
 ||www.leadingimproveballast.pro^
-||www.ledger-update.wp3.mobinteg.com^
 ||www.legumelin.pro^
 ||www.lenyjuuwae.pro^
 ||www.lepydey2.pro^
@@ -19694,7 +19676,6 @@
 ||www.naveledpillowing.pro^
 ||www.naveleshoneying.pro^
 ||www.navelingpillowes.pro^
-||www.naviget24.pro^
 ||www.needadvertising.com^
 ||www.nelexiy9.pro^
 ||www.nesipou5.pro^
@@ -19722,7 +19703,6 @@
 ||www.nners.ero-advertising.com^
 ||www.nobuhou1.pro^
 ||www.nodamou9.pro^
-||www.nodice.click^
 ||www.noisermaker.click^
 ||www.nolimits.globalinvest365.click^
 ||www.nota.click^
@@ -19781,7 +19761,6 @@
 ||www.open-case-support-for-business-appeal-id-106.vercel.app^
 ||www.open-cases-appeal-support-center.vercel.app^
 ||www.open-cases-help-for-business.vercel.app^
-||www.open-cases-page-for-business.vercel.app^
 ||www.open-cases-support-for-business-appeal-id-205.vercel.app^
 ||www.open-yourshop.com^
 ||www.openinvestingstrat.click^
@@ -20061,7 +20040,6 @@
 ||www.s7.adaces.ero-advertising.com^
 ||www.safeguardbasezone.click^
 ||www.safeguardeye.click^
-||www.safeguardeyeclick.click^
 ||www.safestrategywatch.click^
 ||www.safetyguardianzone.click^
 ||www.safetyhubadvisor.cam^
@@ -20080,7 +20058,6 @@
 ||www.scye.maquiladora.click^
 ||www.searchadv.com^
 ||www.seasonfreesiaoctomberbreath.pro^
-||www.sec-update.online^
 ||www.sectoredfloristed.pro^
 ||www.sectoredfloristing.pro^
 ||www.sectoredtechnicaled.pro^
@@ -20138,7 +20115,6 @@
 ||www.softwareadvice.com^
 ||www.solfitnessadventures.com^
 ||www.soliloquizestandardiseis.pro^
-||www.solsticesongbird.click^
 ||www.somuchproduct.click^
 ||www.souladv.com^
 ||www.southernhomeadvisor.com^
@@ -20175,7 +20151,6 @@
 ||www.stats.ero-advertising.com^
 ||www.stats.speedclicks.ero-advertising.com^
 ||www.steenbergen.web.ero-advertising.com^
-||www.stoneedenergyed.pro^
 ||www.storiesnews.click^
 ||www.strona-transfer.click^
 ||www.strona-transferu.click^
@@ -20346,7 +20321,6 @@
 ||www.update-expressvpn.com^
 ||www.update-information.zzux.com^
 ||www.update-java.kit.net^
-||www.update-ledger.wp3.mobinteg.com^
 ||www.update-security.ddns.info^
 ||www.update-security.qhigh.com^
 ||www.update.sandiego.org^
@@ -20382,7 +20356,6 @@
 ||www.vinted-pro-belgie.com^
 ||www.virgovirgovirgo.pro^
 ||www.visner.click^
-||www.vixar.pro^
 ||www.vobarokinvesting.pro^
 ||www.vobonoo1.pro^
 ||www.voiceads.cn^
@@ -20927,6 +20900,7 @@
 ||zawinieniekierowcy.click^
 ||zawodnyumysl.click^
 ||zawodowapraktyka.click^
+||zaza22-amac22.click^
 ||zazerygu.pro^
 ||zaznajamianie.click^
 ||zb5xpvwvups.click^
