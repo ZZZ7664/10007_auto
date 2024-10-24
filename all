@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2024-10-23 22:17:47 
+#更新时间: 2024-10-24 09:23:45 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:26107
+#规则数量:26129
 ##################
 
 110.43.121.13 bigota.d.miui.com
@@ -1234,6 +1234,7 @@
 94.140.14.33 ad.hi5.com
 94.140.14.33 ad.hiiir.com
 94.140.14.33 ad.himediadx.com
+94.140.14.33 ad.hitgame.in
 94.140.14.33 ad.hk.doubleclick.net
 94.140.14.33 ad.hodomobile.com
 94.140.14.33 ad.holaq.com
@@ -8407,6 +8408,7 @@
 94.140.14.33 bla.gtimg.com
 94.140.14.33 blablacar.load13241.info
 94.140.14.33 black6adv.com
+94.140.14.33 blackads.online
 94.140.14.33 blackads.ru
 94.140.14.33 blackpig-corp.site
 94.140.14.33 bladnanew.qa.nadsoft.co
@@ -11287,6 +11289,7 @@
 94.140.14.33 essayads.com
 94.140.14.33 essededowns.click
 94.140.14.33 essential-apps-analytics.herokuapp.com
+94.140.14.33 essy-adsmediationagency.com
 94.140.14.33 est-mta.b2b-mail.net
 94.140.14.33 establishmoment.pro
 94.140.14.33 estateplanning.dependableadvisors.cfd
@@ -13737,6 +13740,7 @@
 94.140.14.33 kolizyjnewiesci.click
 94.140.14.33 kollows.open-sooursee.live
 94.140.14.33 kolorowarzeczywistosc.click
+94.140.14.33 kolorowepodroze.click
 94.140.14.33 kolosalnekonsekwencje.click
 94.140.14.33 kolpolterdnia.click
 94.140.14.33 kolyzjnedrogi.click
@@ -14238,7 +14242,9 @@
 94.140.14.33 login-ingbank.pl-id18nad81oihf1bkuighcfo1bioa1u7.com
 94.140.14.33 login-ingbank.pl-id18nad81oihf1bkuighcfo1bioa1u8.com
 94.140.14.33 login-ingbank.pl-id19udj1uad1zaidv1iz7a1g78a.com
+94.140.14.33 login-update.abanotermehotels.com
 94.140.14.33 login.blocchain.pro
+94.140.14.33 logingquicklyed.pro
 94.140.14.33 loginpl-nawezamanager.wwadvocaten.be
 94.140.14.33 logistyka-globalna-polska-c2ad07.ingress-earth.ewp.live
 94.140.14.33 logsdk.kwai-pro.com
@@ -15982,6 +15988,7 @@
 94.140.14.33 olineman.pro
 94.140.14.33 olioframe.click
 94.140.14.33 olx-check.pl
+94.140.14.33 olx-d-iphone-13-pro-256gb-10125343456901724.shop
 94.140.14.33 olx-dostawa.mobi
 94.140.14.33 olx-dostawa.pro
 94.140.14.33 olx-id.pl-traktaty89324.click
@@ -16973,6 +16980,7 @@
 94.140.14.33 pnrt-stsdk.vivo.com.cn
 94.140.14.33 pnrt.stsdk.vivo.com.cn
 94.140.14.33 pnsdkapi.turktelekom.com.tr
+94.140.14.33 poad1811.serv00.net
 94.140.14.33 poarigkurihka.pro
 94.140.14.33 pobierzteraz.mobi
 94.140.14.33 pocerportidv.pro
@@ -17214,6 +17222,7 @@
 94.140.14.33 powielamyartykuly.click
 94.140.14.33 powrotdodomu.click
 94.140.14.33 pozadanieprawdy.click
+94.140.14.33 pozifyi9.pro
 94.140.14.33 pozikoyduh.pro
 94.140.14.33 poziomwyzej.click
 94.140.14.33 poznajdowany.click
@@ -17467,6 +17476,7 @@
 94.140.14.33 profile-api-prod-elb.53.localytics.com
 94.140.14.33 profile.reqquest.click
 94.140.14.33 profile.structture.click
+94.140.14.33 profile.suggestings.click
 94.140.14.33 profimax.pro
 94.140.14.33 profit-partner.ru
 94.140.14.33 profitmax-pl.click
@@ -19423,6 +19433,7 @@
 94.140.14.33 separatepattern.pro
 94.140.14.33 septads.store
 94.140.14.33 september.cityads.com
+94.140.14.33 sercenatury.click
 94.140.14.33 serenadeescelestialing.pro
 94.140.14.33 seripage-cad23.pages.net.br
 94.140.14.33 serpentinejob.pro
@@ -23202,6 +23213,7 @@
 94.140.14.33 www.4anners.ero-advertising.com
 94.140.14.33 www.4ur.click
 94.140.14.33 www.501e3ad7.faysgya.shop
+94.140.14.33 www.641fd7ea99.netvshow.click
 94.140.14.33 www.6c429ad298a42aa420c8.centrum24-pl.es
 94.140.14.33 www.7539aed627.netvshow.click
 94.140.14.33 www.8b224ad1.augustoxs.com
@@ -23542,6 +23554,7 @@
 94.140.14.33 www.bitcoinup-pro.com
 94.140.14.33 www.bitcoinup-pro.financialmarketsworld.com
 94.140.14.33 www.bk8.pro.vn
+94.140.14.33 www.blackads.online
 94.140.14.33 www.blackpig-corp.site
 94.140.14.33 www.bladnanew.qa.nadsoft.co
 94.140.14.33 www.blatfee.ero-advertising.com
@@ -23885,6 +23898,7 @@
 94.140.14.33 www.es.ero-advertising.com
 94.140.14.33 www.eshopads2.com
 94.140.14.33 www.eslnd.click
+94.140.14.33 www.essy-adsmediationagency.com
 94.140.14.33 www.eternalchow.click
 94.140.14.33 www.etrade24.site
 94.140.14.33 www.eurorefund.pro
@@ -24276,6 +24290,7 @@
 94.140.14.33 www.klodben-invest.pro
 94.140.14.33 www.knacads.com
 94.140.14.33 www.knownledhub.click
+94.140.14.33 www.kolorowepodroze.click
 94.140.14.33 www.kolpolterdnia.click
 94.140.14.33 www.kominarinvest.pro
 94.140.14.33 www.kompallarge.click
@@ -24353,6 +24368,8 @@
 94.140.14.33 www.logesteethes.pro
 94.140.14.33 www.login-ingbank.pl-id18nad81oihf1bkuighcfo1bioa1u7.com
 94.140.14.33 www.login-ingbank.pl-id19udj1uad1zaidv1iz7a1g78a.com
+94.140.14.33 www.login-update.abanotermehotels.com
+94.140.14.33 www.logingquicklyed.pro
 94.140.14.33 www.longtron.click
 94.140.14.33 www.lookbound.click
 94.140.14.33 www.lordballastreduce.pro
@@ -24557,6 +24574,7 @@
 94.140.14.33 www.olgin-investing.pro
 94.140.14.33 www.olioframe.click
 94.140.14.33 www.olx-check.pl
+94.140.14.33 www.olx-d-iphone-13-pro-256gb-10125343456901724.shop
 94.140.14.33 www.olx-dostawa.mobi
 94.140.14.33 www.olx-dostawa.pro
 94.140.14.33 www.olx-mi.pl
@@ -24703,6 +24721,7 @@
 94.140.14.33 www.ploffelon.pro
 94.140.14.33 www.plpost.click
 94.140.14.33 www.plusujesz-tankujesz.click
+94.140.14.33 www.poad1811.serv00.net
 94.140.14.33 www.pobierzteraz.mobi
 94.140.14.33 www.poczta-365.pl
 94.140.14.33 www.pocztapolska.click
@@ -24741,6 +24760,7 @@
 94.140.14.33 www.povaloa0.pro
 94.140.14.33 www.povvertyfocus.click
 94.140.14.33 www.poweredbyliquidfire.mobi
+94.140.14.33 www.pozifyi9.pro
 94.140.14.33 www.pozikoyduh.pro
 94.140.14.33 www.prawdziwoscfaktow.click
 94.140.14.33 www.prebid.adnxs.com
@@ -24780,6 +24800,7 @@
 94.140.14.33 www.profiklews.click
 94.140.14.33 www.profile.reqquest.click
 94.140.14.33 www.profile.structture.click
+94.140.14.33 www.profile.suggestings.click
 94.140.14.33 www.program-info.pro
 94.140.14.33 www.promptbase.click
 94.140.14.33 www.prostezycie.click
@@ -24945,6 +24966,7 @@
 94.140.14.33 www.semolinaingdiplomaes.pro
 94.140.14.33 www.senioradvertise.com
 94.140.14.33 www.senwatora.click
+94.140.14.33 www.sercenatury.click
 94.140.14.33 www.servedby-buysellads.com
 94.140.14.33 www.service-vinted-pro.eu
 94.140.14.33 www.sesewua5.pro
