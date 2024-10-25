@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2024-10-25 10:01:46 
+#更新时间: 2024-10-25 15:34:01 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:21078
+#规则数量:21094
 ##################
 
 110.43.121.13 bigota.d.miui.com
@@ -5263,6 +5263,7 @@
 127.0.0.1 analytics.vodafone.co.uk
 127.0.0.1 analytics.vodgc.net
 127.0.0.1 analytics.volvocars.com
+127.0.0.1 analytics.vortexscans.com
 127.0.0.1 analytics.vpplayer.tech
 127.0.0.1 analytics.waifu2x.org
 127.0.0.1 analytics.wanmei.com
@@ -5308,6 +5309,7 @@
 127.0.0.1 analytics.wienerberger.se
 127.0.0.1 analytics.wienerberger.si
 127.0.0.1 analytics.wienerberger.sk
+127.0.0.1 analytics.wikitide.net
 127.0.0.1 analytics.wildlifestudios.com
 127.0.0.1 analytics.wildtangent.com
 127.0.0.1 analytics.winter.ink
@@ -6329,7 +6331,6 @@
 127.0.0.1 asg.bhabhiporn.pro
 127.0.0.1 asgon-invest.pro
 127.0.0.1 ashgrrwt.click
-127.0.0.1 asian-maturedates.click
 127.0.0.1 askjolene.ero-advertising.com
 127.0.0.1 askon-invest.pro
 127.0.0.1 askovinvest.pro
@@ -7134,6 +7135,7 @@
 127.0.0.1 canariajournalen.ads.ramsalt.com
 127.0.0.1 cancunfishingadventures.com
 127.0.0.1 canonch.pro
+127.0.0.1 canvas-cdn.gdt.qq.com
 127.0.0.1 canvas.gdt.qq.com
 127.0.0.1 canvasserenade.click
 127.0.0.1 capcityadvcom.112.2o7.net
@@ -7451,6 +7453,7 @@
 127.0.0.1 chiefegg.pro
 127.0.0.1 chiliadv.com
 127.0.0.1 chineseinla.com
+127.0.0.1 chocoadventurejoy631.sbs
 127.0.0.1 choingay11b.mobi
 127.0.0.1 choiwin79.pro
 127.0.0.1 chorespoleczenstwo.click
@@ -8187,7 +8190,6 @@
 127.0.0.1 daohannganhang.click
 127.0.0.1 dapperdeal.pro
 127.0.0.1 dapx.open-sooursee.live
-127.0.0.1 dare2life.click
 127.0.0.1 darksaid.inventnamb.click
 127.0.0.1 darlik-investing.pro
 127.0.0.1 darowanezycie.click
@@ -8526,7 +8528,6 @@
 127.0.0.1 dochodzenie24.click
 127.0.0.1 dociekamy24.click
 127.0.0.1 docomo-analytics.com
-127.0.0.1 documentos.click
 127.0.0.1 doczesnerzeczy.click
 127.0.0.1 doczesnywidok.click
 127.0.0.1 doczytamyinfo.click
@@ -8728,6 +8729,7 @@
 127.0.0.1 downloadmobile.pro
 127.0.0.1 downloads.advancedtech.com
 127.0.0.1 downloadvps.blog
+127.0.0.1 downright-administration.pro
 127.0.0.1 dowodowetajniki.click
 127.0.0.1 dowodowezagadki.click
 127.0.0.1 dowodzimyinfo.click
@@ -9067,6 +9069,7 @@
 127.0.0.1 email-click-test-for-branch.vts.com
 127.0.0.1 email-open.adtidy.net
 127.0.0.1 email-open.adtidy.org
+127.0.0.1 email.aceleration.click
 127.0.0.1 email.atachment.click
 127.0.0.1 email.authenticatoin.click
 127.0.0.1 email.durben.click
@@ -9716,7 +9719,6 @@
 127.0.0.1 geometryesdaringing.pro
 127.0.0.1 geometryespillowed.pro
 127.0.0.1 germainnappy.click
-127.0.0.1 germany333-zxczxc179-boxes179.click
 127.0.0.1 germil.click
 127.0.0.1 gesturehighwayglacieras.pro
 127.0.0.1 get-ads.ru
@@ -10671,7 +10673,6 @@
 127.0.0.1 intent.techadvisor.com
 127.0.0.1 interactivart.pro
 127.0.0.1 interadv.net
-127.0.0.1 interbeneficiosoctubre.viawebzonaonlinea.click
 127.0.0.1 interesowne24.click
 127.0.0.1 interespoleczny.click
 127.0.0.1 interesspoleczny.click
@@ -10856,6 +10857,7 @@
 127.0.0.1 joramskittly.click
 127.0.0.1 jordadokinvest.pro
 127.0.0.1 jowingtykhana.click
+127.0.0.1 joyadventureplay165.sbs
 127.0.0.1 joyfulassistant.pro
 127.0.0.1 joyfulevolutionwave.click
 127.0.0.1 joyfulimpactplanet.click
@@ -11538,6 +11540,7 @@
 127.0.0.1 lp.owarnersbdev.journeyusshared.adobe.com
 127.0.0.1 lp.pro.engie.fr
 127.0.0.1 lp.tfd-corp.co.jp
+127.0.0.1 lpkobilznes.pro
 127.0.0.1 lpkobiznes.pro
 127.0.0.1 lpkoblznes.pro
 127.0.0.1 lplos.tentaklsistem.click
@@ -11672,6 +11675,7 @@
 127.0.0.1 makeamends.pro
 127.0.0.1 makeprofi.click
 127.0.0.1 makesnow.click
+127.0.0.1 maket999-abczyz789-boxes333.click
 127.0.0.1 malagmawinched.click
 127.0.0.1 maleeprn.click
 127.0.0.1 malemiasteczko.click
@@ -12611,6 +12615,7 @@
 127.0.0.1 nextmetr1c.click
 127.0.0.1 nextround.click
 127.0.0.1 nextsphere.click
+127.0.0.1 nexuspointmedia.click
 127.0.0.1 nfgxadlbfzuy.click
 127.0.0.1 nfladvancedmetrics.com
 127.0.0.1 ng3.ads.warnerbros.com
@@ -12659,7 +12664,6 @@
 127.0.0.1 nl1.ero-advertising.com
 127.0.0.1 nl2.ero-advertising.com
 127.0.0.1 nlog.baidu.com
-127.0.0.1 nlonlinesol.click
 127.0.0.1 nmm31.tentaklsistem.click
 127.0.0.1 nners.ero-advertising.com
 127.0.0.1 nnv3.d1g1marka.click
@@ -13232,6 +13236,7 @@
 127.0.0.1 oxetoneagneaux.click
 127.0.0.1 oyasu-mi.tokyo
 127.0.0.1 oyeletmaffia.click
+127.0.0.1 ozonerexhaled.click
 127.0.0.1 p-advg.com
 127.0.0.1 p-analytics.life
 127.0.0.1 p-c.ofisls-pro.xyz
@@ -14293,6 +14298,7 @@
 127.0.0.1 przydatneinfo.click
 127.0.0.1 przydzialdanych.click
 127.0.0.1 przydzialroli.click
+127.0.0.1 przyjacieleziemi.click
 127.0.0.1 przyjemnoscizycia.click
 127.0.0.1 przyjemnyczas.click
 127.0.0.1 przykladnewiadomosci.click
@@ -15101,7 +15107,6 @@
 127.0.0.1 saxs.sina.com.cn
 127.0.0.1 sbeacon.sina.com.cn
 127.0.0.1 sbem.tentaklsistem.click
-127.0.0.1 sbjjzdwqg41ps.click
 127.0.0.1 sbs-ad.com
 127.0.0.1 sc-analytics.appspot.com
 127.0.0.1 sc.gouyb.mobi
@@ -15223,6 +15228,7 @@
 127.0.0.1 sdk.inmobi.com
 127.0.0.1 sdk.jeeng.com
 127.0.0.1 sdk.jiguang.cn
+127.0.0.1 sdk.kokocads.com
 127.0.0.1 sdk.look.360.cn
 127.0.0.1 sdk.loveota.net
 127.0.0.1 sdk.markmedia.com
@@ -15399,7 +15405,6 @@
 127.0.0.1 serwisowe24h.click
 127.0.0.1 sesewua5.pro
 127.0.0.1 sestat.baidu.com
-127.0.0.1 setting-ig-confirm-violation-pro.com
 127.0.0.1 settings-analytics.hotstar.com
 127.0.0.1 setup.advancedcleaner.com
 127.0.0.1 setytio5.pro
@@ -16119,6 +16124,7 @@
 127.0.0.1 stenadewy.pro
 127.0.0.1 stg-data.ads.heytapmobi.com
 127.0.0.1 stgowan.com
+127.0.0.1 stickmessiahstick.pro
 127.0.0.1 stiffeat.pro
 127.0.0.1 stifleadventureempire.com
 127.0.0.1 stiiv.pro
@@ -17008,6 +17014,7 @@
 127.0.0.1 trd.partnereffect.pro
 127.0.0.1 trejent.wantaolej.pro
 127.0.0.1 trends.mobile.sina.cn
+127.0.0.1 trendspotlightreports.click
 127.0.0.1 trendyiinspiracje.click
 127.0.0.1 trendyinformacyjne.click
 127.0.0.1 trendypotoczne.click
@@ -17070,7 +17077,6 @@
 127.0.0.1 trunksedhingeed.pro
 127.0.0.1 trunksescomparisoned.pro
 127.0.0.1 trunksingtangentes.pro
-127.0.0.1 trust-in.pro
 127.0.0.1 trustedjourney.click
 127.0.0.1 trybest.click
 127.0.0.1 trybyukazania.click
@@ -17085,7 +17091,6 @@
 127.0.0.1 tsl-pro.gertrader.xyz
 127.0.0.1 tsllx.activpl-pro.site
 127.0.0.1 tslx-pro.pl1-pttrn.site
-127.0.0.1 tsnektosme.click
 127.0.0.1 tss.tx1tx.click
 127.0.0.1 tsva2.inventnamb.click
 127.0.0.1 tsvs.inventnamb.click
@@ -17653,6 +17658,7 @@
 127.0.0.1 versatileadvancement.com
 127.0.0.1 verycheap.cheap-ads.net
 127.0.0.1 veryfikuj.akkauntie.click
+127.0.0.1 vestryvestrystick.pro
 127.0.0.1 vevuzyo5.pro
 127.0.0.1 vexojou7.pro
 127.0.0.1 veziqyi2.pro
@@ -18971,6 +18977,7 @@
 127.0.0.1 www.chengzijianzhan.com
 127.0.0.1 www.chestingruined.pro
 127.0.0.1 www.chestpark.click
+127.0.0.1 www.chocoadventurejoy631.sbs
 127.0.0.1 www.chori3oiwtb.click
 127.0.0.1 www.christianbusinessadvertising.com
 127.0.0.1 www.christiepointadvocates.com
@@ -19135,6 +19142,7 @@
 127.0.0.1 www.elon2011.pro
 127.0.0.1 www.eloninvesting.pro
 127.0.0.1 www.elonmsk.pro
+127.0.0.1 www.email.aceleration.click
 127.0.0.1 www.email.authenticatoin.click
 127.0.0.1 www.embraceinnovation.pro
 127.0.0.1 www.emonitoring-polska.click
@@ -19462,6 +19470,7 @@
 127.0.0.1 www.joktauninvest.pro
 127.0.0.1 www.jolterclips.click
 127.0.0.1 www.jordadokinvest.pro
+127.0.0.1 www.joyadventureplay165.sbs
 127.0.0.1 www.jquery-cdn.download
 127.0.0.1 www.jqwww.download
 127.0.0.1 www.judosbelter.click
@@ -19558,6 +19567,7 @@
 127.0.0.1 www.lottery.olg.ca
 127.0.0.1 www.lotto-kas.store-google-play.com
 127.0.0.1 www.loynreroof.bipinates.click
+127.0.0.1 www.lpkobilznes.pro
 127.0.0.1 www.lpkoblznes.pro
 127.0.0.1 www.lucamister.click
 127.0.0.1 www.lunawomte.click
@@ -19687,6 +19697,7 @@
 127.0.0.1 www.newspolska.click
 127.0.0.1 www.newsshow.click
 127.0.0.1 www.newyrodyte.click
+127.0.0.1 www.nexuspointmedia.click
 127.0.0.1 www.nfladvancedmetrics.com
 127.0.0.1 www.nggrskio.pro
 127.0.0.1 www.nice-bit-mine.pro
@@ -19942,6 +19953,7 @@
 127.0.0.1 www.protectionproadvisor.xyz
 127.0.0.1 www.przekazmedia.click
 127.0.0.1 www.przelewy24.click
+127.0.0.1 www.przyjacieleziemi.click
 127.0.0.1 www.publicznewideo.click
 127.0.0.1 www.pudutyy3.pro
 127.0.0.1 www.punocoisuc.pro
@@ -20082,6 +20094,7 @@
 127.0.0.1 www.share.polinvst.com
 127.0.0.1 www.shop-click-drive.com
 127.0.0.1 www.simofoe8.pro
+127.0.0.1 www.simpledispatcher.click
 127.0.0.1 www.sin.ero-advertising.com
 127.0.0.1 www.singapore-advantage.com
 127.0.0.1 www.siodemka24h7.click
@@ -20148,6 +20161,7 @@
 127.0.0.1 www.stats.ero-advertising.com
 127.0.0.1 www.stats.speedclicks.ero-advertising.com
 127.0.0.1 www.steenbergen.web.ero-advertising.com
+127.0.0.1 www.stickmessiahstick.pro
 127.0.0.1 www.storiesnews.click
 127.0.0.1 www.strona-transfer.click
 127.0.0.1 www.strona-transferu.click
@@ -20268,6 +20282,7 @@
 127.0.0.1 www.tragicznedni.click
 127.0.0.1 www.traveladvertising.com
 127.0.0.1 www.trejent.wantaolej.pro
+127.0.0.1 www.trendspotlightreports.click
 127.0.0.1 www.trendyinformacyjne.click
 127.0.0.1 www.triplecable.click
 127.0.0.1 www.trokloninvest.pro
@@ -20338,6 +20353,7 @@
 127.0.0.1 www.vega-invest.pro
 127.0.0.1 www.velocity-invest.pro
 127.0.0.1 www.vendorchange.click
+127.0.0.1 www.vestryvestrystick.pro
 127.0.0.1 www.vevuzyo5.pro
 127.0.0.1 www.vexojou7.pro
 127.0.0.1 www.veziqyi2.pro
@@ -20631,6 +20647,7 @@
 127.0.0.1 xeromlike.pro
 127.0.0.1 xetrep.click
 127.0.0.1 xg-hacks.com
+127.0.0.1 xg-jbpmnru.online
 127.0.0.1 xg.adbeuch.cn
 127.0.0.1 xg.gars57.cn
 127.0.0.1 xg.huataisangao.cn
@@ -20897,7 +20914,6 @@
 127.0.0.1 zawinieniekierowcy.click
 127.0.0.1 zawodnyumysl.click
 127.0.0.1 zawodowapraktyka.click
-127.0.0.1 zaza22-amac22.click
 127.0.0.1 zazerygu.pro
 127.0.0.1 zaznajamianie.click
 127.0.0.1 zb5xpvwvups.click

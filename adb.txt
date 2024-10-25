@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: Host 10007
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto 
-! Last modified: 2024-10-25 10:01:49
+! Last modified: 2024-10-25 15:34:05
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 [Host 10007]
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"^
 !在相应行的开头加个"#"号^
-!更新时间: 2024-10-25 10:01:49 ^
+!更新时间: 2024-10-25 15:34:04 ^
 
-!规则数量:21044^
+!规则数量:21060^
 !#################^
 
 110.43.121.13 bigota.d.miui.com^
@@ -5266,6 +5266,7 @@
 ||analytics.vodafone.co.uk^
 ||analytics.vodgc.net^
 ||analytics.volvocars.com^
+||analytics.vortexscans.com^
 ||analytics.vpplayer.tech^
 ||analytics.waifu2x.org^
 ||analytics.wanmei.com^
@@ -5311,6 +5312,7 @@
 ||analytics.wienerberger.se^
 ||analytics.wienerberger.si^
 ||analytics.wienerberger.sk^
+||analytics.wikitide.net^
 ||analytics.wildlifestudios.com^
 ||analytics.wildtangent.com^
 ||analytics.winter.ink^
@@ -6332,7 +6334,6 @@
 ||asg.bhabhiporn.pro^
 ||asgon-invest.pro^
 ||ashgrrwt.click^
-||asian-maturedates.click^
 ||askjolene.ero-advertising.com^
 ||askon-invest.pro^
 ||askovinvest.pro^
@@ -7137,6 +7138,7 @@
 ||canariajournalen.ads.ramsalt.com^
 ||cancunfishingadventures.com^
 ||canonch.pro^
+||canvas-cdn.gdt.qq.com^
 ||canvas.gdt.qq.com^
 ||canvasserenade.click^
 ||capcityadvcom.112.2o7.net^
@@ -7454,6 +7456,7 @@
 ||chiefegg.pro^
 ||chiliadv.com^
 ||chineseinla.com^
+||chocoadventurejoy631.sbs^
 ||choingay11b.mobi^
 ||choiwin79.pro^
 ||chorespoleczenstwo.click^
@@ -8190,7 +8193,6 @@
 ||daohannganhang.click^
 ||dapperdeal.pro^
 ||dapx.open-sooursee.live^
-||dare2life.click^
 ||darksaid.inventnamb.click^
 ||darlik-investing.pro^
 ||darowanezycie.click^
@@ -8529,7 +8531,6 @@
 ||dochodzenie24.click^
 ||dociekamy24.click^
 ||docomo-analytics.com^
-||documentos.click^
 ||doczesnerzeczy.click^
 ||doczesnywidok.click^
 ||doczytamyinfo.click^
@@ -8731,6 +8732,7 @@
 ||downloadmobile.pro^
 ||downloads.advancedtech.com^
 ||downloadvps.blog^
+||downright-administration.pro^
 ||dowodowetajniki.click^
 ||dowodowezagadki.click^
 ||dowodzimyinfo.click^
@@ -9070,6 +9072,7 @@
 ||email-click-test-for-branch.vts.com^
 ||email-open.adtidy.net^
 ||email-open.adtidy.org^
+||email.aceleration.click^
 ||email.atachment.click^
 ||email.authenticatoin.click^
 ||email.durben.click^
@@ -9719,7 +9722,6 @@
 ||geometryesdaringing.pro^
 ||geometryespillowed.pro^
 ||germainnappy.click^
-||germany333-zxczxc179-boxes179.click^
 ||germil.click^
 ||gesturehighwayglacieras.pro^
 ||get-ads.ru^
@@ -10674,7 +10676,6 @@
 ||intent.techadvisor.com^
 ||interactivart.pro^
 ||interadv.net^
-||interbeneficiosoctubre.viawebzonaonlinea.click^
 ||interesowne24.click^
 ||interespoleczny.click^
 ||interesspoleczny.click^
@@ -10859,6 +10860,7 @@
 ||joramskittly.click^
 ||jordadokinvest.pro^
 ||jowingtykhana.click^
+||joyadventureplay165.sbs^
 ||joyfulassistant.pro^
 ||joyfulevolutionwave.click^
 ||joyfulimpactplanet.click^
@@ -11541,6 +11543,7 @@
 ||lp.owarnersbdev.journeyusshared.adobe.com^
 ||lp.pro.engie.fr^
 ||lp.tfd-corp.co.jp^
+||lpkobilznes.pro^
 ||lpkobiznes.pro^
 ||lpkoblznes.pro^
 ||lplos.tentaklsistem.click^
@@ -11675,6 +11678,7 @@
 ||makeamends.pro^
 ||makeprofi.click^
 ||makesnow.click^
+||maket999-abczyz789-boxes333.click^
 ||malagmawinched.click^
 ||maleeprn.click^
 ||malemiasteczko.click^
@@ -12614,6 +12618,7 @@
 ||nextmetr1c.click^
 ||nextround.click^
 ||nextsphere.click^
+||nexuspointmedia.click^
 ||nfgxadlbfzuy.click^
 ||nfladvancedmetrics.com^
 ||ng3.ads.warnerbros.com^
@@ -12662,7 +12667,6 @@
 ||nl1.ero-advertising.com^
 ||nl2.ero-advertising.com^
 ||nlog.baidu.com^
-||nlonlinesol.click^
 ||nmm31.tentaklsistem.click^
 ||nners.ero-advertising.com^
 ||nnv3.d1g1marka.click^
@@ -13235,6 +13239,7 @@
 ||oxetoneagneaux.click^
 ||oyasu-mi.tokyo^
 ||oyeletmaffia.click^
+||ozonerexhaled.click^
 ||p-advg.com^
 ||p-analytics.life^
 ||p-c.ofisls-pro.xyz^
@@ -14296,6 +14301,7 @@
 ||przydatneinfo.click^
 ||przydzialdanych.click^
 ||przydzialroli.click^
+||przyjacieleziemi.click^
 ||przyjemnoscizycia.click^
 ||przyjemnyczas.click^
 ||przykladnewiadomosci.click^
@@ -15104,7 +15110,6 @@
 ||saxs.sina.com.cn^
 ||sbeacon.sina.com.cn^
 ||sbem.tentaklsistem.click^
-||sbjjzdwqg41ps.click^
 ||sbs-ad.com^
 ||sc-analytics.appspot.com^
 ||sc.gouyb.mobi^
@@ -15226,6 +15231,7 @@
 ||sdk.inmobi.com^
 ||sdk.jeeng.com^
 ||sdk.jiguang.cn^
+||sdk.kokocads.com^
 ||sdk.look.360.cn^
 ||sdk.loveota.net^
 ||sdk.markmedia.com^
@@ -15402,7 +15408,6 @@
 ||serwisowe24h.click^
 ||sesewua5.pro^
 ||sestat.baidu.com^
-||setting-ig-confirm-violation-pro.com^
 ||settings-analytics.hotstar.com^
 ||setup.advancedcleaner.com^
 ||setytio5.pro^
@@ -16122,6 +16127,7 @@
 ||stenadewy.pro^
 ||stg-data.ads.heytapmobi.com^
 ||stgowan.com^
+||stickmessiahstick.pro^
 ||stiffeat.pro^
 ||stifleadventureempire.com^
 ||stiiv.pro^
@@ -17011,6 +17017,7 @@
 ||trd.partnereffect.pro^
 ||trejent.wantaolej.pro^
 ||trends.mobile.sina.cn^
+||trendspotlightreports.click^
 ||trendyiinspiracje.click^
 ||trendyinformacyjne.click^
 ||trendypotoczne.click^
@@ -17073,7 +17080,6 @@
 ||trunksedhingeed.pro^
 ||trunksescomparisoned.pro^
 ||trunksingtangentes.pro^
-||trust-in.pro^
 ||trustedjourney.click^
 ||trybest.click^
 ||trybyukazania.click^
@@ -17088,7 +17094,6 @@
 ||tsl-pro.gertrader.xyz^
 ||tsllx.activpl-pro.site^
 ||tslx-pro.pl1-pttrn.site^
-||tsnektosme.click^
 ||tss.tx1tx.click^
 ||tsva2.inventnamb.click^
 ||tsvs.inventnamb.click^
@@ -17656,6 +17661,7 @@
 ||versatileadvancement.com^
 ||verycheap.cheap-ads.net^
 ||veryfikuj.akkauntie.click^
+||vestryvestrystick.pro^
 ||vevuzyo5.pro^
 ||vexojou7.pro^
 ||veziqyi2.pro^
@@ -18974,6 +18980,7 @@
 ||www.chengzijianzhan.com^
 ||www.chestingruined.pro^
 ||www.chestpark.click^
+||www.chocoadventurejoy631.sbs^
 ||www.chori3oiwtb.click^
 ||www.christianbusinessadvertising.com^
 ||www.christiepointadvocates.com^
@@ -19138,6 +19145,7 @@
 ||www.elon2011.pro^
 ||www.eloninvesting.pro^
 ||www.elonmsk.pro^
+||www.email.aceleration.click^
 ||www.email.authenticatoin.click^
 ||www.embraceinnovation.pro^
 ||www.emonitoring-polska.click^
@@ -19465,6 +19473,7 @@
 ||www.joktauninvest.pro^
 ||www.jolterclips.click^
 ||www.jordadokinvest.pro^
+||www.joyadventureplay165.sbs^
 ||www.jquery-cdn.download^
 ||www.jqwww.download^
 ||www.judosbelter.click^
@@ -19561,6 +19570,7 @@
 ||www.lottery.olg.ca^
 ||www.lotto-kas.store-google-play.com^
 ||www.loynreroof.bipinates.click^
+||www.lpkobilznes.pro^
 ||www.lpkoblznes.pro^
 ||www.lucamister.click^
 ||www.lunawomte.click^
@@ -19690,6 +19700,7 @@
 ||www.newspolska.click^
 ||www.newsshow.click^
 ||www.newyrodyte.click^
+||www.nexuspointmedia.click^
 ||www.nfladvancedmetrics.com^
 ||www.nggrskio.pro^
 ||www.nice-bit-mine.pro^
@@ -19945,6 +19956,7 @@
 ||www.protectionproadvisor.xyz^
 ||www.przekazmedia.click^
 ||www.przelewy24.click^
+||www.przyjacieleziemi.click^
 ||www.publicznewideo.click^
 ||www.pudutyy3.pro^
 ||www.punocoisuc.pro^
@@ -20085,6 +20097,7 @@
 ||www.share.polinvst.com^
 ||www.shop-click-drive.com^
 ||www.simofoe8.pro^
+||www.simpledispatcher.click^
 ||www.sin.ero-advertising.com^
 ||www.singapore-advantage.com^
 ||www.siodemka24h7.click^
@@ -20151,6 +20164,7 @@
 ||www.stats.ero-advertising.com^
 ||www.stats.speedclicks.ero-advertising.com^
 ||www.steenbergen.web.ero-advertising.com^
+||www.stickmessiahstick.pro^
 ||www.storiesnews.click^
 ||www.strona-transfer.click^
 ||www.strona-transferu.click^
@@ -20271,6 +20285,7 @@
 ||www.tragicznedni.click^
 ||www.traveladvertising.com^
 ||www.trejent.wantaolej.pro^
+||www.trendspotlightreports.click^
 ||www.trendyinformacyjne.click^
 ||www.triplecable.click^
 ||www.trokloninvest.pro^
@@ -20341,6 +20356,7 @@
 ||www.vega-invest.pro^
 ||www.velocity-invest.pro^
 ||www.vendorchange.click^
+||www.vestryvestrystick.pro^
 ||www.vevuzyo5.pro^
 ||www.vexojou7.pro^
 ||www.veziqyi2.pro^
@@ -20634,6 +20650,7 @@
 ||xeromlike.pro^
 ||xetrep.click^
 ||xg-hacks.com^
+||xg-jbpmnru.online^
 ||xg.adbeuch.cn^
 ||xg.gars57.cn^
 ||xg.huataisangao.cn^
@@ -20900,7 +20917,6 @@
 ||zawinieniekierowcy.click^
 ||zawodnyumysl.click^
 ||zawodowapraktyka.click^
-||zaza22-amac22.click^
 ||zazerygu.pro^
 ||zaznajamianie.click^
 ||zb5xpvwvups.click^
