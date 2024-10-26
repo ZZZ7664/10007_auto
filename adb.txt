@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: Host 10007
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto 
-! Last modified: 2024-10-26 09:22:09
+! Last modified: 2024-10-26 22:15:32
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 [Host 10007]
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"^
 !在相应行的开头加个"#"号^
-!更新时间: 2024-10-26 09:22:08 ^
+!更新时间: 2024-10-26 22:15:32 ^
 
-!规则数量:21060^
+!规则数量:21070^
 !#################^
 
 110.43.121.13 bigota.d.miui.com^
@@ -6491,6 +6491,7 @@
 ||balticstep.click^
 ||baltictech.click^
 ||baltik-pipe.click^
+||ban.mniighgh.dns-dynamic.net^
 ||ban3ers.ero-advertising.com^
 ||ban4ers.ero-advertising.com^
 ||banalnypowod.click^
@@ -6936,6 +6937,7 @@
 ||brandnewapp.pro^
 ||brassblast.click^
 ||brave-browser.edudlplomss.com^
+||bravespace.pro^
 ||bravica.pro^
 ||breakingbuzz.click^
 ||breakinginstantflash.click^
@@ -7457,6 +7459,8 @@
 ||chiliadv.com^
 ||chineseinla.com^
 ||chocoadventurejoy631.sbs^
+||chocosmileadventure149.sbs^
+||chocosparkadventure480.sbs^
 ||choingay11b.mobi^
 ||choiwin79.pro^
 ||chorespoleczenstwo.click^
@@ -7947,7 +7951,6 @@
 ||corp.sohu.com^
 ||corp.sts.microsoft.com^
 ||cors.hot-mob.com^
-||corsi.advaiora.it^
 ||cosmicadventures.tech^
 ||cosmiccascadecam.click^
 ||cosmotechlab.click^
@@ -8023,6 +8026,7 @@
 ||critomiron.click^
 ||crm-analytics.imweb.ru^
 ||croceussmitter.click^
+||crome-update-gr.com^
 ||crowdeddisk.pro^
 ||crpro.tes1aprodj.click^
 ||crpt-pro.beauty^
@@ -9274,7 +9278,6 @@
 ||f8bets.pro^
 ||facebook-ads.hara.vn^
 ||facebook-ads.pl^
-||facebook-authentication.tracehack.pro^
 ||facebook-my-share-live-location.000.pe^
 ||facebook.authentication.tracehack.pro^
 ||facebookane.click^
@@ -9288,6 +9291,7 @@
 ||fact.mestopoland.pro^
 ||fads.itprojekt.site^
 ||fadverdirect.com^
+||fafabyy0.pro^
 ||fagywalu.pro^
 ||fajny-bon.click^
 ||fakcikdrogowy.click^
@@ -10867,6 +10871,7 @@
 ||joyous-concentrate.pro^
 ||joyous-north.pro^
 ||joyous-storage.pro^
+||joysmileadventure185.sbs^
 ||jp.api.share.mob.com^
 ||jp.devs.data.mob.com^
 ||jp.f.gm.mob.com^
@@ -11678,7 +11683,6 @@
 ||makeamends.pro^
 ||makeprofi.click^
 ||makesnow.click^
-||maket999-abczyz789-boxes333.click^
 ||malagmawinched.click^
 ||maleeprn.click^
 ||malemiasteczko.click^
@@ -12093,6 +12097,7 @@
 ||mobi.oleviet777.com^
 ||mobi.yanosik.pl^
 ||mobiadvert.livesportmedia.eu^
+||mobie-facebook.click^
 ||mobile-browser.me^
 ||mobile-click.biz^
 ||mobile-sdk-config.gservice.emarsys.net^
@@ -14541,7 +14546,6 @@
 ||reachadv.it^
 ||reactivasolicitudes.viaservicezone.click^
 ||reactivasoluciones.viaservicezone.click^
-||reactivasoluciones.zonasegura.click^
 ||reactivasoluciones.zonaseguraservicio.click^
 ||reader.meizu.com^
 ||reader.res.meizu.com^
@@ -16616,6 +16620,7 @@
 ||test2019.adview.cn^
 ||testad.hot-mob.com^
 ||testserverlp.pro^
+||tetherslapillo.click^
 ||tex.ero-advertising.com^
 ||texasadvisorgroup.com^
 ||text-link-ads.com^
@@ -16730,6 +16735,7 @@
 ||tob-cms.bj.bcebos.com^
 ||togyzii4.pro^
 ||toingra.click^
+||token-mi.life^
 ||token.api.kochava.com^
 ||tokenstocks.pro^
 ||tokinou8.pro^
@@ -17350,6 +17356,7 @@
 ||update-0c5z3oxr4jxq-information.line.pm^
 ||update-1.com^
 ||update-3kxn5dayb9p6-information.line.pm^
+||update-56632.serveris.id.lv^
 ||update-6ho8mvffk4j2-information.line.pm^
 ||update-9vvqpi7my0uh-information.line.pm^
 ||update-accounts-id.online^
@@ -17380,7 +17387,6 @@
 ||update-trackhk.net^
 ||update-za.info^
 ||update-za.life^
-||update-za.run^
 ||update-za.top^
 ||update.123juzi.net^
 ||update.360safe.com^
@@ -18585,6 +18591,7 @@
 ||wwa.lanzous.com^
 ||wwa.lanzouz.com^
 ||wwbanners2.ero-advertising.com^
+||wwe.emso.dns-dynamic.net^
 ||wwe.lanzoud.com^
 ||wwe.lanzous.com^
 ||wwe.lanzouz.com^
@@ -18981,6 +18988,8 @@
 ||www.chestingruined.pro^
 ||www.chestpark.click^
 ||www.chocoadventurejoy631.sbs^
+||www.chocosmileadventure149.sbs^
+||www.chocosparkadventure480.sbs^
 ||www.chori3oiwtb.click^
 ||www.christianbusinessadvertising.com^
 ||www.christiepointadvocates.com^
@@ -19179,6 +19188,7 @@
 ||www.faceit.starsbyte.pro^
 ||www.facesue8.pro^
 ||www.fact.mestopoland.pro^
+||www.fafabyy0.pro^
 ||www.fajny-bon.click^
 ||www.famdlik-invest.pro^
 ||www.fanners.ero-advertising.com^
@@ -19474,6 +19484,7 @@
 ||www.jolterclips.click^
 ||www.jordadokinvest.pro^
 ||www.joyadventureplay165.sbs^
+||www.joysmileadventure185.sbs^
 ||www.jquery-cdn.download^
 ||www.jqwww.download^
 ||www.judosbelter.click^
@@ -20097,7 +20108,6 @@
 ||www.share.polinvst.com^
 ||www.shop-click-drive.com^
 ||www.simofoe8.pro^
-||www.simpledispatcher.click^
 ||www.sin.ero-advertising.com^
 ||www.singapore-advantage.com^
 ||www.siodemka24h7.click^
@@ -20332,6 +20342,7 @@
 ||www.universal-traffic.com^
 ||www.unletstatic.click^
 ||www.update-1.com^
+||www.update-56632.serveris.id.lv^
 ||www.update-accounts-id.online^
 ||www.update-expressvpn.com^
 ||www.update-information.zzux.com^
@@ -20869,7 +20880,6 @@
 ||zagubionefakty.click^
 ||zagubioneosoby.click^
 ||zagwozdkaspoleczna.click^
-||zaibja9.pivldo.pro^
 ||zainstniale24h.click^
 ||zaistnialewatki.click^
 ||zajsciedrogowe.click^

@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2024-10-26 09:22:05 
+#更新时间: 2024-10-26 22:15:28 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:21094
+#规则数量:21104
 ##################
 
 110.43.121.13 bigota.d.miui.com
@@ -6488,6 +6488,7 @@
 127.0.0.1 balticstep.click
 127.0.0.1 baltictech.click
 127.0.0.1 baltik-pipe.click
+127.0.0.1 ban.mniighgh.dns-dynamic.net
 127.0.0.1 ban3ers.ero-advertising.com
 127.0.0.1 ban4ers.ero-advertising.com
 127.0.0.1 banalnypowod.click
@@ -6933,6 +6934,7 @@
 127.0.0.1 brandnewapp.pro
 127.0.0.1 brassblast.click
 127.0.0.1 brave-browser.edudlplomss.com
+127.0.0.1 bravespace.pro
 127.0.0.1 bravica.pro
 127.0.0.1 breakingbuzz.click
 127.0.0.1 breakinginstantflash.click
@@ -7454,6 +7456,8 @@
 127.0.0.1 chiliadv.com
 127.0.0.1 chineseinla.com
 127.0.0.1 chocoadventurejoy631.sbs
+127.0.0.1 chocosmileadventure149.sbs
+127.0.0.1 chocosparkadventure480.sbs
 127.0.0.1 choingay11b.mobi
 127.0.0.1 choiwin79.pro
 127.0.0.1 chorespoleczenstwo.click
@@ -7944,7 +7948,6 @@
 127.0.0.1 corp.sohu.com
 127.0.0.1 corp.sts.microsoft.com
 127.0.0.1 cors.hot-mob.com
-127.0.0.1 corsi.advaiora.it
 127.0.0.1 cosmicadventures.tech
 127.0.0.1 cosmiccascadecam.click
 127.0.0.1 cosmotechlab.click
@@ -8020,6 +8023,7 @@
 127.0.0.1 critomiron.click
 127.0.0.1 crm-analytics.imweb.ru
 127.0.0.1 croceussmitter.click
+127.0.0.1 crome-update-gr.com
 127.0.0.1 crowdeddisk.pro
 127.0.0.1 crpro.tes1aprodj.click
 127.0.0.1 crpt-pro.beauty
@@ -9271,7 +9275,6 @@
 127.0.0.1 f8bets.pro
 127.0.0.1 facebook-ads.hara.vn
 127.0.0.1 facebook-ads.pl
-127.0.0.1 facebook-authentication.tracehack.pro
 127.0.0.1 facebook-my-share-live-location.000.pe
 127.0.0.1 facebook.authentication.tracehack.pro
 127.0.0.1 facebookane.click
@@ -9285,6 +9288,7 @@
 127.0.0.1 fact.mestopoland.pro
 127.0.0.1 fads.itprojekt.site
 127.0.0.1 fadverdirect.com
+127.0.0.1 fafabyy0.pro
 127.0.0.1 fagywalu.pro
 127.0.0.1 fajny-bon.click
 127.0.0.1 fakcikdrogowy.click
@@ -10864,6 +10868,7 @@
 127.0.0.1 joyous-concentrate.pro
 127.0.0.1 joyous-north.pro
 127.0.0.1 joyous-storage.pro
+127.0.0.1 joysmileadventure185.sbs
 127.0.0.1 jp.api.share.mob.com
 127.0.0.1 jp.devs.data.mob.com
 127.0.0.1 jp.f.gm.mob.com
@@ -11675,7 +11680,6 @@
 127.0.0.1 makeamends.pro
 127.0.0.1 makeprofi.click
 127.0.0.1 makesnow.click
-127.0.0.1 maket999-abczyz789-boxes333.click
 127.0.0.1 malagmawinched.click
 127.0.0.1 maleeprn.click
 127.0.0.1 malemiasteczko.click
@@ -12090,6 +12094,7 @@
 127.0.0.1 mobi.oleviet777.com
 127.0.0.1 mobi.yanosik.pl
 127.0.0.1 mobiadvert.livesportmedia.eu
+127.0.0.1 mobie-facebook.click
 127.0.0.1 mobile-browser.me
 127.0.0.1 mobile-click.biz
 127.0.0.1 mobile-sdk-config.gservice.emarsys.net
@@ -14538,7 +14543,6 @@
 127.0.0.1 reachadv.it
 127.0.0.1 reactivasolicitudes.viaservicezone.click
 127.0.0.1 reactivasoluciones.viaservicezone.click
-127.0.0.1 reactivasoluciones.zonasegura.click
 127.0.0.1 reactivasoluciones.zonaseguraservicio.click
 127.0.0.1 reader.meizu.com
 127.0.0.1 reader.res.meizu.com
@@ -16613,6 +16617,7 @@
 127.0.0.1 test2019.adview.cn
 127.0.0.1 testad.hot-mob.com
 127.0.0.1 testserverlp.pro
+127.0.0.1 tetherslapillo.click
 127.0.0.1 tex.ero-advertising.com
 127.0.0.1 texasadvisorgroup.com
 127.0.0.1 text-link-ads.com
@@ -16727,6 +16732,7 @@
 127.0.0.1 tob-cms.bj.bcebos.com
 127.0.0.1 togyzii4.pro
 127.0.0.1 toingra.click
+127.0.0.1 token-mi.life
 127.0.0.1 token.api.kochava.com
 127.0.0.1 tokenstocks.pro
 127.0.0.1 tokinou8.pro
@@ -17347,6 +17353,7 @@
 127.0.0.1 update-0c5z3oxr4jxq-information.line.pm
 127.0.0.1 update-1.com
 127.0.0.1 update-3kxn5dayb9p6-information.line.pm
+127.0.0.1 update-56632.serveris.id.lv
 127.0.0.1 update-6ho8mvffk4j2-information.line.pm
 127.0.0.1 update-9vvqpi7my0uh-information.line.pm
 127.0.0.1 update-accounts-id.online
@@ -17377,7 +17384,6 @@
 127.0.0.1 update-trackhk.net
 127.0.0.1 update-za.info
 127.0.0.1 update-za.life
-127.0.0.1 update-za.run
 127.0.0.1 update-za.top
 127.0.0.1 update.123juzi.net
 127.0.0.1 update.360safe.com
@@ -18582,6 +18588,7 @@
 127.0.0.1 wwa.lanzous.com
 127.0.0.1 wwa.lanzouz.com
 127.0.0.1 wwbanners2.ero-advertising.com
+127.0.0.1 wwe.emso.dns-dynamic.net
 127.0.0.1 wwe.lanzoud.com
 127.0.0.1 wwe.lanzous.com
 127.0.0.1 wwe.lanzouz.com
@@ -18978,6 +18985,8 @@
 127.0.0.1 www.chestingruined.pro
 127.0.0.1 www.chestpark.click
 127.0.0.1 www.chocoadventurejoy631.sbs
+127.0.0.1 www.chocosmileadventure149.sbs
+127.0.0.1 www.chocosparkadventure480.sbs
 127.0.0.1 www.chori3oiwtb.click
 127.0.0.1 www.christianbusinessadvertising.com
 127.0.0.1 www.christiepointadvocates.com
@@ -19176,6 +19185,7 @@
 127.0.0.1 www.faceit.starsbyte.pro
 127.0.0.1 www.facesue8.pro
 127.0.0.1 www.fact.mestopoland.pro
+127.0.0.1 www.fafabyy0.pro
 127.0.0.1 www.fajny-bon.click
 127.0.0.1 www.famdlik-invest.pro
 127.0.0.1 www.fanners.ero-advertising.com
@@ -19471,6 +19481,7 @@
 127.0.0.1 www.jolterclips.click
 127.0.0.1 www.jordadokinvest.pro
 127.0.0.1 www.joyadventureplay165.sbs
+127.0.0.1 www.joysmileadventure185.sbs
 127.0.0.1 www.jquery-cdn.download
 127.0.0.1 www.jqwww.download
 127.0.0.1 www.judosbelter.click
@@ -20094,7 +20105,6 @@
 127.0.0.1 www.share.polinvst.com
 127.0.0.1 www.shop-click-drive.com
 127.0.0.1 www.simofoe8.pro
-127.0.0.1 www.simpledispatcher.click
 127.0.0.1 www.sin.ero-advertising.com
 127.0.0.1 www.singapore-advantage.com
 127.0.0.1 www.siodemka24h7.click
@@ -20329,6 +20339,7 @@
 127.0.0.1 www.universal-traffic.com
 127.0.0.1 www.unletstatic.click
 127.0.0.1 www.update-1.com
+127.0.0.1 www.update-56632.serveris.id.lv
 127.0.0.1 www.update-accounts-id.online
 127.0.0.1 www.update-expressvpn.com
 127.0.0.1 www.update-information.zzux.com
@@ -20866,7 +20877,6 @@
 127.0.0.1 zagubionefakty.click
 127.0.0.1 zagubioneosoby.click
 127.0.0.1 zagwozdkaspoleczna.click
-127.0.0.1 zaibja9.pivldo.pro
 127.0.0.1 zainstniale24h.click
 127.0.0.1 zaistnialewatki.click
 127.0.0.1 zajsciedrogowe.click
