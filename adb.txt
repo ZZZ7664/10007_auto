@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: Host 10007
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto 
-! Last modified: 2024-10-27 16:11:35
+! Last modified: 2024-10-27 22:17:53
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 [Host 10007]
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"^
 !在相应行的开头加个"#"号^
-!更新时间: 2024-10-27 16:11:35 ^
+!更新时间: 2024-10-27 22:17:53 ^
 
-!规则数量:21074^
+!规则数量:21050^
 !#################^
 
 110.43.121.13 bigota.d.miui.com^
@@ -5865,7 +5865,6 @@
 ||api.idio.co^
 ||api.iimedia.cn^
 ||api.ijunhai.com^
-||api.imap.contoh.ilmubaru.com^
 ||api.immomo.com^
 ||api.indicative.com^
 ||api.infinario.com^
@@ -8572,7 +8571,6 @@
 ||doniesienieinfo.click^
 ||doniesieniewladz.click^
 ||doniesieniewsieci.click^
-||donlodape2.click^
 ||dooyoouwoorkherre-354128.click^
 ||dopelnienia24.click^
 ||dophels.pro^
@@ -10094,7 +10092,6 @@
 ||hellgramite.click^
 ||helmetstrap.click^
 ||help-advertisesupportpages.com^
-||help-center-ad-appeal.vercel.app^
 ||help-center-for-business-open-appeal.mkt5support.cyou^
 ||help-center-for-business-open-case.mkt6support.cyou^
 ||help-center-for-business-open-case.reappeal.cyou^
@@ -11191,7 +11188,6 @@
 ||lampguitardailyes.pro^
 ||lamplightbackwardflightes.pro^
 ||lampofandas.pro^
-||landbot.pro^
 ||landing-page.mobi^
 ||landingpage.emaillpb.adobe.com^
 ||lanzonmotlier.click^
@@ -18775,7 +18771,6 @@
 ||www.ai-usmrisk.click^
 ||www.aicapitalbuilder.pro^
 ||www.aid-ad.jp^
-||www.aimarketmastery.pro^
 ||www.akcja-zakupy.click^
 ||www.akme-club.pro^
 ||www.aktualnefakty.click^
@@ -18786,7 +18781,6 @@
 ||www.alivaninvest.pro^
 ||www.allegrowork.pro^
 ||www.alleypaths.click^
-||www.am0r0usadv6ntures.sbs^
 ||www.analytics-digit-in.cdn.ampproject.org^
 ||www.analytics.247sports.com^
 ||www.analytics.ero-advertising.com^
@@ -18801,14 +18795,12 @@
 ||www.api.appfacebook.pl^
 ||www.api.axiatraders.com^
 ||www.api.chiyouup.com^
-||www.api.imap.contoh.ilmubaru.com^
 ||www.api.myeforsa.pl^
 ||www.api.pc-cloud.org^
 ||www.api.taboola.com^
 ||www.api.wutensor.com^
 ||www.api.xibitrs.com^
 ||www.aponia.wildcatler.click^
-||www.appar3ladv3nture.quest^
 ||www.appeal-helpcenter-open-cases.vercel.app^
 ||www.appeal-open-case.appealforpages3z.one^
 ||www.appeal-open-case.updateappealv8.biz^
@@ -19003,7 +18995,6 @@
 ||www.cigurae9.pro^
 ||www.cisco-analytics.com^
 ||www.clanpasta.click^
-||www.cleanerbrush.click^
 ||www.cleaningwindowsca.click^
 ||www.click-here.it^
 ||www.click-to-trace.com^
@@ -19121,7 +19112,6 @@
 ||www.dpd-pl.id810094.pro^
 ||www.dpd-pl.id912831.pro^
 ||www.dpd-pl.platnosc.click^
-||www.dracodoomte.pro^
 ||www.dragborninvesting.pro^
 ||www.dralig-investing.pro^
 ||www.dravor-investing.pro^
@@ -19209,7 +19199,6 @@
 ||www.fhatfee.ero-advertising.com^
 ||www.ficyveu3.pro^
 ||www.file-download.estudiosparrow.com^
-||www.file-download.importadorachr.cl^
 ||www.filesstorage.pro^
 ||www.finance-advise.com^
 ||www.finance-corp.info^
@@ -19336,14 +19325,12 @@
 ||www.happyjourney.click^
 ||www.hasanae.pro^
 ||www.hata.ero-advertising.com^
-||www.hazardshieldzone.click^
 ||www.health-partner.net^
 ||www.healthbeauty-advice.com^
 ||www.heartixxay.click^
 ||www.heatermelt.click^
 ||www.helmetstrap.click^
 ||www.help-advertisesupportpages.com^
-||www.help-center-ad-appeal.vercel.app^
 ||www.help-center-for-business-open-appeal.mkt5support.cyou^
 ||www.help-center-for-business-open-case.mkt6support.cyou^
 ||www.help-center-for-business-open-cases-10118.vercel.app^
@@ -19530,7 +19517,6 @@
 ||www.kynugeo9.pro^
 ||www.l-news.click^
 ||www.lameding-invest.pro^
-||www.landbot.pro^
 ||www.lanzoud.com^
 ||www.lanzous.com^
 ||www.lanzouz.com^
@@ -19641,7 +19627,6 @@
 ||www.mineralstone.click^
 ||www.minkarinvest.pro^
 ||www.miradoks-investing.pro^
-||www.mirthdab.click^
 ||www.miskindle.muchflaw.click^
 ||www.mmnetwork.mobi^
 ||www.mob-go.online^
@@ -20067,9 +20052,7 @@
 ||www.s10paces.ero-advertising.com^
 ||www.s7.adaces.ero-advertising.com^
 ||www.safeguardbasezone.click^
-||www.safeguardeye.click^
 ||www.safestrategywatch.click^
-||www.safetyguardianzone.click^
 ||www.safetyhubadvisor.cam^
 ||www.safetysensehub.click^
 ||www.sag9exikyu.pro^
@@ -20141,7 +20124,6 @@
 ||www.softsmart.mobi^
 ||www.softwareadvice.com^
 ||www.solfitnessadventures.com^
-||www.soliloquizestandardiseis.pro^
 ||www.somuchproduct.click^
 ||www.souladv.com^
 ||www.southernhomeadvisor.com^
@@ -20166,9 +20148,7 @@
 ||www.sporeednavagaes.pro^
 ||www.sportplus.pro^
 ||www.sprytna-nagroda.click^
-||www.stabilityguardclick.click^
 ||www.stadvip.com^
-||www.standardisereplenishas.pro^
 ||www.star-advertising.com^
 ||www.stationedforemaned.pro^
 ||www.stationedmissioned.pro^
@@ -20328,13 +20308,11 @@
 ||www.tytibaepau.pro^
 ||www.tytufuu.pro^
 ||www.tywuxoe3.pro^
-||www.uc-o9b.cfd^
 ||www.uc-ys3.lat^
 ||www.uc.mras.skin^
 ||www.uc.osik.skin^
 ||www.ucxaastll.pro^
 ||www.ufgron-invest.pro^
-||www.ufologiahephds.pro^
 ||www.ukrytyprzekaz.click^
 ||www.ukrytyswiadek.click^
 ||www.ultimotest.click^
@@ -20360,7 +20338,6 @@
 ||www.urzadzamy.click^
 ||www.usepriorityadvertising.com^
 ||www.users.ero-advertising.com^
-||www.usherhaze.click^
 ||www.uszkotonfak.click^
 ||www.vadilimer.pro^
 ||www.vads.net.vn^
@@ -20534,7 +20511,6 @@
 ||www.zatnijprawwe.click^
 ||www.zb5xpvwvups.click^
 ||www.zbieram-bonusy.click^
-||www.zenithpen.click^
 ||www.zertlik-investing.pro^
 ||www.zilygau1.pro^
 ||www.ziposya7.pro^
