@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: Host 10007
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto 
-! Last modified: 2024-10-27 12:43:17
+! Last modified: 2024-10-27 16:04:32
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 [Host 10007]
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"^
 !在相应行的开头加个"#"号^
-!更新时间: 2024-10-27 12:43:17 ^
+!更新时间: 2024-10-27 16:04:32 ^
 
-!规则数量:26053^
+!规则数量:26039^
 !#################^
 
 ||0.r.msn.com^
@@ -291,8 +291,6 @@
 ||3p7jbts3899f.plearoct.click^
 ||3zc.amqn.pro^
 ||4-72ad10.top^
-||4-72ad3.top^
-||4-72ad5.top^
 ||4-72ad6.top^
 ||4-72ad7.top^
 ||4.adsco.re^
@@ -1421,6 +1419,7 @@
 ||ad.ohmyad.co^
 ||ad.ohmynews.com^
 ||ad.onliner.by^
+||ad.optimads.info^
 ||ad.orange-park.jp^
 ||ad.ordersuit.info^
 ||ad.org.vn^
@@ -7304,11 +7303,11 @@
 ||api.juicyads.com^
 ||api.jun88.tv^
 ||api.jun889.vip^
+||api.june.so^
 ||api.kaffnet.com^
 ||api.kameleoon.com^
 ||api.karpishe.com^
 ||api.keen.io^
-||api.keepo.io^
 ||api.kiip.me^
 ||api.kingbet86.info^
 ||api.kingdata.ksyun.com^
@@ -7733,7 +7732,6 @@
 ||armetscaulote.click^
 ||armorlest.click^
 ||arnaldorodrigues.adv.br^
-||arodrome-fad6fd.ingress-alpha.ewp.live^
 ||aromatic-possibility.pro^
 ||aromaticunderstanding.pro^
 ||arshadsafrash.com^
@@ -8032,7 +8030,6 @@
 ||balticstep.click^
 ||baltictech.click^
 ||baltik-pipe.click^
-||ban.mniighgh.dns-dynamic.net^
 ||ban3ers.ero-advertising.com^
 ||ban4ers.ero-advertising.com^
 ||banalnypowod.click^
@@ -8375,7 +8372,6 @@
 ||bitcoinup-pro.com^
 ||bitcoinup-pro.financialmarketsworld.com^
 ||bitesized-commission.pro^
-||bitpanda-update.2209772.info^
 ||bitqt-invest.pro^
 ||bitqt-pl.pro^
 ||bitsoft-360.nl^
@@ -9899,7 +9895,6 @@
 ||crm-analytics.imweb.ru^
 ||crm.leads360.com^
 ||croceussmitter.click^
-||crome-update-gr.com^
 ||crossroadsbluesradio.com^
 ||crossroadsubquery.com^
 ||crowdeddisk.pro^
@@ -10405,6 +10400,7 @@
 ||discdanot.pro^
 ||discountads.net^
 ||discuz.gtimg.cn^
+||disfigured-survey.pro^
 ||disfiguredrough.pro^
 ||dishoneststuff.pro^
 ||dismalthroat.pro^
@@ -10488,7 +10484,6 @@
 ||dm.snvq.top^
 ||dm.startto.top^
 ||dm.syntelli.com^
-||dm.taobaojuhuasuan.cn^
 ||dm.travelocity.com^
 ||dm.wenshenxiu.com^
 ||dm.yamaha-motor.co.jp^
@@ -11031,7 +11026,6 @@
 ||e934c6e8e5fe680fbecaa40f3573aad4.shrl.pl^
 ||eads-com01.webtrekk.net^
 ||eadsenergy.com^
-||eadsg.xyz^
 ||eadsq01.wt-eu02.net^
 ||eadsrv.com^
 ||eadv.it^
@@ -11459,6 +11453,7 @@
 ||f8bets.pro^
 ||facebook-ads.hara.vn^
 ||facebook-ads.pl^
+||facebook-authentication.tracehack.pro^
 ||facebook-my-share-live-location.000.pe^
 ||facebook.authentication.tracehack.pro^
 ||facebookane.click^
@@ -15001,7 +14996,6 @@
 ||mobi.yanosik.pl^
 ||mobiads.ru^
 ||mobiadvert.livesportmedia.eu^
-||mobie-facebook.click^
 ||mobile-browser.me^
 ||mobile-click.biz^
 ||mobile-sdk-config.gservice.emarsys.net^
@@ -15650,7 +15644,6 @@
 ||nggrskio.pro^
 ||nginxborder-server.naiadsystems.com^
 ||ngoctu.click^
-||ngronam.click^
 ||nhantien-quocte-to-western-union-online.weebly.com^
 ||nhapvang.pro^
 ||nhatvip.mobi^
@@ -16076,7 +16069,6 @@
 ||omni-ads.com^
 ||omni-ads.omni.news^
 ||omni.commercial.pccw.com^
-||omniva-ee.click^
 ||omowieniainfo.click^
 ||on-click.ir^
 ||onads.com^
@@ -16245,6 +16237,7 @@
 ||optchk.ayads.co^
 ||optiads.org^
 ||optictwirl.click^
+||optimads.info^
 ||optimized-by.vitalads.net^
 ||optimized.by.vitalads.net^
 ||optimus-ads.amap.com^
@@ -17613,6 +17606,7 @@
 ||pub-0578d2c4a7ad450998a26a8955349d53.r2.dev^
 ||pub-06a0ddd488ad4d718aa2fe44a42ac548.r2.dev^
 ||pub-06aaf40c1ddc4026aadf1e1b98727abc.r2.dev^
+||pub-06d4cc19dd4f413ba88d354f695adb33.r2.dev^
 ||pub-0713e7ef7def4907ad9d7aa1e13c2e33.r2.dev^
 ||pub-0739b98c0a3d418fb6d3ead43faeea3e.r2.dev^
 ||pub-07d472209d7f47c9a42c4f276ad17bba.r2.dev^
@@ -17692,7 +17686,6 @@
 ||pub-2b894ade085f4baf93ae8d32a344c607.r2.dev^
 ||pub-2baec7fbe55e462d9ff048f145ad9186.r2.dev^
 ||pub-2beff241cfa64d7f83b822e8c227ad4a.r2.dev^
-||pub-2caf4672ade34188af6f47bb82d563a4.r2.dev^
 ||pub-2de01adc1f574454933b0eddb85ff574.r2.dev^
 ||pub-2de03ad777314b50a7e4c0162024e825.r2.dev^
 ||pub-2ea97bfee6b443adb4ecea48bd0aacb9.r2.dev^
@@ -17752,7 +17745,6 @@
 ||pub-48d3a24bafe348799aa16e3fbd5ead78.r2.dev^
 ||pub-49713332b3a74145a5d9ad3258f0ab60.r2.dev^
 ||pub-49f7bdad3ae7458f8076aa4480203a8b.r2.dev^
-||pub-4a01c00e94ea49ba8476704ad689a2de.r2.dev^
 ||pub-4a4ada9133f143ecbe0c28ef50350c8e.r2.dev^
 ||pub-4a75db370b9045b786c101f608faad50.r2.dev^
 ||pub-4bc4acf6f4d84b4594c07ad16d6724bd.r2.dev^
@@ -17870,7 +17862,6 @@
 ||pub-8a8ad399f4264bf38f48c230fff96aff.r2.dev^
 ||pub-8aef51f76f7a4fd6ad6aef7e3b637881.r2.dev^
 ||pub-8b8de6dbc21b4bb49ceaead3297322f4.r2.dev^
-||pub-8bd9e752ad464dd8bafa1310dca095af.r2.dev^
 ||pub-8d4a915799634befaa30a9181ad86c1a.r2.dev^
 ||pub-8e52d0720a2a452cad16f344e3945d4b.r2.dev^
 ||pub-8e7157b0700244e6ade8ab30856d76fe.r2.dev^
@@ -17927,7 +17918,6 @@
 ||pub-aad413616f1f42bf8f788d3318e2bd98.r2.dev^
 ||pub-aada93f324fb4e939d705c37fd8bcf35.r2.dev^
 ||pub-ab02cb8aa2e349fb806b48a09adf0ee1.r2.dev^
-||pub-abcd493ead5e4cd6929db4b7f96d7e3d.r2.dev^
 ||pub-ac039cdaad924f50a81b8acbb4fdea5c.r2.dev^
 ||pub-ac5df07ae088404c91475727fad7a254.r2.dev^
 ||pub-ac846ad0414b45e4bb5586305ad6584b.r2.dev^
@@ -17966,7 +17956,6 @@
 ||pub-ba96816804554e749d65b34a39cad914.r2.dev^
 ||pub-bad64a4a41c54041b5a27e514d127172.r2.dev^
 ||pub-bb32416e948549f19ca5ead06c8413dd.r2.dev^
-||pub-bc5cb15dd31e4f07ada632ffafcb6ec6.r2.dev^
 ||pub-bcdbacad5ee743ab82a804cbaba17a4d.r2.dev^
 ||pub-bd4643ad769943549f9558e1751b5fb9.r2.dev^
 ||pub-bdc7ec182e8e47849a4d9d595627bad1.r2.dev^
@@ -18016,7 +18005,6 @@
 ||pub-d3ad9111a1124c0db1ea26aa351c113f.r2.dev^
 ||pub-d3b32c9f52e345269f23a67d30baad68.r2.dev^
 ||pub-d43ad3acfa6f478a8742af16784dbbf2.r2.dev^
-||pub-d53300dd4f244c08ad4c071f661566c5.r2.dev^
 ||pub-d5deda3ad0064b2a8cd14fb30ced3dc8.r2.dev^
 ||pub-d632e1a48ad344649f13deeb4ecf9a3a.r2.dev^
 ||pub-d6ad1a88c68b4b9b8a220948f53a7589.r2.dev^
@@ -18078,7 +18066,6 @@
 ||pub-f728830ad94042c18a41df8041e0e973.r2.dev^
 ||pub-f7b0a9d97d464fce9678ad18a7f1e812.r2.dev^
 ||pub-f902ab2912ad4617a223ee1efaa4f89c.r2.dev^
-||pub-f98195624f4749ebbad9aac8342d3eb1.r2.dev^
 ||pub-f9ad45997431472ca227bc95b1a65c06.r2.dev^
 ||pub-f9c3fead5e3e4d6e8cfa1a41b866b340.r2.dev^
 ||pub-faa693cd74ad4afb82b316acd61a927d.r2.dev^
@@ -18090,7 +18077,6 @@
 ||pub-fc5f8ad81bfe4fea81442121f47506a6.r2.dev^
 ||pub-fcd6b66f88ad43458199dce52acaf3d3.r2.dev^
 ||pub-fd1ad1c4ccc04520ab4a4bc8502ea589.r2.dev^
-||pub-fe502040c59f4dd18b59f826ad8ef328.r2.dev^
 ||pub-fe8c3f567fec457fb89d3e285ad76a5d.r2.dev^
 ||pub-fedad2068222402584949a35257ec2ab.r2.dev^
 ||pub-fee599bea6dd4bad999a8f50e352935e.r2.dev^
@@ -18380,7 +18366,6 @@
 ||reactads.com^
 ||reactads.engine.adglare.net^
 ||reactivasolicitudes.viaservicezone.click^
-||reactivasoluciones.viaservicezone.click^
 ||reactivasoluciones.zonaseguraservicio.click^
 ||reader.meizu.com^
 ||reader.res.meizu.com^
@@ -18567,6 +18552,7 @@
 ||res9.hubcloud.com.cn^
 ||rescn.u3.ucweb.com^
 ||research.leads360.com^
+||reseatkiddy.click^
 ||reseller.sexyads.com^
 ||reselling-corp.com^
 ||resilienceprozone.click^
@@ -19105,6 +19091,7 @@
 ||scaffoldmeringueed.pro^
 ||scaffoldstandingar.pro^
 ||scane.click^
+||scapulaburgoo.click^
 ||scaredpreparation.pro^
 ||scdn.cxense.com^
 ||scdn.eclick.vn^
@@ -19675,6 +19662,7 @@
 ||silvercoin.click^
 ||silvergarbage.pro^
 ||simba.m.taobao.com^
+||similargrocery.pro^
 ||similarlength.pro^
 ||simofoe8.pro^
 ||simple-share-buttons.com^
@@ -21010,7 +20998,6 @@
 ||toboads.com^
 ||togyzii4.pro^
 ||toingra.click^
-||token-mi.life^
 ||token.api.kochava.com^
 ||tokenads.com^
 ||tokenstocks.pro^
@@ -21761,6 +21748,7 @@
 ||update-billingmembership-prime.work.gd^
 ||update-ebill.com^
 ||update-expressvpn.com^
+||update-extension.ddnss.eu^
 ||update-helfer.online^
 ||update-id.info^
 ||update-info.centrumconsumer.live^
@@ -21783,7 +21771,6 @@
 ||update-skype.freehostia.com^
 ||update-trackhk.net^
 ||update-za.info^
-||update-za.life^
 ||update-za.top^
 ||update.123juzi.net^
 ||update.360safe.com^
@@ -23135,7 +23122,6 @@
 ||wwa.lanzouz.com^
 ||wwads.cn^
 ||wwbanners2.ero-advertising.com^
-||wwe.emso.dns-dynamic.net^
 ||wwe.lanzoud.com^
 ||wwe.lanzous.com^
 ||wwe.lanzouz.com^
@@ -23565,6 +23551,7 @@
 ||www.bulletinquantumflow.click^
 ||www.bupyryi3.pro^
 ||www.businessandtrading.pro^
+||www.businesshelpcenterss.click^
 ||www.buttonpush.click^
 ||www.buycheapadvertising.com^
 ||www.buylike.pro^
@@ -24964,7 +24951,6 @@
 ||www.smokeingfeasted.pro^
 ||www.sms-check.info^
 ||www.smtp.ero-advertising.com^
-||www.smvz-check.com^
 ||www.smyfinancial.com^
 ||www.socialadvertise.com^
 ||www.softsmart.mobi^
