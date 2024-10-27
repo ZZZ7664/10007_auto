@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2024-10-27 12:43:09 
+#更新时间: 2024-10-27 16:04:24 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:21112
+#规则数量:21108
 ##################
 
 110.43.121.13 bigota.d.miui.com
@@ -1099,6 +1099,7 @@
 127.0.0.1 ad.ohmyad.co
 127.0.0.1 ad.ohmynews.com
 127.0.0.1 ad.onliner.by
+127.0.0.1 ad.optimads.info
 127.0.0.1 ad.orange-park.jp
 127.0.0.1 ad.ordersuit.info
 127.0.0.1 ad.org.vn
@@ -5888,11 +5889,11 @@
 127.0.0.1 api.juicyads.com
 127.0.0.1 api.jun88.tv
 127.0.0.1 api.jun889.vip
+127.0.0.1 api.june.so
 127.0.0.1 api.kaffnet.com
 127.0.0.1 api.kameleoon.com
 127.0.0.1 api.karpishe.com
 127.0.0.1 api.keen.io
-127.0.0.1 api.keepo.io
 127.0.0.1 api.kiip.me
 127.0.0.1 api.kingbet86.info
 127.0.0.1 api.kingdata.ksyun.com
@@ -6488,7 +6489,6 @@
 127.0.0.1 balticstep.click
 127.0.0.1 baltictech.click
 127.0.0.1 baltik-pipe.click
-127.0.0.1 ban.mniighgh.dns-dynamic.net
 127.0.0.1 ban3ers.ero-advertising.com
 127.0.0.1 ban4ers.ero-advertising.com
 127.0.0.1 banalnypowod.click
@@ -6775,7 +6775,6 @@
 127.0.0.1 bitcoinup-pro.com
 127.0.0.1 bitcoinup-pro.financialmarketsworld.com
 127.0.0.1 bitesized-commission.pro
-127.0.0.1 bitpanda-update.2209772.info
 127.0.0.1 bitqt-invest.pro
 127.0.0.1 bitqt-pl.pro
 127.0.0.1 bitsoft-360.nl
@@ -8023,7 +8022,6 @@
 127.0.0.1 critomiron.click
 127.0.0.1 crm-analytics.imweb.ru
 127.0.0.1 croceussmitter.click
-127.0.0.1 crome-update-gr.com
 127.0.0.1 crowdeddisk.pro
 127.0.0.1 crpro.tes1aprodj.click
 127.0.0.1 crpt-pro.beauty
@@ -8409,6 +8407,7 @@
 127.0.0.1 disastrousfinal.pro
 127.0.0.1 discdanot.pro
 127.0.0.1 discuz.gtimg.cn
+127.0.0.1 disfigured-survey.pro
 127.0.0.1 disfiguredrough.pro
 127.0.0.1 dishoneststuff.pro
 127.0.0.1 dismalthroat.pro
@@ -8484,7 +8483,6 @@
 127.0.0.1 dm.snvq.top
 127.0.0.1 dm.startto.top
 127.0.0.1 dm.syntelli.com
-127.0.0.1 dm.taobaojuhuasuan.cn
 127.0.0.1 dm.travelocity.com
 127.0.0.1 dm.wenshenxiu.com
 127.0.0.1 dm.yamaha-motor.co.jp
@@ -9276,6 +9274,7 @@
 127.0.0.1 f8bets.pro
 127.0.0.1 facebook-ads.hara.vn
 127.0.0.1 facebook-ads.pl
+127.0.0.1 facebook-authentication.tracehack.pro
 127.0.0.1 facebook-my-share-live-location.000.pe
 127.0.0.1 facebook.authentication.tracehack.pro
 127.0.0.1 facebookane.click
@@ -12097,7 +12096,6 @@
 127.0.0.1 mobi.oleviet777.com
 127.0.0.1 mobi.yanosik.pl
 127.0.0.1 mobiadvert.livesportmedia.eu
-127.0.0.1 mobie-facebook.click
 127.0.0.1 mobile-browser.me
 127.0.0.1 mobile-click.biz
 127.0.0.1 mobile-sdk-config.gservice.emarsys.net
@@ -12630,7 +12628,6 @@
 127.0.0.1 ngc1.nsm-corp.com
 127.0.0.1 nggrskio.pro
 127.0.0.1 ngoctu.click
-127.0.0.1 ngronam.click
 127.0.0.1 nhantien-quocte-to-western-union-online.weebly.com
 127.0.0.1 nhapvang.pro
 127.0.0.1 nhatvip.mobi
@@ -13005,7 +13002,6 @@
 127.0.0.1 omni-ads.com
 127.0.0.1 omni-ads.omni.news
 127.0.0.1 omni.commercial.pccw.com
-127.0.0.1 omniva-ee.click
 127.0.0.1 omowieniainfo.click
 127.0.0.1 on-click.ir
 127.0.0.1 one-click.cc
@@ -14547,7 +14543,6 @@
 127.0.0.1 re.taobao.com
 127.0.0.1 reachadv.it
 127.0.0.1 reactivasolicitudes.viaservicezone.click
-127.0.0.1 reactivasoluciones.viaservicezone.click
 127.0.0.1 reactivasoluciones.zonaseguraservicio.click
 127.0.0.1 reader.meizu.com
 127.0.0.1 reader.res.meizu.com
@@ -14692,6 +14687,7 @@
 127.0.0.1 res5.hubcloud.com.cn
 127.0.0.1 res9.hubcloud.com.cn
 127.0.0.1 rescn.u3.ucweb.com
+127.0.0.1 reseatkiddy.click
 127.0.0.1 reselling-corp.com
 127.0.0.1 resilienceprozone.click
 127.0.0.1 resniks.pro
@@ -15122,6 +15118,7 @@
 127.0.0.1 scaffoldmeringueed.pro
 127.0.0.1 scaffoldstandingar.pro
 127.0.0.1 scane.click
+127.0.0.1 scapulaburgoo.click
 127.0.0.1 scaredpreparation.pro
 127.0.0.1 scdn.cxense.com
 127.0.0.1 scdn.eclick.vn
@@ -15626,6 +15623,7 @@
 127.0.0.1 silvercoin.click
 127.0.0.1 silvergarbage.pro
 127.0.0.1 simba.m.taobao.com
+127.0.0.1 similargrocery.pro
 127.0.0.1 similarlength.pro
 127.0.0.1 simofoe8.pro
 127.0.0.1 simple-share-buttons.com
@@ -16737,7 +16735,6 @@
 127.0.0.1 tob-cms.bj.bcebos.com
 127.0.0.1 togyzii4.pro
 127.0.0.1 toingra.click
-127.0.0.1 token-mi.life
 127.0.0.1 token.api.kochava.com
 127.0.0.1 tokenstocks.pro
 127.0.0.1 tokinou8.pro
@@ -17366,6 +17363,7 @@
 127.0.0.1 update-billingmembership-prime.work.gd
 127.0.0.1 update-ebill.com
 127.0.0.1 update-expressvpn.com
+127.0.0.1 update-extension.ddnss.eu
 127.0.0.1 update-helfer.online
 127.0.0.1 update-id.info
 127.0.0.1 update-info.centrumconsumer.live
@@ -17388,7 +17386,6 @@
 127.0.0.1 update-skype.freehostia.com
 127.0.0.1 update-trackhk.net
 127.0.0.1 update-za.info
-127.0.0.1 update-za.life
 127.0.0.1 update-za.top
 127.0.0.1 update.123juzi.net
 127.0.0.1 update.360safe.com
@@ -18593,7 +18590,6 @@
 127.0.0.1 wwa.lanzous.com
 127.0.0.1 wwa.lanzouz.com
 127.0.0.1 wwbanners2.ero-advertising.com
-127.0.0.1 wwe.emso.dns-dynamic.net
 127.0.0.1 wwe.lanzoud.com
 127.0.0.1 wwe.lanzous.com
 127.0.0.1 wwe.lanzouz.com
@@ -18922,6 +18918,7 @@
 127.0.0.1 www.bulletinquantumflow.click
 127.0.0.1 www.bupyryi3.pro
 127.0.0.1 www.businessandtrading.pro
+127.0.0.1 www.businesshelpcenterss.click
 127.0.0.1 www.buttonpush.click
 127.0.0.1 www.buycheapadvertising.com
 127.0.0.1 www.buylike.pro
@@ -20136,7 +20133,6 @@
 127.0.0.1 www.smokeingfeasted.pro
 127.0.0.1 www.sms-check.info
 127.0.0.1 www.smtp.ero-advertising.com
-127.0.0.1 www.smvz-check.com
 127.0.0.1 www.smyfinancial.com
 127.0.0.1 www.socialadvertise.com
 127.0.0.1 www.softsmart.mobi

@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: Host 10007
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto 
-! Last modified: 2024-10-27 12:43:12
+! Last modified: 2024-10-27 16:04:28
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 [Host 10007]
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"^
 !在相应行的开头加个"#"号^
-!更新时间: 2024-10-27 12:43:12 ^
+!更新时间: 2024-10-27 16:04:27 ^
 
-!规则数量:21078^
+!规则数量:21074^
 !#################^
 
 110.43.121.13 bigota.d.miui.com^
@@ -1102,6 +1102,7 @@
 ||ad.ohmyad.co^
 ||ad.ohmynews.com^
 ||ad.onliner.by^
+||ad.optimads.info^
 ||ad.orange-park.jp^
 ||ad.ordersuit.info^
 ||ad.org.vn^
@@ -5891,11 +5892,11 @@
 ||api.juicyads.com^
 ||api.jun88.tv^
 ||api.jun889.vip^
+||api.june.so^
 ||api.kaffnet.com^
 ||api.kameleoon.com^
 ||api.karpishe.com^
 ||api.keen.io^
-||api.keepo.io^
 ||api.kiip.me^
 ||api.kingbet86.info^
 ||api.kingdata.ksyun.com^
@@ -6491,7 +6492,6 @@
 ||balticstep.click^
 ||baltictech.click^
 ||baltik-pipe.click^
-||ban.mniighgh.dns-dynamic.net^
 ||ban3ers.ero-advertising.com^
 ||ban4ers.ero-advertising.com^
 ||banalnypowod.click^
@@ -6778,7 +6778,6 @@
 ||bitcoinup-pro.com^
 ||bitcoinup-pro.financialmarketsworld.com^
 ||bitesized-commission.pro^
-||bitpanda-update.2209772.info^
 ||bitqt-invest.pro^
 ||bitqt-pl.pro^
 ||bitsoft-360.nl^
@@ -8026,7 +8025,6 @@
 ||critomiron.click^
 ||crm-analytics.imweb.ru^
 ||croceussmitter.click^
-||crome-update-gr.com^
 ||crowdeddisk.pro^
 ||crpro.tes1aprodj.click^
 ||crpt-pro.beauty^
@@ -8412,6 +8410,7 @@
 ||disastrousfinal.pro^
 ||discdanot.pro^
 ||discuz.gtimg.cn^
+||disfigured-survey.pro^
 ||disfiguredrough.pro^
 ||dishoneststuff.pro^
 ||dismalthroat.pro^
@@ -8487,7 +8486,6 @@
 ||dm.snvq.top^
 ||dm.startto.top^
 ||dm.syntelli.com^
-||dm.taobaojuhuasuan.cn^
 ||dm.travelocity.com^
 ||dm.wenshenxiu.com^
 ||dm.yamaha-motor.co.jp^
@@ -9279,6 +9277,7 @@
 ||f8bets.pro^
 ||facebook-ads.hara.vn^
 ||facebook-ads.pl^
+||facebook-authentication.tracehack.pro^
 ||facebook-my-share-live-location.000.pe^
 ||facebook.authentication.tracehack.pro^
 ||facebookane.click^
@@ -12100,7 +12099,6 @@
 ||mobi.oleviet777.com^
 ||mobi.yanosik.pl^
 ||mobiadvert.livesportmedia.eu^
-||mobie-facebook.click^
 ||mobile-browser.me^
 ||mobile-click.biz^
 ||mobile-sdk-config.gservice.emarsys.net^
@@ -12633,7 +12631,6 @@
 ||ngc1.nsm-corp.com^
 ||nggrskio.pro^
 ||ngoctu.click^
-||ngronam.click^
 ||nhantien-quocte-to-western-union-online.weebly.com^
 ||nhapvang.pro^
 ||nhatvip.mobi^
@@ -13008,7 +13005,6 @@
 ||omni-ads.com^
 ||omni-ads.omni.news^
 ||omni.commercial.pccw.com^
-||omniva-ee.click^
 ||omowieniainfo.click^
 ||on-click.ir^
 ||one-click.cc^
@@ -14550,7 +14546,6 @@
 ||re.taobao.com^
 ||reachadv.it^
 ||reactivasolicitudes.viaservicezone.click^
-||reactivasoluciones.viaservicezone.click^
 ||reactivasoluciones.zonaseguraservicio.click^
 ||reader.meizu.com^
 ||reader.res.meizu.com^
@@ -14695,6 +14690,7 @@
 ||res5.hubcloud.com.cn^
 ||res9.hubcloud.com.cn^
 ||rescn.u3.ucweb.com^
+||reseatkiddy.click^
 ||reselling-corp.com^
 ||resilienceprozone.click^
 ||resniks.pro^
@@ -15125,6 +15121,7 @@
 ||scaffoldmeringueed.pro^
 ||scaffoldstandingar.pro^
 ||scane.click^
+||scapulaburgoo.click^
 ||scaredpreparation.pro^
 ||scdn.cxense.com^
 ||scdn.eclick.vn^
@@ -15629,6 +15626,7 @@
 ||silvercoin.click^
 ||silvergarbage.pro^
 ||simba.m.taobao.com^
+||similargrocery.pro^
 ||similarlength.pro^
 ||simofoe8.pro^
 ||simple-share-buttons.com^
@@ -16740,7 +16738,6 @@
 ||tob-cms.bj.bcebos.com^
 ||togyzii4.pro^
 ||toingra.click^
-||token-mi.life^
 ||token.api.kochava.com^
 ||tokenstocks.pro^
 ||tokinou8.pro^
@@ -17369,6 +17366,7 @@
 ||update-billingmembership-prime.work.gd^
 ||update-ebill.com^
 ||update-expressvpn.com^
+||update-extension.ddnss.eu^
 ||update-helfer.online^
 ||update-id.info^
 ||update-info.centrumconsumer.live^
@@ -17391,7 +17389,6 @@
 ||update-skype.freehostia.com^
 ||update-trackhk.net^
 ||update-za.info^
-||update-za.life^
 ||update-za.top^
 ||update.123juzi.net^
 ||update.360safe.com^
@@ -18596,7 +18593,6 @@
 ||wwa.lanzous.com^
 ||wwa.lanzouz.com^
 ||wwbanners2.ero-advertising.com^
-||wwe.emso.dns-dynamic.net^
 ||wwe.lanzoud.com^
 ||wwe.lanzous.com^
 ||wwe.lanzouz.com^
@@ -18925,6 +18921,7 @@
 ||www.bulletinquantumflow.click^
 ||www.bupyryi3.pro^
 ||www.businessandtrading.pro^
+||www.businesshelpcenterss.click^
 ||www.buttonpush.click^
 ||www.buycheapadvertising.com^
 ||www.buylike.pro^
@@ -20139,7 +20136,6 @@
 ||www.smokeingfeasted.pro^
 ||www.sms-check.info^
 ||www.smtp.ero-advertising.com^
-||www.smvz-check.com^
 ||www.smyfinancial.com^
 ||www.socialadvertise.com^
 ||www.softsmart.mobi^
