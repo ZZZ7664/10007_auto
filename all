@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2024-10-27 12:43:10 
+#更新时间: 2024-10-27 16:04:21 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:26087
+#规则数量:26073
 ##################
 
 110.43.121.13 bigota.d.miui.com
@@ -294,8 +294,6 @@
 1.1.1.1 3p7jbts3899f.plearoct.click
 1.1.1.1 3zc.amqn.pro
 1.1.1.1 4-72ad10.top
-1.1.1.1 4-72ad3.top
-1.1.1.1 4-72ad5.top
 1.1.1.1 4-72ad6.top
 1.1.1.1 4-72ad7.top
 1.1.1.1 4.adsco.re
@@ -1424,6 +1422,7 @@
 1.1.1.1 ad.ohmyad.co
 1.1.1.1 ad.ohmynews.com
 1.1.1.1 ad.onliner.by
+1.1.1.1 ad.optimads.info
 1.1.1.1 ad.orange-park.jp
 1.1.1.1 ad.ordersuit.info
 1.1.1.1 ad.org.vn
@@ -7307,11 +7306,11 @@
 1.1.1.1 api.juicyads.com
 1.1.1.1 api.jun88.tv
 1.1.1.1 api.jun889.vip
+1.1.1.1 api.june.so
 1.1.1.1 api.kaffnet.com
 1.1.1.1 api.kameleoon.com
 1.1.1.1 api.karpishe.com
 1.1.1.1 api.keen.io
-1.1.1.1 api.keepo.io
 1.1.1.1 api.kiip.me
 1.1.1.1 api.kingbet86.info
 1.1.1.1 api.kingdata.ksyun.com
@@ -7736,7 +7735,6 @@
 1.1.1.1 armetscaulote.click
 1.1.1.1 armorlest.click
 1.1.1.1 arnaldorodrigues.adv.br
-1.1.1.1 arodrome-fad6fd.ingress-alpha.ewp.live
 1.1.1.1 aromatic-possibility.pro
 1.1.1.1 aromaticunderstanding.pro
 1.1.1.1 arshadsafrash.com
@@ -8035,7 +8033,6 @@
 1.1.1.1 balticstep.click
 1.1.1.1 baltictech.click
 1.1.1.1 baltik-pipe.click
-1.1.1.1 ban.mniighgh.dns-dynamic.net
 1.1.1.1 ban3ers.ero-advertising.com
 1.1.1.1 ban4ers.ero-advertising.com
 1.1.1.1 banalnypowod.click
@@ -8378,7 +8375,6 @@
 1.1.1.1 bitcoinup-pro.com
 1.1.1.1 bitcoinup-pro.financialmarketsworld.com
 1.1.1.1 bitesized-commission.pro
-1.1.1.1 bitpanda-update.2209772.info
 1.1.1.1 bitqt-invest.pro
 1.1.1.1 bitqt-pl.pro
 1.1.1.1 bitsoft-360.nl
@@ -9902,7 +9898,6 @@
 1.1.1.1 crm-analytics.imweb.ru
 1.1.1.1 crm.leads360.com
 1.1.1.1 croceussmitter.click
-1.1.1.1 crome-update-gr.com
 1.1.1.1 crossroadsbluesradio.com
 1.1.1.1 crossroadsubquery.com
 1.1.1.1 crowdeddisk.pro
@@ -10408,6 +10403,7 @@
 1.1.1.1 discdanot.pro
 1.1.1.1 discountads.net
 1.1.1.1 discuz.gtimg.cn
+1.1.1.1 disfigured-survey.pro
 1.1.1.1 disfiguredrough.pro
 1.1.1.1 dishoneststuff.pro
 1.1.1.1 dismalthroat.pro
@@ -10491,7 +10487,6 @@
 1.1.1.1 dm.snvq.top
 1.1.1.1 dm.startto.top
 1.1.1.1 dm.syntelli.com
-1.1.1.1 dm.taobaojuhuasuan.cn
 1.1.1.1 dm.travelocity.com
 1.1.1.1 dm.wenshenxiu.com
 1.1.1.1 dm.yamaha-motor.co.jp
@@ -11034,7 +11029,6 @@
 1.1.1.1 e934c6e8e5fe680fbecaa40f3573aad4.shrl.pl
 1.1.1.1 eads-com01.webtrekk.net
 1.1.1.1 eadsenergy.com
-1.1.1.1 eadsg.xyz
 1.1.1.1 eadsq01.wt-eu02.net
 1.1.1.1 eadsrv.com
 1.1.1.1 eadv.it
@@ -11462,6 +11456,7 @@
 1.1.1.1 f8bets.pro
 1.1.1.1 facebook-ads.hara.vn
 1.1.1.1 facebook-ads.pl
+1.1.1.1 facebook-authentication.tracehack.pro
 1.1.1.1 facebook-my-share-live-location.000.pe
 1.1.1.1 facebook.authentication.tracehack.pro
 1.1.1.1 facebookane.click
@@ -15004,7 +14999,6 @@
 1.1.1.1 mobi.yanosik.pl
 1.1.1.1 mobiads.ru
 1.1.1.1 mobiadvert.livesportmedia.eu
-1.1.1.1 mobie-facebook.click
 1.1.1.1 mobile-browser.me
 1.1.1.1 mobile-click.biz
 1.1.1.1 mobile-sdk-config.gservice.emarsys.net
@@ -15653,7 +15647,6 @@
 1.1.1.1 nggrskio.pro
 1.1.1.1 nginxborder-server.naiadsystems.com
 1.1.1.1 ngoctu.click
-1.1.1.1 ngronam.click
 1.1.1.1 nhantien-quocte-to-western-union-online.weebly.com
 1.1.1.1 nhapvang.pro
 1.1.1.1 nhatvip.mobi
@@ -16079,7 +16072,6 @@
 1.1.1.1 omni-ads.com
 1.1.1.1 omni-ads.omni.news
 1.1.1.1 omni.commercial.pccw.com
-1.1.1.1 omniva-ee.click
 1.1.1.1 omowieniainfo.click
 1.1.1.1 on-click.ir
 1.1.1.1 onads.com
@@ -16248,6 +16240,7 @@
 1.1.1.1 optchk.ayads.co
 1.1.1.1 optiads.org
 1.1.1.1 optictwirl.click
+1.1.1.1 optimads.info
 1.1.1.1 optimized-by.vitalads.net
 1.1.1.1 optimized.by.vitalads.net
 1.1.1.1 optimus-ads.amap.com
@@ -17616,6 +17609,7 @@
 1.1.1.1 pub-0578d2c4a7ad450998a26a8955349d53.r2.dev
 1.1.1.1 pub-06a0ddd488ad4d718aa2fe44a42ac548.r2.dev
 1.1.1.1 pub-06aaf40c1ddc4026aadf1e1b98727abc.r2.dev
+1.1.1.1 pub-06d4cc19dd4f413ba88d354f695adb33.r2.dev
 1.1.1.1 pub-0713e7ef7def4907ad9d7aa1e13c2e33.r2.dev
 1.1.1.1 pub-0739b98c0a3d418fb6d3ead43faeea3e.r2.dev
 1.1.1.1 pub-07d472209d7f47c9a42c4f276ad17bba.r2.dev
@@ -17695,7 +17689,6 @@
 1.1.1.1 pub-2b894ade085f4baf93ae8d32a344c607.r2.dev
 1.1.1.1 pub-2baec7fbe55e462d9ff048f145ad9186.r2.dev
 1.1.1.1 pub-2beff241cfa64d7f83b822e8c227ad4a.r2.dev
-1.1.1.1 pub-2caf4672ade34188af6f47bb82d563a4.r2.dev
 1.1.1.1 pub-2de01adc1f574454933b0eddb85ff574.r2.dev
 1.1.1.1 pub-2de03ad777314b50a7e4c0162024e825.r2.dev
 1.1.1.1 pub-2ea97bfee6b443adb4ecea48bd0aacb9.r2.dev
@@ -17755,7 +17748,6 @@
 1.1.1.1 pub-48d3a24bafe348799aa16e3fbd5ead78.r2.dev
 1.1.1.1 pub-49713332b3a74145a5d9ad3258f0ab60.r2.dev
 1.1.1.1 pub-49f7bdad3ae7458f8076aa4480203a8b.r2.dev
-1.1.1.1 pub-4a01c00e94ea49ba8476704ad689a2de.r2.dev
 1.1.1.1 pub-4a4ada9133f143ecbe0c28ef50350c8e.r2.dev
 1.1.1.1 pub-4a75db370b9045b786c101f608faad50.r2.dev
 1.1.1.1 pub-4bc4acf6f4d84b4594c07ad16d6724bd.r2.dev
@@ -17873,7 +17865,6 @@
 1.1.1.1 pub-8a8ad399f4264bf38f48c230fff96aff.r2.dev
 1.1.1.1 pub-8aef51f76f7a4fd6ad6aef7e3b637881.r2.dev
 1.1.1.1 pub-8b8de6dbc21b4bb49ceaead3297322f4.r2.dev
-1.1.1.1 pub-8bd9e752ad464dd8bafa1310dca095af.r2.dev
 1.1.1.1 pub-8d4a915799634befaa30a9181ad86c1a.r2.dev
 1.1.1.1 pub-8e52d0720a2a452cad16f344e3945d4b.r2.dev
 1.1.1.1 pub-8e7157b0700244e6ade8ab30856d76fe.r2.dev
@@ -17930,7 +17921,6 @@
 1.1.1.1 pub-aad413616f1f42bf8f788d3318e2bd98.r2.dev
 1.1.1.1 pub-aada93f324fb4e939d705c37fd8bcf35.r2.dev
 1.1.1.1 pub-ab02cb8aa2e349fb806b48a09adf0ee1.r2.dev
-1.1.1.1 pub-abcd493ead5e4cd6929db4b7f96d7e3d.r2.dev
 1.1.1.1 pub-ac039cdaad924f50a81b8acbb4fdea5c.r2.dev
 1.1.1.1 pub-ac5df07ae088404c91475727fad7a254.r2.dev
 1.1.1.1 pub-ac846ad0414b45e4bb5586305ad6584b.r2.dev
@@ -17969,7 +17959,6 @@
 1.1.1.1 pub-ba96816804554e749d65b34a39cad914.r2.dev
 1.1.1.1 pub-bad64a4a41c54041b5a27e514d127172.r2.dev
 1.1.1.1 pub-bb32416e948549f19ca5ead06c8413dd.r2.dev
-1.1.1.1 pub-bc5cb15dd31e4f07ada632ffafcb6ec6.r2.dev
 1.1.1.1 pub-bcdbacad5ee743ab82a804cbaba17a4d.r2.dev
 1.1.1.1 pub-bd4643ad769943549f9558e1751b5fb9.r2.dev
 1.1.1.1 pub-bdc7ec182e8e47849a4d9d595627bad1.r2.dev
@@ -18019,7 +18008,6 @@
 1.1.1.1 pub-d3ad9111a1124c0db1ea26aa351c113f.r2.dev
 1.1.1.1 pub-d3b32c9f52e345269f23a67d30baad68.r2.dev
 1.1.1.1 pub-d43ad3acfa6f478a8742af16784dbbf2.r2.dev
-1.1.1.1 pub-d53300dd4f244c08ad4c071f661566c5.r2.dev
 1.1.1.1 pub-d5deda3ad0064b2a8cd14fb30ced3dc8.r2.dev
 1.1.1.1 pub-d632e1a48ad344649f13deeb4ecf9a3a.r2.dev
 1.1.1.1 pub-d6ad1a88c68b4b9b8a220948f53a7589.r2.dev
@@ -18081,7 +18069,6 @@
 1.1.1.1 pub-f728830ad94042c18a41df8041e0e973.r2.dev
 1.1.1.1 pub-f7b0a9d97d464fce9678ad18a7f1e812.r2.dev
 1.1.1.1 pub-f902ab2912ad4617a223ee1efaa4f89c.r2.dev
-1.1.1.1 pub-f98195624f4749ebbad9aac8342d3eb1.r2.dev
 1.1.1.1 pub-f9ad45997431472ca227bc95b1a65c06.r2.dev
 1.1.1.1 pub-f9c3fead5e3e4d6e8cfa1a41b866b340.r2.dev
 1.1.1.1 pub-faa693cd74ad4afb82b316acd61a927d.r2.dev
@@ -18093,7 +18080,6 @@
 1.1.1.1 pub-fc5f8ad81bfe4fea81442121f47506a6.r2.dev
 1.1.1.1 pub-fcd6b66f88ad43458199dce52acaf3d3.r2.dev
 1.1.1.1 pub-fd1ad1c4ccc04520ab4a4bc8502ea589.r2.dev
-1.1.1.1 pub-fe502040c59f4dd18b59f826ad8ef328.r2.dev
 1.1.1.1 pub-fe8c3f567fec457fb89d3e285ad76a5d.r2.dev
 1.1.1.1 pub-fedad2068222402584949a35257ec2ab.r2.dev
 1.1.1.1 pub-fee599bea6dd4bad999a8f50e352935e.r2.dev
@@ -18383,7 +18369,6 @@
 1.1.1.1 reactads.com
 1.1.1.1 reactads.engine.adglare.net
 1.1.1.1 reactivasolicitudes.viaservicezone.click
-1.1.1.1 reactivasoluciones.viaservicezone.click
 1.1.1.1 reactivasoluciones.zonaseguraservicio.click
 1.1.1.1 reader.meizu.com
 1.1.1.1 reader.res.meizu.com
@@ -18570,6 +18555,7 @@
 1.1.1.1 res9.hubcloud.com.cn
 1.1.1.1 rescn.u3.ucweb.com
 1.1.1.1 research.leads360.com
+1.1.1.1 reseatkiddy.click
 1.1.1.1 reseller.sexyads.com
 1.1.1.1 reselling-corp.com
 1.1.1.1 resilienceprozone.click
@@ -19108,6 +19094,7 @@
 1.1.1.1 scaffoldmeringueed.pro
 1.1.1.1 scaffoldstandingar.pro
 1.1.1.1 scane.click
+1.1.1.1 scapulaburgoo.click
 1.1.1.1 scaredpreparation.pro
 1.1.1.1 scdn.cxense.com
 1.1.1.1 scdn.eclick.vn
@@ -19678,6 +19665,7 @@
 1.1.1.1 silvercoin.click
 1.1.1.1 silvergarbage.pro
 1.1.1.1 simba.m.taobao.com
+1.1.1.1 similargrocery.pro
 1.1.1.1 similarlength.pro
 1.1.1.1 simofoe8.pro
 1.1.1.1 simple-share-buttons.com
@@ -21013,7 +21001,6 @@
 1.1.1.1 toboads.com
 1.1.1.1 togyzii4.pro
 1.1.1.1 toingra.click
-1.1.1.1 token-mi.life
 1.1.1.1 token.api.kochava.com
 1.1.1.1 tokenads.com
 1.1.1.1 tokenstocks.pro
@@ -21764,6 +21751,7 @@
 1.1.1.1 update-billingmembership-prime.work.gd
 1.1.1.1 update-ebill.com
 1.1.1.1 update-expressvpn.com
+1.1.1.1 update-extension.ddnss.eu
 1.1.1.1 update-helfer.online
 1.1.1.1 update-id.info
 1.1.1.1 update-info.centrumconsumer.live
@@ -21786,7 +21774,6 @@
 1.1.1.1 update-skype.freehostia.com
 1.1.1.1 update-trackhk.net
 1.1.1.1 update-za.info
-1.1.1.1 update-za.life
 1.1.1.1 update-za.top
 1.1.1.1 update.123juzi.net
 1.1.1.1 update.360safe.com
@@ -23138,7 +23125,6 @@
 1.1.1.1 wwa.lanzouz.com
 1.1.1.1 wwads.cn
 1.1.1.1 wwbanners2.ero-advertising.com
-1.1.1.1 wwe.emso.dns-dynamic.net
 1.1.1.1 wwe.lanzoud.com
 1.1.1.1 wwe.lanzous.com
 1.1.1.1 wwe.lanzouz.com
@@ -23568,6 +23554,7 @@
 1.1.1.1 www.bulletinquantumflow.click
 1.1.1.1 www.bupyryi3.pro
 1.1.1.1 www.businessandtrading.pro
+1.1.1.1 www.businesshelpcenterss.click
 1.1.1.1 www.buttonpush.click
 1.1.1.1 www.buycheapadvertising.com
 1.1.1.1 www.buylike.pro
@@ -24967,7 +24954,6 @@
 1.1.1.1 www.smokeingfeasted.pro
 1.1.1.1 www.sms-check.info
 1.1.1.1 www.smtp.ero-advertising.com
-1.1.1.1 www.smvz-check.com
 1.1.1.1 www.smyfinancial.com
 1.1.1.1 www.socialadvertise.com
 1.1.1.1 www.softsmart.mobi
