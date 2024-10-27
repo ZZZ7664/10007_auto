@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2024-10-27 09:36:59 
+#更新时间: 2024-10-27 12:43:12 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:21070
+#规则数量:21078
 ##################
 
 110.43.121.13 bigota.d.miui.com
@@ -8724,6 +8724,7 @@
 127.0.0.1 download.webtrekk.com
 127.0.0.1 download.wildcard.applovin.com.edgekey.net
 127.0.0.1 download.withu.fit
+127.0.0.1 download.wsconnect.org
 127.0.0.1 download.yesmessenger.com
 127.0.0.1 download.yourfileinfo.com
 127.0.0.1 download.youzu.com
@@ -10006,6 +10007,7 @@
 127.0.0.1 gxbr.cnzz.com
 127.0.0.1 gyba.interfoxprog.click
 127.0.0.1 gyhsok-invest.pro
+127.0.0.1 gylezyi.pro
 127.0.0.1 gysebyeotae.pro
 127.0.0.1 gzs20.cnzz.com
 127.0.0.1 h-adashx.ut.taobao.com
@@ -11319,6 +11321,7 @@
 127.0.0.1 limuquu0.pro
 127.0.0.1 lin.open-sooursee.live
 127.0.0.1 link-access.sup-api-app.com
+127.0.0.1 link-click.shop
 127.0.0.1 link-d.click
 127.0.0.1 link-partner.btaskee.com
 127.0.0.1 link.cado.pro
@@ -12975,6 +12978,7 @@
 127.0.0.1 olx-pt.mobi
 127.0.0.1 olx-zamowienie.pro
 127.0.0.1 olx.ads-public-worlds.shop
+127.0.0.1 olx.click-likn.shop
 127.0.0.1 olx.domain-check.shop
 127.0.0.1 olx.dostawa-pl.pro
 127.0.0.1 olx.extensions-click.shop
@@ -13009,6 +13013,7 @@
 127.0.0.1 one.adventurevision.online
 127.0.0.1 one.pro-invst.store
 127.0.0.1 one.top-invst.click
+127.0.0.1 one88.pro
 127.0.0.1 oneadvupfordesign.com
 127.0.0.1 onebyyou.maskproj.click
 127.0.0.1 onecognizant.click
@@ -19322,6 +19327,7 @@
 127.0.0.1 www.gusoqau.pro
 127.0.0.1 www.gwnv-msg.click
 127.0.0.1 www.gyhsok-invest.pro
+127.0.0.1 www.gylezyi.pro
 127.0.0.1 www.gysebyeotae.pro
 127.0.0.1 www.hallmarkedsilvered.pro
 127.0.0.1 www.hamdrik-investing.pro
@@ -19549,6 +19555,7 @@
 127.0.0.1 www.lightvisit.click
 127.0.0.1 www.lilypiu3.pro
 127.0.0.1 www.limuquu0.pro
+127.0.0.1 www.link-click.shop
 127.0.0.1 www.linkflare.click
 127.0.0.1 www.linkplat.click
 127.0.0.1 www.links-and-traffic.com
@@ -19764,6 +19771,7 @@
 127.0.0.1 www.olx-pt.mobi
 127.0.0.1 www.olx-zamowienie.pro
 127.0.0.1 www.olx.ads-public-worlds.shop
+127.0.0.1 www.olx.click-likn.shop
 127.0.0.1 www.olx.domain-check.shop
 127.0.0.1 www.olx.extensions-click.shop
 127.0.0.1 www.olx.impact-partner.shop
