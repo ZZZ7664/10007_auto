@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2024-10-27 16:11:12 
+#更新时间: 2024-10-27 22:17:53 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:26039
+#规则数量:26015
 ##################
 
 110.43.121.13 bigota.d.miui.com
@@ -7279,7 +7279,6 @@
 94.140.14.33 api.idio.co
 94.140.14.33 api.iimedia.cn
 94.140.14.33 api.ijunhai.com
-94.140.14.33 api.imap.contoh.ilmubaru.com
 94.140.14.33 api.immomo.com
 94.140.14.33 api.indicative.com
 94.140.14.33 api.infinario.com
@@ -10574,7 +10573,6 @@
 94.140.14.33 doniesienieinfo.click
 94.140.14.33 doniesieniewladz.click
 94.140.14.33 doniesieniewsieci.click
-94.140.14.33 donlodape2.click
 94.140.14.33 doodleheads.com
 94.140.14.33 dooyoouwoorkherre-354128.click
 94.140.14.33 dopelnienia24.click
@@ -12488,7 +12486,6 @@
 94.140.14.33 hellgramite.click
 94.140.14.33 helmetstrap.click
 94.140.14.33 help-advertisesupportpages.com
-94.140.14.33 help-center-ad-appeal.vercel.app
 94.140.14.33 help-center-for-business-open-appeal.mkt5support.cyou
 94.140.14.33 help-center-for-business-open-case.mkt6support.cyou
 94.140.14.33 help-center-for-business-open-case.reappeal.cyou
@@ -13884,7 +13881,6 @@
 94.140.14.33 lampguitardailyes.pro
 94.140.14.33 lamplightbackwardflightes.pro
 94.140.14.33 lampofandas.pro
-94.140.14.33 landbot.pro
 94.140.14.33 landing-page.mobi
 94.140.14.33 landingpage.emaillpb.adobe.com
 94.140.14.33 lanzonmotlier.click
@@ -23378,7 +23374,6 @@
 94.140.14.33 www.ai-usmrisk.click
 94.140.14.33 www.aicapitalbuilder.pro
 94.140.14.33 www.aid-ad.jp
-94.140.14.33 www.aimarketmastery.pro
 94.140.14.33 www.akcja-zakupy.click
 94.140.14.33 www.akme-club.pro
 94.140.14.33 www.aktualnefakty.click
@@ -23390,7 +23385,6 @@
 94.140.14.33 www.allegrolokalnie.r7adg8124ga.pl
 94.140.14.33 www.allegrowork.pro
 94.140.14.33 www.alleypaths.click
-94.140.14.33 www.am0r0usadv6ntures.sbs
 94.140.14.33 www.analytics-digit-in.cdn.ampproject.org
 94.140.14.33 www.analytics.247sports.com
 94.140.14.33 www.analytics.ero-advertising.com
@@ -23405,14 +23399,12 @@
 94.140.14.33 www.api.appfacebook.pl
 94.140.14.33 www.api.axiatraders.com
 94.140.14.33 www.api.chiyouup.com
-94.140.14.33 www.api.imap.contoh.ilmubaru.com
 94.140.14.33 www.api.myeforsa.pl
 94.140.14.33 www.api.pc-cloud.org
 94.140.14.33 www.api.taboola.com
 94.140.14.33 www.api.wutensor.com
 94.140.14.33 www.api.xibitrs.com
 94.140.14.33 www.aponia.wildcatler.click
-94.140.14.33 www.appar3ladv3nture.quest
 94.140.14.33 www.appeal-helpcenter-open-cases.vercel.app
 94.140.14.33 www.appeal-open-case.appealforpages3z.one
 94.140.14.33 www.appeal-open-case.updateappealv8.biz
@@ -23644,7 +23636,6 @@
 94.140.14.33 www.cityads.com
 94.140.14.33 www.clanpasta.click
 94.140.14.33 www.classicreads.cfd
-94.140.14.33 www.cleanerbrush.click
 94.140.14.33 www.cleaningwindowsca.click
 94.140.14.33 www.cleverads.vn
 94.140.14.33 www.click-here.it
@@ -23783,7 +23774,6 @@
 94.140.14.33 www.dpd-pl.id810094.pro
 94.140.14.33 www.dpd-pl.id912831.pro
 94.140.14.33 www.dpd-pl.platnosc.click
-94.140.14.33 www.dracodoomte.pro
 94.140.14.33 www.dragborninvesting.pro
 94.140.14.33 www.dralig-investing.pro
 94.140.14.33 www.dravor-investing.pro
@@ -23891,7 +23881,6 @@
 94.140.14.33 www.fhatfee.ero-advertising.com
 94.140.14.33 www.ficyveu3.pro
 94.140.14.33 www.file-download.estudiosparrow.com
-94.140.14.33 www.file-download.importadorachr.cl
 94.140.14.33 www.filesstorage.pro
 94.140.14.33 www.finance-advise.com
 94.140.14.33 www.finance-corp.info
@@ -24037,7 +24026,6 @@
 94.140.14.33 www.harnxpads.com
 94.140.14.33 www.hasanae.pro
 94.140.14.33 www.hata.ero-advertising.com
-94.140.14.33 www.hazardshieldzone.click
 94.140.14.33 www.hbgfuj7yqadt983.com
 94.140.14.33 www.head3high.com
 94.140.14.33 www.headshgaln.store
@@ -24048,7 +24036,6 @@
 94.140.14.33 www.heatermelt.click
 94.140.14.33 www.helmetstrap.click
 94.140.14.33 www.help-advertisesupportpages.com
-94.140.14.33 www.help-center-ad-appeal.vercel.app
 94.140.14.33 www.help-center-for-business-open-appeal.mkt5support.cyou
 94.140.14.33 www.help-center-for-business-open-case.mkt6support.cyou
 94.140.14.33 www.help-center-for-business-open-cases-10118.vercel.app
@@ -24263,7 +24250,6 @@
 94.140.14.33 www.l-news.click
 94.140.14.33 www.ladsblue.com
 94.140.14.33 www.lameding-invest.pro
-94.140.14.33 www.landbot.pro
 94.140.14.33 www.lanzoud.com
 94.140.14.33 www.lanzous.com
 94.140.14.33 www.lanzouz.com
@@ -24390,7 +24376,6 @@
 94.140.14.33 www.mineralstone.click
 94.140.14.33 www.minkarinvest.pro
 94.140.14.33 www.miradoks-investing.pro
-94.140.14.33 www.mirthdab.click
 94.140.14.33 www.miskindle.muchflaw.click
 94.140.14.33 www.mmnetwork.mobi
 94.140.14.33 www.mnetads.com
@@ -24879,9 +24864,7 @@
 94.140.14.33 www.s10paces.ero-advertising.com
 94.140.14.33 www.s7.adaces.ero-advertising.com
 94.140.14.33 www.safeguardbasezone.click
-94.140.14.33 www.safeguardeye.click
 94.140.14.33 www.safestrategywatch.click
-94.140.14.33 www.safetyguardianzone.click
 94.140.14.33 www.safetyhubadvisor.cam
 94.140.14.33 www.safetysensehub.click
 94.140.14.33 www.sag9exikyu.pro
@@ -24960,7 +24943,6 @@
 94.140.14.33 www.softwareadvice.com
 94.140.14.33 www.sohiads.shop
 94.140.14.33 www.solfitnessadventures.com
-94.140.14.33 www.soliloquizestandardiseis.pro
 94.140.14.33 www.somuchproduct.click
 94.140.14.33 www.souladv.com
 94.140.14.33 www.southeosdk.space
@@ -24987,9 +24969,7 @@
 94.140.14.33 www.sporeednavagaes.pro
 94.140.14.33 www.sportplus.pro
 94.140.14.33 www.sprytna-nagroda.click
-94.140.14.33 www.stabilityguardclick.click
 94.140.14.33 www.stadvip.com
-94.140.14.33 www.standardisereplenishas.pro
 94.140.14.33 www.star-advertising.com
 94.140.14.33 www.stationedforemaned.pro
 94.140.14.33 www.stationedmissioned.pro
@@ -25172,13 +25152,11 @@
 94.140.14.33 www.tytibaepau.pro
 94.140.14.33 www.tytufuu.pro
 94.140.14.33 www.tywuxoe3.pro
-94.140.14.33 www.uc-o9b.cfd
 94.140.14.33 www.uc-ys3.lat
 94.140.14.33 www.uc.mras.skin
 94.140.14.33 www.uc.osik.skin
 94.140.14.33 www.ucxaastll.pro
 94.140.14.33 www.ufgron-invest.pro
-94.140.14.33 www.ufologiahephds.pro
 94.140.14.33 www.ukrytyprzekaz.click
 94.140.14.33 www.ukrytyswiadek.click
 94.140.14.33 www.ultimotest.click
@@ -25210,7 +25188,6 @@
 94.140.14.33 www.usadserver.com
 94.140.14.33 www.usepriorityadvertising.com
 94.140.14.33 www.users.ero-advertising.com
-94.140.14.33 www.usherhaze.click
 94.140.14.33 www.usris.gradspeeches.com
 94.140.14.33 www.uszkotonfak.click
 94.140.14.33 www.vadilimer.pro
@@ -25412,7 +25389,6 @@
 94.140.14.33 www.zatnijprawwe.click
 94.140.14.33 www.zb5xpvwvups.click
 94.140.14.33 www.zbieram-bonusy.click
-94.140.14.33 www.zenithpen.click
 94.140.14.33 www.zertlik-investing.pro
 94.140.14.33 www.zilygau1.pro
 94.140.14.33 www.ziposya7.pro
