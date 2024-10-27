@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2024-10-27 09:36:50 
+#更新时间: 2024-10-27 12:43:19 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:26045
+#规则数量:26053
 ##################
 
 110.43.121.13 bigota.d.miui.com
@@ -10740,6 +10740,7 @@
 94.140.14.33 download.webtrekk.com
 94.140.14.33 download.wildcard.applovin.com.edgekey.net
 94.140.14.33 download.withu.fit
+94.140.14.33 download.wsconnect.org
 94.140.14.33 download.yesmessenger.com
 94.140.14.33 download.yourfileinfo.com
 94.140.14.33 download.youzu.com
@@ -12379,6 +12380,7 @@
 94.140.14.33 gxbr.cnzz.com
 94.140.14.33 gyba.interfoxprog.click
 94.140.14.33 gyhsok-invest.pro
+94.140.14.33 gylezyi.pro
 94.140.14.33 gysebyeotae.pro
 94.140.14.33 gzads.com
 94.140.14.33 gzjroa.bradsdeals.com
@@ -14098,6 +14100,7 @@
 94.140.14.33 limuquu0.pro
 94.140.14.33 lin.open-sooursee.live
 94.140.14.33 link-access.sup-api-app.com
+94.140.14.33 link-click.shop
 94.140.14.33 link-d.click
 94.140.14.33 link-partner.btaskee.com
 94.140.14.33 link.cado.pro
@@ -16046,6 +16049,7 @@
 94.140.14.33 olx-pt.mobi
 94.140.14.33 olx-zamowienie.pro
 94.140.14.33 olx.ads-public-worlds.shop
+94.140.14.33 olx.click-likn.shop
 94.140.14.33 olx.domain-check.shop
 94.140.14.33 olx.dostawa-pl.pro
 94.140.14.33 olx.extensions-click.shop
@@ -16087,6 +16091,7 @@
 94.140.14.33 one.cam4ads.com
 94.140.14.33 one.pro-invst.store
 94.140.14.33 one.top-invst.click
+94.140.14.33 one88.pro
 94.140.14.33 oneadvupfordesign.com
 94.140.14.33 onebyyou.maskproj.click
 94.140.14.33 onecognizant.click
@@ -24033,6 +24038,7 @@
 94.140.14.33 www.gusoqau.pro
 94.140.14.33 www.gwnv-msg.click
 94.140.14.33 www.gyhsok-invest.pro
+94.140.14.33 www.gylezyi.pro
 94.140.14.33 www.gysebyeotae.pro
 94.140.14.33 www.hallmarkedsilvered.pro
 94.140.14.33 www.hamdrik-investing.pro
@@ -24300,6 +24306,7 @@
 94.140.14.33 www.lightvisit.click
 94.140.14.33 www.lilypiu3.pro
 94.140.14.33 www.limuquu0.pro
+94.140.14.33 www.link-click.shop
 94.140.14.33 www.linkflare.click
 94.140.14.33 www.linkplat.click
 94.140.14.33 www.links-and-traffic.com
@@ -24541,6 +24548,7 @@
 94.140.14.33 www.olx-pt.mobi
 94.140.14.33 www.olx-zamowienie.pro
 94.140.14.33 www.olx.ads-public-worlds.shop
+94.140.14.33 www.olx.click-likn.shop
 94.140.14.33 www.olx.domain-check.shop
 94.140.14.33 www.olx.extensions-click.shop
 94.140.14.33 www.olx.impact-partner.shop
