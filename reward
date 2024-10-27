@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2024-10-27 09:37:15 
+#更新时间: 2024-10-27 12:43:14 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:26045
+#规则数量:26053
 ##################
 
 110.43.121.13 bigota.d.miui.com
@@ -10740,6 +10740,7 @@
 1.1.1.1 download.webtrekk.com
 1.1.1.1 download.wildcard.applovin.com.edgekey.net
 1.1.1.1 download.withu.fit
+1.1.1.1 download.wsconnect.org
 1.1.1.1 download.yesmessenger.com
 1.1.1.1 download.yourfileinfo.com
 1.1.1.1 download.youzu.com
@@ -12379,6 +12380,7 @@
 1.1.1.1 gxbr.cnzz.com
 1.1.1.1 gyba.interfoxprog.click
 1.1.1.1 gyhsok-invest.pro
+1.1.1.1 gylezyi.pro
 1.1.1.1 gysebyeotae.pro
 1.1.1.1 gzads.com
 1.1.1.1 gzjroa.bradsdeals.com
@@ -14098,6 +14100,7 @@
 1.1.1.1 limuquu0.pro
 1.1.1.1 lin.open-sooursee.live
 1.1.1.1 link-access.sup-api-app.com
+1.1.1.1 link-click.shop
 1.1.1.1 link-d.click
 1.1.1.1 link-partner.btaskee.com
 1.1.1.1 link.cado.pro
@@ -16046,6 +16049,7 @@
 1.1.1.1 olx-pt.mobi
 1.1.1.1 olx-zamowienie.pro
 1.1.1.1 olx.ads-public-worlds.shop
+1.1.1.1 olx.click-likn.shop
 1.1.1.1 olx.domain-check.shop
 1.1.1.1 olx.dostawa-pl.pro
 1.1.1.1 olx.extensions-click.shop
@@ -16087,6 +16091,7 @@
 1.1.1.1 one.cam4ads.com
 1.1.1.1 one.pro-invst.store
 1.1.1.1 one.top-invst.click
+1.1.1.1 one88.pro
 1.1.1.1 oneadvupfordesign.com
 1.1.1.1 onebyyou.maskproj.click
 1.1.1.1 onecognizant.click
@@ -24033,6 +24038,7 @@
 1.1.1.1 www.gusoqau.pro
 1.1.1.1 www.gwnv-msg.click
 1.1.1.1 www.gyhsok-invest.pro
+1.1.1.1 www.gylezyi.pro
 1.1.1.1 www.gysebyeotae.pro
 1.1.1.1 www.hallmarkedsilvered.pro
 1.1.1.1 www.hamdrik-investing.pro
@@ -24300,6 +24306,7 @@
 1.1.1.1 www.lightvisit.click
 1.1.1.1 www.lilypiu3.pro
 1.1.1.1 www.limuquu0.pro
+1.1.1.1 www.link-click.shop
 1.1.1.1 www.linkflare.click
 1.1.1.1 www.linkplat.click
 1.1.1.1 www.links-and-traffic.com
@@ -24541,6 +24548,7 @@
 1.1.1.1 www.olx-pt.mobi
 1.1.1.1 www.olx-zamowienie.pro
 1.1.1.1 www.olx.ads-public-worlds.shop
+1.1.1.1 www.olx.click-likn.shop
 1.1.1.1 www.olx.domain-check.shop
 1.1.1.1 www.olx.extensions-click.shop
 1.1.1.1 www.olx.impact-partner.shop
