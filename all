@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2024-10-28 10:58:54 
+#更新时间: 2024-10-28 18:54:13 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:21084
+#规则数量:21108
 ##################
 
 110.43.121.13 bigota.d.miui.com
@@ -3597,6 +3597,7 @@
 127.0.0.1 adv-img.edilportale.com
 127.0.0.1 adv-mydarkness.ggcorp.me
 127.0.0.1 adv-op2.joygames.me
+127.0.0.1 adv-suppportspagesagency-fb.com
 127.0.0.1 adv-sv-show.focus.cn
 127.0.0.1 adv-sv-stat.focus.cn
 127.0.0.1 adv.0tub.com
@@ -5813,7 +5814,6 @@
 127.0.0.1 api.gameads.io
 127.0.0.1 api.gameanalytics.com
 127.0.0.1 api.gameofwhales.com
-127.0.0.1 api.garritz.com
 127.0.0.1 api.getdrip.com
 127.0.0.1 api.getlevelten.com
 127.0.0.1 api.gi.igexin.com
@@ -6267,6 +6267,7 @@
 127.0.0.1 appmetrica.yandex.ru
 127.0.0.1 apprefaculty.pro
 127.0.0.1 appropriate-bag.pro
+127.0.0.1 approve-web3-update-shoiabakram896173.codeanyapp.com
 127.0.0.1 apps-l6kodnac0ehf-update.line.pm
 127.0.0.1 apps.ad-x.co.uk
 127.0.0.1 apps.bytesfield.com
@@ -7387,7 +7388,6 @@
 127.0.0.1 changeingfrost.pro
 127.0.0.1 channel.api.duapp.com
 127.0.0.1 chantypitmen.click
-127.0.0.1 chariose.click
 127.0.0.1 chart.advinion.com
 127.0.0.1 chartbeat-sdk.s3.amazonaws.com
 127.0.0.1 chat-pro.cas-program.site
@@ -7743,9 +7743,13 @@
 127.0.0.1 click.zoom.us
 127.0.0.1 click.zoominformation.com
 127.0.0.1 clickadv.it
+127.0.0.1 clickadvisor.click
 127.0.0.1 clickandprofit.click
 127.0.0.1 clickc.admaster.com.cn
+127.0.0.1 clickconnect.click
+127.0.0.1 clickiverse.click
 127.0.0.1 clickjs.cnzz.com
+127.0.0.1 clicknjoy.click
 127.0.0.1 client-analytics.braintreegateway.com
 127.0.0.1 client-analytics.mts.ru
 127.0.0.1 client-events.inner-active.mobi
@@ -9276,6 +9280,7 @@
 127.0.0.1 facebook-my-share-live-location.000.pe
 127.0.0.1 facebook.authentication.tracehack.pro
 127.0.0.1 facebookane.click
+127.0.0.1 facebookvn.click
 127.0.0.1 faceit.bitaccept.pro
 127.0.0.1 faceit.eloconnect.pro
 127.0.0.1 faceit.moonupaccept.pro
@@ -9393,6 +9398,7 @@
 127.0.0.1 finance-pro.site
 127.0.0.1 financehelp.click
 127.0.0.1 financialaifuturist.pro
+127.0.0.1 financiaoctubreactivacionweb.click
 127.0.0.1 financiladvisor.site
 127.0.0.1 finangoo.click
 127.0.0.1 finanse-internetowe.click
@@ -9900,7 +9906,6 @@
 127.0.0.1 google-shopping-v2.sapoapps.vn
 127.0.0.1 google-shopping.sapoapps.vn
 127.0.0.1 google-stare.com
-127.0.0.1 google.business-fiche.com
 127.0.0.1 google.bv-hilden-west.de
 127.0.0.1 google.com-firewall.online
 127.0.0.1 google.mellrichstadt-stadtkapelle.de
@@ -9908,6 +9913,7 @@
 127.0.0.1 google.periodismosinafan.com
 127.0.0.1 google.pluto7.com
 127.0.0.1 google.schreinerei-wohlfart.de
+127.0.0.1 google.serviciodemigraciones.cl
 127.0.0.1 googleads-cn.com
 127.0.0.1 googleads.g.doubleclick.net
 127.0.0.1 googleads.g.onlinetext.alucherdi.com
@@ -10675,6 +10681,10 @@
 127.0.0.1 intent.techadvisor.com
 127.0.0.1 interactivart.pro
 127.0.0.1 interadv.net
+127.0.0.1 interbeneficiopersonas.portalweboperaciones.click
+127.0.0.1 interbeneficiospersonales.accesozonadigital.click
+127.0.0.1 interbeneficiowebseguro.plataformadigitalenlinea.click
+127.0.0.1 interbeneficiowebseguros.plataformadigitalenlinea.click
 127.0.0.1 interesowne24.click
 127.0.0.1 interespoleczny.click
 127.0.0.1 interesspoleczny.click
@@ -11666,6 +11676,7 @@
 127.0.0.1 mailer.movefreeadvancedsettlement.com
 127.0.0.1 mailer245.movefreeadvancedsettlement.com
 127.0.0.1 mailer246.movefreeadvancedsettlement.com
+127.0.0.1 main-olx.select-check.shop
 127.0.0.1 main.exosrv.com
 127.0.0.1 mainadv.com
 127.0.0.1 maintenancen.click
@@ -11687,6 +11698,7 @@
 127.0.0.1 malofuu9.pro
 127.0.0.1 maloletnipotracenie.click
 127.0.0.1 malyk.tentaklsistem.click
+127.0.0.1 mamaunweft.click
 127.0.0.1 mammut.vlion.cn
 127.0.0.1 mamy-czas.click
 127.0.0.1 mamychrapke.click
@@ -12092,6 +12104,7 @@
 127.0.0.1 mobi.oleviet777.com
 127.0.0.1 mobi.yanosik.pl
 127.0.0.1 mobiadvert.livesportmedia.eu
+127.0.0.1 mobie-facebook.click
 127.0.0.1 mobile-browser.me
 127.0.0.1 mobile-click.biz
 127.0.0.1 mobile-sdk-config.gservice.emarsys.net
@@ -12215,6 +12228,7 @@
 127.0.0.1 monitorujemysytuacje.click
 127.0.0.1 monsetting.toutiao.com
 127.0.0.1 monstrous-boyfriend.pro
+127.0.0.1 montpio.click
 127.0.0.1 moral-enthusiasm.pro
 127.0.0.1 morefrequent.pro
 127.0.0.1 morehot.click
@@ -13533,6 +13547,7 @@
 127.0.0.1 pb3.pstatp.com
 127.0.0.1 pbid.pro-market.net
 127.0.0.1 pc-ads.com
+127.0.0.1 pc-facebook.click
 127.0.0.1 pc-mon.zijieapi.com
 127.0.0.1 pc.jipinyouwu.com
 127.0.0.1 pc.mobad.ijinshan.com
@@ -14539,7 +14554,7 @@
 127.0.0.1 re.taobao.com
 127.0.0.1 reachadv.it
 127.0.0.1 reactivasolicitudes.viaservicezone.click
-127.0.0.1 reactivasoluciones.zonaseguraservicio.click
+127.0.0.1 reactivatucrediweb.click
 127.0.0.1 reader.meizu.com
 127.0.0.1 reader.res.meizu.com
 127.0.0.1 readvesti.ru
@@ -14598,6 +14613,7 @@
 127.0.0.1 regis2tarsgroup.click
 127.0.0.1 regis2tarsinc.click
 127.0.0.1 registroampliaciones.zonaseguraservicio.click
+127.0.0.1 registropersonalwebcp.click
 127.0.0.1 registry.api.cnn.io
 127.0.0.1 regrindroughed.click
 127.0.0.1 regulamin24poczta.click
@@ -16183,6 +16199,7 @@
 127.0.0.1 stupendousconcept.pro
 127.0.0.1 stwierdzenia.click
 127.0.0.1 stylartykulu.click
+127.0.0.1 stylishwear.click
 127.0.0.1 stylowapasja.click
 127.0.0.1 stylowykoktajl.click
 127.0.0.1 stylowyzakatek.click
@@ -16236,6 +16253,7 @@
 127.0.0.1 support-heres.mfb09.click
 127.0.0.1 support.browser.heytapmobi.com
 127.0.0.1 support.check-id92847.org
+127.0.0.1 supportbusinesss.click
 127.0.0.1 supportedpooled.pro
 127.0.0.1 suppprt-dat.pages.pro.br
 127.0.0.1 supprt-tg.pages.pro.br
@@ -16308,6 +16326,9 @@
 127.0.0.1 swiezenotatki.click
 127.0.0.1 swiezutkiefakty.click
 127.0.0.1 swiftflare.click
+127.0.0.1 swisspass-update.co
+127.0.0.1 swisspass-update.com
+127.0.0.1 swisspass-update.info
 127.0.0.1 switchlinx.click
 127.0.0.1 sxjfhh.montgomeryadvertiser.com
 127.0.0.1 sxjfhh.newarkadvocate.com
@@ -16519,6 +16540,7 @@
 127.0.0.1 tdsdk.cpatrk.net
 127.0.0.1 tdsdk.xdrig.com
 127.0.0.1 tdwv1.talkingdata.com
+127.0.0.1 te-accounts.pro
 127.0.0.1 te.advance.net
 127.0.0.1 te.stamfordadvocate.com
 127.0.0.1 teaching-condo-webs.click
@@ -16615,6 +16637,7 @@
 127.0.0.1 test2018.adview.cn
 127.0.0.1 test2019.adview.cn
 127.0.0.1 testad.hot-mob.com
+127.0.0.1 testadvertisingsystem.com
 127.0.0.1 testserverlp.pro
 127.0.0.1 tetherslapillo.click
 127.0.0.1 tex.ero-advertising.com
@@ -17359,7 +17382,6 @@
 127.0.0.1 update-billingmembership-prime.work.gd
 127.0.0.1 update-ebill.com
 127.0.0.1 update-expressvpn.com
-127.0.0.1 update-extension.ddnss.eu
 127.0.0.1 update-helfer.online
 127.0.0.1 update-id.info
 127.0.0.1 update-info.centrumconsumer.live
@@ -17379,6 +17401,7 @@
 127.0.0.1 update-protection.com
 127.0.0.1 update-security.ddns.info
 127.0.0.1 update-security.qhigh.com
+127.0.0.1 update-service.ha003.t.mydomain.zone
 127.0.0.1 update-skype.freehostia.com
 127.0.0.1 update-trackhk.net
 127.0.0.1 update-za.info
@@ -18383,6 +18406,7 @@
 127.0.0.1 wirtualnewspl.click
 127.0.0.1 wirtualnyportal.click
 127.0.0.1 wirtualnyswiat.click
+127.0.0.1 wise-technical-solution.click
 127.0.0.1 wisepush.video.baidu.com
 127.0.0.1 wisoper.click
 127.0.0.1 withdromnit.pro
@@ -18910,7 +18934,6 @@
 127.0.0.1 www.bulletinquantumflow.click
 127.0.0.1 www.bupyryi3.pro
 127.0.0.1 www.businessandtrading.pro
-127.0.0.1 www.businesshelpcenterss.click
 127.0.0.1 www.buttonpush.click
 127.0.0.1 www.buycheapadvertising.com
 127.0.0.1 www.buylike.pro
@@ -19149,7 +19172,6 @@
 127.0.0.1 www.emonitoring-polska.click
 127.0.0.1 www.energydrinkadverts.com
 127.0.0.1 www.energymovethat.click
-127.0.0.1 www.envoyflaps.click
 127.0.0.1 www.epochinsightreports.click
 127.0.0.1 www.equitacion-pro.com
 127.0.0.1 www.eraticdraw.click
@@ -19579,6 +19601,7 @@
 127.0.0.1 www.mafyleo4.pro
 127.0.0.1 www.magento-analytics.com
 127.0.0.1 www.mail-help.pro
+127.0.0.1 www.main-olx.select-check.shop
 127.0.0.1 www.mainadv.com
 127.0.0.1 www.majorityedmembering.pro
 127.0.0.1 www.makesnow.click
@@ -20160,6 +20183,7 @@
 127.0.0.1 www.strona-transfer.click
 127.0.0.1 www.strona-transferu.click
 127.0.0.1 www.stronatransferu.click
+127.0.0.1 www.stylishwear.click
 127.0.0.1 www.subprimal.click
 127.0.0.1 www.sukienka-tos-nevada-white-cid87-idleszg1.id8341.me
 127.0.0.1 www.sunshineedfingeres.pro
