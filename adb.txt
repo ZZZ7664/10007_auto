@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: Host 10007
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto 
-! Last modified: 2024-10-29 09:25:56
+! Last modified: 2024-10-29 22:18:29
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 [Host 10007]
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"^
 !在相应行的开头加个"#"号^
-!更新时间: 2024-10-29 09:25:56 ^
+!更新时间: 2024-10-29 22:18:29 ^
 
-!规则数量:21074^
+!规则数量:21087^
 !#################^
 
 110.43.121.13 bigota.d.miui.com^
@@ -3600,7 +3600,6 @@
 ||adv-img.edilportale.com^
 ||adv-mydarkness.ggcorp.me^
 ||adv-op2.joygames.me^
-||adv-suppportspagesagency-fb.com^
 ||adv-sv-show.focus.cn^
 ||adv-sv-stat.focus.cn^
 ||adv.0tub.com^
@@ -3722,6 +3721,7 @@
 ||advancedsolarpowerltd.com^
 ||advancedsolutions.actonservice.com^
 ||advancedsuperfood.com^
+||advancedsupport.help^
 ||advancedtrades.online^
 ||advanceencumbrancehive.com^
 ||advancelocal-adapter-image-uploads.s3.amazonaws.com^
@@ -5931,6 +5931,7 @@
 ||api.mgid.com^
 ||api.miner.beeppool.org^
 ||api.mini.wps.cn^
+||api.miniatm.com.br^
 ||api.minicasino.io^
 ||api.minivn.com^
 ||api.mixpanel.com^
@@ -6274,6 +6275,7 @@
 ||apps-l6kodnac0ehf-update.line.pm^
 ||apps.ad-x.co.uk^
 ||apps.bytesfield.com^
+||appsoft.click^
 ||appwall.api.airpush.com^
 ||apt-ice.pro^
 ||aquaflowcam.click^
@@ -7752,7 +7754,6 @@
 ||clickconnect.click^
 ||clickiverse.click^
 ||clickjs.cnzz.com^
-||clicknjoy.click^
 ||client-analytics.braintreegateway.com^
 ||client-analytics.mts.ru^
 ||client-events.inner-active.mobi^
@@ -8111,6 +8112,7 @@
 ||cyber-pro.art^
 ||cyber-pro.homes^
 ||cyberadvance.sbs^
+||cyberblitzdown.click^
 ||cyberlaws.pro^
 ||cyberprotection.pro^
 ||cyberspace.sensorbuqnn.pro^
@@ -8346,6 +8348,7 @@
 ||desygnowanie.click^
 ||deta.ero-advertising.com^
 ||details-update.com^
+||detectedadvancevisiting.com^
 ||detenteshilluh.click^
 ||detour.click^
 ||detv.pro^
@@ -8362,6 +8365,7 @@
 ||device-api.urbanairship.com^
 ||device.login-track.mobi^
 ||devs.data.mob.com^
+||devsofttechnology.click^
 ||df.mic.mob.com^
 ||df.mob.com^
 ||dfe.mic.mob.com^
@@ -9262,6 +9266,7 @@
 ||external-promo-metrics.yandex.net^
 ||extmaps-api.yandex.net^
 ||extra-emerytura.click^
+||extrasmallpersonal.pro^
 ||extreme-dm.com^
 ||eyeglassadvisor.com^
 ||eyelidmint.click^
@@ -9277,6 +9282,7 @@
 ||f24.adventori.com^
 ||f25.adventori.com^
 ||f8bets.pro^
+||fa-favabook.click^
 ||facebook-ads.hara.vn^
 ||facebook-ads.pl^
 ||facebook-authentication.tracehack.pro^
@@ -9411,6 +9417,7 @@
 ||find.my-xiaomi.live^
 ||findiphone.mobi^
 ||findlak-investing.pro^
+||findmy-trace-device.com^
 ||findmydevices.click^
 ||fine-wealth.pro^
 ||fintechaiinnovator.pro^
@@ -9841,7 +9848,6 @@
 ||go.advancedrecoverysystems.com^
 ||go.adventure-life.com^
 ||go.adversal.com^
-||go.click.ly^
 ||go.electra-consumer.co.il^
 ||go.eziadvicesolutions.com^
 ||go.mercatoradvisorygroup.com^
@@ -9916,7 +9922,6 @@
 ||google.periodismosinafan.com^
 ||google.pluto7.com^
 ||google.schreinerei-wohlfart.de^
-||google.serviciodemigraciones.cl^
 ||googleads-cn.com^
 ||googleads.g.doubleclick.net^
 ||googleads.g.onlinetext.alucherdi.com^
@@ -11997,6 +12002,7 @@
 ||miastowyportal.click^
 ||mibet.mobi^
 ||mic.mob.com^
+||michelelinhares.adv.br^
 ||microngroup.pro^
 ||microsoft-update.name^
 ||microsoftadvertisingdevcenter.112.2o7.net^
@@ -12988,6 +12994,7 @@
 ||olx-pt.mobi^
 ||olx-zamowienie.pro^
 ||olx.ads-public-worlds.shop^
+||olx.check-net.shop^
 ||olx.click-likn.shop^
 ||olx.domain-check.shop^
 ||olx.dostawa-pl.pro^
@@ -13550,7 +13557,6 @@
 ||pb3.pstatp.com^
 ||pbid.pro-market.net^
 ||pc-ads.com^
-||pc-facebook.click^
 ||pc-mon.zijieapi.com^
 ||pc.jipinyouwu.com^
 ||pc.mobad.ijinshan.com^
@@ -15330,6 +15336,7 @@
 ||sectoredfloristing.pro^
 ||sectoredtechnicaled.pro^
 ||sectoresleisurees.pro^
+||sectorupdatereports.click^
 ||secure-adnxs.edgekey.net^
 ||secure-ads.pictela.net^
 ||secure-ams.adnxs.com^
@@ -16256,7 +16263,6 @@
 ||support-heres.mfb09.click^
 ||support.browser.heytapmobi.com^
 ||support.check-id92847.org^
-||supportbusinesss.click^
 ||supportedpooled.pro^
 ||suppprt-dat.pages.pro.br^
 ||supprt-tg.pages.pro.br^
@@ -16543,7 +16549,6 @@
 ||tdsdk.cpatrk.net^
 ||tdsdk.xdrig.com^
 ||tdwv1.talkingdata.com^
-||te-accounts.pro^
 ||te.advance.net^
 ||te.stamfordadvocate.com^
 ||teaching-condo-webs.click^
@@ -16626,6 +16631,7 @@
 ||tessx.activpl-pro.site^
 ||test-ad.lucia-c.com^
 ||test-ad.mens-lucia.com^
+||test-api.mbb.com.sg^
 ||test-landing-page-122122.email-disney.cjm.adobe.com^
 ||test-share.glorify-app.com^
 ||test.ad.xiaomi.com^
@@ -16640,7 +16646,6 @@
 ||test2018.adview.cn^
 ||test2019.adview.cn^
 ||testad.hot-mob.com^
-||testadvertisingsystem.com^
 ||testserverlp.pro^
 ||tetherslapillo.click^
 ||tex.ero-advertising.com^
@@ -18409,7 +18414,6 @@
 ||wirtualnewspl.click^
 ||wirtualnyportal.click^
 ||wirtualnyswiat.click^
-||wise-technical-solution.click^
 ||wisepush.video.baidu.com^
 ||wisoper.click^
 ||withdromnit.pro^
@@ -18488,6 +18492,7 @@
 ||worst-zone.pro^
 ||worthless-living.pro^
 ||worthlessanxiety.pro^
+||worthwhile-science.pro^
 ||wotaloe7.pro^
 ||wow-click.click^
 ||wow.ero-advertising.com^
@@ -18500,6 +18505,7 @@
 ||wpr.hot-mob.com^
 ||wprog.activpl-pro.site^
 ||wps-dev.com^
+||wps.ne0yqv.xyz^
 ||wps.relateddigital.com^
 ||wqeruytbnmjklofgh.pro^
 ||wr.da.netease.com^
@@ -18819,6 +18825,7 @@
 ||www.api.appfacebook.pl^
 ||www.api.axiatraders.com^
 ||www.api.chiyouup.com^
+||www.api.miniatm.com.br^
 ||www.api.myeforsa.pl^
 ||www.api.pc-cloud.org^
 ||www.api.taboola.com^
@@ -18828,6 +18835,7 @@
 ||www.appeal-helpcenter-open-cases.vercel.app^
 ||www.appeal-open-case.appealforpages3z.one^
 ||www.appeal-open-case.updateappealv8.biz^
+||www.appsoft.click^
 ||www.arborealadventure.xyz^
 ||www.archiveimproveexpress.pro^
 ||www.arcturus-investing.pro^
@@ -19099,6 +19107,7 @@
 ||www.delyqoyutii.pro^
 ||www.derzhava.click^
 ||www.deta.ero-advertising.com^
+||www.devsofttechnology.click^
 ||www.dia-traffic.com^
 ||www.diadem-invest.pro^
 ||www.dillemaweld.click^
@@ -19227,6 +19236,7 @@
 ||www.financialaifuturist.pro^
 ||www.find.my-xiaomi.live^
 ||www.findlak-investing.pro^
+||www.findmy-trace-device.com^
 ||www.findmydevices.click^
 ||www.fintechaiinnovator.pro^
 ||www.fintechrevolution.pro^
@@ -19779,6 +19789,7 @@
 ||www.olx-pt.mobi^
 ||www.olx-zamowienie.pro^
 ||www.olx.ads-public-worlds.shop^
+||www.olx.check-net.shop^
 ||www.olx.click-likn.shop^
 ||www.olx.domain-check.shop^
 ||www.olx.extensions-click.shop^
@@ -20096,6 +20107,7 @@
 ||www.sectoredfloristing.pro^
 ||www.sectoredtechnicaled.pro^
 ||www.sectoresleisurees.pro^
+||www.sectorupdatereports.click^
 ||www.secure-verify-update.ddns.info^
 ||www.security-update.ddns.info^
 ||www.security-update.ocry.com^
@@ -20745,6 +20757,7 @@
 ||xt33.xtnew.click^
 ||xtnew.xtnew.click^
 ||xtrades.pro^
+||xuanpac.click^
 ||xunkgrape.click^
 ||xunlei.adx.admaster.com.cn^
 ||xutomee4au6.pro^

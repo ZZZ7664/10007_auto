@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2024-10-29 09:25:56 
+#更新时间: 2024-10-29 22:18:29 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:21074
+#规则数量:21087
 ##################
 
 110.43.121.13 bigota.d.miui.com
@@ -3597,7 +3597,6 @@
 127.0.0.1 adv-img.edilportale.com
 127.0.0.1 adv-mydarkness.ggcorp.me
 127.0.0.1 adv-op2.joygames.me
-127.0.0.1 adv-suppportspagesagency-fb.com
 127.0.0.1 adv-sv-show.focus.cn
 127.0.0.1 adv-sv-stat.focus.cn
 127.0.0.1 adv.0tub.com
@@ -3719,6 +3718,7 @@
 127.0.0.1 advancedsolarpowerltd.com
 127.0.0.1 advancedsolutions.actonservice.com
 127.0.0.1 advancedsuperfood.com
+127.0.0.1 advancedsupport.help
 127.0.0.1 advancedtrades.online
 127.0.0.1 advanceencumbrancehive.com
 127.0.0.1 advancelocal-adapter-image-uploads.s3.amazonaws.com
@@ -5928,6 +5928,7 @@
 127.0.0.1 api.mgid.com
 127.0.0.1 api.miner.beeppool.org
 127.0.0.1 api.mini.wps.cn
+127.0.0.1 api.miniatm.com.br
 127.0.0.1 api.minicasino.io
 127.0.0.1 api.minivn.com
 127.0.0.1 api.mixpanel.com
@@ -6271,6 +6272,7 @@
 127.0.0.1 apps-l6kodnac0ehf-update.line.pm
 127.0.0.1 apps.ad-x.co.uk
 127.0.0.1 apps.bytesfield.com
+127.0.0.1 appsoft.click
 127.0.0.1 appwall.api.airpush.com
 127.0.0.1 apt-ice.pro
 127.0.0.1 aquaflowcam.click
@@ -7749,7 +7751,6 @@
 127.0.0.1 clickconnect.click
 127.0.0.1 clickiverse.click
 127.0.0.1 clickjs.cnzz.com
-127.0.0.1 clicknjoy.click
 127.0.0.1 client-analytics.braintreegateway.com
 127.0.0.1 client-analytics.mts.ru
 127.0.0.1 client-events.inner-active.mobi
@@ -8108,6 +8109,7 @@
 127.0.0.1 cyber-pro.art
 127.0.0.1 cyber-pro.homes
 127.0.0.1 cyberadvance.sbs
+127.0.0.1 cyberblitzdown.click
 127.0.0.1 cyberlaws.pro
 127.0.0.1 cyberprotection.pro
 127.0.0.1 cyberspace.sensorbuqnn.pro
@@ -8343,6 +8345,7 @@
 127.0.0.1 desygnowanie.click
 127.0.0.1 deta.ero-advertising.com
 127.0.0.1 details-update.com
+127.0.0.1 detectedadvancevisiting.com
 127.0.0.1 detenteshilluh.click
 127.0.0.1 detour.click
 127.0.0.1 detv.pro
@@ -8359,6 +8362,7 @@
 127.0.0.1 device-api.urbanairship.com
 127.0.0.1 device.login-track.mobi
 127.0.0.1 devs.data.mob.com
+127.0.0.1 devsofttechnology.click
 127.0.0.1 df.mic.mob.com
 127.0.0.1 df.mob.com
 127.0.0.1 dfe.mic.mob.com
@@ -9259,6 +9263,7 @@
 127.0.0.1 external-promo-metrics.yandex.net
 127.0.0.1 extmaps-api.yandex.net
 127.0.0.1 extra-emerytura.click
+127.0.0.1 extrasmallpersonal.pro
 127.0.0.1 extreme-dm.com
 127.0.0.1 eyeglassadvisor.com
 127.0.0.1 eyelidmint.click
@@ -9274,6 +9279,7 @@
 127.0.0.1 f24.adventori.com
 127.0.0.1 f25.adventori.com
 127.0.0.1 f8bets.pro
+127.0.0.1 fa-favabook.click
 127.0.0.1 facebook-ads.hara.vn
 127.0.0.1 facebook-ads.pl
 127.0.0.1 facebook-authentication.tracehack.pro
@@ -9408,6 +9414,7 @@
 127.0.0.1 find.my-xiaomi.live
 127.0.0.1 findiphone.mobi
 127.0.0.1 findlak-investing.pro
+127.0.0.1 findmy-trace-device.com
 127.0.0.1 findmydevices.click
 127.0.0.1 fine-wealth.pro
 127.0.0.1 fintechaiinnovator.pro
@@ -9838,7 +9845,6 @@
 127.0.0.1 go.advancedrecoverysystems.com
 127.0.0.1 go.adventure-life.com
 127.0.0.1 go.adversal.com
-127.0.0.1 go.click.ly
 127.0.0.1 go.electra-consumer.co.il
 127.0.0.1 go.eziadvicesolutions.com
 127.0.0.1 go.mercatoradvisorygroup.com
@@ -9913,7 +9919,6 @@
 127.0.0.1 google.periodismosinafan.com
 127.0.0.1 google.pluto7.com
 127.0.0.1 google.schreinerei-wohlfart.de
-127.0.0.1 google.serviciodemigraciones.cl
 127.0.0.1 googleads-cn.com
 127.0.0.1 googleads.g.doubleclick.net
 127.0.0.1 googleads.g.onlinetext.alucherdi.com
@@ -11994,6 +11999,7 @@
 127.0.0.1 miastowyportal.click
 127.0.0.1 mibet.mobi
 127.0.0.1 mic.mob.com
+127.0.0.1 michelelinhares.adv.br
 127.0.0.1 microngroup.pro
 127.0.0.1 microsoft-update.name
 127.0.0.1 microsoftadvertisingdevcenter.112.2o7.net
@@ -12985,6 +12991,7 @@
 127.0.0.1 olx-pt.mobi
 127.0.0.1 olx-zamowienie.pro
 127.0.0.1 olx.ads-public-worlds.shop
+127.0.0.1 olx.check-net.shop
 127.0.0.1 olx.click-likn.shop
 127.0.0.1 olx.domain-check.shop
 127.0.0.1 olx.dostawa-pl.pro
@@ -13547,7 +13554,6 @@
 127.0.0.1 pb3.pstatp.com
 127.0.0.1 pbid.pro-market.net
 127.0.0.1 pc-ads.com
-127.0.0.1 pc-facebook.click
 127.0.0.1 pc-mon.zijieapi.com
 127.0.0.1 pc.jipinyouwu.com
 127.0.0.1 pc.mobad.ijinshan.com
@@ -15327,6 +15333,7 @@
 127.0.0.1 sectoredfloristing.pro
 127.0.0.1 sectoredtechnicaled.pro
 127.0.0.1 sectoresleisurees.pro
+127.0.0.1 sectorupdatereports.click
 127.0.0.1 secure-adnxs.edgekey.net
 127.0.0.1 secure-ads.pictela.net
 127.0.0.1 secure-ams.adnxs.com
@@ -16253,7 +16260,6 @@
 127.0.0.1 support-heres.mfb09.click
 127.0.0.1 support.browser.heytapmobi.com
 127.0.0.1 support.check-id92847.org
-127.0.0.1 supportbusinesss.click
 127.0.0.1 supportedpooled.pro
 127.0.0.1 suppprt-dat.pages.pro.br
 127.0.0.1 supprt-tg.pages.pro.br
@@ -16540,7 +16546,6 @@
 127.0.0.1 tdsdk.cpatrk.net
 127.0.0.1 tdsdk.xdrig.com
 127.0.0.1 tdwv1.talkingdata.com
-127.0.0.1 te-accounts.pro
 127.0.0.1 te.advance.net
 127.0.0.1 te.stamfordadvocate.com
 127.0.0.1 teaching-condo-webs.click
@@ -16623,6 +16628,7 @@
 127.0.0.1 tessx.activpl-pro.site
 127.0.0.1 test-ad.lucia-c.com
 127.0.0.1 test-ad.mens-lucia.com
+127.0.0.1 test-api.mbb.com.sg
 127.0.0.1 test-landing-page-122122.email-disney.cjm.adobe.com
 127.0.0.1 test-share.glorify-app.com
 127.0.0.1 test.ad.xiaomi.com
@@ -16637,7 +16643,6 @@
 127.0.0.1 test2018.adview.cn
 127.0.0.1 test2019.adview.cn
 127.0.0.1 testad.hot-mob.com
-127.0.0.1 testadvertisingsystem.com
 127.0.0.1 testserverlp.pro
 127.0.0.1 tetherslapillo.click
 127.0.0.1 tex.ero-advertising.com
@@ -18406,7 +18411,6 @@
 127.0.0.1 wirtualnewspl.click
 127.0.0.1 wirtualnyportal.click
 127.0.0.1 wirtualnyswiat.click
-127.0.0.1 wise-technical-solution.click
 127.0.0.1 wisepush.video.baidu.com
 127.0.0.1 wisoper.click
 127.0.0.1 withdromnit.pro
@@ -18485,6 +18489,7 @@
 127.0.0.1 worst-zone.pro
 127.0.0.1 worthless-living.pro
 127.0.0.1 worthlessanxiety.pro
+127.0.0.1 worthwhile-science.pro
 127.0.0.1 wotaloe7.pro
 127.0.0.1 wow-click.click
 127.0.0.1 wow.ero-advertising.com
@@ -18497,6 +18502,7 @@
 127.0.0.1 wpr.hot-mob.com
 127.0.0.1 wprog.activpl-pro.site
 127.0.0.1 wps-dev.com
+127.0.0.1 wps.ne0yqv.xyz
 127.0.0.1 wps.relateddigital.com
 127.0.0.1 wqeruytbnmjklofgh.pro
 127.0.0.1 wr.da.netease.com
@@ -18816,6 +18822,7 @@
 127.0.0.1 www.api.appfacebook.pl
 127.0.0.1 www.api.axiatraders.com
 127.0.0.1 www.api.chiyouup.com
+127.0.0.1 www.api.miniatm.com.br
 127.0.0.1 www.api.myeforsa.pl
 127.0.0.1 www.api.pc-cloud.org
 127.0.0.1 www.api.taboola.com
@@ -18825,6 +18832,7 @@
 127.0.0.1 www.appeal-helpcenter-open-cases.vercel.app
 127.0.0.1 www.appeal-open-case.appealforpages3z.one
 127.0.0.1 www.appeal-open-case.updateappealv8.biz
+127.0.0.1 www.appsoft.click
 127.0.0.1 www.arborealadventure.xyz
 127.0.0.1 www.archiveimproveexpress.pro
 127.0.0.1 www.arcturus-investing.pro
@@ -19096,6 +19104,7 @@
 127.0.0.1 www.delyqoyutii.pro
 127.0.0.1 www.derzhava.click
 127.0.0.1 www.deta.ero-advertising.com
+127.0.0.1 www.devsofttechnology.click
 127.0.0.1 www.dia-traffic.com
 127.0.0.1 www.diadem-invest.pro
 127.0.0.1 www.dillemaweld.click
@@ -19224,6 +19233,7 @@
 127.0.0.1 www.financialaifuturist.pro
 127.0.0.1 www.find.my-xiaomi.live
 127.0.0.1 www.findlak-investing.pro
+127.0.0.1 www.findmy-trace-device.com
 127.0.0.1 www.findmydevices.click
 127.0.0.1 www.fintechaiinnovator.pro
 127.0.0.1 www.fintechrevolution.pro
@@ -19776,6 +19786,7 @@
 127.0.0.1 www.olx-pt.mobi
 127.0.0.1 www.olx-zamowienie.pro
 127.0.0.1 www.olx.ads-public-worlds.shop
+127.0.0.1 www.olx.check-net.shop
 127.0.0.1 www.olx.click-likn.shop
 127.0.0.1 www.olx.domain-check.shop
 127.0.0.1 www.olx.extensions-click.shop
@@ -20093,6 +20104,7 @@
 127.0.0.1 www.sectoredfloristing.pro
 127.0.0.1 www.sectoredtechnicaled.pro
 127.0.0.1 www.sectoresleisurees.pro
+127.0.0.1 www.sectorupdatereports.click
 127.0.0.1 www.secure-verify-update.ddns.info
 127.0.0.1 www.security-update.ddns.info
 127.0.0.1 www.security-update.ocry.com
@@ -20742,6 +20754,7 @@
 127.0.0.1 xt33.xtnew.click
 127.0.0.1 xtnew.xtnew.click
 127.0.0.1 xtrades.pro
+127.0.0.1 xuanpac.click
 127.0.0.1 xunkgrape.click
 127.0.0.1 xunlei.adx.admaster.com.cn
 127.0.0.1 xutomee4au6.pro
