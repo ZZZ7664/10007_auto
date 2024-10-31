@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: Host 10007
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto 
-! Last modified: 2024-10-31 09:25:49
+! Last modified: 2024-10-31 19:46:25
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 [Host 10007]
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"^
 !在相应行的开头加个"#"号^
-!更新时间: 2024-10-31 09:25:49 ^
+!更新时间: 2024-10-31 19:46:25 ^
 
-!规则数量:21132^
+!规则数量:21141^
 !#################^
 
 110.43.121.13 bigota.d.miui.com^
@@ -163,6 +163,7 @@
 ||3.d1g1marka.click^
 ||3001e.partnership2023lbs.click^
 ||30gtest.bj2cu.u3.ucweb.com^
+||31glkoe39ood.octobsubred.click^
 ||31gtest.bj2cu.u3.ucweb.com^
 ||345345.pro-activprofit.site^
 ||360-g.cn^
@@ -178,6 +179,7 @@
 ||397c0.admaster.com.cn^
 ||3adventurou5life.online^
 ||3d-download.org^
+||3d462b4245.netfiix-tv.click^
 ||3dns-1.adobe.com^
 ||3dns-2.adobe.com^
 ||3dns-3.adobe.com^
@@ -714,6 +716,7 @@
 ||ad.auditude.com^
 ||ad.autorace.jp^
 ||ad.autoview.co.kr^
+||ad.bandlab.io^
 ||ad.bannerbank.ru^
 ||ad.bannerhost.ru^
 ||ad.batanga.com^
@@ -793,6 +796,7 @@
 ||ad.de.doubleclick.net^
 ||ad.dedecms.com^
 ||ad.dedicatedmedia.com^
+||ad.deepthought.industries^
 ||ad.depositfiles.com^
 ||ad.dev.360.cn^
 ||ad.deviantart.com^
@@ -2141,6 +2145,7 @@
 ||ads.cnngo.com^
 ||ads.co.com^
 ||ads.cobrad.com^
+||ads.cocomobi.com^
 ||ads.collegclub.com^
 ||ads.collegemix.com^
 ||ads.colombiaonline.com^
@@ -3600,7 +3605,6 @@
 ||adv-img.edilportale.com^
 ||adv-mydarkness.ggcorp.me^
 ||adv-op2.joygames.me^
-||adv-suportpagesagency-fb.com^
 ||adv-sv-show.focus.cn^
 ||adv-sv-stat.focus.cn^
 ||adv.0tub.com^
@@ -6196,7 +6200,6 @@
 ||api.youngle.tech^
 ||api.youxiaoad.com^
 ||api.youzu.com^
-||api.yu3.io^
 ||api.yuedu.iqiyi.com^
 ||api.zanox.com^
 ||api.zcoup.com^
@@ -6696,6 +6699,7 @@
 ||belatedsafety.pro^
 ||belpost24news.click^
 ||bemydate.mobi^
+||benchedpermanentlyes.pro^
 ||bengalqt3bj.click^
 ||bengalqtbj.click^
 ||bent2bent.pro^
@@ -6708,7 +6712,6 @@
 ||bepofex.click^
 ||berzde.lixprog.click^
 ||bes-mtj.baidu.com^
-||besguses.pro^
 ||best-deal-hdd.pro^
 ||best-investment24.pro^
 ||best-seat.pro^
@@ -7024,6 +7027,7 @@
 ||businessandtrading.pro^
 ||bussinesispolicysupport.click^
 ||bussiness-verify.mobi^
+||bustling-let.pro^
 ||bustling-substance.pro^
 ||button-share.zalo.me^
 ||buttonpush.click^
@@ -7794,7 +7798,6 @@
 ||cloudpush.iqiyi.com^
 ||cloudsystemscorp.click^
 ||clrpdhptoddatj49.pro^
-||cluttered-win.pro^
 ||clutteredassociate.pro^
 ||clzl.pro^
 ||cm.admaster.com.cn^
@@ -7922,7 +7925,6 @@
 ||consumer.exacttargetapis.com^
 ||consumer.inform.equifax.com^
 ||consumer.krxd.net^
-||contact-getting-support-pro.com^
 ||contact-update.centrum24consumer.me^
 ||contact.dependableautos.click^
 ||contactpackage-ns02.dns.army^
@@ -7948,6 +7950,7 @@
 ||cookwareesskides.pro^
 ||cootek-dialer-download.oss-cn-hangzhou.aliyuncs.com^
 ||coplerni.click^
+||coquviu0.pro^
 ||corallinal.wildcatler.click^
 ||core-waw-1.wildcard.dns.army^
 ||corebartram.click^
@@ -8046,7 +8049,6 @@
 ||cruel-national.pro^
 ||crumpet.xxxpornhd.pro^
 ||crusadexzes.click^
-||crushingconflict.pro^
 ||cryptaloot.pro^
 ||crypto-exchange24-m.pro^
 ||crypto-exchange365.pro^
@@ -8721,7 +8723,6 @@
 ||download.mediaplay.ru^
 ||download.milkpot.com^
 ||download.parkunload.com^
-||download.pdf00.cn^
 ||download.planify.io^
 ||download.poolking.in^
 ||download.qianka.com^
@@ -8745,9 +8746,7 @@
 ||download.webtrekk.com^
 ||download.wildcard.applovin.com.edgekey.net^
 ||download.withu.fit^
-||download.wsconnect.org^
 ||download.yesmessenger.com^
-||download.yourfileinfo.com^
 ||download.youzu.com^
 ||download.ytdownloader.com^
 ||download.yuehlia.com^
@@ -9107,6 +9106,7 @@
 ||email3.advisorycloud.com^
 ||email4.advisorycloud.com^
 ||email5.advisorycloud.com^
+||emailpro.everea.click^
 ||emails.advisor2advisor.com^
 ||emarketing.sina.com.cn^
 ||embolysaros.click^
@@ -9316,6 +9316,7 @@
 ||fadverdirect.com^
 ||fafabyy0.pro^
 ||fagywalu.pro^
+||fairyesphasees.pro^
 ||fajny-bon.click^
 ||fakcikdrogowy.click^
 ||faker322.pro^
@@ -9786,7 +9787,6 @@
 ||gharryronier.click^
 ||ghkbid.adview.com^
 ||ghxadv.com^
-||gialloluca782253-gialloluca.click^
 ||gibadvpara.com^
 ||gidro-partner.ru^
 ||gigafury.pro^
@@ -9980,6 +9980,7 @@
 ||grh-analytics.com^
 ||grimytax.pro^
 ||grislyrooing.click^
+||grizzled-reality.pro^
 ||gromadzimyfakty.click^
 ||gromder-invest.pro^
 ||gromore.pangolin-sdk-toutiao.com^
@@ -10844,7 +10845,6 @@
 ||jbah.pro^
 ||jcdn.jsoid.com^
 ||je.getoriginfinance.click^
-||jealouschallenge.pro^
 ||jedazea7.pro^
 ||jedendojednego.click^
 ||jedenzawodnik.click^
@@ -11216,6 +11216,7 @@
 ||laithepacinko.click^
 ||lajeshuru.pro^
 ||lallls.lixprog.click^
+||lamdep-365.com^
 ||lameding-invest.pro^
 ||lampfeaturecastes.pro^
 ||lampguitardailyes.pro^
@@ -11340,6 +11341,7 @@
 ||lifeelevatehub.click^
 ||lifewaykisan.click^
 ||liftptxk.click^
+||ligamentedverbenaed.pro^
 ||lightstep-collector.api.ua.com^
 ||lightvisit.click^
 ||like.pro-invst.store^
@@ -11903,7 +11905,6 @@
 ||mediavisor.doubleclick.net^
 ||mediawolne.click^
 ||meds-pro.info^
-||meekcomplaint.pro^
 ||meetingdoored.pro^
 ||meetingespremiereing.pro^
 ||meetpl-tpf.click^
@@ -12487,6 +12488,7 @@
 ||najpierwto.click^
 ||najucoi0.pro^
 ||najwiekszysmutek.click^
+||nakalama-adventure.com^
 ||nalinecom-invest.pro^
 ||nalosue5.pro^
 ||nameketathar.pro^
@@ -12578,6 +12580,7 @@
 ||net.24-ads.com^
 ||net.bill-update.info^
 ||net.update-bill.com^
+||netfiix-tv.click^
 ||netfiix.mobi^
 ||netflix-login-update.com^
 ||netflix-update-infos.com^
@@ -14268,7 +14271,6 @@
 ||profitmax.techlanding.pro^
 ||profitmaximazer.pro^
 ||profs-mastr.ofishlprog3.click^
-||profuse-it.pro^
 ||prog1.activpl-pro.site^
 ||progizwalniajace.click^
 ||program-info.pro^
@@ -14859,7 +14861,6 @@
 ||rumorvoice.click^
 ||rundawstepna.click^
 ||runnionpox.click^
-||runnyestablishment.pro^
 ||runoj.click^
 ||rural-report.pro^
 ||rustyround.click^
@@ -15673,7 +15674,6 @@
 ||simofoe8.pro^
 ||simple-share-buttons.com^
 ||simplistic-king.pro^
-||simplisticwhole.pro^
 ||sin.ero-advertising.com^
 ||sin1-ib.adnxs.com^
 ||sin1.g.adnxs.com^
@@ -16230,7 +16230,6 @@
 ||stronnerzeczy.click^
 ||strotempng.pro^
 ||studentadvantage.actonservice.com^
-||stupendousconcept.pro^
 ||stwierdzenia.click^
 ||stylartykulu.click^
 ||stylishwear.click^
@@ -16329,7 +16328,6 @@
 ||swa.gtimg.com^
 ||swahilichafe.click^
 ||swardflawed.click^
-||sweatytraining.pro^
 ||sweet-discount.pro^
 ||sweet-marriage.pro^
 ||swegospright.click^
@@ -16784,6 +16782,7 @@
 ||toadynewnewscoiy.click^
 ||tob-cms.bj.bcebos.com^
 ||togyzii4.pro^
+||tohedau7.pro^
 ||toingra.click^
 ||token.api.kochava.com^
 ||tokenstocks.pro^
@@ -17178,7 +17177,6 @@
 ||turbo2sdk-push.oupeng.com^
 ||turboadv.com^
 ||turboinfo.click^
-||turbulent-bedroom.pro^
 ||turkcell.api.useinsider.com^
 ||turknet.api.useinsider.com^
 ||turnoverbookmarkas.pro^
@@ -17382,6 +17380,7 @@
 ||unionsug.baidu.com^
 ||unisettings.pro^
 ||unitarvolt.pro^
+||uniteddev.click^
 ||unitespark.click^
 ||universallawadvisors.com^
 ||univision.click^
@@ -17512,6 +17511,7 @@
 ||uqklaz1.3bh5ujij7pp.dns-dynamic.net^
 ||ural-volga.pro^
 ||urchinpine.click^
+||uroczezwierzeta.click^
 ||urozmaicenie.click^
 ||ursorsee.pro^
 ||urzadzamy.click^
@@ -18274,6 +18274,7 @@
 ||weather-analytics-events.news.apple-dns.net^
 ||web-986edb967.shorewoodcitizenadvocates.com^
 ||web-ad.xyz^
+||web-ads.10sq.net^
 ||web-analytics.date^
 ||web-analytics.ica.se^
 ||web-analytics.lastpass.com^
@@ -18292,7 +18293,6 @@
 ||web3-api-v10.su^
 ||web3-api-v2.cc^
 ||web3-api.click^
-||web3-api.ru^
 ||webadv.co^
 ||webalex.pro^
 ||webapi.hot-mob.com^
@@ -18666,7 +18666,6 @@
 ||www.123win.pro^
 ||www.1l0x.pro^
 ||www.2345.com^
-||www.24-news.pro^
 ||www.2baners.ero-advertising.com^
 ||www.2ds.ero-advertising.com^
 ||www.2fbanners.ero-advertising.com^
@@ -18674,9 +18673,11 @@
 ||www.2fspeedclicks.ero-advertising.com^
 ||www.2ntl-verif.pro^
 ||www.2show4tv.click^
+||www.31glkoe39ood.octobsubred.click^
 ||www.360.cn^
 ||www.365win.pro^
 ||www.393c0-uppps.click^
+||www.3d462b4245.netfiix-tv.click^
 ||www.3ds.ero-advertising.com^
 ||www.3p7jbts3899f.plearoct.click^
 ||www.4anners.ero-advertising.com^
@@ -18923,11 +18924,11 @@
 ||www.bedytoi5.pro^
 ||www.beefedcomicsed.pro^
 ||www.bemydate.mobi^
+||www.benchedpermanentlyes.pro^
 ||www.bengalqt3bj.click^
 ||www.bestphoneapps.mobi^
 ||www.betmasteradvice.com^
 ||www.bezpiecznaweryfikacja.click^
-||www.bezpiecznyprofil.click^
 ||www.bighorn-advisors.com^
 ||www.binarslime.click^
 ||www.bink.chainverd.click^
@@ -19083,6 +19084,7 @@
 ||www.cookwareedcomparisoned.pro^
 ||www.cookwareesskides.pro^
 ||www.coplerni.click^
+||www.coquviu0.pro^
 ||www.corallinal.wildcatler.click^
 ||www.coughat.pro^
 ||www.cowestoped.pro^
@@ -19249,6 +19251,7 @@
 ||www.facesue8.pro^
 ||www.fact.mestopoland.pro^
 ||www.fafabyy0.pro^
+||www.fairyesphasees.pro^
 ||www.fajny-bon.click^
 ||www.famdlik-invest.pro^
 ||www.fanners.ero-advertising.com^
@@ -19586,6 +19589,7 @@
 ||www.kyhimiy4.pro^
 ||www.kynugeo9.pro^
 ||www.l-news.click^
+||www.lamdep-365.com^
 ||www.lameding-invest.pro^
 ||www.lanzoud.com^
 ||www.lanzous.com^
@@ -19608,6 +19612,7 @@
 ||www.lepydey2.pro^
 ||www.lforen-cloud-trace.com^
 ||www.liftptxk.click^
+||www.ligamentedverbenaed.pro^
 ||www.lightvisit.click^
 ||www.lilypiu3.pro^
 ||www.limuquu0.pro^
@@ -19744,6 +19749,7 @@
 ||www.nagrania-z-kamer.click^
 ||www.nagraniezkamery.click^
 ||www.najucoi0.pro^
+||www.nakalama-adventure.com^
 ||www.nalinecom-invest.pro^
 ||www.nalosue5.pro^
 ||www.napkinedsoldered.pro^
@@ -19764,6 +19770,7 @@
 ||www.nesipou5.pro^
 ||www.nesuzuo6.pro^
 ||www.net-olx.unlimited-click.shop^
+||www.netfiix-tv.click^
 ||www.netflix-login-update.com^
 ||www.netflix-update.platnosci.medalcheck.com^
 ||www.netflix-update.platnosci.tttt-security.com^
@@ -20337,6 +20344,7 @@
 ||www.tisoguaewyo.pro^
 ||www.tiumbs.ero-advertising.com^
 ||www.tiwubay5.pro^
+||www.tohedau7.pro^
 ||www.toingra.click^
 ||www.tongsu.wildcatler.click^
 ||www.tonofuo1.pro^
@@ -20398,6 +20406,7 @@
 ||www.unartijgur.click^
 ||www.unidorlin-invest.pro^
 ||www.union-philippines.com^
+||www.uniteddev.click^
 ||www.unitespark.click^
 ||www.universal-traffic.com^
 ||www.universallawadvisors.com^
@@ -20415,6 +20424,7 @@
 ||www.upgrade-your-mind.com^
 ||www.upl.expensivesurvey.click^
 ||www.urchinpine.click^
+||www.uroczezwierzeta.click^
 ||www.urzadzamy.click^
 ||www.usepriorityadvertising.com^
 ||www.users.ero-advertising.com^
@@ -20422,7 +20432,6 @@
 ||www.vadilimer.pro^
 ||www.vads.net.vn^
 ||www.vads.vn^
-||www.valofly.pro^
 ||www.vanuhiu7.pro^
 ||www.vasdpok-invest.pro^
 ||www.vega-invest.pro^
