@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2024-11-01 09:38:33 
+#更新时间: 2024-11-01 22:17:28 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:21175
+#规则数量:21190
 ##################
 
 110.43.121.13 bigota.d.miui.com
@@ -382,7 +382,6 @@
 127.0.0.1 acclog002.shop-pro.jp
 127.0.0.1 account.1192360.sitamet.click
 127.0.0.1 account.coordinatoins.click
-127.0.0.1 accounts-google.shop
 127.0.0.1 accounts.doubleclick.net
 127.0.0.1 accounts.winniing.click
 127.0.0.1 accscdn.m.taobao.com
@@ -946,6 +945,7 @@
 127.0.0.1 ad.insight.a-i-ad.com
 127.0.0.1 ad.insightexpress.com
 127.0.0.1 ad.insightexpressai.com
+127.0.0.1 ad.inston.ltd
 127.0.0.1 ad.inter-edu.com
 127.0.0.1 ad.intl.xiaomi.com
 127.0.0.1 ad.ipadview.com
@@ -2022,6 +2022,7 @@
 127.0.0.1 ads.beliefnet.com
 127.0.0.1 ads.belointeractive.com
 127.0.0.1 ads.betfair.com
+127.0.0.1 ads.bethard.com
 127.0.0.1 ads.betsafe.com
 127.0.0.1 ads.betweendigital.com
 127.0.0.1 ads.bfast.com
@@ -6471,7 +6472,6 @@
 127.0.0.1 baiducdncmn3.inter.iqiyi.com
 127.0.0.1 baiducom.bj.bcebos.com
 127.0.0.1 baifen.music.baidu.com
-127.0.0.1 bakdiba8.pivldo.pro
 127.0.0.1 balansartykulu.click
 127.0.0.1 balderspeckle.click
 127.0.0.1 baliadv.com
@@ -6697,6 +6697,7 @@
 127.0.0.1 belpost24news.click
 127.0.0.1 bemydate.mobi
 127.0.0.1 benchedpermanentlyes.pro
+127.0.0.1 benchingpermanentlying.pro
 127.0.0.1 bengalqt3bj.click
 127.0.0.1 bengalqtbj.click
 127.0.0.1 bent2bent.pro
@@ -7520,7 +7521,6 @@
 127.0.0.1 ckxxbao.com
 127.0.0.1 cl-997764a8.gcdn.co
 127.0.0.1 cl-ad.x-flow.app
-127.0.0.1 claim-oat.pro
 127.0.0.1 clanpasta.click
 127.0.0.1 clara.enlineaprestamo.click
 127.0.0.1 classicguarantee.pro
@@ -7954,6 +7954,7 @@
 127.0.0.1 corebug.adsame.com
 127.0.0.1 corp-downloads.com
 127.0.0.1 corp-github.com
+127.0.0.1 corp-karmine.com
 127.0.0.1 corp-sg.com
 127.0.0.1 corp.eulerian.com
 127.0.0.1 corp.eulerian.eu
@@ -8327,6 +8328,7 @@
 127.0.0.1 delfsrld.click
 127.0.0.1 delicious-slip.pro
 127.0.0.1 delightful-page.pro
+127.0.0.1 delightfulmachine.pro
 127.0.0.1 delikatnyruch.click
 127.0.0.1 deliver.ads2.iid.jp
 127.0.0.1 deliver.ads3.iid.jp
@@ -8354,6 +8356,7 @@
 127.0.0.1 dephospimtic.pro
 127.0.0.1 depmashine.inventnamb.click
 127.0.0.1 derzhava.click
+127.0.0.1 descargassdownloadmx.pro
 127.0.0.1 descriptivetitle.pro
 127.0.0.1 designer.dynamic-dns.net
 127.0.0.1 destinia-ad.eulerian.net
@@ -8693,6 +8696,7 @@
 127.0.0.1 download.createyournextcustomer.com
 127.0.0.1 download.dackinc.com
 127.0.0.1 download.dnv.com
+127.0.0.1 download.ebnays.xyz
 127.0.0.1 download.file.co.pl
 127.0.0.1 download.filmfanatic.com
 127.0.0.1 download.forfreeminecraft.com
@@ -9095,7 +9099,6 @@
 127.0.0.1 email.aceleration.click
 127.0.0.1 email.atachment.click
 127.0.0.1 email.authenticatoin.click
-127.0.0.1 email.durben.click
 127.0.0.1 email.molly-9982.pro
 127.0.0.1 email.standerd.click
 127.0.0.1 email1.advisorycloud.com
@@ -9122,6 +9125,7 @@
 127.0.0.1 enchantedechoescam.click
 127.0.0.1 enchantedevergreen.click
 127.0.0.1 encom-corp.com
+127.0.0.1 endesa.click
 127.0.0.1 energydrinkadverts.com
 127.0.0.1 energymovethat.click
 127.0.0.1 engine.4chan-ads.org
@@ -9293,7 +9297,6 @@
 127.0.0.1 f24.adventori.com
 127.0.0.1 f25.adventori.com
 127.0.0.1 f8bets.pro
-127.0.0.1 fa-favabook.click
 127.0.0.1 facebook-ads.hara.vn
 127.0.0.1 facebook-ads.pl
 127.0.0.1 facebook-authentication.tracehack.pro
@@ -9303,6 +9306,7 @@
 127.0.0.1 facebookvn.click
 127.0.0.1 faceit.bitaccept.pro
 127.0.0.1 faceit.eloconnect.pro
+127.0.0.1 faceit.live-elo.pro
 127.0.0.1 faceit.moonupaccept.pro
 127.0.0.1 faceit.moonupteam.pro
 127.0.0.1 faceit.starsbyte.pro
@@ -9741,6 +9745,7 @@
 127.0.0.1 gen.alicdn.com
 127.0.0.1 genericliards.click
 127.0.0.1 genishury.pro
+127.0.0.1 gentleedphasees.pro
 127.0.0.1 geo.adobe.com
 127.0.0.1 geo.ads.audio.thisisdax.com
 127.0.0.1 geo.flurry.com
@@ -10906,6 +10911,7 @@
 127.0.0.1 jp3adv-cdn.goldspotmedia.com
 127.0.0.1 jpaasne.e.shifen.com
 127.0.0.1 jpchnews32.click
+127.0.0.1 jqk-facebook.click
 127.0.0.1 jqmt.qq.com
 127.0.0.1 jquery-uim.download
 127.0.0.1 jr.ads.zalo.me
@@ -12613,6 +12619,7 @@
 127.0.0.1 newllp.everadpro.click
 127.0.0.1 newpappal2.interfoxprog.click
 127.0.0.1 newpappal3.interfoxprog.click
+127.0.0.1 newpol.pro
 127.0.0.1 news-flash.net
 127.0.0.1 news-l.play.aiseet.atianqi.com
 127.0.0.1 news-l.play.cp81.ott.cibntv.net
@@ -12902,6 +12909,7 @@
 127.0.0.1 of.open-sooursee.live
 127.0.0.1 ofeetles.pro
 127.0.0.1 oferujemypomoc.click
+127.0.0.1 offer-update.com
 127.0.0.1 offergate.pro
 127.0.0.1 offerwall.yandex.net
 127.0.0.1 office.ad1.ru
@@ -12910,6 +12918,7 @@
 127.0.0.1 officeingfloristing.pro
 127.0.0.1 officeingservees.pro
 127.0.0.1 offline-adv.oray.com
+127.0.0.1 offline.deliverys.click
 127.0.0.1 offmsg.umeng.com
 127.0.0.1 ofiaryporwan.click
 127.0.0.1 ofiarywypadkow.click
@@ -18922,6 +18931,7 @@
 127.0.0.1 www.beefedcomicsed.pro
 127.0.0.1 www.bemydate.mobi
 127.0.0.1 www.benchedpermanentlyes.pro
+127.0.0.1 www.benchingpermanentlying.pro
 127.0.0.1 www.bengalqt3bj.click
 127.0.0.1 www.bestphoneapps.mobi
 127.0.0.1 www.betmasteradvice.com
@@ -19083,6 +19093,7 @@
 127.0.0.1 www.coplerni.click
 127.0.0.1 www.coquviu0.pro
 127.0.0.1 www.corallinal.wildcatler.click
+127.0.0.1 www.corp-karmine.com
 127.0.0.1 www.coughat.pro
 127.0.0.1 www.cowestoped.pro
 127.0.0.1 www.cowslipcornflowercowslip.pro
@@ -19244,6 +19255,7 @@
 127.0.0.1 www.expressimproveleading.pro
 127.0.0.1 www.extreme-dm.com
 127.0.0.1 www.facebook-ads.pl
+127.0.0.1 www.faceit.live-elo.pro
 127.0.0.1 www.faceit.starsbyte.pro
 127.0.0.1 www.facesue8.pro
 127.0.0.1 www.fact.mestopoland.pro
@@ -19340,6 +19352,7 @@
 127.0.0.1 www.gdfybitinok.click
 127.0.0.1 www.gegotiikuu.pro
 127.0.0.1 www.gegoxei6.pro
+127.0.0.1 www.gentleedphasees.pro
 127.0.0.1 www.geometryedcobblees.pro
 127.0.0.1 www.geometryesdaringing.pro
 127.0.0.1 www.geometryespillowed.pro
@@ -19773,6 +19786,7 @@
 127.0.0.1 www.netflix-update.platnosci.tttt-security.com
 127.0.0.1 www.newbiznest.click
 127.0.0.1 www.newjokemer.click
+127.0.0.1 www.newpol.pro
 127.0.0.1 www.newsbesl.click
 127.0.0.1 www.newsgazeta.click
 127.0.0.1 www.newspolska.click
@@ -19814,8 +19828,10 @@
 127.0.0.1 www.occupyteam.click
 127.0.0.1 www.odlotowy-bon.click
 127.0.0.1 www.odnajdzmydziecko.click
+127.0.0.1 www.offer-update.com
 127.0.0.1 www.officeingfloristing.pro
 127.0.0.1 www.officeingservees.pro
+127.0.0.1 www.offline.deliverys.click
 127.0.0.1 www.oistatniarundka.click
 127.0.0.1 www.okolicznewiesci.click
 127.0.0.1 www.oksioninvest.pro
@@ -19843,7 +19859,6 @@
 127.0.0.1 www.olx.pl.dostawa.pro
 127.0.0.1 www.olx.pro-redirect.shop
 127.0.0.1 www.olx.share-domain.shop
-127.0.0.1 www.omniva-ee.click
 127.0.0.1 www.onel-pol.click
 127.0.0.1 www.onet-news.click
 127.0.0.1 www.online.detailings.click

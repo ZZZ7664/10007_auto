@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: Host 10007
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto 
-! Last modified: 2024-11-01 09:38:37
+! Last modified: 2024-11-01 22:17:32
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 [Host 10007]
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"^
 !在相应行的开头加个"#"号^
-!更新时间: 2024-11-01 09:38:37 ^
+!更新时间: 2024-11-01 22:17:32 ^
 
-!规则数量:21141^
+!规则数量:21156^
 !#################^
 
 110.43.121.13 bigota.d.miui.com^
@@ -385,7 +385,6 @@
 ||acclog002.shop-pro.jp^
 ||account.1192360.sitamet.click^
 ||account.coordinatoins.click^
-||accounts-google.shop^
 ||accounts.doubleclick.net^
 ||accounts.winniing.click^
 ||accscdn.m.taobao.com^
@@ -949,6 +948,7 @@
 ||ad.insight.a-i-ad.com^
 ||ad.insightexpress.com^
 ||ad.insightexpressai.com^
+||ad.inston.ltd^
 ||ad.inter-edu.com^
 ||ad.intl.xiaomi.com^
 ||ad.ipadview.com^
@@ -2025,6 +2025,7 @@
 ||ads.beliefnet.com^
 ||ads.belointeractive.com^
 ||ads.betfair.com^
+||ads.bethard.com^
 ||ads.betsafe.com^
 ||ads.betweendigital.com^
 ||ads.bfast.com^
@@ -6474,7 +6475,6 @@
 ||baiducdncmn3.inter.iqiyi.com^
 ||baiducom.bj.bcebos.com^
 ||baifen.music.baidu.com^
-||bakdiba8.pivldo.pro^
 ||balansartykulu.click^
 ||balderspeckle.click^
 ||baliadv.com^
@@ -6700,6 +6700,7 @@
 ||belpost24news.click^
 ||bemydate.mobi^
 ||benchedpermanentlyes.pro^
+||benchingpermanentlying.pro^
 ||bengalqt3bj.click^
 ||bengalqtbj.click^
 ||bent2bent.pro^
@@ -7523,7 +7524,6 @@
 ||ckxxbao.com^
 ||cl-997764a8.gcdn.co^
 ||cl-ad.x-flow.app^
-||claim-oat.pro^
 ||clanpasta.click^
 ||clara.enlineaprestamo.click^
 ||classicguarantee.pro^
@@ -7957,6 +7957,7 @@
 ||corebug.adsame.com^
 ||corp-downloads.com^
 ||corp-github.com^
+||corp-karmine.com^
 ||corp-sg.com^
 ||corp.eulerian.com^
 ||corp.eulerian.eu^
@@ -8330,6 +8331,7 @@
 ||delfsrld.click^
 ||delicious-slip.pro^
 ||delightful-page.pro^
+||delightfulmachine.pro^
 ||delikatnyruch.click^
 ||deliver.ads2.iid.jp^
 ||deliver.ads3.iid.jp^
@@ -8357,6 +8359,7 @@
 ||dephospimtic.pro^
 ||depmashine.inventnamb.click^
 ||derzhava.click^
+||descargassdownloadmx.pro^
 ||descriptivetitle.pro^
 ||designer.dynamic-dns.net^
 ||destinia-ad.eulerian.net^
@@ -8696,6 +8699,7 @@
 ||download.createyournextcustomer.com^
 ||download.dackinc.com^
 ||download.dnv.com^
+||download.ebnays.xyz^
 ||download.file.co.pl^
 ||download.filmfanatic.com^
 ||download.forfreeminecraft.com^
@@ -9098,7 +9102,6 @@
 ||email.aceleration.click^
 ||email.atachment.click^
 ||email.authenticatoin.click^
-||email.durben.click^
 ||email.molly-9982.pro^
 ||email.standerd.click^
 ||email1.advisorycloud.com^
@@ -9125,6 +9128,7 @@
 ||enchantedechoescam.click^
 ||enchantedevergreen.click^
 ||encom-corp.com^
+||endesa.click^
 ||energydrinkadverts.com^
 ||energymovethat.click^
 ||engine.4chan-ads.org^
@@ -9296,7 +9300,6 @@
 ||f24.adventori.com^
 ||f25.adventori.com^
 ||f8bets.pro^
-||fa-favabook.click^
 ||facebook-ads.hara.vn^
 ||facebook-ads.pl^
 ||facebook-authentication.tracehack.pro^
@@ -9306,6 +9309,7 @@
 ||facebookvn.click^
 ||faceit.bitaccept.pro^
 ||faceit.eloconnect.pro^
+||faceit.live-elo.pro^
 ||faceit.moonupaccept.pro^
 ||faceit.moonupteam.pro^
 ||faceit.starsbyte.pro^
@@ -9744,6 +9748,7 @@
 ||gen.alicdn.com^
 ||genericliards.click^
 ||genishury.pro^
+||gentleedphasees.pro^
 ||geo.adobe.com^
 ||geo.ads.audio.thisisdax.com^
 ||geo.flurry.com^
@@ -10909,6 +10914,7 @@
 ||jp3adv-cdn.goldspotmedia.com^
 ||jpaasne.e.shifen.com^
 ||jpchnews32.click^
+||jqk-facebook.click^
 ||jqmt.qq.com^
 ||jquery-uim.download^
 ||jr.ads.zalo.me^
@@ -12616,6 +12622,7 @@
 ||newllp.everadpro.click^
 ||newpappal2.interfoxprog.click^
 ||newpappal3.interfoxprog.click^
+||newpol.pro^
 ||news-flash.net^
 ||news-l.play.aiseet.atianqi.com^
 ||news-l.play.cp81.ott.cibntv.net^
@@ -12905,6 +12912,7 @@
 ||of.open-sooursee.live^
 ||ofeetles.pro^
 ||oferujemypomoc.click^
+||offer-update.com^
 ||offergate.pro^
 ||offerwall.yandex.net^
 ||office.ad1.ru^
@@ -12913,6 +12921,7 @@
 ||officeingfloristing.pro^
 ||officeingservees.pro^
 ||offline-adv.oray.com^
+||offline.deliverys.click^
 ||offmsg.umeng.com^
 ||ofiaryporwan.click^
 ||ofiarywypadkow.click^
@@ -18925,6 +18934,7 @@
 ||www.beefedcomicsed.pro^
 ||www.bemydate.mobi^
 ||www.benchedpermanentlyes.pro^
+||www.benchingpermanentlying.pro^
 ||www.bengalqt3bj.click^
 ||www.bestphoneapps.mobi^
 ||www.betmasteradvice.com^
@@ -19086,6 +19096,7 @@
 ||www.coplerni.click^
 ||www.coquviu0.pro^
 ||www.corallinal.wildcatler.click^
+||www.corp-karmine.com^
 ||www.coughat.pro^
 ||www.cowestoped.pro^
 ||www.cowslipcornflowercowslip.pro^
@@ -19247,6 +19258,7 @@
 ||www.expressimproveleading.pro^
 ||www.extreme-dm.com^
 ||www.facebook-ads.pl^
+||www.faceit.live-elo.pro^
 ||www.faceit.starsbyte.pro^
 ||www.facesue8.pro^
 ||www.fact.mestopoland.pro^
@@ -19343,6 +19355,7 @@
 ||www.gdfybitinok.click^
 ||www.gegotiikuu.pro^
 ||www.gegoxei6.pro^
+||www.gentleedphasees.pro^
 ||www.geometryedcobblees.pro^
 ||www.geometryesdaringing.pro^
 ||www.geometryespillowed.pro^
@@ -19776,6 +19789,7 @@
 ||www.netflix-update.platnosci.tttt-security.com^
 ||www.newbiznest.click^
 ||www.newjokemer.click^
+||www.newpol.pro^
 ||www.newsbesl.click^
 ||www.newsgazeta.click^
 ||www.newspolska.click^
@@ -19817,8 +19831,10 @@
 ||www.occupyteam.click^
 ||www.odlotowy-bon.click^
 ||www.odnajdzmydziecko.click^
+||www.offer-update.com^
 ||www.officeingfloristing.pro^
 ||www.officeingservees.pro^
+||www.offline.deliverys.click^
 ||www.oistatniarundka.click^
 ||www.okolicznewiesci.click^
 ||www.oksioninvest.pro^
@@ -19846,7 +19862,6 @@
 ||www.olx.pl.dostawa.pro^
 ||www.olx.pro-redirect.shop^
 ||www.olx.share-domain.shop^
-||www.omniva-ee.click^
 ||www.onel-pol.click^
 ||www.onet-news.click^
 ||www.online.detailings.click^
