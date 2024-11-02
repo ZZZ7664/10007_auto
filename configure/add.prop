@@ -315,6 +315,17 @@
 ! 百度手机广告
 @@||ecmb.bdimg.com^$document
 @@||ecma.bdimg.com^$document
+! 百度手机输入法
+@@||udpolimenew.baidu.com^$document
+@@||mime.baidu.com^$document
+#淘宝
+@@||amdc.m.taobao.com^$document
+@@||click.mz.simba.taobao.com^$document
+@@||s.click.taobao.com^$document
+@@||eco.taobao.com^$document
+@@||err.taobao.com^$document
+@@||tunion-api.m.taobao.com^$document
+@@||zconfig.alibabausercontent.com^$document
 
 
 ! 添加一些规则
