@@ -20,6 +20,7 @@
 #爱奇艺、腾讯视频
 ^127.0.0.1[[:space:]]mdevstat.qqlive.qq.com$
 ^127.0.0.1[[:space:]]t7z.cupid.iqiyi.com$
+^127.0.0.1[[:space:]]msg.video.qiyi.com$
 #抖音小程序、今日头条搜索
 ^127.0.0.1[[:space:]]is.snssdk.com$
 ^127.0.0.1[[:space:]]i[a-z].snssdk.com$
@@ -238,6 +239,8 @@
 ^127.0.0.1[[:space:]]data.mistat.xiaomi.com$
 #部分设备的小米云服务
 ^127.0.0.1[[:space:]]api.g.micloud.xiaomi.net$
+#小米云备份
+#^127.0.0.1[[:space:]]a0.app.xiaomi.com$
 #QQ浏览器插件误杀
 ^127.0.0.1[[:space:]]tbsone.imtt.qq.com$
 #UC浏览器网盘
@@ -296,7 +299,17 @@
 #百度手机广告
 ^127.0.0.1[[:space:]]ecmb.bdimg.com$
 ^127.0.0.1[[:space:]]ecma.bdimg.com$
-
+#百度手机输入法
+^127.0.0.1[[:space:]]udpolimenew.baidu.com$
+^127.0.0.1[[:space:]]mime.baidu.com$
+#淘宝
+^127.0.0.1[[:space:]]amdc.m.taobao.com$
+^127.0.0.1[[:space:]]click.mz.simba.taobao.com$
+^127.0.0.1[[:space:]]s.click.taobao.com$
+^127.0.0.1[[:space:]]eco.taobao.com$
+^127.0.0.1[[:space:]]err.taobao.com$
+^127.0.0.1[[:space:]]tunion-api.m.taobao.com$
+^127.0.0.1[[:space:]]zconfig.alibabausercontent.com$
 
 
 #放到iptables屏蔽的域名
